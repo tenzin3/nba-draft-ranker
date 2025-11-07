@@ -2,3 +2,4 @@ pandas
 requests
 nba_api
 urllib3<2
+tqdm
