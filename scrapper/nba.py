@@ -1,14 +1,19 @@
 from pathlib import Path 
 from tqdm import tqdm
-from nba_api.stats.endpoints import drafthistory
+from nba_api.stats.endpoints import drafthistory, draftcombinestats
+
 
 DRAFT_DIR = Path("drafts")
 DRAFT_DIR.mkdir(exist_ok=True)
 
+DRAFT_COMBINE_DIR = Path("draft_combine")
+DRAFT_COMBINE_DIR.mkdir(exist_ok=True)
+
 
 class Srapper:
-    def __init__(self, draft_dir:Path = DRAFT_DIR):
+    def __init__(self, draft_dir:Path = DRAFT_DIR, draft_combine_dir:Path = DRAFT_COMBINE_DIR):
         self.draft_dir = draft_dir
+        self.draft_combine_dir = draft_combine_dir
 
     def scrap_draft(self, year:int):
         # nba_api expects a string year via season_year_nullable
@@ -20,12 +25,15 @@ class Srapper:
             df = self.scrap(year)
             df.to_csv(self.draft_dir / f"draft_{year}.csv", index=False)
 
-    def scrap_draft_combine(self):
-        pass 
+    def scrap_draft_combine(self, year:int):
+        draft_combine = draftcombinestats.DraftCombineStats(season_all_time=str(year))
+        return draft_combine.get_data_frames()[0]
 
     def scrap_all_draft_combine(self):
-        pass 
+        for year in tqdm(range(2016, 2026), desc="Scraping drafts History"):
+            df = self.scrap_draft_combine(year)
+            df.to_csv(self.draft_combine_dir / f"draft_combine_{year}.csv", index=False)
 
 if __name__ == "__main__":
     scraper = Srapper()
-    scraper.scrap_all_drafts()
+    scraper.scrap_all_draft_combine()
