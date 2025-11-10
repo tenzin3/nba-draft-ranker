@@ -1,0 +1,19 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2001-02,21,WAS,NBA,SF,30,3,343,.453,.481,.286,.474,.733,.518,.316,.147,102,103,81,99,97,99,108,81,-0.7,-0.6,
+2002-03,22,WAS,NBA,SG,36,2,378,.393,.411,.000,.393,.914,.471,.313,.045,89,89,0,83,121,91,103,25,-18.1,-12.3,
+2003-04,23,LAC,NBA,SF,56,8,1376,.394,.402,.167,.397,.834,.488,.453,.032,90,87,48,84,111,95,149,17,-55.4,-24.8,
+2004-05,24,LAC,NBA,SF,75,74,2799,.466,.470,.435,.491,.846,.540,.268,.113,104,100,122,102,112,102,83,58,16.9,25.0,MIP-1
+2005-06,25,MIL,NBA,SF,75,74,2538,.453,.468,.420,.518,.825,.559,.248,.309,100,98,117,106,111,104,74,153,45.2,42.2,
+2006-07,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2007-08,27,MIL,NBA,SF,70,21,1521,.421,.458,.351,.482,.757,.504,.141,.345,92,95,97,97,100,93,46,155,-15.4,-38.2,
+2008-09,28,NJN,NBA,SF,71,44,1729,.449,.453,.447,.582,.741,.596,.132,.594,98,93,122,116,96,109,43,265,72.2,48.1,
+2009-10,29,NJN,NBA,PF,23,2,395,.359,.407,.317,.444,.900,.485,.171,.538,78,83,90,89,119,89,57,243,-13.2,-14.6,
+2010-11,30,SAS,NBA,SF,2,0,16,.000,,.000,.000,,.000,.000,1.000,0,,0,0,,0,0,451,-3.0,-3.2,
+2011-12,31,LAC,NBA,SF,28,0,418,.311,.267,.333,.422,.571,.430,.078,.667,69,56,96,87,76,82,28,295,-11.7,-18.1,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,466,228,11513,.437,.452,.396,.490,.823,.533,.243,.269,97,95,110,100,109,100,77,127,16.8,3.5,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAC (3 Yrs),LAC (3 Yrs),LAC (3 Yrs),LAC (3 Yrs),,159,82,4593,.439,.446,.385,.463,.837,.520,.303,.126,99,95,109,96,111,99,96,62,-50.2,-17.9,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,145,95,4059,.441,.464,.392,.504,.807,.539,.207,.323,97,97,109,102,108,100,64,154,29.8,4.0,
+NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),,94,46,2124,.430,.442,.422,.553,.782,.572,.140,.582,93,91,116,111,102,105,46,260,59.0,33.5,
+WAS (2 Yrs),WAS (2 Yrs),WAS (2 Yrs),WAS (2 Yrs),,66,5,721,.420,.441,.211,.430,.831,.492,.314,.092,95,95,60,90,110,95,105,51,-18.8,-12.9,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,2,0,16,.000,,.000,.000,,.000,.000,1.000,0,,0,0,,0,0,451,-3.0,-3.2,

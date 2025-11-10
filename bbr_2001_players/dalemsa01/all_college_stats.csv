@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+1999-00,18.0,SETONHALL,30,643,75,149,0,0,29,56,62,179,10,8,107,62,92,179,0.503,,0.518,21.4,6.0,6.0,0.3
+2000-01,19.0,SETONHALL,29,622,100,177,0,0,40,72,50,166,9,14,60,55,95,240,0.565,,0.556,21.4,8.3,5.7,0.3
+Career,,,59,1265,175,326,0,0,69,128,112,345,19,22,167,117,187,419,0.537,,0.539,21.4,7.1,5.8,0.3

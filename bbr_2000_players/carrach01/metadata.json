@@ -1,0 +1,12 @@
+{
+  "name": "Chris Carrawell",
+  "slug": "carrach01",
+  "url": "https://www.basketball-reference.com/players/c/carrach01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "carrach01/all_college_stats.csv"
+    }
+  ]
+}

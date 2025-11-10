@@ -1,0 +1,20 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2001-02,21,WAS,NBA,SF,30,3,343,0,2,80,14,4,0.2,1.8,4,6,9,2,14,,37,4,9,
+2002-03,22,WAS,NBA,SG,36,2,378,0,41,55,3,0,-0.4,0.8,3,1,26,2,13,,41,3,15,
+2003-04,23,LAC,NBA,SF,56,8,1376,0,9,71,20,0,-2.5,4.0,28,16,63,17,70,,211,15,43,
+2004-05,24,LAC,NBA,SF,75,74,2799,0,1,91,8,0,0.8,5.3,62,30,82,27,94,,432,18,45,MIP-1
+2005-06,25,MIL,NBA,SF,75,74,2538,0,0,87,13,0,0.5,4.8,36,22,98,40,66,16,381,10,49,
+2006-07,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2007-08,27,MIL,NBA,SF,70,21,1521,0,2,89,9,0,-8.1,-1.0,35,8,55,16,31,4,175,2,16,
+2008-09,28,NJN,NBA,SF,71,44,1729,0,9,80,11,0,0.1,5.1,28,11,87,7,26,7,206,5,16,
+2009-10,29,NJN,NBA,PF,23,2,395,0,0,28,72,0,-7.0,3.5,6,6,30,2,5,2,31,1,4,
+2010-11,30,SAS,NBA,SF,2,0,16,0,0,25,75,0,17.5,11.0,0,0,1,0,0,0,4,0,0,
+2011-12,31,LAC,NBA,SF,28,0,418,0,0,86,14,0,-1.1,-4.6,1,2,17,5,2,1,26,1,6,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,466,228,11513,0,4,82,14,0,-1.3,3.5,203,102,468,118,321,30,1544,59,203,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,40,2026,0,4,82,14,0,-1.3,3.5,36,18,82,21,56,,272,10,36,
+,,,,,,,,,,,,,,,,,,,,,,,,
+LAC (3 Yrs),LAC (3 Yrs),LAC (3 Yrs),LAC (3 Yrs),,159,82,4593,0,3,85,12,0,-0.4,4.0,91,48,162,49,166,1,669,34,94,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,145,95,4059,0,1,88,12,0,-2.7,2.7,71,30,153,56,97,20,556,12,65,
+NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),,94,46,2124,0,8,70,22,0,-1.2,4.8,34,17,117,9,31,9,237,6,20,
+WAS (2 Yrs),WAS (2 Yrs),WAS (2 Yrs),WAS (2 Yrs),,66,5,721,0,23,67,9,2,-0.1,1.3,7,7,35,4,27,,78,7,24,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,2,0,16,0,0,25,75,0,17.5,11.0,0,0,1,0,0,0,4,0,0,

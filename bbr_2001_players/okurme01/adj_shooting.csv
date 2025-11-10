@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2001-02,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2002-03,23,DET,NBA,PF,72,9,1366,.426,.457,.339,.470,.733,.514,.310,.265,96,99,97,99,97,99,102,146,-2.9,-5.2,
+2003-04,24,DET,NBA,PF,71,33,1580,.463,.472,.375,.480,.775,.538,.386,.089,106,103,108,102,103,104,127,47,9.3,27.5,
+2004-05,25,UTA,NBA,C,82,25,2304,.468,.486,.270,.479,.850,.569,.512,.083,105,103,76,99,112,107,158,43,-4.3,73.2,6MOY-11
+2005-06,26,UTA,NBA,PF,82,82,2945,.460,.491,.342,.496,.780,.554,.402,.207,101,103,95,101,105,103,121,103,12.6,49.7,
+2006-07,27,UTA,NBA,C,80,80,2664,.462,.498,.384,.523,.765,.571,.365,.317,101,103,107,105,102,105,111,149,55.7,71.6,AS
+2007-08,28,UTA,NBA,C,72,72,2390,.445,.475,.388,.512,.804,.556,.273,.350,97,98,107,103,106,103,89,157,25.4,29.0,
+2008-09,29,UTA,NBA,C,72,72,2409,.485,.497,.446,.536,.817,.592,.376,.227,106,102,121,107,106,109,123,102,64.4,98.2,
+2009-10,30,UTA,NBA,C,73,73,2149,.458,.486,.385,.511,.820,.561,.308,.275,99,99,109,102,108,103,103,124,15.9,32.2,
+2010-11,31,UTA,NBA,C,13,0,168,.355,.370,.313,.395,.750,.452,.323,.258,77,76,87,79,98,83,108,116,-12.8,-12.7,
+2011-12,32,NJN,NBA,C,17,14,454,.374,.433,.319,.457,.600,.460,.036,.518,84,91,92,94,80,87,13,229,-8.5,-18.9,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,634,460,18429,.458,.484,.375,.503,.797,.558,.362,.240,101,101,105,102,105,104,115,113,154.8,344.6,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+UTA (7 Yrs),UTA (7 Yrs),UTA (7 Yrs),UTA (7 Yrs),,474,404,15029,.462,.488,.381,.509,.804,.566,.372,.246,101,101,106,103,106,105,117,115,156.9,341.2,
+DET (2 Yrs),DET (2 Yrs),DET (2 Yrs),DET (2 Yrs),,143,42,2946,.447,.466,.350,.476,.759,.528,.352,.166,101,101,100,101,101,102,116,90,6.4,22.3,
+NJN (1 Yr),NJN (1 Yr),NJN (1 Yr),NJN (1 Yr),,17,14,454,.374,.433,.319,.457,.600,.460,.036,.518,84,91,92,94,80,87,13,229,-8.5,-18.9,

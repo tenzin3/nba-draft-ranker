@@ -1,0 +1,52 @@
+{
+  "name": "David Andersen",
+  "slug": "anderda03",
+  "url": "https://www.basketball-reference.com/players/a/anderda03.html",
+  "num_tables": 11,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "anderda03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "anderda03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "anderda03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "anderda03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "anderda03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "anderda03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "anderda03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "anderda03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "anderda03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "anderda03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "anderda03/all_salaries.csv"
+    }
+  ]
+}

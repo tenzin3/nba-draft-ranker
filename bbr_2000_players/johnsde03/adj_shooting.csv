@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2000-01,20,ATL,NBA,SF,78,21,1313,.374,.399,.323,.427,.736,.463,.223,.326,85,87,91,90,98,89,72,191,-35.8,-46.6,
+2001-02,21,ATL,NBA,SF,72,46,1727,.396,.427,.360,.479,.810,.513,.194,.457,89,92,102,100,108,99,66,252,1.7,-8.0,
+2002-03,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2003-04,23,NYK,NBA,SF,21,1,287,.371,.377,.361,.438,.903,.511,.320,.371,85,82,104,93,120,99,105,198,-6.4,-1.2,
+2004-05,24,DEN,NBA,SG,71,40,1232,.499,.592,.358,.570,.792,.605,.272,.399,111,126,101,118,105,114,84,203,65.1,63.1,
+2005-06,25,DEN,NBA,SG,58,21,924,.431,.521,.350,.523,.810,.545,.137,.523,95,109,98,107,109,102,41,258,20.1,6.4,
+2006-07,26,DEN,NBA,SF,39,7,419,.325,.470,.216,.386,.762,.414,.136,.571,71,97,60,78,101,76,42,269,-33.9,-41.8,
+2007-08,27,SAS,NBA,SF,5,0,28,.500,.800,.333,.607,.000,.571,.143,.643,109,165,92,122,0,106,47,289,3.1,0.9,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,344,136,5930,.411,.469,.336,.485,.789,.519,.208,.435,92,100,95,101,105,99,67,230,13.9,-27.2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (3 Yrs),DEN (3 Yrs),DEN (3 Yrs),DEN (3 Yrs),,168,68,2575,.442,.549,.323,.519,.793,.549,.197,.477,97,116,91,106,105,103,60,236,51.3,27.7,
+ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),,150,67,3040,.387,.414,.348,.457,.776,.492,.206,.402,87,89,98,96,103,95,69,227,-34.1,-54.6,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,21,1,287,.371,.377,.361,.438,.903,.511,.320,.371,85,82,104,93,120,99,105,198,-6.4,-1.2,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,5,0,28,.500,.800,.333,.607,.000,.571,.143,.643,109,165,92,122,0,106,47,289,3.1,0.9,

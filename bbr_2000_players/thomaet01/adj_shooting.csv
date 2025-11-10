@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 24_level_0', 'Awards')"
+2000-01,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2001-02,23,WAS,NBA,C,47,0,618,.536,.536,.536,.554,.553,.490,.000,121,115,112,74,106,167,0,17.9,12.0,
+2002-03,24,WAS,NBA,PF,38,0,513,.492,.492,.492,.638,.550,.758,.000,111,106,104,84,106,251,0,4.5,10.2,
+2003-04,25,WAS,NBA,C,79,15,1901,.489,.489,.489,.647,.538,.561,.000,111,106,104,86,104,185,0,18.4,28.0,
+2004-05,26,WAS,NBA,C,47,10,976,.502,.502,.502,.528,.521,.565,.000,112,107,104,70,98,174,0,10.0,-5.1,
+2005-06,27,WAS,NBA,C,71,9,1121,.533,.533,.533,.600,.560,.508,.000,117,111,109,81,105,153,0,20.9,14.6,
+2006-07,28,WAS,NBA,C,65,32,1246,.574,.574,.574,.558,.585,.498,.000,125,118,116,74,108,152,0,43.0,29.3,
+2007-08,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness,Did not play - illness
+2008-09,30,WAS,NBA,C,26,7,306,.485,.485,.485,.696,.525,.348,.000,106,100,97,90,97,114,0,-2.0,-2.9,
+2009-10,31,OKC,NBA,C,23,1,321,.456,.456,.456,.591,.483,.324,.000,99,93,91,78,89,108,0,-6.1,-9.4,
+2010-11,32,ATL,NBA,C,13,0,82,.476,.476,.476,.800,.580,.714,.000,104,98,96,105,107,238,0,-0.9,2.1,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,409,74,7084,.513,.513,.513,.603,.546,.536,.000,114,109,106,80,103,172,0,105.7,78.8,
+,,,,,,,,,,,,,,,,,,,,,,,,
+WAS (7 Yrs),WAS (7 Yrs),WAS (7 Yrs),WAS (7 Yrs),,373,73,6681,.516,.516,.516,.600,.548,.543,.000,115,110,107,80,104,173,0,112.7,86.1,
+OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),,23,1,321,.456,.456,.456,.591,.483,.324,.000,99,93,91,78,89,108,0,-6.1,-9.4,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,13,0,82,.476,.476,.476,.800,.580,.714,.000,104,98,96,105,107,238,0,-0.9,2.1,

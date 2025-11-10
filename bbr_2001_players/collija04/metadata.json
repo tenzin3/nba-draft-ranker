@@ -1,0 +1,140 @@
+{
+  "name": "Jason Collins",
+  "slug": "collija04",
+  "url": "https://www.basketball-reference.com/players/c/collija04.html",
+  "num_tables": 33,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "collija04/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "collija04/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "collija04/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "collija04/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "collija04/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "collija04/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "collija04/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "collija04/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "collija04/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "collija04/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "collija04/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "collija04/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "collija04/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "collija04/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "collija04/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "collija04/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "collija04/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "collija04/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "collija04/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "collija04/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "collija04/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "collija04/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "collija04/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "collija04/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "collija04/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "collija04/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "collija04/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "collija04/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "collija04/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "collija04/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "collija04/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "collija04/table_32.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "collija04/all_salaries.csv"
+    }
+  ]
+}

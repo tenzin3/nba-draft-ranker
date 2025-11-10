@@ -1,0 +1,16 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2000-01,20,ATL,NBA,SF,78,21,1313,146,390,.374,41,127,.323,105,263,.399,.427,64,87,.736,56,122,178,64,43,30,93,134,397,0,
+2001-02,21,ATL,NBA,SF,72,46,1727,214,540,.396,89,247,.360,125,293,.427,.479,85,105,.810,59,188,247,81,62,56,102,163,602,0,
+2002-03,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2003-04,23,NYK,NBA,SF,21,1,287,36,97,.371,13,36,.361,23,61,.377,.438,28,31,.903,5,34,39,11,8,7,16,32,113,0,
+2004-05,24,DEN,NBA,SG,71,40,1232,185,371,.499,53,148,.358,132,223,.592,.570,80,101,.792,43,108,151,75,43,18,65,140,503,0,
+2005-06,25,DEN,NBA,SG,58,21,924,132,306,.431,56,160,.350,76,146,.521,.523,34,42,.810,19,77,96,55,25,26,46,86,354,0,
+2006-07,26,DEN,NBA,SF,39,7,419,50,154,.325,19,88,.216,31,66,.470,.386,16,21,.762,10,47,57,17,16,12,27,39,135,0,
+2007-08,27,SAS,NBA,SF,5,0,28,7,14,.500,3,9,.333,4,5,.800,.607,0,2,.000,0,1,1,1,1,0,0,4,17,0,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,344,136,5930,770,1872,.411,274,815,.336,496,1057,.469,.485,307,389,.789,192,577,769,304,198,149,349,598,2121,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,32,1414,184,446,.411,65,194,.336,118,252,.469,.485,73,93,.789,46,138,183,72,47,36,83,143,506,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (3 Yrs),DEN (3 Yrs),DEN (3 Yrs),DEN (3 Yrs),,168,68,2575,367,831,.442,128,396,.323,239,435,.549,.519,130,164,.793,72,232,304,147,84,56,138,265,992,0,
+ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),,150,67,3040,360,930,.387,130,374,.348,230,556,.414,.457,149,192,.776,115,310,425,145,105,86,195,297,999,0,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,21,1,287,36,97,.371,13,36,.361,23,61,.377,.438,28,31,.903,5,34,39,11,8,7,16,32,113,0,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,5,0,28,7,14,.500,3,9,.333,4,5,.800,.607,0,2,.000,0,1,1,1,1,0,0,4,17,0,

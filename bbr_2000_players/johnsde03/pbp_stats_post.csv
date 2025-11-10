@@ -1,0 +1,9 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2003-04,23,NYK,NBA,SF,3.0,0.0,17.0,0.0,0.0,99.0,1.0,0.0,-34.0,-23.2,0.0,0.0,2.0,0.0,0.0,,4.0,0.0,0.0,
+2004-05,24,DEN,NBA,SG,4.0,2.0,78.0,0.0,68.0,32.0,0.0,0.0,-13.8,-4.6,0.0,0.0,4.0,0.0,1.0,,6.0,1.0,1.0,
+2005-06,25,DEN,NBA,SG,3.0,0.0,34.0,0.0,26.0,71.0,3.0,0.0,-17.2,-9.7,1.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,10.0,2.0,129.0,0.0,48.0,51.0,1.0,0.0,-17.4,-8.4,1.0,0.0,6.0,0.0,1.0,1.0,16.0,1.0,1.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82.0,16.0,1058.0,0.0,48.0,51.0,1.0,0.0,-17.4,-8.4,8.0,0.0,49.0,0.0,8.0,,131.0,8.0,8.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (2 Yrs),DEN (2 Yrs),DEN (2 Yrs),DEN (2 Yrs),,7.0,2.0,112.0,0.0,55.0,44.0,1.0,0.0,-14.8,-6.1,1.0,0.0,4.0,0.0,1.0,1.0,12.0,1.0,1.0,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,3.0,0.0,17.0,0.0,0.0,99.0,1.0,0.0,-34.0,-23.2,0.0,0.0,2.0,0.0,0.0,,4.0,0.0,0.0,

@@ -1,0 +1,20 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2001-02,23,IND,NBA,PG,80,78,2442,94,6,0,0,0,0.7,1.6,187,48,96,22,61,,1423,10,61,ROY-3
+2002-03,24,IND,NBA,PG,73,69,2237,100,0,0,0,0,2.9,-1.5,145,31,78,9,34,,1176,8,33,
+2003-04,25,IND,NBA,PG,52,43,1378,98,2,0,0,0,13.7,10.8,84,17,57,4,10,,662,0,10,
+2004-05,26,IND,NBA,PG,40,40,1301,87,13,0,0,0,4.0,4.7,81,34,55,11,61,,569,14,29,
+2005-06,27,IND,NBA,PG,42,27,1122,85,15,0,0,0,0.0,-2.4,74,15,34,16,37,3,475,8,28,
+2006-07,28,IND,NBA,PG,72,72,2243,93,7,0,0,0,-3.1,-0.2,125,47,72,10,83,6,1084,15,60,
+2007-08,29,IND,NBA,PG,39,36,1293,100,0,0,0,0,-0.6,1.5,85,34,32,2,34,4,760,5,30,
+2008-09,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues,Did not play - contractual issues
+2009-10,31,MEM,NBA,PG,38,1,589,91,9,0,0,0,0.4,2.4,44,11,32,4,9,7,230,3,10,
+2010-11,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster,Did not play - dropped from roster
+2011-12,33,UTA,NBA,PG,37,1,507,88,12,0,0,0,-3.0,-4.2,40,10,17,1,7,1,256,3,8,
+2012-13,34,UTA,NBA,PG,66,32,1221,100,0,0,0,0,0.8,1.4,78,22,34,2,5,5,651,0,10,
+2013-14,35,UTA,NBA,PG,8,5,110,100,0,0,0,0,-20.4,-12.8,8,0,6,0,0,0,47,0,2,
+11 Yrs,11 Yrs,11 Yrs,11 Yrs,,547,404,14443,95,5,0,0,0,1.5,1.4,951,269,513,81,341,26,7333,66,281,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,61,2165,95,5,0,0,0,1.5,1.4,143,40,77,12,51,,1099,10,42,
+,,,,,,,,,,,,,,,,,,,,,,,,
+IND (7 Yrs),IND (7 Yrs),IND (7 Yrs),IND (7 Yrs),,398,365,12016,94,6,0,0,0,2.0,1.7,781,226,424,74,320,13,6149,60,251,
+UTA (3 Yrs),UTA (3 Yrs),UTA (3 Yrs),UTA (3 Yrs),,111,38,1838,97,3,0,0,0,-1.5,-1.0,126,32,57,3,12,6,954,3,20,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,38,1,589,91,9,0,0,0,0.4,2.4,44,11,32,4,9,7,230,3,10,

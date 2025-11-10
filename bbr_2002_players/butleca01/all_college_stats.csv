@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2000-01,20.0,UCONN,29,950,151,347,14,46,129,171,100,221,89,63,9,70,76,445,0.435,0.304,0.754,32.8,15.3,7.6,3.1
+2001-02,21.0,UCONN,34,1223,253,521,30,75,155,199,108,256,101,71,13,98,75,691,0.486,0.4,0.779,36.0,20.3,7.5,3.0
+Career,,,63,2173,404,868,44,121,284,370,208,477,190,134,22,168,151,1136,0.465,0.364,0.768,34.5,18.0,7.6,3.0

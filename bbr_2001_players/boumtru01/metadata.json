@@ -1,0 +1,64 @@
+{
+  "name": "Ruben Boumtje-Boumtje",
+  "slug": "boumtru01",
+  "url": "https://www.basketball-reference.com/players/b/boumtru01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "boumtru01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "boumtru01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "boumtru01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "boumtru01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "boumtru01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "boumtru01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "boumtru01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "boumtru01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "boumtru01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "boumtru01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "boumtru01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "boumtru01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "boumtru01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "boumtru01/all_salaries.csv"
+    }
+  ]
+}

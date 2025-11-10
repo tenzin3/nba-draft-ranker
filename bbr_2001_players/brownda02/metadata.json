@@ -1,0 +1,56 @@
+{
+  "name": "Damone Brown",
+  "slug": "brownda02",
+  "url": "https://www.basketball-reference.com/players/b/brownda02.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "brownda02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "brownda02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "brownda02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "brownda02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "brownda02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "brownda02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "brownda02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "brownda02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "brownda02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "brownda02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "brownda02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "brownda02/all_salaries.csv"
+    }
+  ]
+}

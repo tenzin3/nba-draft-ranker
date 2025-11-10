@@ -1,0 +1,120 @@
+{
+  "name": "Brian Scalabrine",
+  "slug": "scalabr01",
+  "url": "https://www.basketball-reference.com/players/s/scalabr01.html",
+  "num_tables": 28,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "scalabr01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "scalabr01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "scalabr01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "scalabr01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "scalabr01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "scalabr01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "scalabr01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "scalabr01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "scalabr01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "scalabr01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "scalabr01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "scalabr01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "scalabr01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "scalabr01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "scalabr01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "scalabr01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "scalabr01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "scalabr01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "scalabr01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "scalabr01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "scalabr01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "scalabr01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "scalabr01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "scalabr01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "scalabr01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "scalabr01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "scalabr01/table_27.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "scalabr01/all_salaries.csv"
+    }
+  ]
+}

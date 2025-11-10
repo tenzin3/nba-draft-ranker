@@ -1,0 +1,18 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2001-02,20,ORL,NBA,C,53,21,516,0,0,0,6,95,-7.5,-10.7,6,5,52,1,44,,13,5,19,
+2002-03,21,ORL,NBA,C,33,5,447,0,0,0,19,81,2.8,3.2,6,3,33,3,24,,14,5,16,
+2003-04,22,ORL,NBA,C,59,23,789,0,0,0,7,93,-12.1,-5.2,5,13,55,4,29,,29,5,21,
+2004-05,23,PHO,NBA,C,76,3,1046,0,0,0,3,97,1.7,-7.9,11,10,68,13,75,,29,13,28,
+2005-06,24,PHI,NBA,C,69,35,1312,0,0,0,9,91,-1.7,0.3,10,29,70,7,71,8,42,21,36,
+2006-07,25,PHI,NBA,PF,70,41,1605,0,0,0,49,51,-8.2,-8.3,11,17,67,10,74,12,54,20,26,
+2007-08,26,DEN,NBA,C,19,2,120,0,0,0,0,100,-6.4,-10.3,0,4,14,2,12,1,0,4,3,
+2008-09,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2009-10,28,MEM,NBA,C,21,0,158,0,0,0,53,47,-9.5,-8.2,0,5,5,1,9,1,0,2,3,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,400,130,5993,0,0,0,20,80,-4.7,-5.3,49,86,364,41,338,22,181,75,152,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,27,1229,0,0,0,20,80,-4.7,-5.3,10,18,75,8,69,,37,15,31,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ORL (3 Yrs),ORL (3 Yrs),ORL (3 Yrs),ORL (3 Yrs),,145,49,1752,0,0,0,10,90,-6.9,-4.7,17,21,140,8,97,,56,15,56,
+PHI (2 Yrs),PHI (2 Yrs),PHI (2 Yrs),PHI (2 Yrs),,139,76,2917,0,0,0,31,69,-5.3,-4.4,21,46,137,17,145,20,96,41,62,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,76,3,1046,0,0,0,3,97,1.7,-7.9,11,10,68,13,75,,29,13,28,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,21,0,158,0,0,0,53,47,-9.5,-8.2,0,5,5,1,9,1,0,2,3,
+DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),,19,2,120,0,0,0,0,100,-6.4,-10.3,0,4,14,2,12,1,0,4,3,

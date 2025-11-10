@@ -1,0 +1,72 @@
+{
+  "name": "Dajuan Wagner",
+  "slug": "wagneda02",
+  "url": "https://www.basketball-reference.com/players/w/wagneda02.html",
+  "num_tables": 16,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "wagneda02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "wagneda02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "wagneda02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "wagneda02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "wagneda02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "wagneda02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "wagneda02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "wagneda02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "wagneda02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "wagneda02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "wagneda02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "wagneda02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "wagneda02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "wagneda02/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "wagneda02/table_15.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "wagneda02/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "name": "LeBron James",
+  "slug": "jamesle01",
+  "url": "https://www.basketball-reference.com/players/j/jamesle01.html",
+  "num_tables": 112,
+  "tables": [
+    {
+      "table_id": "projection",
+      "csv": "jamesle01/projection.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "jamesle01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "jamesle01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "jamesle01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "jamesle01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "jamesle01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "jamesle01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "jamesle01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "jamesle01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "jamesle01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "jamesle01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "jamesle01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "jamesle01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "jamesle01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "jamesle01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "jamesle01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "jamesle01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "jamesle01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "jamesle01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "jamesle01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "jamesle01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "jamesle01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "jamesle01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "jamesle01/sims-career.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "jamesle01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "jamesle01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "jamesle01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "jamesle01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "jamesle01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "jamesle01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "jamesle01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "jamesle01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "jamesle01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "jamesle01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "jamesle01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "jamesle01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "jamesle01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "jamesle01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "jamesle01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "jamesle01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "jamesle01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "jamesle01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "jamesle01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "jamesle01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "jamesle01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "jamesle01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "jamesle01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "jamesle01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "jamesle01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "jamesle01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "jamesle01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "jamesle01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "jamesle01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "jamesle01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "jamesle01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "jamesle01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "jamesle01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "jamesle01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "jamesle01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "jamesle01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "jamesle01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "jamesle01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "jamesle01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "jamesle01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "jamesle01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "jamesle01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "jamesle01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "jamesle01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "jamesle01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "jamesle01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "jamesle01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "jamesle01/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "jamesle01/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "jamesle01/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "jamesle01/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "jamesle01/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "jamesle01/table_77.csv"
+    },
+    {
+      "table_id": "table_78",
+      "csv": "jamesle01/table_78.csv"
+    },
+    {
+      "table_id": "table_79",
+      "csv": "jamesle01/table_79.csv"
+    },
+    {
+      "table_id": "table_80",
+      "csv": "jamesle01/table_80.csv"
+    },
+    {
+      "table_id": "table_81",
+      "csv": "jamesle01/table_81.csv"
+    },
+    {
+      "table_id": "table_82",
+      "csv": "jamesle01/table_82.csv"
+    },
+    {
+      "table_id": "table_83",
+      "csv": "jamesle01/table_83.csv"
+    },
+    {
+      "table_id": "table_84",
+      "csv": "jamesle01/table_84.csv"
+    },
+    {
+      "table_id": "table_85",
+      "csv": "jamesle01/table_85.csv"
+    },
+    {
+      "table_id": "table_86",
+      "csv": "jamesle01/table_86.csv"
+    },
+    {
+      "table_id": "table_87",
+      "csv": "jamesle01/table_87.csv"
+    },
+    {
+      "table_id": "table_88",
+      "csv": "jamesle01/table_88.csv"
+    },
+    {
+      "table_id": "table_89",
+      "csv": "jamesle01/table_89.csv"
+    },
+    {
+      "table_id": "table_90",
+      "csv": "jamesle01/table_90.csv"
+    },
+    {
+      "table_id": "table_91",
+      "csv": "jamesle01/table_91.csv"
+    },
+    {
+      "table_id": "table_92",
+      "csv": "jamesle01/table_92.csv"
+    },
+    {
+      "table_id": "table_93",
+      "csv": "jamesle01/table_93.csv"
+    },
+    {
+      "table_id": "table_94",
+      "csv": "jamesle01/table_94.csv"
+    },
+    {
+      "table_id": "table_95",
+      "csv": "jamesle01/table_95.csv"
+    },
+    {
+      "table_id": "table_96",
+      "csv": "jamesle01/table_96.csv"
+    },
+    {
+      "table_id": "table_97",
+      "csv": "jamesle01/table_97.csv"
+    },
+    {
+      "table_id": "table_98",
+      "csv": "jamesle01/table_98.csv"
+    },
+    {
+      "table_id": "table_99",
+      "csv": "jamesle01/table_99.csv"
+    },
+    {
+      "table_id": "table_100",
+      "csv": "jamesle01/table_100.csv"
+    },
+    {
+      "table_id": "table_101",
+      "csv": "jamesle01/table_101.csv"
+    },
+    {
+      "table_id": "table_102",
+      "csv": "jamesle01/table_102.csv"
+    },
+    {
+      "table_id": "table_103",
+      "csv": "jamesle01/table_103.csv"
+    },
+    {
+      "table_id": "table_104",
+      "csv": "jamesle01/table_104.csv"
+    },
+    {
+      "table_id": "table_105",
+      "csv": "jamesle01/table_105.csv"
+    },
+    {
+      "table_id": "table_106",
+      "csv": "jamesle01/table_106.csv"
+    },
+    {
+      "table_id": "table_107",
+      "csv": "jamesle01/table_107.csv"
+    },
+    {
+      "table_id": "table_108",
+      "csv": "jamesle01/table_108.csv"
+    },
+    {
+      "table_id": "table_109",
+      "csv": "jamesle01/table_109.csv"
+    },
+    {
+      "table_id": "table_110",
+      "csv": "jamesle01/table_110.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "jamesle01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_lal",
+      "csv": "jamesle01/contracts_lal.csv"
+    }
+  ]
+}

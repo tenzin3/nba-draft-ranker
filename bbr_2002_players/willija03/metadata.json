@@ -1,0 +1,96 @@
+{
+  "name": "Jay Williams",
+  "slug": "willija03",
+  "url": "https://www.basketball-reference.com/players/w/willija03.html",
+  "num_tables": 22,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "willija03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "willija03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "willija03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "willija03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "willija03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "willija03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "willija03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "willija03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "willija03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "willija03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "willija03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_12",
+      "csv": "willija03/table_12.csv"
+    },
+    {
+      "table_id": "table_13",
+      "csv": "willija03/table_13.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "willija03/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "willija03/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "willija03/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "willija03/table_17.csv"
+    },
+    {
+      "table_id": "table_18",
+      "csv": "willija03/table_18.csv"
+    },
+    {
+      "table_id": "table_19",
+      "csv": "willija03/table_19.csv"
+    },
+    {
+      "table_id": "table_20",
+      "csv": "willija03/table_20.csv"
+    },
+    {
+      "table_id": "table_21",
+      "csv": "willija03/table_21.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "willija03/all_salaries.csv"
+    }
+  ]
+}

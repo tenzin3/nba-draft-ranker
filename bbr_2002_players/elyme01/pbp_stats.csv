@@ -1,0 +1,23 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2002-03,24,LAC,NBA,C,52,7,802,0,0,0,6,94,3.1,9.5,8,15,40,19,32,,36,4,12,
+2003-04,25,LAC,NBA,PF,42,2,510,0,0,0,70,30,0.8,6.7,2,6,32,7,20,,50,6,7,
+2004-05,26,CHA,NBA,PF,79,17,1649,0,0,0,44,57,-4.0,4.0,37,30,103,22,90,,175,15,24,
+2005-06,27,CHA,NBA,PF,57,22,1348,0,0,0,59,41,-3.1,1.9,24,22,79,29,79,16,176,18,29,
+2006-07,28,2TM,NBA,PF,30,0,309,0,0,0,62,38,-14.0,-13.5,7,11,27,2,16,5,40,1,9,
+2006-07,28,CHA,NBA,PF,24,0,244,0,0,0,76,24,-12.9,-9.6,6,9,20,1,14,4,32,1,7,
+2006-07,28,SAS,NBA,C,6,0,65,0,0,0,8,93,-18.2,-28.0,1,2,7,1,2,1,8,0,2,
+2007-08,29,NOH,NBA,C,52,1,621,0,0,0,44,56,8.6,3.1,10,8,39,6,25,5,49,4,14,
+2008-09,30,NOH,NBA,C,31,4,373,0,0,0,13,87,-5.5,-8.2,4,3,28,4,14,7,39,0,12,
+2009-10,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived
+2010-11,32,DEN,NBA,C,30,2,366,0,0,0,6,94,2.5,-2.8,3,2,31,2,8,2,32,1,6,
+2011-12,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2012-13,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2013-14,35,NOP,NBA,C,2,0,27,0,0,0,37,63,-22.3,-19.9,0,0,4,0,0,0,0,0,0,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,375,55,6005,0,0,0,41,59,-1.4,2.2,95,97,383,91,284,35,597,49,113,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,12,1313,0,0,0,41,59,-1.4,2.2,21,21,84,20,62,,131,11,25,
+,,,,,,,,,,,,,,,,,,,,,,,,
+CHA (3 Yrs),CHA (3 Yrs),CHA (3 Yrs),CHA (3 Yrs),,160,39,3241,0,0,0,52,48,-4.3,2.1,67,61,202,52,183,20,383,34,60,
+NOH (3 Yrs),NOH (3 Yrs),NOH (3 Yrs),NOH (3 Yrs),,85,5,1021,0,0,0,33,67,2.6,-1.7,14,11,71,10,39,12,88,4,26,
+LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),,94,9,1312,0,0,0,31,69,2.2,8.4,10,21,72,26,52,,86,10,19,
+DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),,30,2,366,0,0,0,6,94,2.5,-2.8,3,2,31,2,8,2,32,1,6,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,6,0,65,0,0,0,8,93,-18.2,-28.0,1,2,7,1,2,1,8,0,2,

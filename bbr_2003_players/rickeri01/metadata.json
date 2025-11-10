@@ -1,0 +1,12 @@
+{
+  "name": "Rick Rickert",
+  "slug": "rickeri01",
+  "url": "https://www.basketball-reference.com/players/r/rickeri01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "rickeri01/all_college_stats.csv"
+    }
+  ]
+}

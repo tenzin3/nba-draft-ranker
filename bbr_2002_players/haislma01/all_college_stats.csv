@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+1999-00,19.0,TENNESSEE,31,251,52,88,9,17,22,39,26,57,0,8,21,21,41,135,0.591,0.529,0.564,8.1,4.4,1.8,0.0
+2000-01,20.0,TENNESSEE,33,435,63,122,14,39,53,70,28,83,17,9,51,22,89,193,0.516,0.359,0.757,13.2,5.8,2.5,0.5
+2001-02,21.0,TENNESSEE,25,839,161,311,15,46,80,111,56,167,24,11,44,51,86,417,0.518,0.326,0.721,33.6,16.7,6.7,1.0
+Career,,,89,1525,276,521,38,102,155,220,110,307,41,28,116,94,216,745,0.53,0.373,0.705,17.1,8.4,3.4,0.5

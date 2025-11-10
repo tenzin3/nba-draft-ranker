@@ -1,0 +1,228 @@
+{
+  "name": "Caron Butler",
+  "slug": "butleca01",
+  "url": "https://www.basketball-reference.com/players/b/butleca01.html",
+  "num_tables": 55,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "butleca01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "butleca01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "butleca01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "butleca01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "butleca01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "butleca01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "butleca01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "butleca01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "butleca01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "butleca01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "butleca01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "butleca01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "butleca01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "butleca01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "butleca01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "butleca01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "butleca01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "butleca01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "butleca01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "butleca01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "butleca01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "butleca01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "butleca01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "butleca01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "butleca01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "butleca01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "butleca01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "butleca01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "butleca01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "butleca01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "butleca01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "butleca01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "butleca01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "butleca01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "butleca01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "butleca01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "butleca01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "butleca01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "butleca01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "butleca01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "butleca01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "butleca01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "butleca01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "butleca01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "butleca01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "butleca01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "butleca01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "butleca01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "butleca01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "butleca01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "butleca01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "butleca01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "butleca01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "butleca01/table_54.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "butleca01/all_salaries.csv"
+    }
+  ]
+}

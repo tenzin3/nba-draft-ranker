@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+1999-00,18.0,OKALWALTCC,30,,187,332,38,106,87,110,,317,111,,,,,499,0.563,0.358,0.791,,16.6,10.6,3.7
+2000-01,19.0,OKALWALTCC,32,,266,504,76,188,124,169,,280,97,,,,,732,0.528,0.404,0.734,,22.9,8.8,3.0
+Career,,,62,,453,836,114,294,211,279,,597,208,,,,,1231,0.542,0.388,0.756,,19.9,9.6,3.4

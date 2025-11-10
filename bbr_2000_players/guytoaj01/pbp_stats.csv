@@ -1,0 +1,9 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Unnamed: 19_level_0', 'Shoot')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 23_level_0', 'Awards')"
+2000-01,22,CHI,NBA,PG,33.0,8.0,630.0,99.0,1.0,0.0,0.0,0.0,-11.6,-1.5,14.0,6.0,18.0,0.0,5.0,143.0,1.0,3.0,
+2001-02,23,CHI,NBA,PG,45.0,6.0,607.0,98.0,3.0,0.0,0.0,0.0,-5.0,5.4,22.0,12.0,9.0,1.0,8.0,178.0,1.0,3.0,
+2002-03,24,GSW,NBA,PG,2.0,0.0,9.0,100.0,0.0,0.0,0.0,0.0,-6.7,-5.6,1.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,80.0,14.0,1246.0,98.0,2.0,0.0,0.0,0.0,-8.4,1.8,37.0,18.0,27.0,1.0,13.0,326.0,2.0,7.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82.0,14.0,1277.0,98.0,2.0,0.0,0.0,0.0,-8.4,1.8,38.0,18.0,28.0,1.0,13.0,334.0,2.0,7.0,
+,,,,,,,,,,,,,,,,,,,,,,,
+CHI (2 Yrs),CHI (2 Yrs),CHI (2 Yrs),CHI (2 Yrs),,78.0,14.0,1237.0,98.0,2.0,0.0,0.0,0.0,-8.4,1.9,36.0,18.0,27.0,1.0,13.0,321.0,2.0,6.0,
+GSW (1 Yr),GSW (1 Yr),GSW (1 Yr),GSW (1 Yr),,2.0,0.0,9.0,100.0,0.0,0.0,0.0,0.0,-6.7,-5.6,1.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,

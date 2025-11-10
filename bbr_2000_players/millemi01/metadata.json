@@ -1,0 +1,204 @@
+{
+  "name": "Mike Miller",
+  "slug": "millemi01",
+  "url": "https://www.basketball-reference.com/players/m/millemi01.html",
+  "num_tables": 49,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "millemi01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "millemi01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "millemi01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "millemi01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "millemi01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "millemi01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "millemi01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "millemi01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "millemi01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "millemi01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "millemi01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "millemi01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "millemi01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "millemi01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "millemi01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "millemi01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "millemi01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "millemi01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "millemi01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "millemi01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "millemi01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "millemi01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "millemi01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "millemi01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "millemi01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "millemi01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "millemi01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "millemi01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "millemi01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "millemi01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "millemi01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "millemi01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "millemi01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "millemi01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "millemi01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "millemi01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "millemi01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "millemi01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "millemi01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "millemi01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "millemi01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "millemi01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "millemi01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "millemi01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "millemi01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "millemi01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "millemi01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "millemi01/table_48.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "millemi01/all_salaries.csv"
+    }
+  ]
+}

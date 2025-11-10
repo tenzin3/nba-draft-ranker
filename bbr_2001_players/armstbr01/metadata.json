@@ -1,0 +1,96 @@
+{
+  "name": "Brandon Armstrong",
+  "slug": "armstbr01",
+  "url": "https://www.basketball-reference.com/players/a/armstbr01.html",
+  "num_tables": 22,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "armstbr01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "armstbr01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "armstbr01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "armstbr01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "armstbr01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "armstbr01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "armstbr01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "armstbr01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "armstbr01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "armstbr01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "armstbr01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "armstbr01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "armstbr01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "armstbr01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "armstbr01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "armstbr01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "armstbr01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "armstbr01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "armstbr01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "armstbr01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "armstbr01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "armstbr01/all_salaries.csv"
+    }
+  ]
+}

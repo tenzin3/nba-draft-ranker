@@ -1,0 +1,184 @@
+{
+  "name": "Jamaal Tinsley",
+  "slug": "tinslja01",
+  "url": "https://www.basketball-reference.com/players/t/tinslja01.html",
+  "num_tables": 44,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "tinslja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "tinslja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "tinslja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "tinslja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "tinslja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "tinslja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "tinslja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "tinslja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "tinslja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "tinslja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "tinslja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "tinslja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "tinslja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "tinslja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "tinslja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "tinslja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "tinslja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "tinslja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "tinslja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "tinslja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "tinslja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "tinslja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "tinslja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "tinslja01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "tinslja01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "tinslja01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "tinslja01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "tinslja01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "tinslja01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "tinslja01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "tinslja01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "tinslja01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "tinslja01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "tinslja01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "tinslja01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "tinslja01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "tinslja01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "tinslja01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "tinslja01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "tinslja01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "tinslja01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "tinslja01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "tinslja01/table_43.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "tinslja01/all_salaries.csv"
+    }
+  ]
+}

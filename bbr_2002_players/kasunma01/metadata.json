@@ -1,0 +1,52 @@
+{
+  "name": "Mario Kasun",
+  "slug": "kasunma01",
+  "url": "https://www.basketball-reference.com/players/k/kasunma01.html",
+  "num_tables": 11,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "kasunma01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "kasunma01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "kasunma01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "kasunma01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "kasunma01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "kasunma01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "kasunma01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "kasunma01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "kasunma01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "kasunma01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "kasunma01/all_salaries.csv"
+    }
+  ]
+}

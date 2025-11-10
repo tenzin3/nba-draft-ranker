@@ -1,0 +1,19 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2000-01,19,LAC,NBA,SF,81,21,2133,0,3,61,36,1,1.5,10.4,44,48,112,14,97,,213,17,47,ROY-4
+2001-02,20,LAC,NBA,SF,82,6,2227,0,1,61,38,0,0.2,1.7,65,47,96,20,103,,422,22,45,
+2002-03,21,CLE,NBA,SF,67,62,2008,0,0,73,27,0,-10.7,-0.6,79,53,74,22,70,,370,11,48,
+2003-04,22,2TM,NBA,SF,79,56,2079,0,1,85,14,0,-2.7,-0.5,65,31,95,18,94,,349,25,47,
+2003-04,22,CLE,NBA,SF,37,16,888,0,0,71,28,1,-7.7,-6.0,31,13,46,7,33,,165,10,23,
+2003-04,22,POR,NBA,SF,42,40,1191,0,1,96,4,0,0.9,3.6,34,18,49,11,61,,184,15,24,
+2004-05,23,POR,NBA,SF,63,22,1699,0,9,65,26,0,-2.3,4.2,58,39,101,30,91,,290,18,36,
+2005-06,24,POR,NBA,SF,40,23,1286,0,2,78,20,1,-8.4,3.9,38,25,47,23,72,4,168,17,23,
+2006-07,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2007-08,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2008-09,27,MEM,NBA,SF,34,0,298,0,1,11,82,6,-13.2,-8.0,5,7,20,2,15,0,37,3,4,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,446,190,11730,0,2,68,29,0,-3.6,2.9,354,250,545,129,542,4,1849,113,250,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,35,2157,0,2,68,29,0,-3.6,2.9,65,46,100,24,100,,340,21,46,
+,,,,,,,,,,,,,,,,,,,,,,,,
+POR (3 Yrs),POR (3 Yrs),POR (3 Yrs),POR (3 Yrs),,145,85,4176,0,4,78,18,0,-3.3,3.9,130,82,197,64,224,4,642,50,83,
+LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),,163,27,4360,0,2,61,37,0,0.8,6.0,109,95,208,34,200,,635,39,92,
+CLE (2 Yrs),CLE (2 Yrs),CLE (2 Yrs),CLE (2 Yrs),,104,78,2896,0,0,72,27,0,-9.8,-2.2,110,66,120,29,103,,535,21,71,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,34,0,298,0,1,11,82,6,-13.2,-8.0,5,7,20,2,15,0,37,3,4,

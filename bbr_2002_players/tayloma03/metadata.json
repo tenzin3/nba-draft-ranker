@@ -1,0 +1,12 @@
+{
+  "name": "Marcus Taylor",
+  "slug": "tayloma03",
+  "url": "https://www.basketball-reference.com/players/t/tayloma03.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "tayloma03/all_college_stats.csv"
+    }
+  ]
+}

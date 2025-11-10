@@ -1,0 +1,11 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2001-02,19,HOU,NBA,PF,73,24,1896,.366,.392,.330,.434,.744,.456,.129,.410,82,84,93,91,99,88,44,226,-57.5,-90.4,
+2002-03,20,HOU,NBA,PF,77,66,1890,.400,.426,.333,.447,.617,.462,.139,.283,90,92,95,94,81,89,46,156,-36.6,-83.2,
+2003-04,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab,Did not play - rehab
+2004-05,22,MIN,NBA,PF,70,0,1492,.387,.425,.328,.451,.718,.474,.149,.391,86,90,92,94,95,89,46,199,-32.6,-62.0,
+2005-06,23,MIN,NBA,C,70,27,1359,.351,.396,.195,.373,.595,.397,.200,.222,77,83,54,76,80,74,60,110,-86.6,-111.2,
+2006-07,24,MIN,NBA,PF,13,0,92,.259,.269,.000,.259,.800,.308,.185,.037,57,55,0,52,106,57,57,17,-12.8,-13.6,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,303,117,6729,.377,.408,.315,.430,.671,.450,.149,.332,84,87,89,90,89,86,48,177,-226.1,-360.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+MIN (3 Yrs),MIN (3 Yrs),MIN (3 Yrs),MIN (3 Yrs),,153,27,2943,.369,.405,.289,.414,.662,.438,.171,.312,81,85,81,85,88,82,52,158,-132.0,-186.8,
+HOU (2 Yrs),HOU (2 Yrs),HOU (2 Yrs),HOU (2 Yrs),,150,90,3786,.383,.411,.331,.440,.678,.459,.134,.346,86,89,94,93,90,88,45,191,-94.1,-173.6,

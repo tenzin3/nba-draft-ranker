@@ -1,0 +1,12 @@
+{
+  "name": "Rod Grizzard",
+  "slug": "grizzro01",
+  "url": "https://www.basketball-reference.com/players/g/grizzro01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "grizzro01/all_college_stats.csv"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Ken Johnson",
+  "slug": "johnske03",
+  "url": "https://www.basketball-reference.com/players/j/johnske03.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnske03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnske03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnske03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnske03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnske03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnske03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnske03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnske03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnske03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnske03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnske03/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnske03/all_salaries.csv"
+    }
+  ]
+}

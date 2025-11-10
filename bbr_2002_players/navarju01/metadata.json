@@ -1,0 +1,92 @@
+{
+  "name": "Juan Carlos Navarro",
+  "slug": "navarju01",
+  "url": "https://www.basketball-reference.com/players/n/navarju01.html",
+  "num_tables": 21,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "navarju01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "navarju01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "navarju01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "navarju01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "navarju01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "navarju01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "navarju01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "navarju01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "navarju01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "navarju01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "table_11",
+      "csv": "navarju01/table_11.csv"
+    },
+    {
+      "table_id": "table_12",
+      "csv": "navarju01/table_12.csv"
+    },
+    {
+      "table_id": "table_13",
+      "csv": "navarju01/table_13.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "navarju01/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "navarju01/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "navarju01/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "navarju01/table_17.csv"
+    },
+    {
+      "table_id": "table_18",
+      "csv": "navarju01/table_18.csv"
+    },
+    {
+      "table_id": "table_19",
+      "csv": "navarju01/table_19.csv"
+    },
+    {
+      "table_id": "table_20",
+      "csv": "navarju01/table_20.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "navarju01/all_salaries.csv"
+    }
+  ]
+}

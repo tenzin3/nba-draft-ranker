@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2001-02,20,ORL,NBA,C,53,21,516,.456,.456,,.456,.585,.502,.639,.000,102,98,,96,78,96,218,0,-6.3,-7.0,
+2002-03,21,ORL,NBA,C,33,5,447,.544,.544,,.544,.409,.531,.427,.000,123,118,,115,54,102,141,0,14.4,2.9,
+2003-04,22,ORL,NBA,C,59,23,789,.529,.529,,.529,.333,.504,.445,.000,121,115,,112,44,98,147,0,18.0,-4.4,
+2004-05,23,PHO,NBA,C,76,3,1046,.614,.616,.000,.614,.479,.596,.741,.005,137,131,0,127,63,113,228,2,57.8,39.1,
+2005-06,24,PHI,NBA,C,69,35,1312,.601,.601,,.601,.514,.598,.474,.000,133,126,,123,69,112,142,0,64.8,44.2,
+2006-07,25,PHI,NBA,PF,70,41,1605,.577,.577,,.577,.490,.573,.463,.000,126,119,,116,65,106,142,0,52.4,25.0,
+2007-08,26,DEN,NBA,C,19,2,120,.536,.536,,.536,.450,.530,.714,.000,117,111,,108,60,98,233,0,2.1,-0.8,
+2008-09,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2009-10,28,MEM,NBA,C,21,0,158,.395,.395,,.395,.528,.450,.837,.000,86,80,,79,70,83,279,0,-9.1,-10.9,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,400,130,5993,.560,.560,.000,.560,.485,.558,.545,.001,124,118,0,115,65,105,172,0,194.1,88.1,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+ORL (3 Yrs),ORL (3 Yrs),ORL (3 Yrs),ORL (3 Yrs),,145,49,1752,.506,.506,,.506,.464,.510,.511,.000,115,109,,107,62,98,171,0,26.1,-8.5,
+PHI (2 Yrs),PHI (2 Yrs),PHI (2 Yrs),PHI (2 Yrs),,139,76,2917,.588,.588,,.588,.502,.585,.468,.000,129,122,,119,67,109,142,0,117.2,69.2,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,76,3,1046,.614,.616,.000,.614,.479,.596,.741,.005,137,131,0,127,63,113,228,2,57.8,39.1,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,21,0,158,.395,.395,,.395,.528,.450,.837,.000,86,80,,79,70,83,279,0,-9.1,-10.9,
+DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),,19,2,120,.536,.536,,.536,.450,.530,.714,.000,117,111,,108,60,98,233,0,2.1,-0.8,

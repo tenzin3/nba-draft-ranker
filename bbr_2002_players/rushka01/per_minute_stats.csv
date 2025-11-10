@@ -1,0 +1,18 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Awards
+2002-03,22,LAL,NBA,PG,76,0,872,4.0,10.1,.393,0.8,2.8,.279,3.2,7.3,.438,.432,0.7,0.9,.696,1.1,2.8,3.9,2.8,0.4,0.5,2.6,2.9,9.4,
+2003-04,23,LAL,NBA,SG,72,15,1244,5.5,12.5,.440,1.4,4.0,.348,4.1,8.5,.483,.495,0.9,1.5,.596,0.6,2.2,2.8,1.7,1.0,0.6,1.4,3.2,13.3,
+2004-05,24,2TM,NBA,SG,48,22,968,5.8,15.1,.387,1.9,5.1,.372,3.9,10.0,.394,.450,1.4,1.8,.771,0.7,2.6,3.3,2.5,0.7,0.3,1.7,2.8,15.0,
+2004-05,24,LAL,NBA,SG,14,0,91,1.6,7.9,.200,0.8,4.0,.200,0.8,4.0,.200,.250,0.8,0.8,1.000,1.2,2.8,4.0,1.2,0.8,0.4,1.2,2.8,4.7,
+2004-05,24,CHA,NBA,SG,34,22,877,6.3,15.8,.396,2.0,5.2,.386,4.3,10.6,.402,.460,1.4,1.9,.761,0.7,2.5,3.2,2.7,0.7,0.2,1.8,2.8,16.0,
+2005-06,25,CHA,NBA,SG,47,25,1111,5.9,15.2,.386,1.8,5.3,.348,4.0,9.9,.407,.447,1.8,2.5,.714,0.6,2.8,3.3,1.6,1.2,0.4,2.1,2.6,15.4,
+2006-07,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2007-08,27,IND,NBA,SG,71,15,1504,5.5,13.6,.401,2.4,6.3,.389,3.0,7.3,.410,.490,0.7,1.0,.714,0.5,3.6,4.0,2.1,1.0,0.5,1.5,2.6,14.1,
+2008-09,28,PHI,NBA,SG,25,1,199,3.6,10.5,.345,1.8,6.0,.303,1.8,4.5,.400,.431,0.7,0.7,1.000,0.0,2.7,2.7,2.7,0.9,0.2,1.8,1.8,9.8,
+2009-10,29,LAC,NBA,SG,7,0,58,2.5,6.8,.364,0.6,1.9,.333,1.9,5.0,.375,.409,0.0,0.0,,0.6,3.1,3.7,2.5,1.2,1.9,1.9,5.0,5.6,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,346,78,5956,5.3,13.2,.400,1.7,4.9,.358,3.6,8.4,.425,.466,1.0,1.5,.703,0.6,2.8,3.5,2.1,0.9,0.4,1.8,2.8,13.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAL (3 Yrs),LAL (3 Yrs),LAL (3 Yrs),LAL (3 Yrs),,162,15,2207,4.7,11.4,.417,1.1,3.5,.319,3.6,7.8,.460,.466,0.8,1.3,.636,0.8,2.5,3.3,2.1,0.7,0.5,1.9,3.1,11.4,
+CHA (2 Yrs),CHA (2 Yrs),CHA (2 Yrs),CHA (2 Yrs),,81,47,1988,6.0,15.5,.391,1.9,5.3,.364,4.1,10.2,.404,.453,1.6,2.2,.732,0.6,2.7,3.3,2.1,1.0,0.3,2.0,2.6,15.6,
+IND (1 Yr),IND (1 Yr),IND (1 Yr),IND (1 Yr),,71,15,1504,5.5,13.6,.401,2.4,6.3,.389,3.0,7.3,.410,.490,0.7,1.0,.714,0.5,3.6,4.0,2.1,1.0,0.5,1.5,2.6,14.1,
+PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),,25,1,199,3.6,10.5,.345,1.8,6.0,.303,1.8,4.5,.400,.431,0.7,0.7,1.000,0.0,2.7,2.7,2.7,0.9,0.2,1.8,1.8,9.8,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,7,0,58,2.5,6.8,.364,0.6,1.9,.333,1.9,5.0,.375,.409,0.0,0.0,,0.6,3.1,3.7,2.5,1.2,1.9,1.9,5.0,5.6,

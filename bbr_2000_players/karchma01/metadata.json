@@ -1,0 +1,12 @@
+{
+  "name": "Mark Karcher",
+  "slug": "karchma01",
+  "url": "https://www.basketball-reference.com/players/k/karchma01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "karchma01/all_college_stats.csv"
+    }
+  ]
+}

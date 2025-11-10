@@ -1,0 +1,164 @@
+{
+  "name": "Mike Dunleavy",
+  "slug": "dunlemi02",
+  "url": "https://www.basketball-reference.com/players/d/dunlemi02.html",
+  "num_tables": 39,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "dunlemi02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "dunlemi02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "dunlemi02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "dunlemi02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "dunlemi02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "dunlemi02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "dunlemi02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "dunlemi02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "dunlemi02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "dunlemi02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "dunlemi02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "dunlemi02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "dunlemi02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "dunlemi02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "dunlemi02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "dunlemi02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "dunlemi02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "dunlemi02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "dunlemi02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "dunlemi02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "dunlemi02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "dunlemi02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "dunlemi02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "dunlemi02/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "dunlemi02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "dunlemi02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "dunlemi02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "dunlemi02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "dunlemi02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "dunlemi02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "dunlemi02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "dunlemi02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "dunlemi02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "dunlemi02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "dunlemi02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "dunlemi02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "dunlemi02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "dunlemi02/table_38.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "dunlemi02/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2001-02,23,MIN,NBA,C,60,0,516,.344,.351,.000,.344,.733,.449,.625,.021,77,75,0,72,97,86,213,11,-25.6,-17.4,
+2002-03,24,MIN,NBA,C,38,11,353,.382,.384,.333,.388,.778,.455,.355,.039,86,83,95,82,103,88,117,22,-13.0,-11.3,
+2003-04,25,MIA,NBA,C,38,2,506,.458,.458,,.458,.600,.503,.573,.000,104,100,,97,80,98,189,0,-2.4,-3.1,
+2004-05,26,TOR,NBA,C,45,30,712,.433,.436,.000,.433,.576,.463,.360,.006,97,93,0,90,76,88,111,3,-16.2,-25.1,
+2005-06,27,TOR,NBA,C,27,4,324,.475,.483,.000,.475,.429,.476,.237,.017,105,101,0,97,58,89,71,8,-1.8,-7.8,
+2006-07,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2007-08,29,HOU,NBA,C,7,0,17,.600,.600,,.600,,.600,.000,.000,131,124,,121,,111,0,0,1.0,0.6,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,215,47,2428,.419,.423,.143,.420,.642,.470,.433,.014,94,91,41,88,85,90,141,8,-58.0,-64.1,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),,98,11,869,.360,.365,.200,.363,.747,.452,.506,.029,81,79,57,76,99,87,171,16,-38.6,-28.7,
+TOR (2 Yrs),TOR (2 Yrs),TOR (2 Yrs),TOR (2 Yrs),,72,34,1036,.444,.448,.000,.444,.548,.466,.327,.009,99,95,0,92,73,88,100,5,-18.0,-32.9,
+MIA (1 Yr),MIA (1 Yr),MIA (1 Yr),MIA (1 Yr),,38,2,506,.458,.458,,.458,.600,.503,.573,.000,104,100,,97,80,98,189,0,-2.4,-3.1,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,7,0,17,.600,.600,,.600,,.600,.000,.000,131,124,,121,,111,0,0,1.0,0.6,

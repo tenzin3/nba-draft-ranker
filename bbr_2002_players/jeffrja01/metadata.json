@@ -1,0 +1,124 @@
+{
+  "name": "Jared Jeffries",
+  "slug": "jeffrja01",
+  "url": "https://www.basketball-reference.com/players/j/jeffrja01.html",
+  "num_tables": 29,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "jeffrja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "jeffrja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "jeffrja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "jeffrja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "jeffrja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "jeffrja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "jeffrja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "jeffrja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "jeffrja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "jeffrja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "jeffrja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "jeffrja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "jeffrja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "jeffrja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "jeffrja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "jeffrja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "jeffrja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "jeffrja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "jeffrja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "jeffrja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "jeffrja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "jeffrja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "jeffrja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "jeffrja01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "jeffrja01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "jeffrja01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "jeffrja01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "jeffrja01/table_28.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "jeffrja01/all_salaries.csv"
+    }
+  ]
+}

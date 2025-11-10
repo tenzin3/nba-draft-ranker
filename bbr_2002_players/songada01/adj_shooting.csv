@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2002-03,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2003-04,25,SAC,NBA,PF,73,7,976,.487,.487,,.487,.807,.541,.322,.000,111,106,,103,107,105,106,0,8.8,15.2,
+2004-05,26,SAC,NBA,PF,81,21,1668,.527,.530,.000,.527,.847,.566,.227,.006,118,113,0,109,112,107,70,3,43.2,39.6,
+2005-06,27,CHI,NBA,PF,62,7,1329,.481,.481,.400,.483,.817,.524,.234,.010,106,101,112,99,110,98,70,5,-7.2,-12.2,
+2006-07,28,WAS,NBA,PF,37,1,700,.524,.529,.000,.524,.852,.567,.240,.009,114,109,0,106,113,105,73,4,12.6,12.6,
+2007-08,29,WAS,NBA,C,80,13,1554,.458,.460,.000,.458,.918,.496,.156,.004,100,95,0,92,122,92,51,2,-36.6,-44.3,
+2008-09,30,WAS,NBA,C,77,29,1521,.532,.533,.000,.532,.889,.570,.197,.002,116,110,0,106,115,105,64,1,29.2,25.3,
+2009-10,31,NOH,NBA,C,75,1,1410,.494,.498,.167,.495,.811,.522,.152,.012,107,101,47,99,107,96,50,6,-5.7,-22.3,
+2010-11,32,PHI,NBA,C,10,0,71,.467,.467,,.467,.500,.477,.267,.000,102,96,,94,65,88,89,0,-1.0,-2.1,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,495,79,9229,.499,.501,.158,.499,.844,.538,.210,.007,110,104,44,102,112,100,67,3,43.3,11.8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),,194,43,3775,.500,.503,.000,.500,.889,.540,.189,.004,109,104,0,100,117,100,61,2,5.2,-6.4,
+SAC (2 Yrs),SAC (2 Yrs),SAC (2 Yrs),SAC (2 Yrs),,154,28,2644,.512,.515,.000,.512,.829,.557,.261,.004,116,110,0,107,110,106,83,2,52.0,54.8,
+NOH (1 Yr),NOH (1 Yr),NOH (1 Yr),NOH (1 Yr),,75,1,1410,.494,.498,.167,.495,.811,.522,.152,.012,107,101,47,99,107,96,50,6,-5.7,-22.3,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,62,7,1329,.481,.481,.400,.483,.817,.524,.234,.010,106,101,112,99,110,98,70,5,-7.2,-12.2,
+PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),,10,0,71,.467,.467,,.467,.500,.477,.267,.000,102,96,,94,65,88,89,0,-1.0,-2.1,

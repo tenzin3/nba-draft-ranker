@@ -1,0 +1,56 @@
+{
+  "name": "Chris Owens",
+  "slug": "owensch01",
+  "url": "https://www.basketball-reference.com/players/o/owensch01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "owensch01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "owensch01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "owensch01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "owensch01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "owensch01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "owensch01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "owensch01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "owensch01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "owensch01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "owensch01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "owensch01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "owensch01/all_salaries.csv"
+    }
+  ]
+}

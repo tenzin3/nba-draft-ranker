@@ -1,0 +1,12 @@
+{
+  "name": "Bryan Bracey",
+  "slug": "bracebr01",
+  "url": "https://www.basketball-reference.com/players/b/bracebr01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "bracebr01/all_college_stats.csv"
+    }
+  ]
+}

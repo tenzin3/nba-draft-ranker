@@ -1,0 +1,34 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2001-02,21,MEM,NBA,PF,82,79,3007,0,0,0,0,100,-5.8,10.2,84,89,105,22,191,,487,54,105,ROY-1
+2002-03,22,MEM,NBA,PF,82,82,2948,0,0,0,50,50,-2.5,3.8,65,97,119,29,225,,523,59,94,
+2003-04,23,MEM,NBA,PF,78,78,2458,0,0,0,53,48,2.3,-1.3,71,77,91,19,183,,455,39,132,
+2004-05,24,MEM,NBA,PF,56,53,1790,0,0,0,54,47,4.5,2.9,53,54,81,10,163,,327,37,71,
+2005-06,25,MEM,NBA,PF,80,80,3135,0,0,0,57,43,5.5,4.9,99,83,98,32,243,22,916,45,114,AS
+2006-07,26,MEM,NBA,C,59,59,2133,0,0,0,0,100,-5.9,-0.7,75,57,98,12,185,17,478,43,75,
+2007-08,27,2TM,NBA,C,66,66,2351,0,0,0,22,78,4.6,8.2,57,47,77,8,160,15,497,42,57,
+2007-08,27,MEM,NBA,C,39,39,1433,0,0,0,36,64,-1.5,8.2,35,34,49,4,96,9,277,25,38,
+2007-08,27,LAL,NBA,C,27,27,918,0,0,0,0,100,14.1,8.3,22,13,28,4,64,6,220,17,19,
+2008-09,28,LAL,NBA,C,81,81,2999,0,0,0,30,70,9.3,4.4,71,64,101,6,183,15,654,37,66,"AS,NBA3"
+2009-10,29,LAL,NBA,C,65,65,2403,0,0,0,38,62,6.5,3.4,62,51,83,14,153,16,500,37,60,"AS,NBA3"
+2010-11,30,LAL,NBA,C,82,82,3037,0,0,0,29,72,9.1,9.5,67,51,105,9,180,11,609,52,85,"AS,NBA2"
+2011-12,31,LAL,NBA,PF,65,65,2430,0,0,0,63,37,3.6,8.5,59,52,60,12,103,10,519,22,56,
+2012-13,32,LAL,NBA,PF,49,42,1655,0,0,0,60,40,3.1,2.5,56,37,45,6,64,5,464,7,40,
+2013-14,33,LAL,NBA,C,60,60,1884,0,0,0,18,83,-8.7,-5.0,68,63,72,5,113,5,485,30,57,
+2014-15,34,CHI,NBA,PF,78,78,2681,0,0,0,48,52,3.4,0.1,82,58,80,7,142,6,505,34,61,"AS,NBA2"
+2015-16,35,CHI,NBA,C,72,72,2291,0,0,0,0,100,-1.1,1.4,102,47,93,7,107,4,669,27,59,AS
+2016-17,36,SAS,NBA,C,64,39,1627,0,0,0,0,100,6.6,-2.2,47,24,68,4,79,6,340,16,37,
+2017-18,37,SAS,NBA,C,77,63,1812,0,0,0,0,100,1.3,-3.1,66,25,90,8,89,2,528,19,36,
+2018-19,38,2TM,NBA,C,30,6,360,0,0,0,0,100,-5.0,-8.2,7,7,17,1,13,1,120,0,6,
+2018-19,38,SAS,NBA,C,27,6,330,0,0,0,0,100,-3.3,-5.9,5,7,17,1,12,1,114,0,6,
+2018-19,38,MIL,NBA,C,3,0,30,0,0,0,2,98,-24.6,-33.3,2,0,0,0,1,0,6,0,0,
+2019-20,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+,,,,,,,,Position Estimate,Position Estimate,Position Estimate,Position Estimate,Position Estimate,+/- Per 100 Poss,+/- Per 100 Poss,Turnovers,Turnovers,Fouls Committed,Fouls Committed,Fouls Drawn,Fouls Drawn,Misc.,Misc.,Misc.,
+,,,,Pos,G,GS,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot,Off.,Shoot,Off.,PGA,And1,Blkd,Awards
+18 Yrs,18 Yrs,18 Yrs,18 Yrs,,1226,1150,41001,0,0,0,31,69,2.2,3.3,1191,983,1483,211,2576,135,9076,600,1211,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,77,2742,0,0,0,31,69,2.2,3.3,80,66,99,14,172,,607,40,81,
+,,,,,,,,,,,,,,,,,,,,,,,,
+MEM (7 Yrs),MEM (7 Yrs),MEM (7 Yrs),MEM (7 Yrs),,476,470,16904,0,0,0,36,64,-0.5,4.1,482,491,641,128,1286,48,3463,302,629,
+LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),,429,422,15326,0,0,0,36,64,5.3,4.8,405,331,494,56,860,68,3451,202,383,
+SAS (3 Yrs),SAS (3 Yrs),SAS (3 Yrs),SAS (3 Yrs),,168,108,3769,0,0,0,0,100,3.2,-3.0,118,56,175,13,180,9,982,35,79,
+CHI (2 Yrs),CHI (2 Yrs),CHI (2 Yrs),CHI (2 Yrs),,150,150,4972,0,0,0,26,74,1.3,0.7,184,105,173,14,249,10,1174,61,120,
+MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),,3,0,30,0,0,0,2,98,-24.6,-33.3,2,0,0,0,1,0,6,0,0,

@@ -1,0 +1,64 @@
+{
+  "name": "Jamal Sampson",
+  "slug": "sampsja01",
+  "url": "https://www.basketball-reference.com/players/s/sampsja01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "sampsja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "sampsja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "sampsja01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "sampsja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "sampsja01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "sampsja01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "sampsja01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "sampsja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "sampsja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "sampsja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "sampsja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "sampsja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "sampsja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "sampsja01/all_salaries.csv"
+    }
+  ]
+}

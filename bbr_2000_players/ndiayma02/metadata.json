@@ -1,0 +1,64 @@
+{
+  "name": "Mamadou N'Diaye",
+  "slug": "ndiayma02",
+  "url": "https://www.basketball-reference.com/players/n/ndiayma02.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "ndiayma02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "ndiayma02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "ndiayma02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "ndiayma02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "ndiayma02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "ndiayma02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "ndiayma02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "ndiayma02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "ndiayma02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "ndiayma02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "ndiayma02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "ndiayma02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "ndiayma02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "ndiayma02/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Sean Lampley",
+  "slug": "lamplse01",
+  "url": "https://www.basketball-reference.com/players/l/lamplse01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "lamplse01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "lamplse01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "lamplse01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "lamplse01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "lamplse01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "lamplse01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "lamplse01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "lamplse01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "lamplse01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "lamplse01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "lamplse01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "lamplse01/all_salaries.csv"
+    }
+  ]
+}

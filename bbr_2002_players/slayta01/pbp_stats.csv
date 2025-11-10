@@ -1,0 +1,9 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Unnamed: 19_level_0', 'Shoot')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 23_level_0', 'Awards')"
+2002-03,22,NJN,NBA,SG,36.0,0.0,274.0,0.0,67.0,32.0,1.0,0.0,0.1,-6.2,10.0,6.0,19.0,0.0,5.0,30.0,2.0,4.0,
+2003-04,23,NJN,NBA,SG,22.0,0.0,165.0,0.0,16.0,81.0,4.0,0.0,-15.4,-19.0,7.0,2.0,12.0,2.0,4.0,30.0,0.0,5.0,
+2004-05,24,CHA,NBA,SG,8.0,0.0,78.0,0.0,13.0,60.0,28.0,0.0,-12.4,-6.2,3.0,2.0,13.0,2.0,1.0,7.0,0.0,1.0,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,66.0,0.0,517.0,0.0,42.0,51.0,6.0,0.0,-6.7,-10.3,20.0,10.0,44.0,4.0,10.0,67.0,2.0,10.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82.0,0.0,642.0,0.0,42.0,51.0,6.0,0.0,-6.7,-10.3,25.0,12.0,55.0,5.0,12.0,83.0,2.0,12.0,
+,,,,,,,,,,,,,,,,,,,,,,,
+NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),,58.0,0.0,439.0,0.0,48.0,50.0,2.0,0.0,-5.7,-11.0,17.0,8.0,31.0,2.0,9.0,60.0,2.0,9.0,
+CHA (1 Yr),CHA (1 Yr),CHA (1 Yr),CHA (1 Yr),,8.0,0.0,78.0,0.0,13.0,60.0,28.0,0.0,-12.4,-6.2,3.0,2.0,13.0,2.0,1.0,7.0,0.0,1.0,

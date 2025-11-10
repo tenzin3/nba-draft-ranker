@@ -1,0 +1,88 @@
+{
+  "name": "Marcus Fizer",
+  "slug": "fizerma01",
+  "url": "https://www.basketball-reference.com/players/f/fizerma01.html",
+  "num_tables": 20,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "fizerma01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "fizerma01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "fizerma01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "fizerma01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "fizerma01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "fizerma01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "fizerma01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "fizerma01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "fizerma01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "fizerma01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "fizerma01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "fizerma01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "fizerma01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "fizerma01/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "fizerma01/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "fizerma01/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "fizerma01/table_17.csv"
+    },
+    {
+      "table_id": "table_18",
+      "csv": "fizerma01/table_18.csv"
+    },
+    {
+      "table_id": "table_19",
+      "csv": "fizerma01/table_19.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "fizerma01/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2001-02,20,2TM,NBA,SG,77,60,1916,.430,.469,.292,.462,.774,.478,.091,.223,97,101,83,97,103,92,31,123,-17.3,-50.9,
+2001-02,20,BOS,NBA,SG,48,33,1003,.439,.510,.273,.480,.769,.494,.088,.297,99,110,77,101,102,95,30,164,1.5,-15.9,
+2001-02,20,PHO,NBA,SG,29,27,913,.420,.435,.333,.444,.778,.462,.094,.146,94,93,94,93,103,89,32,80,-18.8,-35.0,
+2002-03,21,PHO,NBA,SG,82,34,2255,.397,.408,.366,.444,.774,.472,.156,.258,90,88,105,94,102,91,52,142,-47.4,-80.5,6MOY-11
+2003-04,22,PHO,NBA,SG,82,77,3331,.430,.463,.305,.462,.750,.491,.180,.211,98,101,88,98,100,95,59,113,-23.4,-71.2,
+2004-05,23,PHO,NBA,SF,82,82,3240,.461,.454,.478,.536,.750,.556,.153,.314,103,97,135,111,99,105,47,160,127.6,67.8,
+2005-06,24,ATL,NBA,SG,82,82,3340,.453,.487,.356,.499,.791,.537,.237,.258,100,102,99,102,106,100,71,128,25.0,3.2,
+2006-07,25,ATL,NBA,SG,57,57,2359,.471,.504,.381,.523,.748,.558,.276,.274,103,104,106,105,99,103,84,129,60.3,42.9,AS
+2007-08,26,ATL,NBA,SG,82,82,3343,.432,.454,.381,.489,.834,.535,.253,.297,95,94,105,98,110,99,83,134,-26.2,-18.7,AS
+2008-09,27,ATL,NBA,SG,79,79,3124,.437,.468,.360,.489,.826,.534,.255,.292,95,96,98,98,107,98,83,130,-30.4,-31.5,AS
+2009-10,28,ATL,NBA,SG,76,76,2886,.458,.488,.369,.505,.818,.538,.194,.253,99,99,104,101,108,99,65,114,11.0,-14.6,"MVP-12,AS,NBA3"
+2010-11,29,ATL,NBA,SG,72,72,2554,.443,.494,.297,.481,.802,.517,.209,.258,97,101,83,97,105,96,70,117,-40.2,-60.9,AS
+2011-12,30,ATL,NBA,SG,60,60,2127,.454,.489,.388,.521,.849,.557,.200,.346,101,103,111,107,113,106,72,153,63.7,61.3,"MVP-15,AS"
+2012-13,31,BRK,NBA,SG,72,72,2642,.423,.452,.375,.493,.820,.521,.153,.375,93,94,104,99,109,97,57,154,-6.5,-30.6,
+2013-14,32,BRK,NBA,SG,79,79,2575,.454,.489,.401,.533,.815,.564,.192,.397,100,100,111,106,108,104,67,153,65.8,51.0,AS
+2014-15,33,BRK,NBA,SG,80,80,2791,.435,.472,.359,.494,.801,.523,.172,.329,97,97,103,100,107,98,63,123,-3.5,-23.8,
+2015-16,34,2TM,NBA,SF,81,81,2703,.439,.471,.383,.509,.831,.538,.165,.364,97,96,108,101,110,99,60,128,10.8,-5.5,
+2015-16,34,BRK,NBA,SF,57,57,1934,.406,.427,.371,.476,.852,.512,.178,.377,90,87,105,95,113,95,64,132,-32.0,-38.6,
+2015-16,34,MIA,NBA,SF,24,24,769,.518,.569,.417,.588,.765,.603,.135,.335,115,116,118,117,101,112,49,118,42.8,33.1,
+2016-17,35,UTA,NBA,SF,78,14,1843,.436,.454,.411,.521,.818,.542,.123,.412,95,90,115,101,106,98,45,130,8.9,-14.0,
+2017-18,36,2TM,NBA,SF,55,4,1205,.406,.493,.276,.461,.889,.490,.125,.403,88,97,76,88,116,88,50,120,-43.3,-50.4,
+2017-18,36,UTA,NBA,SF,32,3,700,.420,.507,.274,.471,.833,.492,.106,.372,91,99,76,90,109,89,42,110,-22.6,-30.1,
+2017-18,36,HOU,NBA,SF,23,1,505,.381,.466,.279,.444,.952,.485,.157,.455,83,91,77,85,124,87,62,135,-20.7,-20.3,
+2018-19,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2019-20,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2020-21,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2021-22,40,BOS,NBA,SG,1,0,2,1.000,1.000,,1.000,,1.000,.000,.000,217,188,,188,,177,0,0,0.9,0.9,
+,,,,,,,,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,Added,Added,
+,,,,Pos,G,GS,MP,FG%,2P%,3P%,eFG%,FT%,TS%,FTr,3PAr,FG+,2P+,3P+,eFG+,FT+,TS+,FTr+,3PAr+,FG Add,TS Add,Awards
+18 Yrs,18 Yrs,18 Yrs,18 Yrs,,1277,1091,44236,.441,.472,.371,.497,.802,.530,.196,.301,97,98,104,101,106,99,65,132,135.8,-225.5,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATL (7 Yrs),ATL (7 Yrs),ATL (7 Yrs),ATL (7 Yrs),,508,508,19733,.449,.482,.363,.500,.808,.539,.233,.280,98,100,101,101,107,100,76,128,63.2,-18.3,
+BRK (4 Yrs),BRK (4 Yrs),BRK (4 Yrs),BRK (4 Yrs),,288,288,9942,.432,.464,.378,.502,.819,.532,.173,.369,96,95,106,101,109,99,63,142,23.8,-42.0,
+PHO (4 Yrs),PHO (4 Yrs),PHO (4 Yrs),PHO (4 Yrs),,275,220,9739,.432,.445,.393,.481,.757,.506,.158,.250,97,96,111,101,100,97,51,132,38.0,-118.9,
+UTA (2 Yrs),UTA (2 Yrs),UTA (2 Yrs),UTA (2 Yrs),,110,17,2543,.432,.469,.377,.508,.822,.529,.119,.401,94,93,105,98,107,96,45,125,-13.7,-44.1,
+BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),,49,33,1005,.441,.512,.273,.481,.769,.496,.088,.296,97,110,77,101,102,95,30,163,2.4,-15.0,
+MIA (1 Yr),MIA (1 Yr),MIA (1 Yr),MIA (1 Yr),,24,24,769,.518,.569,.417,.588,.765,.603,.135,.335,115,116,118,117,101,112,49,118,42.8,33.1,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,23,1,505,.381,.466,.279,.444,.952,.485,.157,.455,83,91,77,85,124,87,62,135,-20.7,-20.3,

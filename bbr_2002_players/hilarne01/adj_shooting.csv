@@ -1,0 +1,28 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2002-03,20,DEN,NBA,C,80,53,2258,.519,.521,.000,.519,.578,.545,.551,.005,117,113,0,109,76,105,182,3,55.3,40.2,ROY-6
+2003-04,21,DEN,NBA,PF,77,77,2504,.530,.532,.000,.530,.682,.578,.559,.003,121,116,0,113,91,112,184,2,74.4,97.7,
+2004-05,22,DEN,NBA,C,55,18,1317,.503,.505,.000,.503,.660,.551,.549,.005,112,108,0,104,87,104,169,3,15.6,20.5,
+2005-06,23,DEN,NBA,PF,1,0,3,.000,.000,,.000,,.000,.000,.000,0,0,,0,,0,0,0,-1.0,-1.1,
+2006-07,24,DEN,NBA,C,64,42,1715,.570,.571,.000,.570,.689,.611,.548,.002,124,118,0,115,92,113,168,1,75.8,89.4,
+2007-08,25,DEN,NBA,PF,16,1,266,.408,.414,.000,.408,.551,.459,.690,.014,89,86,0,82,73,85,226,6,-12.6,-15.0,
+2008-09,26,DEN,NBA,C,77,76,2510,.604,.607,.200,.604,.723,.645,.519,.007,132,125,55,121,94,118,170,3,148.3,174.8,
+2009-10,27,DEN,NBA,C,82,82,2755,.587,.589,.000,.587,.704,.631,.580,.003,127,120,0,117,93,116,193,1,124.0,157.7,
+2010-11,28,DEN,NBA,C,75,75,2291,.615,.618,.200,.615,.711,.657,.615,.008,134,127,56,123,93,121,205,3,153.1,191.3,
+2011-12,29,2TM,NBA,C,39,33,1110,.537,.542,.000,.537,.673,.573,.427,.010,120,114,0,110,89,109,155,5,38.9,42.8,
+2011-12,29,DEN,NBA,C,28,27,826,.509,.513,.000,.509,.677,.554,.473,.007,114,107,0,104,90,105,172,3,12.1,18.1,
+2011-12,29,WAS,NBA,C,11,6,284,.607,.618,.000,.607,.657,.624,.313,.018,136,130,0,125,87,118,113,8,26.8,24.7,
+2012-13,30,WAS,NBA,PF,61,49,1659,.480,.481,.000,.480,.729,.538,.453,.002,106,100,0,97,97,101,167,1,-19.8,4.3,
+2013-14,31,WAS,NBA,PF,53,37,1560,.503,.506,.200,.504,.583,.530,.448,.008,111,104,56,101,77,98,158,3,3.7,-15.2,
+2014-15,32,WAS,NBA,PF,67,58,1693,.511,.513,.200,.512,.604,.534,.336,.008,114,106,57,103,81,100,123,3,19.0,0.0,
+2015-16,33,WAS,NBA,PF,57,11,1094,.544,.549,.000,.544,.578,.564,.482,.008,120,112,0,108,76,104,174,3,32.1,21.2,
+2016-17,34,HOU,NBA,C,67,8,1198,.617,.624,.333,.621,.589,.630,.496,.023,135,124,93,121,76,114,183,7,85.1,74.7,
+2017-18,35,HOU,NBA,C,52,4,758,.569,.574,.000,.569,.636,.594,.448,.008,124,112,0,109,83,107,178,2,22.9,21.8,
+2018-19,36,HOU,NBA,C,42,2,546,.517,.531,.000,.517,.660,.552,.405,.026,112,102,0,99,86,99,157,7,-1.6,-2.0,
+2019-20,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+,,,,,,,,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,Added,Added,
+,,,,Pos,G,GS,MP,FG%,2P%,3P%,eFG%,FT%,TS%,FTr,3PAr,FG+,2P+,3P+,eFG+,FT+,TS+,FTr+,3PAr+,FG Add,TS Add,Awards
+17 Yrs,17 Yrs,17 Yrs,17 Yrs,,965,626,25237,.548,.551,.132,.548,.660,.585,.507,.007,121,114,37,111,87,109,173,3,813.2,903.1,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (10 Yrs),DEN (10 Yrs),DEN (10 Yrs),DEN (10 Yrs),,555,451,16445,.560,.562,.087,.560,.678,.602,.558,.005,124,117,24,114,89,113,183,2,645.0,773.6,
+WAS (5 Yrs),WAS (5 Yrs),WAS (5 Yrs),WAS (5 Yrs),,249,161,6290,.511,.514,.125,.512,.630,.543,.419,.007,113,106,35,103,84,101,152,3,61.8,35.0,
+HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),,161,14,2502,.586,.593,.214,.588,.613,.607,.467,.019,128,117,60,114,80,109,177,6,106.4,94.5,

@@ -1,0 +1,100 @@
+{
+  "name": "Kirk Haston",
+  "slug": "hastoki01",
+  "url": "https://www.basketball-reference.com/players/h/hastoki01.html",
+  "num_tables": 23,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "hastoki01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "hastoki01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "hastoki01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "hastoki01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "hastoki01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "hastoki01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "hastoki01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "hastoki01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "hastoki01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "hastoki01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "hastoki01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "hastoki01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "hastoki01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "hastoki01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "hastoki01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "hastoki01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "hastoki01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "hastoki01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "hastoki01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "hastoki01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "hastoki01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_22",
+      "csv": "hastoki01/table_22.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "hastoki01/all_salaries.csv"
+    }
+  ]
+}
