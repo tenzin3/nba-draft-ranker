@@ -48,45 +48,6 @@ class Srapper:
             df = self.scrap(year)
             df.to_csv(self.draft_dir / f"draft_{year}.csv", index=False)
 
-    def scrap_college_stats(self, first_name:str, last_name:str, year:int):
-        url = f"{self.college_stat_website}/{first_name.lower()}-{last_name.lower()}-1.html"
-        try:
-            resp = self.session.get(url, headers=self.headers, timeout=20)
-        except requests.exceptions.ReadTimeout:
-            print(f"Timeout for {url}")
-            return
-        except requests.exceptions.RequestException as e:
-            print(f"Request error for {url}: {e}")
-            return
-        if not resp.ok:
-            print(f"HTTP {resp.status_code} for {url}")
-            return
-
-        soup = BeautifulSoup(resp.text, 'html.parser')
-
-        output_path = self.college_stats_dir / f"{year}/{first_name.lower()}-{last_name.lower()}.html"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        with open(output_path, "w") as f:
-            f.write(soup.prettify())
-
-
-    def scrap_season_college_stats(self, year:int):
-        # Read the draft file
-        df = pd.read_csv(self.draft_dir / f"draft_{year}.csv")
-
-        # Iterate over the rows to get first and last name
-        for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Scraping college stats for {year}"):
-            name = str(row.get('PLAYER_NAME', '')).strip()
-            parts = name.split()
-            if len(parts) < 2:
-                continue
-            first_name, last_name = parts[0], parts[-1]
-            self.scrap_college_stats(first_name, last_name, year)
-            time.sleep(random.uniform(0.5, 1.5))
-        
-        
-
 if __name__ == "__main__":
     scraper = Srapper()
-    scraper.scrap_season_college_stats(2000)
+    scraper.scrap_all()
