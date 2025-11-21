@@ -1,0 +1,444 @@
+{
+  "name": "Anthony Davis",
+  "slug": "davisan02",
+  "url": "https://www.basketball-reference.com/players/d/davisan02.html",
+  "num_tables": 109,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "davisan02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "davisan02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "davisan02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "davisan02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "davisan02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "davisan02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "davisan02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "davisan02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "davisan02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "davisan02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "davisan02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "davisan02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "davisan02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "davisan02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "davisan02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "davisan02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "davisan02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "davisan02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "davisan02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "davisan02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "davisan02/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "davisan02/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "davisan02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "davisan02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "davisan02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "davisan02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "davisan02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "davisan02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "davisan02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "davisan02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "davisan02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "davisan02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "davisan02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "davisan02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "davisan02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "davisan02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "davisan02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "davisan02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "davisan02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "davisan02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "davisan02/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "davisan02/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "davisan02/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "davisan02/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "davisan02/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "davisan02/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "davisan02/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "davisan02/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "davisan02/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "davisan02/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "davisan02/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "davisan02/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "davisan02/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "davisan02/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "davisan02/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "davisan02/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "davisan02/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "davisan02/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "davisan02/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "davisan02/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "davisan02/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "davisan02/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "davisan02/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "davisan02/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "davisan02/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "davisan02/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "davisan02/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "davisan02/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "davisan02/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "davisan02/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "davisan02/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "davisan02/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "davisan02/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "davisan02/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "davisan02/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "davisan02/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "davisan02/table_77.csv"
+    },
+    {
+      "table_id": "table_78",
+      "csv": "davisan02/table_78.csv"
+    },
+    {
+      "table_id": "table_79",
+      "csv": "davisan02/table_79.csv"
+    },
+    {
+      "table_id": "table_80",
+      "csv": "davisan02/table_80.csv"
+    },
+    {
+      "table_id": "table_81",
+      "csv": "davisan02/table_81.csv"
+    },
+    {
+      "table_id": "table_82",
+      "csv": "davisan02/table_82.csv"
+    },
+    {
+      "table_id": "table_83",
+      "csv": "davisan02/table_83.csv"
+    },
+    {
+      "table_id": "table_84",
+      "csv": "davisan02/table_84.csv"
+    },
+    {
+      "table_id": "table_85",
+      "csv": "davisan02/table_85.csv"
+    },
+    {
+      "table_id": "table_86",
+      "csv": "davisan02/table_86.csv"
+    },
+    {
+      "table_id": "table_87",
+      "csv": "davisan02/table_87.csv"
+    },
+    {
+      "table_id": "table_88",
+      "csv": "davisan02/table_88.csv"
+    },
+    {
+      "table_id": "table_89",
+      "csv": "davisan02/table_89.csv"
+    },
+    {
+      "table_id": "table_90",
+      "csv": "davisan02/table_90.csv"
+    },
+    {
+      "table_id": "table_91",
+      "csv": "davisan02/table_91.csv"
+    },
+    {
+      "table_id": "table_92",
+      "csv": "davisan02/table_92.csv"
+    },
+    {
+      "table_id": "table_93",
+      "csv": "davisan02/table_93.csv"
+    },
+    {
+      "table_id": "table_94",
+      "csv": "davisan02/table_94.csv"
+    },
+    {
+      "table_id": "table_95",
+      "csv": "davisan02/table_95.csv"
+    },
+    {
+      "table_id": "table_96",
+      "csv": "davisan02/table_96.csv"
+    },
+    {
+      "table_id": "table_97",
+      "csv": "davisan02/table_97.csv"
+    },
+    {
+      "table_id": "table_98",
+      "csv": "davisan02/table_98.csv"
+    },
+    {
+      "table_id": "table_99",
+      "csv": "davisan02/table_99.csv"
+    },
+    {
+      "table_id": "table_100",
+      "csv": "davisan02/table_100.csv"
+    },
+    {
+      "table_id": "table_101",
+      "csv": "davisan02/table_101.csv"
+    },
+    {
+      "table_id": "table_102",
+      "csv": "davisan02/table_102.csv"
+    },
+    {
+      "table_id": "table_103",
+      "csv": "davisan02/table_103.csv"
+    },
+    {
+      "table_id": "table_104",
+      "csv": "davisan02/table_104.csv"
+    },
+    {
+      "table_id": "table_105",
+      "csv": "davisan02/table_105.csv"
+    },
+    {
+      "table_id": "table_106",
+      "csv": "davisan02/table_106.csv"
+    },
+    {
+      "table_id": "table_107",
+      "csv": "davisan02/table_107.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "davisan02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_dal",
+      "csv": "davisan02/contracts_dal.csv"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,ORtg,DRtg,Awards
+2016-17,20,NOP,NBA,PF,17,0,199,8.9,18.7,.474,0.0,0.0,,8.9,18.7,.474,.474,3.7,5.2,.714,5.7,12.3,18.0,1.0,1.0,1.7,1.7,4.2,21.4,107,105,
+2017-18,21,NOP,NBA,PF,52,0,581,8.4,14.5,.580,0.0,0.0,,8.4,14.5,.580,.580,4.1,5.4,.758,3.9,13.5,17.3,1.6,0.9,1.7,2.3,6.7,20.9,118,105,
+2018-19,22,NOP,NBA,PF,64,1,896,8.7,14.1,.620,0.1,0.2,.250,8.7,13.8,.625,.622,2.6,3.5,.746,3.9,13.3,17.2,1.7,1.5,1.7,2.5,5.9,20.1,119,108,
+2019-20,23,PHO,NBA,C,47,2,479,9.1,14.0,.648,0.1,0.3,.333,9.0,13.7,.655,.651,3.4,3.9,.872,3.0,10.0,13.0,2.2,1.1,1.2,3.2,5.4,21.7,119,110,
+2020-21,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2021-22,25,DET,NBA,C,3,0,31,4.7,12.6,.375,0.0,0.0,,4.7,12.6,.375,.375,7.9,9.4,.833,6.3,12.6,18.9,0.0,1.6,0.0,1.6,9.4,17.3,115,111,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,183,3,2186,8.7,14.5,.596,0.0,0.2,.286,8.6,14.4,.599,.597,3.3,4.3,.774,3.9,12.5,16.4,1.7,1.2,1.6,2.5,5.9,20.7,117,108,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOP (3 Yrs),NOP (3 Yrs),NOP (3 Yrs),NOP (3 Yrs),,133,1,1676,8.6,14.7,.585,0.0,0.1,.250,8.6,14.6,.588,.586,3.2,4.3,.747,4.1,13.3,17.3,1.6,1.2,1.7,2.4,6.0,20.5,117,107,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,47,2,479,9.1,14.0,.648,0.1,0.3,.333,9.0,13.7,.655,.651,3.4,3.9,.872,3.0,10.0,13.0,2.2,1.1,1.2,3.2,5.4,21.7,119,110,
+DET (1 Yr),DET (1 Yr),DET (1 Yr),DET (1 Yr),,3,0,31,4.7,12.6,.375,0.0,0.0,,4.7,12.6,.375,.375,7.9,9.4,.833,6.3,12.6,18.9,0.0,1.6,0.0,1.6,9.4,17.3,115,111,

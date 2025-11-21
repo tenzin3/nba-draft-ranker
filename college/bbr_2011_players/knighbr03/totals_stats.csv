@@ -1,0 +1,27 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2011-12,20,DET,NBA,PG,66,60,2129,319,769,.415,105,276,.380,214,493,.434,.483,104,137,.759,33,178,211,251,49,10,171,154,847,0,ROY-8
+2012-13,21,DET,NBA,PG,75,75,2365,357,878,.407,120,327,.367,237,551,.430,.475,165,225,.733,54,193,247,303,58,8,205,157,999,0,
+2013-14,22,MIL,NBA,PG,72,69,2400,461,1092,.422,110,338,.325,351,754,.466,.473,259,323,.802,46,209,255,352,69,17,188,146,1291,0,
+2014-15,23,2TM,NBA,PG,63,61,2035,375,888,.422,125,321,.389,250,567,.441,.493,195,223,.874,28,216,244,330,90,10,189,114,1070,0,
+2014-15,23,MIL,NBA,PG,52,52,1688,324,745,.435,104,254,.409,220,491,.448,.505,171,194,.881,26,195,221,281,84,9,166,93,923,0,
+2014-15,23,PHO,NBA,SG,11,9,347,51,143,.357,21,67,.313,30,76,.395,.430,24,29,.828,2,21,23,49,6,1,23,21,147,0,
+2015-16,24,PHO,NBA,SG,52,50,1870,371,895,.415,120,351,.342,251,544,.461,.482,156,183,.852,36,166,202,263,61,20,177,124,1018,1,
+2016-17,25,PHO,NBA,SG,54,5,1140,209,525,.398,45,139,.324,164,386,.425,.441,132,154,.857,25,93,118,130,27,5,88,87,595,0,
+2017-18,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2018-19,27,2TM,NBA,PG,39,26,736,99,260,.381,41,129,.318,58,131,.443,.460,27,34,.794,10,49,59,71,21,2,30,62,266,0,
+2018-19,27,HOU,NBA,PG,12,0,118,11,47,.234,5,32,.156,6,15,.400,.287,9,11,.818,1,8,9,9,2,0,5,14,36,0,
+2018-19,27,CLE,NBA,PG,27,26,618,88,213,.413,36,97,.371,52,116,.448,.498,18,23,.783,9,41,50,62,19,2,25,48,230,0,
+2019-20,28,2TM,NBA,SG,25,3,462,59,167,.353,45,131,.344,14,36,.389,.488,20,34,.588,4,37,41,69,10,3,38,40,183,0,
+2019-20,28,CLE,NBA,SG,16,0,241,28,86,.326,19,64,.297,9,22,.409,.436,4,13,.308,3,17,20,31,5,2,16,20,79,0,
+2019-20,28,DET,NBA,PG,9,3,221,31,81,.383,26,67,.388,5,14,.357,.543,16,21,.762,1,20,21,38,5,1,22,20,104,0,
+2020-21,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned
+2021-22,30,DAL,NBA,PG,5,0,65,10,25,.400,4,17,.235,6,8,.750,.480,8,8,1.000,0,8,8,8,1,0,4,5,32,0,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,451,349,13202,2260,5499,.411,715,2029,.352,1545,3470,.445,.476,1066,1321,.807,236,1149,1385,1777,386,75,1090,889,6301,1,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,63,2400,411,1000,.411,130,369,.352,281,631,.445,.476,194,240,.807,43,209,252,323,70,14,198,162,1146,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),,150,138,4715,707,1728,.409,251,670,.375,456,1058,.431,.482,285,383,.744,88,391,479,592,112,19,398,331,1950,0,
+PHO (3 Yrs),PHO (3 Yrs),PHO (3 Yrs),PHO (3 Yrs),,117,64,3357,631,1563,.404,186,557,.334,445,1006,.442,.463,312,366,.852,63,280,343,442,94,26,288,232,1760,1,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,124,121,4088,785,1837,.427,214,592,.361,571,1245,.459,.486,430,517,.832,72,404,476,633,153,26,354,239,2214,0,
+CLE (2 Yrs),CLE (2 Yrs),CLE (2 Yrs),CLE (2 Yrs),,43,26,859,116,299,.388,55,161,.342,61,138,.442,.480,22,36,.611,12,58,70,93,24,4,41,68,309,0,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,12,0,118,11,47,.234,5,32,.156,6,15,.400,.287,9,11,.818,1,8,9,9,2,0,5,14,36,0,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,5,0,65,10,25,.400,4,17,.235,6,8,.750,.480,8,8,1.000,0,8,8,8,1,0,4,5,32,0,

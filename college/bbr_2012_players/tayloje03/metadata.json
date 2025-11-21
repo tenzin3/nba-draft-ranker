@@ -1,0 +1,68 @@
+{
+  "name": "Jeff Taylor",
+  "slug": "tayloje03",
+  "url": "https://www.basketball-reference.com/players/t/tayloje03.html",
+  "num_tables": 15,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "tayloje03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "tayloje03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "tayloje03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "tayloje03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "tayloje03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "tayloje03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "tayloje03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "tayloje03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "tayloje03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "tayloje03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "tayloje03/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "tayloje03/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "tayloje03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "tayloje03/table_14.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "tayloje03/all_salaries.csv"
+    }
+  ]
+}

@@ -7,10 +7,11 @@ from urllib.parse import urljoin, urlparse
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup, Comment
+from io import StringIO
 
 BASE = "https://www.basketball-reference.com"
-DRAFT_URL = "https://www.basketball-reference.com/draft/NBA_2004.html"
-OUT_DIR = "bbr_2004_players"
+DRAFT_URL = "https://www.basketball-reference.com/draft/NBA_2020.html"
+OUT_DIR = "bbr_2020_players"
 
 HEADERS = {
     "User-Agent": (
@@ -97,7 +98,7 @@ def get_drafted_player_links(draft_url=DRAFT_URL):
 def parse_all_tables_from_player_page(soup: BeautifulSoup):
     """
     Basketball-Reference often stores tables inside HTML comments.
-    We’ll collect:
+    We'll collect:
       1) normal (visible) <table> elements
       2) tables embedded within <!-- ... -->
     Returns dict: {table_id_or_name: DataFrame}
@@ -110,7 +111,7 @@ def parse_all_tables_from_player_page(soup: BeautifulSoup):
         key = tid if tid else f"table_{len(tables)+1}"
         try:
             # read_html returns a list; wrap tag into a string
-            dfs = pd.read_html(str(tag))
+            dfs = pd.read_html(StringIO(str(tag)))
             if dfs:
                 tables[key] = dfs[0]
         except ValueError:
@@ -134,7 +135,7 @@ def parse_all_tables_from_player_page(soup: BeautifulSoup):
 
 def extract_player_name(soup: BeautifulSoup) -> str:
     """
-    Try to extract the player’s name from the page header.
+    Try to extract the player's name from the page header.
     Basketball-Reference usually has: <h1 itemprop="name"><span>LeBron James</span></h1>
     """
     h1 = soup.find("h1")
@@ -193,30 +194,83 @@ def save_player_data(player_url: str):
 
     return slug, player_name, len(saved_tables)
 
+def get_already_scraped_players():
+    """
+    Check which players have already been scraped by looking at existing directories.
+    Returns a set of slugs that have been completed.
+    """
+    already_scraped = set()
+    if os.path.exists(OUT_DIR):
+        for item in os.listdir(OUT_DIR):
+            item_path = os.path.join(OUT_DIR, item)
+            # Check if it's a directory and has metadata.json (indicates complete scrape)
+            if os.path.isdir(item_path):
+                metadata_path = os.path.join(item_path, "metadata.json")
+                if os.path.exists(metadata_path):
+                    already_scraped.add(item)
+    return already_scraped
+
 def main():
     print(f"Fetching drafted players from: {DRAFT_URL}")
     player_links = get_drafted_player_links(DRAFT_URL)
     print(f"Found {len(player_links)} player pages.")
-
+    
+    # Check for already-scraped players
+    already_scraped = get_already_scraped_players()
+    if already_scraped:
+        print(f"Found {len(already_scraped)} already-scraped players. Will skip them.")
+    
     results = []
+    skipped_count = 0
+    
     for i, url in enumerate(player_links, start=1):
+        slug = slug_from_url(url)
+        
+        # Skip if already scraped
+        if slug in already_scraped:
+            print(f"[{i}/{len(player_links)}] Skipping {slug} (already scraped)")
+            skipped_count += 1
+            # Load existing metadata for the summary
+            try:
+                metadata_path = os.path.join(OUT_DIR, slug, "metadata.json")
+                with open(metadata_path, "r", encoding="utf-8") as f:
+                    metadata = json.load(f)
+                    results.append({
+                        "slug": slug, 
+                        "name": metadata.get("name", "Unknown"), 
+                        "url": url, 
+                        "tables": metadata.get("num_tables", 0),
+                        "skipped": True
+                    })
+            except Exception:
+                pass
+            continue
+        
         print(f"[{i}/{len(player_links)}] Scraping {url} ...")
         try:
             slug, name, n_tables = save_player_data(url)
-            results.append({"slug": slug, "name": name, "url": url, "tables": n_tables})
+            results.append({"slug": slug, "name": name, "url": url, "tables": n_tables, "skipped": False})
         except Exception as e:
             print(f"  ERROR for {url}: {e}")
-        # polite delay to respect the site
-        time.sleep(1.0 + random.uniform(0.2, 0.8))
+        
+        # Polite delay to respect the site
+        time.sleep(3.0 + random.uniform(1.0, 2.0))
+        
+        # Extra delay every 10 players
+        if (i - skipped_count) % 10 == 0 and (i - skipped_count) > 0:
+            print(f"  Taking a longer break after scraping {i - skipped_count} new players...")
+            time.sleep(10.0)
 
     # Save run summary
     with open(os.path.join(OUT_DIR, "_scrape_summary.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    print(f"Done. Output in: {OUT_DIR}")
-    print("Example:")
+    print(f"\nDone. Output in: {OUT_DIR}")
+    print(f"Total players: {len(player_links)}")
+    print(f"Skipped (already scraped): {skipped_count}")
+    print(f"Newly scraped: {len(player_links) - skipped_count}")
     if results:
-        print(f"  {OUT_DIR}/{results[0]['slug']}/")
+        print(f"\nExample player folder: {OUT_DIR}/{results[0]['slug']}/")
 
 if __name__ == "__main__":
     main()

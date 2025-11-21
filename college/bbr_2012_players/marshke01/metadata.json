@@ -1,0 +1,76 @@
+{
+  "name": "Kendall Marshall",
+  "slug": "marshke01",
+  "url": "https://www.basketball-reference.com/players/m/marshke01.html",
+  "num_tables": 17,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "marshke01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "marshke01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "marshke01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "marshke01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "marshke01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "marshke01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "marshke01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "marshke01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "marshke01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "marshke01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "marshke01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "marshke01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "marshke01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "marshke01/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "marshke01/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "marshke01/table_16.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "marshke01/all_salaries.csv"
+    }
+  ]
+}

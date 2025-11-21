@@ -1,0 +1,18 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2009-10,21,HOU,NBA,SF,74,4,1488,0,29,66,5,0,0.3,1.2,30,6,39,4,40,11,201,8,33,
+2010-11,22,HOU,NBA,SF,78,22,1738,0,2,96,3,0,4.1,3.4,34,15,56,9,64,5,286,12,43,
+2011-12,23,HOU,NBA,SF,58,9,1298,0,20,77,3,0,0.8,0.8,32,19,38,2,30,2,162,9,30,
+2012-13,24,MIN,NBA,SF,23,1,508,0,21,79,0,0,3.0,6.0,10,6,11,2,16,4,54,3,9,
+2013-14,25,MIN,NBA,SF,41,8,751,0,50,50,0,0,-0.7,-3.9,12,6,28,1,19,3,70,3,9,
+2014-15,26,MIN,NBA,SF,67,4,1286,0,10,61,29,0,-10.5,-1.3,29,11,39,3,39,3,140,9,28,
+2015-16,27,2TM,NBA,SF,66,2,929,0,7,63,30,0,-0.1,0.0,27,6,33,3,28,3,144,4,12,
+2015-16,27,IND,NBA,SF,49,2,729,0,8,58,34,0,2.6,0.9,16,6,25,2,24,3,109,4,8,
+2015-16,27,PHO,NBA,SF,17,0,200,0,3,80,17,0,-10.3,-3.2,11,0,8,1,4,0,35,0,4,
+2016-17,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,407,50,7998,0,18,72,10,0,-0.5,0.9,174,69,244,24,236,31,1057,48,164,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,10,1611,0,18,72,10,0,-0.5,0.9,35,14,49,5,48,6,213,10,33,
+,,,,,,,,,,,,,,,,,,,,,,,,
+HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),,210,35,4524,0,16,80,4,0,1.9,1.9,96,40,133,15,134,18,649,29,106,
+MIN (3 Yrs),MIN (3 Yrs),MIN (3 Yrs),MIN (3 Yrs),,131,13,2545,0,24,61,15,0,-4.9,-0.6,51,23,78,6,74,10,264,15,46,
+IND (1 Yr),IND (1 Yr),IND (1 Yr),IND (1 Yr),,49,2,729,0,8,58,34,0,2.6,0.9,16,6,25,2,24,3,109,4,8,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,17,0,200,0,3,80,17,0,-10.3,-3.2,11,0,8,1,4,0,35,0,4,

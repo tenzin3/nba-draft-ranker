@@ -1,0 +1,72 @@
+{
+  "name": "Nate Wolters",
+  "slug": "woltena01",
+  "url": "https://www.basketball-reference.com/players/w/woltena01.html",
+  "num_tables": 16,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "woltena01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "woltena01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "woltena01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "woltena01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "woltena01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "woltena01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "woltena01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "woltena01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "woltena01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "woltena01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "woltena01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "woltena01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "woltena01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "woltena01/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "woltena01/table_15.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "woltena01/all_salaries.csv"
+    }
+  ]
+}

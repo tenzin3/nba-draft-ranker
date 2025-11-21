@@ -1,0 +1,37 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Unnamed: 8_level_0', 'FG%')","('Unnamed: 9_level_0', 'Dist.')","('% of FGA by Distance', '2P')","('% of FGA by Distance', '0-3')","('% of FGA by Distance', '3-10')","('% of FGA by Distance', '10-16')","('% of FGA by Distance', '16-3P')","('% of FGA by Distance', '3P')","('FG% by Distance', '2P')","('FG% by Distance', '0-3')","('FG% by Distance', '3-10')","('FG% by Distance', '10-16')","('FG% by Distance', '16-3P')","('FG% by Distance', '3P')","(""% of FG Ast'd"", '2P')","(""% of FG Ast'd"", '3P')","('Dunks', '%FGA')","('Dunks', '#')","('Corner 3s', '%3PA')","('Corner 3s', '3P%')","('1/2 Court', 'Att.')","('1/2 Court', 'Md.')","('Unnamed: 30_level_0', 'Awards')"
+2010-11,20,DET,NBA,C,80,48,2222,.551,3.1,.998,.740,.173,.047,.038,.002,.552,.649,.295,.269,.190,.000,.568,,.055,27,.000,,1,0,ROY-6
+2011-12,21,DET,NBA,C,66,66,2082,.521,4.4,.999,.588,.268,.072,.072,.001,.522,.608,.407,.339,.429,.000,.469,,.049,33,.000,,1,0,DPOY-18
+2012-13,22,DET,NBA,C,81,81,2687,.486,5.2,.996,.560,.256,.043,.137,.004,.488,.614,.332,.311,.317,.000,.521,,.044,43,.250,.000,1,0,
+2013-14,23,DET,NBA,PF,82,82,2690,.497,5.0,.999,.524,.321,.060,.094,.001,.497,.632,.368,.410,.242,.000,.558,,.038,35,.000,,1,0,
+2014-15,24,DET,NBA,PF,69,57,2137,.496,3.5,1.000,.531,.393,.033,.043,.000,.496,.614,.367,.321,.351,,.499,,.027,22,,,0,0,
+2015-16,25,MIL,NBA,C,79,67,2314,.522,4.1,.999,.542,.324,.067,.065,.001,.522,.596,.446,.429,.393,.000,.570,,.021,19,.000,,0,0,
+2016-17,26,MIL,NBA,C,81,0,1823,.533,4.5,.994,.569,.303,.055,.066,.006,.536,.620,.414,.475,.438,.000,.581,,.029,19,.000,,2,0,6MOY-6
+2017-18,27,3TM,NBA,C,51,14,1040,.565,3.9,1.000,.516,.396,.044,.044,.000,.565,.729,.379,.412,.471,,.514,,.023,7,,,0,0,
+2017-18,27,MIL,NBA,C,5,0,79,.485,4.6,1.000,.485,.364,.091,.061,.000,.485,.563,.417,.667,.000,,.625,,.000,0,,,0,0,
+2017-18,27,PHO,NBA,C,20,14,465,.626,3.2,1.000,.587,.348,.026,.039,.000,.626,.747,.426,.500,.667,,.495,,.019,2,,,0,0,
+2017-18,27,BOS,NBA,C,26,0,496,.530,4.0,1.000,.465,.439,.051,.045,.000,.530,.739,.345,.300,.444,,.514,,.030,5,,,0,0,
+2018-19,28,3TM,NBA,C,43,2,480,.487,4.9,.974,.534,.354,.063,.021,.026,.495,.604,.388,.333,.000,.200,.527,1.000,.016,2,.000,,0,0,
+2018-19,28,TOR,NBA,C,38,2,423,.460,4.2,.975,.565,.348,.050,.012,.025,.471,.560,.375,.250,.000,.000,.527,,.019,2,.000,,0,0,
+2018-19,28,BOS,NBA,C,2,0,5,.600,3.3,1.000,.400,.600,.000,.000,.000,.600,1.000,.333,,,,.000,,.000,0,,,0,0,
+2018-19,28,PHI,NBA,C,3,0,52,.652,7.4,.957,.348,.348,.174,.087,.043,.636,1.000,.500,.500,.000,1.000,.643,1.000,.000,0,.000,,0,0,
+2019-20,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2020-21,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2021-22,31,4TM,NBA,C,14,0,195,.561,2.9,1.000,.632,.351,.000,.018,.000,.561,.694,.350,,.000,,.563,,.018,1,,,0,0,
+2021-22,31,MIN,NBA,C,4,0,81,.591,3.7,1.000,.545,.409,.000,.045,.000,.591,.917,.222,,.000,,.692,,.000,0,,,0,0,
+2021-22,31,WAS,NBA,C,2,0,18,.500,2.3,1.000,.750,.250,.000,.000,.000,.500,.667,.000,,,,.500,,.000,0,,,0,0,
+2021-22,31,MIL,NBA,C,5,0,70,.500,3.0,1.000,.636,.364,.000,.000,.000,.500,.429,.625,,,,.455,,.045,1,,,0,0,
+2021-22,31,UTA,NBA,C,3,0,26,.800,2.5,1.000,.800,.200,.000,.000,.000,.800,1.000,.000,,,,.500,,.000,0,,,0,0,
+,,,,,,,,,,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,% of FG Ast'd,% of FG Ast'd,Dunks,Dunks,Corner 3s,Corner 3s,1/2 Court,1/2 Court,
+,,,,Pos,G,GS,MP,FG%,Dist.,2P,0-3,3-10,10-16,16-3P,3P,2P,0-3,3-10,10-16,16-3P,3P,2P,3P,%FGA,#,%3PA,3P%,Att.,Md.,Awards
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,646,417,17670,.514,4.0,.997,.565,.305,.053,.074,.003,.515,.624,.382,.376,.336,.059,.536,1.000,.035,208,.059,.000,6,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,53,2243,.514,4.0,.997,.565,.305,.053,.074,.003,.515,.624,.382,.376,.336,.059,.536,1.000,.035,26,.059,.000,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (5 Yrs),DET (5 Yrs),DET (5 Yrs),DET (5 Yrs),,378,334,11818,.505,4.2,.998,.574,.290,.051,.083,.002,.506,.622,.361,.343,.311,.000,.522,,.042,160,.143,.000,4,0,
+MIL (4 Yrs),MIL (4 Yrs),MIL (4 Yrs),MIL (4 Yrs),,170,67,4286,.526,4.1,.997,.553,.316,.062,.064,.003,.527,.603,.435,.453,.405,.000,.575,,.024,39,.000,,2,0,
+BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),,28,0,501,.532,3.7,1.000,.463,.443,.049,.044,.000,.532,.745,.344,.300,.444,,.500,,.030,5,,,0,0,
+TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),,38,2,423,.460,4.2,.975,.565,.348,.050,.012,.025,.471,.560,.375,.250,.000,.000,.527,,.019,2,.000,,0,0,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,20,14,465,.626,3.2,1.000,.587,.348,.026,.039,.000,.626,.747,.426,.500,.667,,.495,,.019,2,,,0,0,
+MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),,4,0,81,.591,3.7,1.000,.545,.409,.000,.045,.000,.591,.917,.222,,.000,,.692,,.000,0,,,0,0,
+PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),,3,0,52,.652,7.4,.957,.348,.348,.174,.087,.043,.636,1.000,.500,.500,.000,1.000,.643,1.000,.000,0,.000,,0,0,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,3,0,26,.800,2.5,1.000,.800,.200,.000,.000,.000,.800,1.000,.000,,,,.500,,.000,0,,,0,0,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,2,0,18,.500,2.3,1.000,.750,.250,.000,.000,.000,.500,.667,.000,,,,.500,,.000,0,,,0,0,

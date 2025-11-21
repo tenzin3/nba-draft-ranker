@@ -1,0 +1,18 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP,Awards
+2016-17,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2017-18,21,PHI,NBA,PG,81,81,2732,20.0,.557,.011,.342,5.9,19.5,13.0,37.4,2.5,2.1,19.5,22.3,4.2,5.0,9.2,.162,2.0,2.5,4.5,4.5,ROY-1
+2018-19,22,PHI,NBA,PG,79,79,2700,20.0,.582,.006,.446,6.9,20.0,13.7,34.2,2.0,1.8,19.3,22.1,4.6,3.6,8.2,.146,2.2,1.3,3.6,3.8,AS
+2019-20,23,PHI,NBA,PG,57,57,2017,20.4,.602,.011,.461,6.2,18.2,12.2,33.8,2.9,1.4,20.4,20.9,3.8,3.1,6.9,.165,1.3,2.3,3.6,2.8,"DPOY-4,AS,NBA3,DEF1"
+2020-21,24,PHI,NBA,PG,58,58,1877,18.3,.584,.017,.492,5.6,18.7,12.2,31.3,2.4,1.7,19.6,20.2,2.7,3.3,6.0,.153,0.7,2.2,2.9,2.3,"MVP-12,DPOY-2,AS,DEF1"
+2021-22,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury,Did not play - holdout/back injury
+2022-23,26,BRK,NBA,PG,42,33,1105,13.4,.559,.009,.243,4.2,22.2,13.4,31.3,2.4,1.9,27.2,14.3,0.5,1.7,2.2,.097,-2.2,2.6,0.4,0.7,
+2023-24,27,BRK,NBA,PG,15,12,359,16.3,.571,.000,.203,9.2,27.6,18.1,33.2,1.7,2.3,25.1,13.0,0.5,0.5,1.0,.133,-0.5,2.9,2.4,0.4,
+2024-25,28,2TM,NBA,PG,51,24,1120,12.4,.539,.000,.148,4.6,20.3,12.2,37.0,1.7,2.0,30.0,13.2,0.5,1.3,1.8,.078,-2.3,1.8,-0.5,0.4,
+2024-25,28,BRK,NBA,PG,33,24,825,12.6,.562,.000,.153,3.9,20.5,11.8,41.6,1.6,1.9,32.7,14.3,0.3,0.9,1.1,.065,-2.4,1.4,-1.0,0.2,
+2024-25,28,LAC,NBA,PG,18,0,295,11.9,.464,.000,.132,6.6,19.7,13.2,24.3,2.0,2.4,20.0,10.4,0.2,0.5,0.7,.116,-1.9,2.7,0.9,0.2,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,383,344,11910,18.4,.576,.010,.392,6.0,19.8,13.0,34.4,2.3,1.8,20.9,19.8,16.8,18.6,35.4,.143,0.9,2.1,3.0,15.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,74,2550,18.4,.576,.010,.392,6.0,19.8,13.0,34.4,2.3,1.8,20.9,19.8,3.6,4.0,7.6,.143,0.9,2.1,3.0,3.2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PHI (4 Yrs),PHI (4 Yrs),PHI (4 Yrs),PHI (4 Yrs),,275,275,9326,19.8,.579,.011,.425,6.2,19.2,12.9,34.5,2.4,1.8,19.6,21.5,15.3,15.0,30.4,.156,1.6,2.1,3.7,13.5,
+BRK (3 Yrs),BRK (3 Yrs),BRK (3 Yrs),BRK (3 Yrs),,90,69,2289,13.6,.562,.004,.205,4.9,22.4,13.6,35.3,2.0,1.9,28.9,14.1,1.3,3.1,4.3,.091,-2.0,2.2,0.2,1.3,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,18,0,295,11.9,.464,.000,.132,6.6,19.7,13.2,24.3,2.0,2.4,20.0,10.4,0.2,0.5,0.7,.116,-1.9,2.7,0.9,0.2,

@@ -1,0 +1,12 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2006-07,22,POR,NBA,SG,57,55,2015,.456,.475,.377,.492,.838,.548,.315,.191,100,98,105,99,111,101,96,90,-6.4,11.7,ROY-1
+2007-08,23,POR,NBA,SG,74,74,2792,.454,.480,.340,.485,.753,.531,.319,.184,99,99,94,98,100,98,104,83,-28.9,-25.5,AS
+2008-09,24,POR,NBA,SG,78,78,2903,.480,.501,.377,.512,.824,.573,.383,.167,105,103,103,102,107,105,125,75,31.5,88.1,"MVP-9,AS,NBA2"
+2009-10,25,POR,NBA,SG,65,65,2419,.473,.512,.330,.508,.780,.568,.424,.213,103,104,93,101,103,105,141,96,15.5,60.6,"AS,NBA3"
+2010-11,26,POR,NBA,SG,47,23,1310,.400,.418,.333,.436,.848,.491,.264,.218,87,86,93,87,111,91,88,98,-65.3,-59.1,
+2011-12,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired
+2012-13,28,MIN,NBA,SG,5,5,122,.314,.423,.000,.314,.700,.368,.286,.257,69,88,0,63,93,69,106,106,-12.7,-13.1,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,326,300,11561,.459,.485,.348,.492,.800,.548,.352,.191,100,100,97,99,105,101,115,86,-66.3,62.7,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+POR (5 Yrs),POR (5 Yrs),POR (5 Yrs),POR (5 Yrs),,321,295,11439,.460,.485,.352,.493,.801,.549,.353,.190,100,100,98,99,105,101,115,86,-53.6,75.8,
+MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),,5,5,122,.314,.423,.000,.314,.700,.368,.286,.257,69,88,0,63,93,69,106,106,-12.7,-13.1,

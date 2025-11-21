@@ -1,0 +1,16 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2019-20,19,CLE,NBA,SF,50,3,1162,.442,.506,.335,.505,.723,.535,.240,.375,96,97,94,95,94,95,92,98,-20.3,-27.7,
+2020-21,20,HOU,NBA,SG,26,23,835,.425,.515,.311,.493,.734,.528,.256,.439,91,97,85,92,94,92,104,112,-32.8,-36.0,
+2021-22,21,HOU,NBA,PG,61,61,1907,.415,.456,.375,.511,.642,.531,.239,.511,90,86,106,96,83,94,96,128,-34.2,-61.8,
+2022-23,22,HOU,NBA,PG,59,59,2024,.442,.501,.366,.522,.784,.565,.299,.436,93,91,102,96,100,97,112,112,-41.0,-32.7,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2024-25,24,2TM,NBA,SG,75,4,1482,.449,.501,.311,.492,.769,.531,.259,.271,96,92,86,91,99,92,107,64,-67.2,-66.1,
+2024-25,24,LAC,NBA,SG,45,2,884,.423,.485,.245,.455,.645,.476,.187,.260,90,89,68,84,83,83,77,62,-72.1,-88.6,
+2024-25,24,MIL,NBA,SG,30,2,598,.494,.529,.408,.553,.871,.616,.380,.290,106,97,113,102,112,107,156,69,4.9,22.5,
+2025-26,25,MIL,NBA,PG,1,1,9,.600,.500,.667,.800,1.000,.850,.400,.600,128,91,186,147,127,146,140,143,2.6,3.2,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,272,151,7419,.435,.493,.352,.507,.735,.541,.262,.413,93,92,98,94,94,94,103,104,-192.9,-221.1,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),,146,143,4766,.428,.487,.361,.512,.726,.545,.268,.466,92,90,101,95,93,95,104,118,-108.0,-130.5,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,31,3,607,.496,.528,.419,.558,.874,.620,.380,.296,106,97,116,103,112,108,156,70,7.5,25.7,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,50,3,1162,.442,.506,.335,.505,.723,.535,.240,.375,96,97,94,95,94,95,92,98,-20.3,-27.7,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,45,2,884,.423,.485,.245,.455,.645,.476,.187,.260,90,89,68,84,83,83,77,62,-72.1,-88.6,

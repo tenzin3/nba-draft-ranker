@@ -1,0 +1,20 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP,Awards
+2010-11,21,SAC,NBA,C,1,0,2,-17.9,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,.007,-27.9,0.0,-27.9,0.0,
+2011-12,22,SAC,NBA,C,18,0,109,16.2,.449,.000,.444,15.4,24.3,19.6,0.0,1.4,10.0,13.4,14.8,0.0,0.2,0.2,.073,-2.0,0.4,-1.6,0.0,
+2012-13,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2013-14,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2014-15,25,MIA,NBA,C,48,32,1142,26.2,.619,.000,.403,15.6,34.7,25.4,1.0,1.2,9.2,11.3,21.1,2.8,2.4,5.3,.221,2.5,1.6,4.1,1.8,DPOY-15
+2015-16,26,MIA,NBA,C,73,43,2125,25.6,.629,.000,.482,13.1,32.4,23.1,2.4,1.1,9.7,14.2,20.7,5.0,5.3,10.3,.233,1.7,2.4,4.1,3.3,"DPOY-3,DEF2"
+2016-17,27,MIA,NBA,C,77,77,2513,22.6,.579,.000,.368,12.8,35.3,24.0,3.8,1.1,5.0,12.0,22.7,4.2,5.3,9.5,.181,0.9,0.5,1.5,2.2,DPOY-5
+2017-18,28,MIA,NBA,C,54,54,1364,24.1,.573,.003,.315,14.3,36.6,25.4,6.9,1.4,5.9,12.3,24.7,2.3,3.0,5.3,.187,1.5,1.1,2.6,1.6,
+2018-19,29,MIA,NBA,C,72,53,1674,23.5,.564,.024,.357,16.3,35.6,25.9,5.6,1.3,7.3,11.0,22.6,2.3,4.0,6.3,.180,1.1,1.2,2.3,1.8,
+2019-20,30,POR,NBA,C,67,61,2008,25.0,.644,.010,.340,13.6,33.3,23.6,5.9,0.6,8.4,12.9,19.6,5.6,3.0,8.5,.204,2.5,0.7,3.2,2.6,DPOY-11
+2020-21,31,SAC,NBA,C,36,4,546,19.2,.566,.004,.353,12.2,31.8,21.9,5.6,0.8,7.1,13.4,23.5,0.3,0.6,0.9,.081,-1.8,-0.4,-2.2,0.0,
+2021-22,32,UTA,NBA,C,65,8,1162,22.9,.662,.000,.506,16.2,29.9,23.3,3.4,0.9,7.8,11.6,17.1,3.4,2.3,5.8,.238,0.6,1.4,2.1,1.2,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,511,332,12645,23.9,.602,.006,.385,14.2,33.9,24.1,4.2,1.1,7.5,12.4,21.4,26.0,26.0,52.0,.197,1.4,1.1,2.5,14.5,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,53,2029,23.9,.602,.006,.385,14.2,33.9,24.1,4.2,1.1,7.5,12.4,21.4,4.2,4.2,8.3,.197,1.4,1.1,2.5,2.3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MIA (5 Yrs),MIA (5 Yrs),MIA (5 Yrs),MIA (5 Yrs),,324,259,8818,24.2,.590,.005,.384,14.1,34.8,24.5,3.9,1.2,7.2,12.2,22.3,16.7,19.9,36.6,.199,1.5,1.3,2.8,10.7,
+SAC (3 Yrs),SAC (3 Yrs),SAC (3 Yrs),SAC (3 Yrs),,55,4,657,18.6,.553,.004,.363,12.7,30.4,21.4,4.6,0.9,7.6,13.4,22.0,0.3,0.8,1.1,.080,-1.9,-0.2,-2.2,0.0,
+POR (1 Yr),POR (1 Yr),POR (1 Yr),POR (1 Yr),,67,61,2008,25.0,.644,.010,.340,13.6,33.3,23.6,5.9,0.6,8.4,12.9,19.6,5.6,3.0,8.5,.204,2.5,0.7,3.2,2.6,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,65,8,1162,22.9,.662,.000,.506,16.2,29.9,23.3,3.4,0.9,7.8,11.6,17.1,3.4,2.3,5.8,.238,0.6,1.4,2.1,1.2,

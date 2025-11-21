@@ -1,0 +1,120 @@
+{
+  "name": "Josh Boone",
+  "slug": "boonejo01",
+  "url": "https://www.basketball-reference.com/players/b/boonejo01.html",
+  "num_tables": 28,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "boonejo01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "boonejo01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "boonejo01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "boonejo01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "boonejo01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "boonejo01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "boonejo01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "boonejo01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "boonejo01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "boonejo01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "boonejo01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "boonejo01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "boonejo01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "boonejo01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "boonejo01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "boonejo01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "boonejo01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "boonejo01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "boonejo01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "boonejo01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "boonejo01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "boonejo01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "boonejo01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "boonejo01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "boonejo01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "boonejo01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "boonejo01/table_27.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "boonejo01/all_salaries.csv"
+    }
+  ]
+}

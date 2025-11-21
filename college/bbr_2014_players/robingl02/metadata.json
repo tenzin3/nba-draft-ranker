@@ -1,0 +1,112 @@
+{
+  "name": "Glenn Robinson III",
+  "slug": "robingl02",
+  "url": "https://www.basketball-reference.com/players/r/robingl02.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "robingl02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "robingl02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "robingl02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "robingl02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "robingl02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "robingl02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "robingl02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "robingl02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "robingl02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "robingl02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "robingl02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "robingl02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "robingl02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "robingl02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "robingl02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "robingl02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "robingl02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "robingl02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "robingl02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "robingl02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "robingl02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "robingl02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "robingl02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "robingl02/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "robingl02/table_25.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "robingl02/all_salaries.csv"
+    }
+  ]
+}

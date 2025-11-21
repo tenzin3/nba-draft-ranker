@@ -1,0 +1,64 @@
+{
+  "name": "Robert Swift",
+  "slug": "swiftro01",
+  "url": "https://www.basketball-reference.com/players/s/swiftro01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "swiftro01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "swiftro01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "swiftro01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "swiftro01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "swiftro01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "swiftro01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "swiftro01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "swiftro01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "swiftro01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "swiftro01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "swiftro01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "swiftro01/sims-career.csv"
+    },
+    {
+      "table_id": "table_13",
+      "csv": "swiftro01/table_13.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "swiftro01/all_salaries.csv"
+    }
+  ]
+}

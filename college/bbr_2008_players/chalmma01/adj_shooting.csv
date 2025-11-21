@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2008-09,22,MIA,NBA,PG,82,82,2626,.420,.467,.367,.506,.767,.548,.292,.470,92,96,100,101,99,101,95,210,8.3,4.8,ROY-11
+2009-10,23,MIA,NBA,PG,73,22,1807,.401,.491,.318,.483,.745,.519,.242,.520,87,100,90,97,98,95,81,234,-15.7,-24.6,
+2010-11,24,MIA,NBA,PG,70,28,1579,.399,.459,.359,.506,.871,.538,.160,.595,87,94,100,102,114,99,53,268,6.3,-2.7,
+2011-12,25,MIA,NBA,PG,64,64,1825,.448,.513,.388,.549,.792,.578,.203,.522,100,107,111,113,105,110,74,231,61.7,55.2,
+2012-13,26,MIA,NBA,PG,77,77,2068,.429,.456,.409,.545,.795,.576,.212,.569,95,94,114,110,106,108,78,234,51.8,47.7,
+2013-14,27,MIA,NBA,PG,73,73,2178,.454,.500,.385,.531,.742,.567,.291,.404,100,103,107,106,98,105,102,156,33.8,32.6,
+2014-15,28,MIA,NBA,PG,80,37,2368,.403,.467,.294,.458,.774,.521,.401,.374,90,96,84,92,103,98,147,139,-50.5,-20.3,
+2015-16,29,2TM,NBA,PG,61,7,1373,.410,.461,.309,.462,.832,.561,.590,.336,91,94,87,92,110,104,214,118,-36.2,22.6,
+2015-16,29,MIA,NBA,PG,6,0,120,.313,.429,.091,.328,.923,.437,.406,.344,69,87,26,65,122,81,147,121,-11.2,-7.8,
+2015-16,29,MEM,NBA,PG,55,7,1253,.417,.464,.326,.472,.827,.570,.604,.335,92,94,92,94,109,105,219,118,-25.0,30.4,
+2016-17,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2017-18,31,MEM,NBA,PG,66,10,1421,.379,.456,.277,.439,.855,.503,.312,.431,82,89,77,84,111,90,124,128,-72.8,-53.3,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,646,400,17245,.417,.475,.351,.498,.793,.546,.303,.464,92,97,98,100,105,101,108,189,-13.3,62.0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+MIA (8 Yrs),MIA (8 Yrs),MIA (8 Yrs),MIA (8 Yrs),,525,383,14571,.422,.479,.360,.508,.776,.548,.269,.482,93,99,101,102,103,102,95,204,84.5,84.9,
+MEM (2 Yrs),MEM (2 Yrs),MEM (2 Yrs),MEM (2 Yrs),,121,17,2674,.398,.460,.298,.455,.837,.537,.453,.385,87,92,83,89,110,98,170,123,-97.8,-22.9,

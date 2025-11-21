@@ -1,0 +1,10 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2006-07,20,CLE,NBA,PG,60,16,988,100,0,0,0,0,5.3,1.2,17,7,51,5,18,2,163,8,12,
+2007-08,21,CLE,NBA,PG,58,26,1765,100,0,0,0,0,3.5,6.4,38,18,80,10,31,13,332,6,25,
+2008-09,22,CLE,NBA,PG,75,0,1795,50,51,0,0,0,7.0,-6.1,22,19,96,8,31,10,307,7,31,
+2009-10,23,CLE,NBA,PG,56,10,1068,76,24,0,0,0,8.9,2.1,17,8,45,1,19,9,153,1,10,
+2010-11,24,CLE,NBA,SG,67,15,1865,22,78,0,0,0,-5.3,8.0,34,22,75,14,55,10,456,12,39,
+2011-12,25,CLE,NBA,SG,35,7,916,6,92,2,0,0,-2.8,6.5,31,8,36,1,9,6,171,0,8,
+2012-13,26,CLE,NBA,PG,46,3,919,100,0,0,0,0,-12.1,-8.8,19,7,54,3,17,13,189,4,7,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,397,77,9316,63,37,0,0,0,1.1,1.8,178,89,437,42,180,63,1771,38,132,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,16,1924,63,37,0,0,0,1.1,1.8,37,18,90,9,37,13,366,8,27,

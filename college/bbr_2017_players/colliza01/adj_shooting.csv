@@ -1,0 +1,16 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2017-18,20,POR,NBA,C,66,1,1045,.398,.455,.310,.458,.643,.475,.145,.391,86,89,86,88,84,85,58,116,-36.2,-50.0,
+2018-19,21,POR,NBA,C,77,0,1356,.473,.534,.331,.523,.746,.562,.315,.303,103,103,93,100,97,100,122,84,-1.4,2.3,
+2019-20,22,POR,NBA,PF,11,11,290,.471,.510,.368,.522,.750,.538,.118,.279,102,97,103,99,97,95,45,73,-0.9,-3.8,
+2020-21,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2021-22,24,SAS,NBA,C,28,4,502,.490,.544,.341,.535,.800,.594,.419,.265,106,102,97,101,103,105,169,66,1.2,10.2,
+2022-23,25,SAS,NBA,C,63,26,1441,.518,.571,.374,.568,.761,.599,.259,.268,109,104,104,104,97,103,97,69,25.4,21.3,
+2023-24,26,SAS,NBA,C,69,29,1526,.484,.552,.320,.531,.753,.565,.263,.294,102,101,88,97,96,97,108,74,-19.3,-21.2,
+2024-25,27,2TM,NBA,PF,64,12,977,.507,.617,.302,.560,.885,.605,.258,.351,108,113,84,103,113,105,106,83,10.0,19.4,
+2024-25,27,SAS,NBA,C,36,4,425,.462,.547,.304,.515,.886,.566,.265,.348,99,100,84,95,114,98,109,83,-7.4,-2.9,
+2024-25,27,CHI,NBA,PF,28,8,552,.541,.673,.300,.594,.884,.635,.253,.353,116,123,83,109,113,110,104,84,17.4,22.3,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,378,83,7137,.482,.549,.331,.533,.767,.568,.262,.306,104,102,92,99,99,99,104,80,-21.2,-21.8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+SAS (4 Yrs),SAS (4 Yrs),SAS (4 Yrs),SAS (4 Yrs),,196,63,3894,.496,.558,.340,.544,.775,.581,.278,.286,106,102,94,100,99,100,110,72,-0.1,7.4,
+POR (3 Yrs),POR (3 Yrs),POR (3 Yrs),POR (3 Yrs),,154,12,2691,.444,.504,.324,.498,.722,.528,.232,.334,96,97,91,95,94,94,90,95,-38.5,-51.5,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,28,8,552,.541,.673,.300,.594,.884,.635,.253,.353,116,123,83,109,113,110,104,84,17.4,22.3,

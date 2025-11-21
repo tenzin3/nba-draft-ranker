@@ -1,0 +1,18 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Unnamed: 8_level_0', 'FG%')","('Unnamed: 9_level_0', 'Dist.')","('% of FGA by Distance', '2P')","('% of FGA by Distance', '0-3')","('% of FGA by Distance', '3-10')","('% of FGA by Distance', '10-16')","('% of FGA by Distance', '16-3P')","('% of FGA by Distance', '3P')","('FG% by Distance', '2P')","('FG% by Distance', '0-3')","('FG% by Distance', '3-10')","('FG% by Distance', '10-16')","('FG% by Distance', '16-3P')","('FG% by Distance', '3P')","(""% of FG Ast'd"", '2P')","(""% of FG Ast'd"", '3P')","('Dunks', '%FGA')","('Dunks', '#')","('Corner 3s', '%3PA')","('Corner 3s', '3P%')","('1/2 Court', 'Att.')","('1/2 Court', 'Md.')","('Unnamed: 30_level_0', 'Awards')"
+2005-06,18,LAL,NBA,C,46,0,338,.402,3.4,1.000,.573,.366,.049,.012,.000,.402,.468,.333,.250,.000,,.576,,.110,8,,,0,0,
+2006-07,19,LAL,NBA,C,82,53,1793,.558,3.4,.993,.569,.354,.063,.007,.007,.561,.683,.408,.393,.000,.000,.660,,.149,66,.333,.000,1,0,
+2007-08,20,LAL,NBA,C,35,25,1008,.636,2.5,1.000,.700,.246,.044,.010,.000,.636,.721,.479,.308,.000,,.556,,.310,88,,,0,0,
+2008-09,21,LAL,NBA,C,50,50,1446,.560,4.2,1.000,.522,.343,.102,.034,.000,.560,.687,.442,.431,.176,,.637,,.209,100,,,0,0,
+2009-10,22,LAL,NBA,C,65,65,1977,.570,4.0,.999,.536,.346,.094,.022,.001,.571,.699,.454,.354,.200,.000,.587,,.186,124,1.000,.000,0,0,
+2010-11,23,LAL,NBA,C,54,47,1500,.574,3.9,1.000,.496,.446,.058,.000,.000,.574,.746,.418,.292,,,.574,,.199,77,,,0,0,DPOY-22
+2011-12,24,LAL,NBA,C,60,60,2112,.558,4.6,.994,.476,.435,.068,.015,.006,.560,.755,.405,.296,.083,.200,.675,1.000,.176,136,.200,.000,0,0,"AS,NBA2"
+2012-13,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2013-14,26,2TM,NBA,C,26,19,516,.418,6.2,1.000,.316,.404,.213,.067,.000,.418,.521,.352,.375,.467,,.479,,.058,12,,,0,0,
+2013-14,26,CLE,NBA,C,24,19,480,.419,7.3,1.000,.300,.404,.227,.069,.000,.419,.508,.366,.370,.500,,.482,,.059,11,,,0,0,
+2013-14,26,IND,NBA,C,2,0,36,.409,5.0,1.000,.455,.409,.091,.045,.000,.409,.600,.222,.500,.000,,.444,,.045,1,,,0,0,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,418,319,10690,.556,4.3,.997,.520,.375,.083,.019,.003,.557,.702,.420,.355,.212,.111,.614,1.000,.184,611,.333,.000,1,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,63,2097,.556,4.3,.997,.520,.375,.083,.019,.003,.557,.702,.420,.355,.212,.111,.614,1.000,.184,120,.333,.000,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),,392,300,10174,.566,3.7,.997,.535,.373,.074,.016,.003,.567,.709,.425,.351,.137,.111,.621,1.000,.193,599,.333,.000,1,0,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,24,19,480,.419,7.3,1.000,.300,.404,.227,.069,.000,.419,.508,.366,.370,.500,,.482,,.059,11,,,0,0,
+IND (1 Yr),IND (1 Yr),IND (1 Yr),IND (1 Yr),,2,0,36,.409,5.0,1.000,.455,.409,.091,.045,.000,.409,.600,.222,.500,.000,,.444,,.045,1,,,0,0,

@@ -1,0 +1,100 @@
+{
+  "name": "Nigel Williams-Goss",
+  "slug": "willini01",
+  "url": "https://www.basketball-reference.com/players/w/willini01.html",
+  "num_tables": 23,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "willini01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "willini01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "willini01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "willini01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "willini01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "willini01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "willini01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "willini01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "willini01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "willini01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "willini01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "willini01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "willini01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "willini01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "willini01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "willini01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "willini01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "willini01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "willini01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "willini01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "willini01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_22",
+      "csv": "willini01/table_22.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "willini01/all_salaries.csv"
+    }
+  ]
+}

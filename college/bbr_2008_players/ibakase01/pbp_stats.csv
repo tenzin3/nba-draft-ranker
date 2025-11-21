@@ -1,0 +1,31 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2008-09,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2009-10,20,OKC,NBA,PF,73,0,1323,0,0,0,65,35,1.4,-4.2,13,17,108,21,44,6,23,12,22,
+2010-11,21,OKC,NBA,PF,82,44,2216,0,0,0,68,32,3.6,-1.3,10,29,167,12,86,5,53,15,34,DPOY-14
+2011-12,22,OKC,NBA,PF,66,66,1792,0,0,0,94,7,6.2,-1.2,19,26,98,16,56,5,65,12,41,"DPOY-2,DEF1"
+2012-13,23,OKC,NBA,PF,80,80,2486,0,0,0,91,9,9.7,-0.2,26,43,122,23,85,5,106,19,32,"DPOY-3,DEF1"
+2013-14,24,OKC,NBA,PF,81,81,2666,0,0,6,75,19,7.3,1.5,28,37,123,16,95,8,204,19,33,"DPOY-4,DEF1"
+2014-15,25,OKC,NBA,PF,64,64,2116,0,0,3,89,8,4.0,4.2,23,28,96,26,49,6,135,7,26,
+2015-16,26,OKC,NBA,PF,78,78,2500,0,0,0,92,9,10.1,7.8,31,36,125,18,52,4,170,15,27,
+2016-17,27,2TM,NBA,PF,79,79,2422,0,0,0,87,13,-3.0,1.2,38,36,126,17,52,3,179,16,30,
+2016-17,27,ORL,NBA,PF,56,56,1710,0,0,0,95,5,-5.5,2.5,24,24,88,6,40,2,141,14,24,
+2016-17,27,TOR,NBA,PF,23,23,712,0,0,0,68,32,3.0,-1.9,14,12,38,11,12,1,38,2,6,
+2017-18,28,TOR,NBA,PF,76,76,2093,0,0,0,87,13,7.1,-1.9,22,25,96,22,58,1,152,15,29,
+2018-19,29,TOR,NBA,C,74,51,2010,0,0,0,3,97,6.4,1.1,16,32,91,36,79,0,257,16,30,
+2019-20,30,TOR,NBA,C,55,27,1485,0,0,0,6,94,3.8,-5.0,24,32,69,31,59,0,197,18,22,
+2020-21,31,LAC,NBA,C,41,39,955,0,0,0,0,100,7.8,1.8,13,12,40,11,28,2,185,9,11,
+2021-22,32,2TM,NBA,C,54,12,877,0,0,0,11,89,-2.2,-4.0,13,14,47,10,20,1,116,7,13,
+2021-22,32,LAC,NBA,C,35,10,538,0,0,0,16,84,-3.0,-3.7,11,11,25,7,13,0,85,3,10,
+2021-22,32,MIL,NBA,C,19,2,339,0,0,0,2,98,-0.9,-4.5,2,3,22,3,7,1,31,4,3,
+2022-23,33,MIL,NBA,C,16,0,185,0,0,0,20,80,-9.5,-13.7,1,4,10,5,5,0,10,1,3,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+,,,,,,,,Position Estimate,Position Estimate,Position Estimate,Position Estimate,Position Estimate,+/- Per 100 Poss,+/- Per 100 Poss,Turnovers,Turnovers,Fouls Committed,Fouls Committed,Fouls Drawn,Fouls Drawn,Misc.,Misc.,Misc.,
+,,,,Pos,G,GS,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot,Off.,Shoot,Off.,PGA,And1,Blkd,Awards
+14 Yrs,14 Yrs,14 Yrs,14 Yrs,,919,697,25126,0,0,1,66,33,5.1,0.4,277,371,1318,264,768,46,1852,181,353,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,62,2242,0,0,1,66,33,5.1,0.4,25,33,118,24,69,4,165,16,31,
+,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (7 Yrs),OKC (7 Yrs),OKC (7 Yrs),OKC (7 Yrs),,524,413,15099,0,0,2,83,16,6.5,1.4,150,216,839,132,467,39,756,99,215,
+TOR (4 Yrs),TOR (4 Yrs),TOR (4 Yrs),TOR (4 Yrs),,228,177,6300,0,0,0,39,61,5.6,-1.7,76,101,294,100,208,2,644,51,87,
+LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),,76,49,1493,0,0,0,6,94,3.9,-0.2,24,23,65,18,41,2,270,12,21,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,35,2,524,0,0,0,9,91,-4.0,-7.8,3,7,32,8,12,1,41,5,6,
+ORL (1 Yr),ORL (1 Yr),ORL (1 Yr),ORL (1 Yr),,56,56,1710,0,0,0,95,5,-5.5,2.5,24,24,88,6,40,2,141,14,24,

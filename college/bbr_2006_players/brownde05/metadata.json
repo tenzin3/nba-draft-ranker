@@ -1,0 +1,12 @@
+{
+  "name": "Denham Brown",
+  "slug": "brownde05",
+  "url": "https://www.basketball-reference.com/players/b/brownde05.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "brownde05/all_college_stats.csv"
+    }
+  ]
+}

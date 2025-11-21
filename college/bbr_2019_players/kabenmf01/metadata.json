@@ -1,0 +1,64 @@
+{
+  "name": "Mfiondu Kabengele",
+  "slug": "kabenmf01",
+  "url": "https://www.basketball-reference.com/players/k/kabenmf01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "kabenmf01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "kabenmf01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "kabenmf01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "kabenmf01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "kabenmf01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "kabenmf01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "kabenmf01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "kabenmf01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "kabenmf01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "kabenmf01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "kabenmf01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "kabenmf01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "kabenmf01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "kabenmf01/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Rade Zagorac",
+  "slug": "zagorra01",
+  "url": "https://www.basketball-reference.com/players/z/zagorra01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_salaries",
+      "csv": "zagorra01/all_salaries.csv"
+    }
+  ]
+}

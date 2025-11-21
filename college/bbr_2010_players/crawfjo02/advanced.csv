@@ -1,0 +1,23 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP,Awards
+2010-11,22,2TM,NBA,SG,42,18,1027,11.8,.456,.256,.168,3.4,8.6,5.9,19.8,2.0,0.2,13.4,27.0,-1.0,0.5,-0.6,-0.026,-1.5,-2.3,-3.8,-0.5,
+2010-11,22,ATL,NBA,SG,16,0,160,7.6,.421,.351,.078,6.8,14.2,10.5,16.0,1.0,0.0,15.8,28.1,-0.4,0.1,-0.3,-0.090,-2.8,-2.7,-5.5,-0.1,
+2010-11,22,WAS,NBA,SG,26,18,867,12.6,.462,.239,.184,2.8,7.5,5.1,20.5,2.1,0.3,12.9,26.8,-0.6,0.3,-0.3,-0.014,-1.2,-2.2,-3.4,-0.3,
+2011-12,23,WAS,NBA,SG,64,32,1753,14.5,.488,.313,.233,2.8,8.1,5.4,19.3,1.7,0.2,12.8,28.1,0.3,0.7,1.1,.029,0.4,-2.1,-1.7,0.1,
+2012-13,24,2TM,NBA,SG,70,14,1709,13.8,.512,.339,.219,2.9,10.9,6.9,23.5,1.2,0.3,15.1,25.3,0.2,1.7,1.9,.052,0.3,-1.1,-0.9,0.5,6MOY-7
+2012-13,24,WAS,NBA,SG,43,12,1127,14.7,.512,.337,.209,3.0,10.3,6.6,25.5,1.2,0.4,14.9,26.4,0.2,1.1,1.4,.058,1.3,-0.8,0.5,0.7,
+2012-13,24,BOS,NBA,SG,27,2,582,12.0,.512,.346,.244,2.7,12.0,7.5,19.4,1.1,0.3,15.5,23.1,0.0,0.5,0.5,.041,-1.7,-1.8,-3.6,-0.2,
+2013-14,25,2TM,NBA,PG,81,35,1859,14.3,.516,.362,.214,1.7,9.5,5.5,25.1,1.3,0.2,13.4,23.7,1.5,1.4,2.8,.073,0.6,-1.2,-0.6,0.6,
+2013-14,25,BOS,NBA,PG,39,35,1198,15.7,.525,.345,.277,1.7,10.0,5.7,31.0,1.5,0.2,14.1,22.0,1.7,0.7,2.4,.096,1.5,-1.0,0.5,0.8,
+2013-14,25,GSW,NBA,SG,42,0,661,11.9,.503,.384,.129,1.7,8.6,5.2,14.2,1.0,0.2,12.4,26.8,-0.2,0.7,0.4,.033,-1.1,-1.5,-2.7,-0.1,
+2014-15,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2015-16,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2016-17,28,NOP,NBA,SG,19,0,442,17.6,.582,.436,.119,0.9,7.2,4.1,22.7,1.2,0.4,9.8,25.5,0.6,0.3,0.9,.102,2.2,-0.9,1.3,0.4,
+2017-18,29,NOP,NBA,SG,5,0,53,19.1,.601,.519,.037,4.2,4.0,4.1,37.7,0.9,1.5,15.4,26.5,0.1,0.0,0.2,.150,4.9,-0.7,4.2,0.1,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,281,99,6843,14.1,.503,.333,.205,2.5,9.1,5.8,22.3,1.5,0.3,13.4,25.9,1.8,4.6,6.3,.044,0.3,-1.6,-1.3,1.3,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,29,1997,14.1,.503,.333,.205,2.5,9.1,5.8,22.3,1.5,0.3,13.4,25.9,0.5,1.3,1.8,.044,0.3,-1.6,-1.3,0.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),,133,62,3747,14.1,.489,.302,.215,2.9,8.6,5.7,21.4,1.7,0.3,13.4,27.3,0.0,2.2,2.2,.028,0.3,-1.7,-1.4,0.6,
+BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),,66,37,1780,14.5,.521,.345,.266,2.0,10.6,6.3,27.2,1.3,0.2,14.6,22.4,1.6,1.3,2.9,.078,0.5,-1.3,-0.8,0.5,
+NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),,24,0,495,17.8,.584,.445,.110,1.3,6.9,4.1,24.3,1.2,0.5,10.5,25.6,0.8,0.3,1.1,.107,2.5,-0.9,1.6,0.4,
+GSW (1 Yr),GSW (1 Yr),GSW (1 Yr),GSW (1 Yr),,42,0,661,11.9,.503,.384,.129,1.7,8.6,5.2,14.2,1.0,0.2,12.4,26.8,-0.2,0.7,0.4,.033,-1.1,-1.5,-2.7,-0.1,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,16,0,160,7.6,.421,.351,.078,6.8,14.2,10.5,16.0,1.0,0.0,15.8,28.1,-0.4,0.1,-0.3,-0.090,-2.8,-2.7,-5.5,-0.1,

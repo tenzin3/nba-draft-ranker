@@ -1,0 +1,9 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2011-12,25,LAL,NBA,PG,12.0,12.0,380.0,68.0,32.0,0.0,0.0,0.0,-4.5,0.3,13.0,6.0,10.0,1.0,16.0,4.0,98.0,3.0,12.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+2014-15,28,WAS,NBA,PG,10.0,3.0,218.0,100.0,0.0,0.0,0.0,0.0,8.0,6.8,6.0,3.0,7.0,0.0,8.0,4.0,58.0,1.0,3.0,
+2 Yrs,2 Yrs,2 Yrs,2 Yrs,,22.0,15.0,598.0,80.0,20.0,0.0,0.0,0.0,0.0,2.7,19.0,9.0,17.0,1.0,24.0,8.0,156.0,4.0,15.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82.0,56.0,2229.0,80.0,20.0,0.0,0.0,0.0,0.0,2.7,71.0,34.0,63.0,4.0,89.0,30.0,581.0,15.0,56.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,12.0,12.0,380.0,68.0,32.0,0.0,0.0,0.0,-4.5,0.3,13.0,6.0,10.0,1.0,16.0,4.0,98.0,3.0,12.0,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,10.0,3.0,218.0,100.0,0.0,0.0,0.0,0.0,8.0,6.8,6.0,3.0,7.0,0.0,8.0,4.0,58.0,1.0,3.0,

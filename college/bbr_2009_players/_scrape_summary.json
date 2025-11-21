@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "griffbl01",
+    "name": "Blake Griffin",
+    "url": "https://www.basketball-reference.com/players/g/griffbl01.html",
+    "tables": 103,
+    "skipped": false
+  },
+  {
+    "slug": "thabeha01",
+    "name": "Hasheem Thabeet",
+    "url": "https://www.basketball-reference.com/players/t/thabeha01.html",
+    "tables": 25,
+    "skipped": false
+  },
+  {
+    "slug": "hardeja01",
+    "name": "James Harden",
+    "url": "https://www.basketball-reference.com/players/h/hardeja01.html",
+    "tables": 107,
+    "skipped": false
+  },
+  {
+    "slug": "evansty01",
+    "name": "Tyreke Evans",
+    "url": "https://www.basketball-reference.com/players/e/evansty01.html",
+    "tables": 62,
+    "skipped": false
+  },
+  {
+    "slug": "rubiori01",
+    "name": "Ricky Rubio",
+    "url": "https://www.basketball-reference.com/players/r/rubiori01.html",
+    "tables": 48,
+    "skipped": false
+  },
+  {
+    "slug": "flynnjo01",
+    "name": "Jonny Flynn",
+    "url": "https://www.basketball-reference.com/players/f/flynnjo01.html",
+    "tables": 18,
+    "skipped": false
+  },
+  {
+    "slug": "curryst01",
+    "name": "Stephen Curry",
+    "url": "https://www.basketball-reference.com/players/c/curryst01.html",
+    "tables": 107,
+    "skipped": false
+  },
+  {
+    "slug": "hilljo01",
+    "name": "Jordan Hill",
+    "url": "https://www.basketball-reference.com/players/h/hilljo01.html",
+    "tables": 38,
+    "skipped": false
+  },
+  {
+    "slug": "derozde01",
+    "name": "DeMar DeRozan",
+    "url": "https://www.basketball-reference.com/players/d/derozde01.html",
+    "tables": 87,
+    "skipped": false
+  },
+  {
+    "slug": "jennibr01",
+    "name": "Brandon Jennings",
+    "url": "https://www.basketball-reference.com/players/j/jennibr01.html",
+    "tables": 55,
+    "skipped": false
+  },
+  {
+    "slug": "willite01",
+    "name": "Terrence Williams",
+    "url": "https://www.basketball-reference.com/players/w/willite01.html",
+    "tables": 25,
+    "skipped": false
+  },
+  {
+    "slug": "hendege02",
+    "name": "Gerald Henderson",
+    "url": "https://www.basketball-reference.com/players/h/hendege02.html",
+    "tables": 31,
+    "skipped": false
+  },
+  {
+    "slug": "hansbty01",
+    "name": "Tyler Hansbrough",
+    "url": "https://www.basketball-reference.com/players/h/hansbty01.html",
+    "tables": 36,
+    "skipped": false
+  },
+  {
+    "slug": "clarkea01",
+    "name": "Earl Clark",
+    "url": "https://www.basketball-reference.com/players/c/clarkea01.html",
+    "tables": 25,
+    "skipped": false
+  },
+  {
+    "slug": "dayeau01",
+    "name": "Austin Daye",
+    "url": "https://www.basketball-reference.com/players/d/dayeau01.html",
+    "tables": 26,
+    "skipped": false
+  },
+  {
+    "slug": "johnsja01",
+    "name": "James Johnson",
+    "url": "https://www.basketball-reference.com/players/j/johnsja01.html",
+    "tables": 36,
+    "skipped": false
+  },
+  {
+    "slug": "holidjr01",
+    "name": "Jrue Holiday",
+    "url": "https://www.basketball-reference.com/players/h/holidjr01.html",
+    "tables": 76,
+    "skipped": false
+  },
+  {
+    "slug": "lawsoty01",
+    "name": "Ty Lawson",
+    "url": "https://www.basketball-reference.com/players/l/lawsoty01.html",
+    "tables": 55,
+    "skipped": false
+  },
+  {
+    "slug": "teaguje01",
+    "name": "Jeff Teague",
+    "url": "https://www.basketball-reference.com/players/t/teaguje01.html",
+    "tables": 52,
+    "skipped": false
+  },
+  {
+    "slug": "maynoer01",
+    "name": "Eric Maynor",
+    "url": "https://www.basketball-reference.com/players/m/maynoer01.html",
+    "tables": 27,
+    "skipped": false
+  },
+  {
+    "slug": "collida01",
+    "name": "Darren Collison",
+    "url": "https://www.basketball-reference.com/players/c/collida01.html",
+    "tables": 49,
+    "skipped": false
+  },
+  {
+    "slug": "clavevi01",
+    "name": "Victor Claver",
+    "url": "https://www.basketball-reference.com/players/c/clavevi01.html",
+    "tables": 23,
+    "skipped": false
+  },
+  {
+    "slug": "casspom01",
+    "name": "Omri Casspi",
+    "url": "https://www.basketball-reference.com/players/c/casspom01.html",
+    "tables": 16,
+    "skipped": false
+  },
+  {
+    "slug": "mulleby01",
+    "name": "Byron Mullens",
+    "url": "https://www.basketball-reference.com/players/m/mulleby01.html",
+    "tables": 25,
+    "skipped": false
+  },
+  {
+    "slug": "beaubro01",
+    "name": "Rodrigue Beaubois",
+    "url": "https://www.basketball-reference.com/players/b/beaubro01.html",
+    "tables": 25,
+    "skipped": false
+  },
+  {
+    "slug": "gibsota01",
+    "name": "Taj Gibson",
+    "url": "https://www.basketball-reference.com/players/g/gibsota01.html",
+    "tables": 50,
+    "skipped": false
+  },
+  {
+    "slug": "carrode01",
+    "name": "DeMarre Carroll",
+    "url": "https://www.basketball-reference.com/players/c/carrode01.html",
+    "tables": 35,
+    "skipped": false
+  },
+  {
+    "slug": "ellinwa01",
+    "name": "Wayne Ellington",
+    "url": "https://www.basketball-reference.com/players/e/ellinwa01.html",
+    "tables": 38,
+    "skipped": false
+  },
+  {
+    "slug": "douglto01",
+    "name": "Toney Douglas",
+    "url": "https://www.basketball-reference.com/players/d/douglto01.html",
+    "tables": 36,
+    "skipped": false
+  },
+  {
+    "slug": "eyengch01",
+    "name": "Christian Eyenga",
+    "url": "https://www.basketball-reference.com/players/e/eyengch01.html",
+    "tables": 22,
+    "skipped": false
+  },
+  {
+    "slug": "pendeje02",
+    "name": "Jeff Ayres",
+    "url": "https://www.basketball-reference.com/players/p/pendeje02.html",
+    "tables": 28,
+    "skipped": false
+  },
+  {
+    "slug": "tayloje02",
+    "name": "Jermaine Taylor",
+    "url": "https://www.basketball-reference.com/players/t/tayloje02.html",
+    "tables": 12,
+    "skipped": false
+  },
+  {
+    "slug": "cunnida01",
+    "name": "Dante Cunningham",
+    "url": "https://www.basketball-reference.com/players/c/cunnida01.html",
+    "tables": 26,
+    "skipped": false
+  },
+  {
+    "slug": "llullse01",
+    "name": "Sergio Llull",
+    "url": "https://www.basketball-reference.com/players/l/llullse01.html",
+    "tables": 0,
+    "skipped": false
+  },
+  {
+    "slug": "summeda01",
+    "name": "DaJuan Summers",
+    "url": "https://www.basketball-reference.com/players/s/summeda01.html",
+    "tables": 12,
+    "skipped": false
+  },
+  {
+    "slug": "youngsa01",
+    "name": "Sam Young",
+    "url": "https://www.basketball-reference.com/players/y/youngsa01.html",
+    "tables": 26,
+    "skipped": false
+  },
+  {
+    "slug": "blairde01",
+    "name": "DeJuan Blair",
+    "url": "https://www.basketball-reference.com/players/b/blairde01.html",
+    "tables": 49,
+    "skipped": false
+  },
+  {
+    "slug": "brockjo01",
+    "name": "Jon Brockman",
+    "url": "https://www.basketball-reference.com/players/b/brockjo01.html",
+    "tables": 15,
+    "skipped": false
+  },
+  {
+    "slug": "jerebjo01",
+    "name": "Jonas Jerebko",
+    "url": "https://www.basketball-reference.com/players/j/jerebjo01.html",
+    "tables": 27,
+    "skipped": false
+  },
+  {
+    "slug": "brownde04",
+    "name": "Derrick Brown",
+    "url": "https://www.basketball-reference.com/players/b/brownde04.html",
+    "tables": 24,
+    "skipped": false
+  },
+  {
+    "slug": "meeksjo01",
+    "name": "Jodie Meeks",
+    "url": "https://www.basketball-reference.com/players/m/meeksjo01.html",
+    "tables": 42,
+    "skipped": false
+  },
+  {
+    "slug": "beverpa01",
+    "name": "Patrick Beverley",
+    "url": "https://www.basketball-reference.com/players/b/beverpa01.html",
+    "tables": 33,
+    "skipped": false
+  },
+  {
+    "slug": "thornma01",
+    "name": "Marcus Thornton",
+    "url": "https://www.basketball-reference.com/players/t/thornma01.html",
+    "tables": 44,
+    "skipped": false
+  },
+  {
+    "slug": "budinch01",
+    "name": "Chase Budinger",
+    "url": "https://www.basketball-reference.com/players/b/budinch01.html",
+    "tables": 23,
+    "skipped": false
+  },
+  {
+    "slug": "calatni01",
+    "name": "Nick Calathes",
+    "url": "https://www.basketball-reference.com/players/c/calatni01.html",
+    "tables": 30,
+    "skipped": false
+  },
+  {
+    "slug": "greenda02",
+    "name": "Danny Green",
+    "url": "https://www.basketball-reference.com/players/g/greenda02.html",
+    "tables": 56,
+    "skipped": false
+  },
+  {
+    "slug": "norelhe01",
+    "name": "Henk Norel",
+    "url": "https://www.basketball-reference.com/players/n/norelhe01.html",
+    "tables": 0,
+    "skipped": false
+  },
+  {
+    "slug": "griffta01",
+    "name": "Taylor Griffin",
+    "url": "https://www.basketball-reference.com/players/g/griffta01.html",
+    "tables": 12,
+    "skipped": false
+  },
+  {
+    "slug": "gladyse01",
+    "name": "Sergiy Gladyr",
+    "url": "https://www.basketball-reference.com/players/g/gladyse01.html",
+    "tables": 0,
+    "skipped": false
+  },
+  {
+    "slug": "sutongo01",
+    "name": "Goran Suton",
+    "url": "https://www.basketball-reference.com/players/s/sutongo01.html",
+    "tables": 1,
+    "skipped": false
+  },
+  {
+    "slug": "mcclija01",
+    "name": "Jack McClinton",
+    "url": "https://www.basketball-reference.com/players/m/mcclija01.html",
+    "tables": 1,
+    "skipped": false
+  },
+  {
+    "slug": "priceaj01",
+    "name": "A.J. Price",
+    "url": "https://www.basketball-reference.com/players/p/priceaj01.html",
+    "tables": 24,
+    "skipped": false
+  },
+  {
+    "slug": "decolna01",
+    "name": "Nando De Colo",
+    "url": "https://www.basketball-reference.com/players/d/decolna01.html",
+    "tables": 23,
+    "skipped": false
+  },
+  {
+    "slug": "vadenro01",
+    "name": "Robert Vaden",
+    "url": "https://www.basketball-reference.com/players/v/vadenro01.html",
+    "tables": 1,
+    "skipped": false
+  },
+  {
+    "slug": "millspa02",
+    "name": "Patty Mills",
+    "url": "https://www.basketball-reference.com/players/m/millspa02.html",
+    "tables": 44,
+    "skipped": false
+  },
+  {
+    "slug": "nivinah01",
+    "name": "Ahmad Nivins",
+    "url": "https://www.basketball-reference.com/players/n/nivinah01.html",
+    "tables": 1,
+    "skipped": false
+  },
+  {
+    "slug": "preldem01",
+    "name": "Emir PreldÅ¾iÄ",
+    "url": "https://www.basketball-reference.com/players/p/preldem01.html",
+    "tables": 0,
+    "skipped": false
+  },
+  {
+    "slug": "hudsole01",
+    "name": "Lester Hudson",
+    "url": "https://www.basketball-reference.com/players/h/hudsole01.html",
+    "tables": 24,
+    "skipped": false
+  },
+  {
+    "slug": "elonuch01",
+    "name": "Chinemelu Elonu",
+    "url": "https://www.basketball-reference.com/players/e/elonuch01.html",
+    "tables": 1,
+    "skipped": false
+  },
+  {
+    "slug": "doziero01",
+    "name": "Robert Dozier",
+    "url": "https://www.basketball-reference.com/players/d/doziero01.html",
+    "tables": 1,
+    "skipped": false
+  }
+]

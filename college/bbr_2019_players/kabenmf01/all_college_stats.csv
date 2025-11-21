@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2017-18,20.0,FLORIDAST,34,503,85,173,10,26,65,99,63,158,10,15,29,35,73,245,0.491,0.385,0.657,14.8,7.2,4.6,0.3
+2018-19,21.0,FLORIDAST,37,798,164,327,24,65,137,180,79,220,11,21,56,48,96,489,0.502,0.369,0.761,21.6,13.2,5.9,0.3
+Career,,,71,1301,249,500,34,91,202,279,142,378,21,36,85,83,169,734,0.498,0.374,0.724,18.3,10.3,5.3,0.3

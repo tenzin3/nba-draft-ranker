@@ -1,0 +1,144 @@
+{
+  "name": "Miles Plumlee",
+  "slug": "plumlmi01",
+  "url": "https://www.basketball-reference.com/players/p/plumlmi01.html",
+  "num_tables": 34,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "plumlmi01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "plumlmi01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "plumlmi01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "plumlmi01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "plumlmi01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "plumlmi01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "plumlmi01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "plumlmi01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "plumlmi01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "plumlmi01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "plumlmi01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "plumlmi01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "plumlmi01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "plumlmi01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "plumlmi01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "plumlmi01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "plumlmi01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "plumlmi01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "plumlmi01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "plumlmi01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "plumlmi01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "plumlmi01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "plumlmi01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "plumlmi01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "plumlmi01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "plumlmi01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "plumlmi01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "plumlmi01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "plumlmi01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "plumlmi01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "plumlmi01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "plumlmi01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "plumlmi01/table_33.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "plumlmi01/all_salaries.csv"
+    }
+  ]
+}

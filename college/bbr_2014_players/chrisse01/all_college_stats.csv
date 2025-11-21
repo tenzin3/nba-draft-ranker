@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2012-13,20.0,XAVIER,30,1027,162,365,7,28,125,186,5,86,139,45,3,109,80,456,0.444,0.25,0.672,34.2,15.2,2.9,4.6
+2013-14,21.0,XAVIER,34,1200,201,420,19,49,157,235,15,91,142,45,8,89,72,578,0.479,0.388,0.668,35.3,17.0,2.7,4.2
+Career,,,64,2227,363,785,26,77,282,421,20,177,281,90,11,198,152,1034,0.462,0.338,0.67,34.8,16.2,2.8,4.4

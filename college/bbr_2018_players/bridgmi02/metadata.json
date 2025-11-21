@@ -1,0 +1,176 @@
+{
+  "name": "Miles Bridges",
+  "slug": "bridgmi02",
+  "url": "https://www.basketball-reference.com/players/b/bridgmi02.html",
+  "num_tables": 42,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "bridgmi02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "bridgmi02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "bridgmi02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "bridgmi02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "bridgmi02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "bridgmi02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "bridgmi02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "bridgmi02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "bridgmi02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "bridgmi02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "bridgmi02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "bridgmi02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "bridgmi02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "bridgmi02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "bridgmi02/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "bridgmi02/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "bridgmi02/table_17.csv"
+    },
+    {
+      "table_id": "table_18",
+      "csv": "bridgmi02/table_18.csv"
+    },
+    {
+      "table_id": "table_19",
+      "csv": "bridgmi02/table_19.csv"
+    },
+    {
+      "table_id": "table_20",
+      "csv": "bridgmi02/table_20.csv"
+    },
+    {
+      "table_id": "table_21",
+      "csv": "bridgmi02/table_21.csv"
+    },
+    {
+      "table_id": "table_22",
+      "csv": "bridgmi02/table_22.csv"
+    },
+    {
+      "table_id": "table_23",
+      "csv": "bridgmi02/table_23.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "bridgmi02/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "bridgmi02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "bridgmi02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "bridgmi02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "bridgmi02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "bridgmi02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "bridgmi02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "bridgmi02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "bridgmi02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "bridgmi02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "bridgmi02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "bridgmi02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "bridgmi02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "bridgmi02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "bridgmi02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "bridgmi02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "bridgmi02/table_40.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "bridgmi02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_cho",
+      "csv": "bridgmi02/contracts_cho.csv"
+    }
+  ]
+}

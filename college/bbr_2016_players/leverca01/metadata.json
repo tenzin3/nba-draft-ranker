@@ -1,0 +1,144 @@
+{
+  "name": "Caris LeVert",
+  "slug": "leverca01",
+  "url": "https://www.basketball-reference.com/players/l/leverca01.html",
+  "num_tables": 34,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "leverca01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "leverca01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "leverca01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "leverca01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "leverca01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "leverca01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "leverca01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "leverca01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "leverca01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "leverca01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "leverca01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "leverca01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "leverca01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "leverca01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "leverca01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "leverca01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "leverca01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "leverca01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "leverca01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "leverca01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "leverca01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "leverca01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "leverca01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "leverca01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "leverca01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "leverca01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "leverca01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "leverca01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "leverca01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "leverca01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "leverca01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "leverca01/table_32.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "leverca01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_det",
+      "csv": "leverca01/contracts_det.csv"
+    }
+  ]
+}

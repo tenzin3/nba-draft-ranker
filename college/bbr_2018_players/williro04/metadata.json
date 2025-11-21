@@ -1,0 +1,212 @@
+{
+  "name": "Robert Williams",
+  "slug": "williro04",
+  "url": "https://www.basketball-reference.com/players/w/williro04.html",
+  "num_tables": 51,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "williro04/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "williro04/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "williro04/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "williro04/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "williro04/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "williro04/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "williro04/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "williro04/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "williro04/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "williro04/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "williro04/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "williro04/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "williro04/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "williro04/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "williro04/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "williro04/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "williro04/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "williro04/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "williro04/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "williro04/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "williro04/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "williro04/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "williro04/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "williro04/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "williro04/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "williro04/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "williro04/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "williro04/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "williro04/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "williro04/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "williro04/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "williro04/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "williro04/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "williro04/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "williro04/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "williro04/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "williro04/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "williro04/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "williro04/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "williro04/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "williro04/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "williro04/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "williro04/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "williro04/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "williro04/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "williro04/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "williro04/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "williro04/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "williro04/table_49.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "williro04/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_por",
+      "csv": "williro04/contracts_por.csv"
+    }
+  ]
+}

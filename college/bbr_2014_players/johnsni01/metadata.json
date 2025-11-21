@@ -1,0 +1,100 @@
+{
+  "name": "Nick Johnson",
+  "slug": "johnsni01",
+  "url": "https://www.basketball-reference.com/players/j/johnsni01.html",
+  "num_tables": 23,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnsni01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "johnsni01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnsni01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnsni01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "johnsni01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnsni01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "johnsni01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnsni01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "johnsni01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnsni01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "johnsni01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnsni01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "johnsni01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnsni01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "johnsni01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnsni01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "johnsni01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnsni01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "johnsni01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "johnsni01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnsni01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_22",
+      "csv": "johnsni01/table_22.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnsni01/all_salaries.csv"
+    }
+  ]
+}

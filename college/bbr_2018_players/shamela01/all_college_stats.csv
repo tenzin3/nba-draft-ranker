@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2015-16,18.0,WICHITAST,3,53,7,16,3,10,9,12,3,8,5,5,1,2,8,26,0.438,0.3,0.75,17.7,8.7,2.7,1.7
+2016-17,19.0,WICHITAST,36,961,135,286,72,164,69,86,22,102,117,26,7,39,77,411,0.472,0.439,0.802,26.7,11.4,2.8,3.3
+2017-18,20.0,WICHITAST,32,1015,154,315,84,190,85,103,14,103,166,23,6,67,61,477,0.489,0.442,0.825,31.7,14.9,3.2,5.2
+Career,,,71,2029,296,617,159,364,163,201,39,213,288,54,14,108,146,914,0.48,0.437,0.811,28.6,12.9,3.0,4.1

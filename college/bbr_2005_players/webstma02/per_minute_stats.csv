@@ -1,0 +1,18 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Awards
+2005-06,19,POR,NBA,SF,61,18,1070,4.7,11.7,.399,2.2,6.1,.357,2.5,5.6,.446,.493,2.1,2.4,.859,1.0,3.4,4.4,1.1,0.7,0.5,1.4,3.0,13.6,
+2006-07,20,POR,NBA,SF,82,27,1759,4.0,10.1,.396,1.9,5.1,.364,2.1,5.0,.430,.489,1.9,2.7,.705,0.9,4.0,4.9,1.1,0.7,0.4,1.6,2.6,11.7,
+2007-08,21,POR,NBA,SF,75,70,2132,4.7,11.1,.422,2.1,5.4,.388,2.6,5.7,.454,.516,2.1,2.8,.735,0.9,4.1,5.0,1.5,0.7,0.5,1.4,2.7,13.5,
+2008-09,22,POR,NBA,SF,1,0,5,0.0,7.2,.000,0.0,7.2,.000,0.0,0.0,,.000,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+2009-10,23,POR,NBA,SF,82,49,2005,4.7,11.5,.405,2.2,6.0,.373,2.4,5.5,.440,.502,2.3,2.8,.813,0.8,4.0,4.8,1.1,0.8,0.7,1.1,2.7,13.8,
+2010-11,24,MIN,NBA,SF,46,1,1094,5.0,11.2,.447,1.8,4.3,.417,3.2,6.8,.466,.528,3.1,4.0,.770,1.2,3.7,4.8,1.7,0.9,0.3,1.9,3.3,14.9,
+2011-12,25,MIN,NBA,SF,47,26,1140,3.6,8.6,.423,1.2,3.4,.339,2.5,5.1,.479,.491,1.8,2.3,.792,1.3,4.0,5.3,1.3,1.0,0.5,1.5,2.7,10.2,
+2012-13,26,WAS,NBA,SF,76,62,2200,4.6,10.4,.442,2.3,5.4,.422,2.3,5.0,.463,.551,2.7,3.2,.848,0.9,3.9,4.8,2.3,0.8,0.3,1.5,2.7,14.2,
+2013-14,27,WAS,NBA,SF,78,13,2157,4.2,9.8,.433,2.4,6.2,.392,1.8,3.6,.502,.557,1.8,2.1,.840,0.6,3.1,3.7,1.6,0.7,0.3,1.0,2.5,12.7,
+2014-15,28,WAS,NBA,SF,32,0,352,2.5,9.3,.264,1.0,4.4,.233,1.4,4.9,.292,.319,4.9,6.5,.750,1.0,3.7,4.7,1.7,0.7,0.1,2.3,2.5,10.8,
+2015-16,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2016-17,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,580,266,13914,4.4,10.5,.418,2.0,5.3,.382,2.3,5.2,.454,.515,2.3,2.9,.791,0.9,3.8,4.7,1.5,0.8,0.4,1.4,2.7,13.1,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+POR (5 Yrs),POR (5 Yrs),POR (5 Yrs),POR (5 Yrs),,301,164,6971,4.5,11.0,.407,2.1,5.6,.372,2.4,5.4,.443,.502,2.1,2.7,.767,0.9,3.9,4.8,1.2,0.7,0.5,1.4,2.7,13.1,
+WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),,186,75,4709,4.3,10.0,.425,2.3,5.7,.397,2.0,4.4,.463,.538,2.5,3.0,.829,0.8,3.5,4.3,2.0,0.7,0.3,1.3,2.6,13.3,
+MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),,93,27,2234,4.3,9.9,.436,1.5,3.9,.382,2.8,6.0,.472,.511,2.4,3.1,.778,1.3,3.8,5.1,1.5,1.0,0.4,1.7,3.0,12.5,

@@ -1,0 +1,108 @@
+{
+  "name": "Shawne Williams",
+  "slug": "willish03",
+  "url": "https://www.basketball-reference.com/players/w/willish03.html",
+  "num_tables": 25,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "willish03/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "willish03/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "willish03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "willish03/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "willish03/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "willish03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "willish03/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "willish03/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "willish03/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "willish03/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "willish03/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "willish03/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "willish03/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "willish03/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "willish03/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "willish03/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "willish03/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "willish03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "willish03/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "willish03/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "willish03/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "willish03/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "willish03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "willish03/table_24.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "willish03/all_salaries.csv"
+    }
+  ]
+}

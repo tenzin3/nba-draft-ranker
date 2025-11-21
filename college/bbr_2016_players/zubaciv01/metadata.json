@@ -1,0 +1,304 @@
+{
+  "name": "Ivica Zubac",
+  "slug": "zubaciv01",
+  "url": "https://www.basketball-reference.com/players/z/zubaciv01.html",
+  "num_tables": 74,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "zubaciv01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "zubaciv01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "zubaciv01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "zubaciv01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "zubaciv01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "zubaciv01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "zubaciv01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "zubaciv01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "zubaciv01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "zubaciv01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "zubaciv01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "zubaciv01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "zubaciv01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "zubaciv01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "zubaciv01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "zubaciv01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "zubaciv01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "zubaciv01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "zubaciv01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "zubaciv01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "zubaciv01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "zubaciv01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "zubaciv01/sims-career.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "zubaciv01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "zubaciv01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "zubaciv01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "zubaciv01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "zubaciv01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "zubaciv01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "zubaciv01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "zubaciv01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "zubaciv01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "zubaciv01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "zubaciv01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "zubaciv01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "zubaciv01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "zubaciv01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "zubaciv01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "zubaciv01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "zubaciv01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "zubaciv01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "zubaciv01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "zubaciv01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "zubaciv01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "zubaciv01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "zubaciv01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "zubaciv01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "zubaciv01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "zubaciv01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "zubaciv01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "zubaciv01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "zubaciv01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "zubaciv01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "zubaciv01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "zubaciv01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "zubaciv01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "zubaciv01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "zubaciv01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "zubaciv01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "zubaciv01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "zubaciv01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "zubaciv01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "zubaciv01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "zubaciv01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "zubaciv01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "zubaciv01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "zubaciv01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "zubaciv01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "zubaciv01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "zubaciv01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "zubaciv01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "zubaciv01/table_72.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "zubaciv01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_lac",
+      "csv": "zubaciv01/contracts_lac.csv"
+    }
+  ]
+}

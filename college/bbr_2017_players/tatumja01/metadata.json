@@ -1,0 +1,432 @@
+{
+  "name": "Jayson Tatum",
+  "slug": "tatumja01",
+  "url": "https://www.basketball-reference.com/players/t/tatumja01.html",
+  "num_tables": 106,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "tatumja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "tatumja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "tatumja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "tatumja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "tatumja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "tatumja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "tatumja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "tatumja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "tatumja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "tatumja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "tatumja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "tatumja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "tatumja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "tatumja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "tatumja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "tatumja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "tatumja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "tatumja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "tatumja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "tatumja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "tatumja01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "tatumja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "tatumja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "tatumja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "tatumja01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "tatumja01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "tatumja01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "tatumja01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "tatumja01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "tatumja01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "tatumja01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "tatumja01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "tatumja01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "tatumja01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "tatumja01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "tatumja01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "tatumja01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "tatumja01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "tatumja01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "tatumja01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "tatumja01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "tatumja01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "tatumja01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "tatumja01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "tatumja01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "tatumja01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "tatumja01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "tatumja01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "tatumja01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "tatumja01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "tatumja01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "tatumja01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "tatumja01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "tatumja01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "tatumja01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "tatumja01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "tatumja01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "tatumja01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "tatumja01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "tatumja01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "tatumja01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "tatumja01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "tatumja01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "tatumja01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "tatumja01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "tatumja01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "tatumja01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "tatumja01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "tatumja01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "tatumja01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "tatumja01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "tatumja01/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "tatumja01/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "tatumja01/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "tatumja01/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "tatumja01/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "tatumja01/table_77.csv"
+    },
+    {
+      "table_id": "table_78",
+      "csv": "tatumja01/table_78.csv"
+    },
+    {
+      "table_id": "table_79",
+      "csv": "tatumja01/table_79.csv"
+    },
+    {
+      "table_id": "table_80",
+      "csv": "tatumja01/table_80.csv"
+    },
+    {
+      "table_id": "table_81",
+      "csv": "tatumja01/table_81.csv"
+    },
+    {
+      "table_id": "table_82",
+      "csv": "tatumja01/table_82.csv"
+    },
+    {
+      "table_id": "table_83",
+      "csv": "tatumja01/table_83.csv"
+    },
+    {
+      "table_id": "table_84",
+      "csv": "tatumja01/table_84.csv"
+    },
+    {
+      "table_id": "table_85",
+      "csv": "tatumja01/table_85.csv"
+    },
+    {
+      "table_id": "table_86",
+      "csv": "tatumja01/table_86.csv"
+    },
+    {
+      "table_id": "table_87",
+      "csv": "tatumja01/table_87.csv"
+    },
+    {
+      "table_id": "table_88",
+      "csv": "tatumja01/table_88.csv"
+    },
+    {
+      "table_id": "table_89",
+      "csv": "tatumja01/table_89.csv"
+    },
+    {
+      "table_id": "table_90",
+      "csv": "tatumja01/table_90.csv"
+    },
+    {
+      "table_id": "table_91",
+      "csv": "tatumja01/table_91.csv"
+    },
+    {
+      "table_id": "table_92",
+      "csv": "tatumja01/table_92.csv"
+    },
+    {
+      "table_id": "table_93",
+      "csv": "tatumja01/table_93.csv"
+    },
+    {
+      "table_id": "table_94",
+      "csv": "tatumja01/table_94.csv"
+    },
+    {
+      "table_id": "table_95",
+      "csv": "tatumja01/table_95.csv"
+    },
+    {
+      "table_id": "table_96",
+      "csv": "tatumja01/table_96.csv"
+    },
+    {
+      "table_id": "table_97",
+      "csv": "tatumja01/table_97.csv"
+    },
+    {
+      "table_id": "table_98",
+      "csv": "tatumja01/table_98.csv"
+    },
+    {
+      "table_id": "table_99",
+      "csv": "tatumja01/table_99.csv"
+    },
+    {
+      "table_id": "table_100",
+      "csv": "tatumja01/table_100.csv"
+    },
+    {
+      "table_id": "table_101",
+      "csv": "tatumja01/table_101.csv"
+    },
+    {
+      "table_id": "table_102",
+      "csv": "tatumja01/table_102.csv"
+    },
+    {
+      "table_id": "table_103",
+      "csv": "tatumja01/table_103.csv"
+    },
+    {
+      "table_id": "table_104",
+      "csv": "tatumja01/table_104.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "tatumja01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_bos",
+      "csv": "tatumja01/contracts_bos.csv"
+    }
+  ]
+}

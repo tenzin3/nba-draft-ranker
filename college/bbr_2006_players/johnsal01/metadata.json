@@ -1,0 +1,56 @@
+{
+  "name": "Alexander Johnson",
+  "slug": "johnsal01",
+  "url": "https://www.basketball-reference.com/players/j/johnsal01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnsal01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnsal01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnsal01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnsal01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnsal01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnsal01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnsal01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnsal01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnsal01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnsal01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnsal01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnsal01/all_salaries.csv"
+    }
+  ]
+}

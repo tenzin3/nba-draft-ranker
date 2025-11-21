@@ -1,0 +1,18 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2018-19,22,IND,NBA,PF,14,0,64,.250,.214,.500,.281,.500,.333,.500,.125,54,41,141,54,65,60,193,35,-7.8,-8.8,
+2019-20,23,IND,NBA,PF,17,1,118,.414,.429,.375,.466,.700,.509,.345,.276,90,82,105,88,91,90,133,72,-3.7,-3.7,
+2020-21,24,BRK,NBA,PF,18,0,189,.588,.629,.167,.596,1.000,.638,.191,.088,126,119,45,111,129,112,77,23,7.8,9.7,
+2021-22,25,3TM,NBA,PF,23,0,167,.436,.486,.000,.436,.583,.463,.308,.103,95,91,0,82,75,82,124,26,-7.5,-9.1,
+2021-22,25,CHI,NBA,PF,16,0,121,.522,.571,.000,.522,.571,.537,.304,.087,113,107,0,98,74,95,123,22,-0.5,-1.5,
+2021-22,25,WAS,NBA,PF,3,0,18,.333,.500,.000,.333,.000,.311,.167,.333,72,94,0,63,0,55,67,83,-2.4,-3.3,
+2021-22,25,NOP,NBA,PF,4,0,28,.300,.300,,.300,.750,.383,.400,.000,65,56,,56,97,68,161,0,-4.6,-4.3,
+2022-23,26,SAS,NBA,PF,4,0,30,.500,.750,.000,.500,.500,.509,.333,.333,105,137,0,92,64,88,125,86,-0.5,-1.0,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,76,1,568,.481,.522,.227,.497,.711,.531,.285,.139,104,98,63,93,92,93,113,36,-11.7,-12.9,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),,31,1,182,.356,.343,.400,.400,.611,.444,.400,.222,77,66,112,76,79,79,154,59,-11.5,-12.5,
+BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),,18,0,189,.588,.629,.167,.596,1.000,.638,.191,.088,126,119,45,111,129,112,77,23,7.8,9.7,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,16,0,121,.522,.571,.000,.522,.571,.537,.304,.087,113,107,0,98,74,95,123,22,-0.5,-1.5,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,4,0,28,.300,.300,,.300,.750,.383,.400,.000,65,56,,56,97,68,161,0,-4.6,-4.3,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,4,0,30,.500,.750,.000,.500,.500,.509,.333,.333,105,137,0,92,64,88,125,86,-0.5,-1.0,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,3,0,18,.333,.500,.000,.333,.000,.311,.167,.333,72,94,0,63,0,55,67,83,-2.4,-3.3,

@@ -1,0 +1,112 @@
+{
+  "name": "DeAndre Liggins",
+  "slug": "liggide01",
+  "url": "https://www.basketball-reference.com/players/l/liggide01.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "liggide01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "liggide01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "liggide01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "liggide01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "liggide01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "liggide01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "liggide01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "liggide01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "liggide01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "liggide01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "liggide01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "liggide01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "liggide01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "liggide01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "liggide01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "liggide01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "liggide01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "liggide01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "liggide01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "liggide01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "liggide01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "liggide01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "liggide01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "liggide01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "liggide01/table_25.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "liggide01/all_salaries.csv"
+    }
+  ]
+}

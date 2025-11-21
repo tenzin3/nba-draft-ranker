@@ -1,0 +1,16 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2015-16,19,DEN,NBA,PG,68,66,2068,.364,.379,.319,.404,.670,.437,.231,.256,80,77,90,80,89,81,84,90,-177.5,-207.2,ROY-7
+2016-17,20,DEN,NBA,PG,55,41,1406,.377,.408,.315,.428,.784,.483,.303,.323,83,81,88,83,102,87,112,102,-94.1,-86.9,
+2017-18,21,2TM,NBA,PG,64,14,1245,.388,.415,.318,.433,.760,.474,.245,.281,84,81,88,83,99,85,97,83,-93.2,-95.2,
+2017-18,21,DEN,NBA,PG,42,0,752,.401,.414,.373,.460,.808,.504,.242,.317,87,81,103,88,105,91,96,94,-39.6,-37.3,
+2017-18,21,NYK,NBA,PG,22,14,493,.368,.418,.196,.390,.686,.428,.250,.225,80,82,54,75,89,77,99,67,-53.6,-57.9,
+2018-19,22,NYK,NBA,PG,59,42,1607,.446,.492,.329,.493,.774,.531,.251,.284,97,95,93,94,101,95,97,79,-46.8,-46.8,
+2019-20,23,UTA,NBA,PG,54,2,850,.462,.504,.345,.508,.759,.543,.254,.266,100,96,96,96,98,96,98,69,-13.9,-15.6,
+2020-21,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned
+2021-22,25,SAC,NBA,PG,2,0,11,.000,.000,,.000,.750,.399,2.000,.000,0,0,,0,97,70,806,0,-2.1,-1.3,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,302,165,7187,.401,.431,.323,.446,.744,.486,.255,.280,87,85,91,86,97,88,96,86,-427.6,-453.0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (3 Yrs),DEN (3 Yrs),DEN (3 Yrs),DEN (3 Yrs),,165,107,4226,.375,.393,.328,.422,.736,.464,.255,.288,82,79,92,83,96,85,95,95,-311.2,-331.4,
+NYK (2 Yrs),NYK (2 Yrs),NYK (2 Yrs),NYK (2 Yrs),,81,56,2100,.429,.475,.305,.470,.755,.509,.251,.271,93,92,86,90,99,91,98,76,-100.4,-104.7,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,54,2,850,.462,.504,.345,.508,.759,.543,.254,.266,100,96,96,96,98,96,98,69,-13.9,-15.6,
+SAC (1 Yr),SAC (1 Yr),SAC (1 Yr),SAC (1 Yr),,2,0,11,.000,.000,,.000,.750,.399,2.000,.000,0,0,,0,97,70,806,0,-2.1,-1.3,

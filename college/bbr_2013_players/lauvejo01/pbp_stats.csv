@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2013-14,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2014-15,23,DEN,NBA,C,24,1,268,0,0,0,24,76,-20.2,-17.6,9,5,23,6,13,0,31,6,14,
+2015-16,24,DEN,NBA,C,59,15,1041,0,0,0,23,77,-9.7,-9.0,17,10,47,16,33,1,134,7,32,
+2016-17,25,2TM,NBA,C,70,1,980,0,0,0,71,29,-4.8,-6.3,25,11,45,7,31,4,159,7,25,
+2016-17,25,OKC,NBA,PF,50,0,739,0,0,1,86,14,-5.6,-7.4,20,7,42,5,22,4,118,4,18,
+2016-17,25,CHI,NBA,C,20,1,241,0,0,0,25,75,-2.5,-2.8,5,4,3,2,9,0,41,3,7,
+2017-18,26,SAS,NBA,C,55,1,534,0,0,0,17,83,-5.1,-9.4,13,7,22,6,18,0,93,2,20,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,208,18,2823,0,0,0,39,61,-8.2,-8.9,64,33,137,35,95,5,417,22,91,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,7,1113,0,0,0,39,61,-8.2,-8.9,25,13,54,14,37,2,164,9,36,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (2 Yrs),DEN (2 Yrs),DEN (2 Yrs),DEN (2 Yrs),,83,16,1309,0,0,0,23,77,-11.9,-10.7,26,15,70,22,46,1,165,13,46,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,55,1,534,0,0,0,17,83,-5.1,-9.4,13,7,22,6,18,0,93,2,20,
+OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),,50,0,739,0,0,1,86,14,-5.6,-7.4,20,7,42,5,22,4,118,4,18,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,20,1,241,0,0,0,25,75,-2.5,-2.8,5,4,3,2,9,0,41,3,7,

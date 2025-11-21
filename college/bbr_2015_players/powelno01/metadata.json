@@ -1,0 +1,236 @@
+{
+  "name": "Norman Powell",
+  "slug": "powelno01",
+  "url": "https://www.basketball-reference.com/players/p/powelno01.html",
+  "num_tables": 57,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "powelno01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "powelno01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "powelno01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "powelno01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "powelno01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "powelno01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "powelno01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "powelno01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "powelno01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "powelno01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "powelno01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "powelno01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "powelno01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "powelno01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "powelno01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "powelno01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "powelno01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "powelno01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "powelno01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "powelno01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "powelno01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "powelno01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "powelno01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "powelno01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "powelno01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "powelno01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "powelno01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "powelno01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "powelno01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "powelno01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "powelno01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "powelno01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "powelno01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "powelno01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "powelno01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "powelno01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "powelno01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "powelno01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "powelno01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "powelno01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "powelno01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "powelno01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "powelno01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "powelno01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "powelno01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "powelno01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "powelno01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "powelno01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "powelno01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "powelno01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "powelno01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "powelno01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "powelno01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "powelno01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "powelno01/table_55.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "powelno01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_mia",
+      "csv": "powelno01/contracts_mia.csv"
+    }
+  ]
+}

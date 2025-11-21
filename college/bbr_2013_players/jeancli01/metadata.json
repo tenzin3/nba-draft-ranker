@@ -1,0 +1,12 @@
+{
+  "name": "Livio Jean-Charles",
+  "slug": "jeancli01",
+  "url": "https://www.basketball-reference.com/players/j/jeancli01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_salaries",
+      "csv": "jeancli01/all_salaries.csv"
+    }
+  ]
+}

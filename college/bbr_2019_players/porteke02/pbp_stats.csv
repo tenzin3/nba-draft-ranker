@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2019-20,19,CLE,NBA,SF,50,3,1162,0,24,76,0,0,-11.6,-5.6,51,25,61,11,50,7,246,13,32,
+2020-21,20,HOU,NBA,SG,26,23,835,30,59,11,0,0,-13.0,-6.5,51,31,22,5,41,3,386,7,26,
+2021-22,21,HOU,NBA,PG,61,61,1907,94,6,0,0,0,-7.0,4.0,118,56,63,10,83,19,922,19,40,
+2022-23,22,HOU,NBA,PG,59,59,2024,99,1,0,0,0,-8.8,-1.1,113,51,58,12,117,12,809,31,62,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2024-25,24,2TM,NBA,SG,75,4,1482,24,60,16,1,0,1.5,-2.9,71,42,49,14,73,10,625,15,48,
+2024-25,24,LAC,NBA,SG,45,2,884,22,55,22,2,0,-1.4,-7.7,39,30,33,7,34,4,348,6,28,
+2024-25,24,MIL,NBA,SG,30,2,598,26,67,7,0,0,5.7,4.0,32,12,16,7,39,6,277,9,20,
+2025-26,25,MIL,NBA,PG,1,1,9,80,20,0,0,0,75.3,77.5,0,0,0,0,1,0,5,0,0,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,272,151,7419,59,24,16,0,0,-7.1,-1.4,404,205,253,52,365,51,2993,85,208,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,46,2237,59,24,16,0,0,-7.1,-1.4,122,62,76,16,110,15,902,26,63,
+,,,,,,,,,,,,,,,,,,,,,,,,
+HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),,146,143,4766,85,13,2,0,0,-8.8,0.0,282,138,143,27,241,34,2117,57,128,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,31,3,607,27,66,7,0,0,6.8,5.1,32,12,16,7,40,6,282,9,20,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,50,3,1162,0,24,76,0,0,-11.6,-5.6,51,25,61,11,50,7,246,13,32,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,45,2,884,22,55,22,2,0,-1.4,-7.7,39,30,33,7,34,4,348,6,28,

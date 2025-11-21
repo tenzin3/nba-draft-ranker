@@ -1,0 +1,64 @@
+{
+  "name": "Dylan Windler",
+  "slug": "windldy01",
+  "url": "https://www.basketball-reference.com/players/w/windldy01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "windldy01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "windldy01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "windldy01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "windldy01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "windldy01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "windldy01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "windldy01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "windldy01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "windldy01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "windldy01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "windldy01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "windldy01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "windldy01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "windldy01/all_salaries.csv"
+    }
+  ]
+}

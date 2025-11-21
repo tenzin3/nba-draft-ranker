@@ -1,0 +1,12 @@
+{
+  "name": "Ahmad Nivins",
+  "slug": "nivinah01",
+  "url": "https://www.basketball-reference.com/players/n/nivinah01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "nivinah01/all_college_stats.csv"
+    }
+  ]
+}

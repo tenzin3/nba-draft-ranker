@@ -1,0 +1,10 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2019-20,19,NOP,NBA,PF,24,24,668,0,0,0,92,8,4.7,7.6,19,25,16,9,88,4,126,18,39,ROY-3
+2020-21,20,NOP,NBA,PF,61,61,2026,0,0,1,94,5,1.7,5.6,52,57,72,33,278,2,569,79,131,AS
+2021-22,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2022-23,22,NOP,NBA,PF,29,29,956,0,0,0,95,5,7.3,6.9,34,41,31,14,127,2,344,35,44,AS
+2023-24,23,NOP,NBA,PF,70,70,2207,0,0,1,86,14,2.4,-5.2,78,75,90,28,271,3,924,79,121,
+2024-25,24,NOP,NBA,PF,30,30,857,0,0,32,61,8,-3.1,8.4,35,34,41,17,133,0,406,35,61,
+2025-26,25,NOP,NBA,PF,6,6,186,0,0,0,81,19,-4.8,11.6,10,7,12,3,29,0,73,4,14,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,220,220,6900,0,0,4,87,9,2.2,3.0,228,239,262,104,926,11,2442,250,410,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,82,2572,0,0,4,87,9,2.2,3.0,85,89,98,39,345,4,910,93,153,

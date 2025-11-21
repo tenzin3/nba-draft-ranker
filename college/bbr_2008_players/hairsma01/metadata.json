@@ -1,0 +1,60 @@
+{
+  "name": "Malik Hairston",
+  "slug": "hairsma01",
+  "url": "https://www.basketball-reference.com/players/h/hairsma01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "hairsma01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "hairsma01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "hairsma01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "hairsma01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "hairsma01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "hairsma01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "hairsma01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "hairsma01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "hairsma01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "hairsma01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "hairsma01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_12",
+      "csv": "hairsma01/table_12.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "hairsma01/all_salaries.csv"
+    }
+  ]
+}

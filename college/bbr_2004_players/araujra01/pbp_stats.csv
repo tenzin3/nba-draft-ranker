@@ -1,0 +1,9 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2004-05,24,TOR,NBA,C,59.0,41.0,736.0,0.0,0.0,0.0,1.0,99.0,-2.1,-0.6,10.0,11.0,81.0,17.0,24.0,,34.0,4.0,12.0,
+2005-06,25,TOR,NBA,C,52.0,34.0,601.0,0.0,0.0,0.0,2.0,98.0,-10.7,-8.6,10.0,8.0,46.0,14.0,11.0,7.0,33.0,2.0,18.0,
+2006-07,26,UTA,NBA,C,28.0,0.0,248.0,0.0,0.0,0.0,0.0,100.0,10.5,7.7,5.0,2.0,18.0,3.0,11.0,0.0,21.0,1.0,7.0,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,139.0,75.0,1585.0,0.0,0.0,0.0,1.0,99.0,-3.4,-2.3,25.0,21.0,145.0,34.0,46.0,7.0,88.0,7.0,37.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82.0,44.0,935.0,0.0,0.0,0.0,1.0,99.0,-3.4,-2.3,15.0,12.0,86.0,20.0,27.0,,52.0,4.0,22.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+TOR (2 Yrs),TOR (2 Yrs),TOR (2 Yrs),TOR (2 Yrs),,111.0,75.0,1337.0,0.0,0.0,0.0,2.0,98.0,-6.0,-4.2,20.0,19.0,127.0,31.0,35.0,7.0,67.0,6.0,30.0,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,28.0,0.0,248.0,0.0,0.0,0.0,0.0,100.0,10.5,7.7,5.0,2.0,18.0,3.0,11.0,0.0,21.0,1.0,7.0,

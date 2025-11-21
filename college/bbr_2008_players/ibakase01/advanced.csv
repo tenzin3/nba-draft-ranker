@@ -1,0 +1,30 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP,Awards
+2008-09,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2009-10,20,OKC,NBA,PF,73,0,1323,15.2,.562,.005,.249,12.3,21.9,17.2,1.2,1.0,5.5,14.2,16.2,1.3,2.4,3.7,.134,-2.4,0.9,-1.5,0.2,
+2010-11,21,OKC,NBA,PF,82,44,2216,17.7,.579,.002,.298,11.7,20.8,16.4,1.6,0.7,6.5,9.2,15.7,4.3,3.2,7.6,.164,-0.2,0.7,0.5,1.4,DPOY-14
+2011-12,22,OKC,NBA,PF,66,66,1792,19.0,.556,.006,.241,13.2,18.2,15.9,2.5,1.0,9.8,12.7,15.7,3.0,3.2,6.2,.167,0.1,2.3,2.3,1.9,"DPOY-2,DEF1"
+2012-13,23,OKC,NBA,PF,80,80,2486,19.4,.612,.073,.246,11.1,17.0,14.2,2.8,0.6,7.4,12.7,18.1,5.3,4.1,9.4,.181,0.9,0.7,1.5,2.2,"DPOY-3,DEF1"
+2013-14,24,OKC,NBA,PF,81,81,2666,19.6,.576,.061,.203,10.0,19.6,15.0,5.2,0.7,6.7,10.3,19.8,5.2,4.4,9.6,.173,1.1,0.6,1.7,2.5,"DPOY-4,DEF1"
+2014-15,25,OKC,NBA,PF,64,64,2116,16.6,.549,.261,.140,7.0,18.1,12.6,4.2,0.7,5.8,10.4,18.9,2.9,2.7,5.6,.127,0.5,0.4,0.9,1.6,
+2015-16,26,OKC,NBA,PF,78,78,2500,13.9,.533,.212,.139,6.5,16.2,11.6,3.9,0.8,4.5,10.5,17.6,2.5,3.0,5.5,.105,-0.6,0.0,-0.6,0.8,
+2016-17,27,2TM,NBA,PF,79,79,2422,16.4,.566,.323,.127,5.7,19.0,12.2,5.2,0.8,4.2,9.2,20.9,2.5,2.6,5.1,.101,0.4,-0.3,0.1,1.2,
+2016-17,27,ORL,NBA,PF,56,56,1710,17.5,.569,.304,.129,6.2,18.5,12.2,5.9,1.0,4.3,8.2,20.8,2.1,1.7,3.8,.108,0.9,-0.2,0.7,1.2,
+2016-17,27,TOR,NBA,PF,23,23,712,13.8,.556,.369,.122,4.6,20.1,12.4,3.3,0.5,4.0,11.7,20.9,0.4,0.8,1.3,.085,-0.8,-0.6,-1.5,0.1,
+2017-18,28,TOR,NBA,PF,76,76,2093,14.7,.574,.379,.151,4.3,21.0,12.8,4.4,0.7,3.8,9.7,19.4,2.1,3.0,5.1,.117,-0.1,0.0,-0.1,1.0,
+2018-19,29,TOR,NBA,C,74,51,2010,18.7,.582,.193,.202,8.6,23.2,16.1,7.7,0.7,4.3,10.7,22.9,2.8,3.3,6.1,.146,0.2,0.1,0.2,1.2,
+2019-20,30,TOR,NBA,C,55,27,1485,17.3,.583,.272,.185,8.3,23.5,16.1,8.6,0.9,3.0,13.1,24.0,1.2,2.7,3.9,.126,0.1,0.0,0.1,0.8,
+2020-21,31,LAC,NBA,C,41,39,955,18.2,.585,.315,.145,8.9,23.1,16.2,11.5,0.5,4.4,10.2,20.1,1.7,1.3,3.0,.150,1.2,0.2,1.4,0.8,
+2021-22,32,2TM,NBA,C,54,12,877,14.4,.579,.334,.149,7.7,22.2,15.1,8.4,0.6,3.3,12.0,17.8,0.8,1.1,2.0,.108,-1.3,-0.2,-1.5,0.1,
+2021-22,32,LAC,NBA,C,35,10,538,14.9,.567,.323,.151,8.1,21.0,14.8,10.2,0.6,4.1,13.9,19.4,0.3,0.8,1.1,.096,-1.3,0.3,-1.0,0.1,
+2021-22,32,MIL,NBA,C,19,2,339,13.7,.601,.356,.144,7.0,23.9,15.7,5.4,0.6,2.0,8.3,15.2,0.5,0.4,0.9,.128,-1.4,-1.0,-2.4,0.0,
+2022-23,33,MIL,NBA,C,16,0,185,9.8,.553,.333,.241,8.8,15.7,12.4,2.9,0.5,3.1,15.6,16.1,0.0,0.2,0.2,.058,-4.6,0.0,-4.5,-0.1,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+,,,,Pos,G,GS,MP,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP,Awards
+14 Yrs,14 Yrs,14 Yrs,14 Yrs,,919,697,25126,17.1,.571,.192,.187,8.8,19.8,14.4,4.7,0.7,5.5,11.0,19.0,35.7,37.3,73.0,.139,0.1,0.4,0.5,15.7,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,62,2242,17.1,.571,.192,.187,8.8,19.8,14.4,4.7,0.7,5.5,11.0,19.0,3.2,3.3,6.5,.139,0.1,0.4,0.5,1.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (7 Yrs),OKC (7 Yrs),OKC (7 Yrs),OKC (7 Yrs),,524,413,15099,17.5,.567,.105,.208,10.0,18.6,14.5,3.3,0.8,6.5,11.2,17.6,24.5,23.1,47.6,.151,0.1,0.7,0.8,10.7,
+TOR (4 Yrs),TOR (4 Yrs),TOR (4 Yrs),TOR (4 Yrs),,228,177,6300,16.5,.577,.288,.174,6.6,22.2,14.6,6.3,0.7,3.8,11.1,21.8,6.6,9.8,16.4,.125,-0.1,0.0,-0.1,3.1,
+LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),,76,49,1493,17.0,.578,.318,.147,8.6,22.4,15.7,11.0,0.5,4.3,11.5,19.8,2.0,2.0,4.1,.130,0.3,0.2,0.6,1.0,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,35,2,524,12.4,.584,.348,.177,7.7,21.0,14.5,4.5,0.5,2.4,11.0,15.5,0.5,0.6,1.1,.103,-2.5,-0.7,-3.2,-0.2,
+ORL (1 Yr),ORL (1 Yr),ORL (1 Yr),ORL (1 Yr),,56,56,1710,17.5,.569,.304,.129,6.2,18.5,12.2,5.9,1.0,4.3,8.2,20.8,2.1,1.7,3.8,.108,0.9,-0.2,0.7,1.2,

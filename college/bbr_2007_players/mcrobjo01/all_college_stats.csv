@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2005-06,18.0,DUKE,36,883,115,190,5,13,77,116,61,189,53,41,46,51,107,312,0.605,0.385,0.664,24.5,8.7,5.3,1.5
+2006-07,19.0,DUKE,33,1164,164,327,5,23,97,146,69,260,114,39,82,80,83,430,0.502,0.217,0.664,35.3,13.0,7.9,3.5
+Career,,,69,2047,279,517,10,36,174,262,130,449,167,80,128,131,190,742,0.54,0.278,0.664,29.7,10.8,6.5,2.4

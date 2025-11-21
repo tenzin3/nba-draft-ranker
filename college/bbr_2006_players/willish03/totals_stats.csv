@@ -1,0 +1,22 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2006-07,20,IND,NBA,SG,46,3,556,75,160,.469,19,52,.365,56,108,.519,.528,11,20,.550,33,50,83,22,6,8,24,69,180,0,
+2007-08,21,IND,NBA,SF,65,3,967,159,372,.427,43,137,.314,116,235,.494,.485,76,106,.717,54,122,176,59,26,26,58,132,437,0,
+2008-09,22,DAL,NBA,SF,15,0,170,16,56,.286,1,17,.059,15,39,.385,.295,9,11,.818,19,27,46,2,2,9,5,19,42,0,
+2009-10,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other,Did not play - other
+2010-11,24,NYK,NBA,PF,64,11,1323,164,385,.426,85,212,.401,79,173,.457,.536,41,49,.837,60,179,239,47,39,51,46,164,454,0,
+2011-12,25,NJN,NBA,SF,25,6,514,42,147,.286,21,87,.241,21,60,.350,.357,8,11,.727,20,48,68,16,10,11,13,44,113,0,
+2012-13,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived
+2013-14,27,LAL,NBA,PF,36,13,751,73,192,.380,42,129,.326,31,63,.492,.490,14,20,.700,25,142,167,30,19,30,21,93,202,0,
+2014-15,28,2TM,NBA,SF,63,22,1087,121,300,.403,64,178,.360,57,122,.467,.510,35,40,.875,36,130,166,44,25,21,30,135,341,0,
+2014-15,28,MIA,NBA,SF,44,22,924,102,240,.425,60,152,.395,42,88,.477,.550,28,33,.848,27,112,139,36,21,17,23,116,292,0,
+2014-15,28,DET,NBA,SF,19,0,163,19,60,.317,4,26,.154,15,34,.441,.350,7,7,1.000,9,18,27,8,4,4,7,19,49,0,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,314,58,5368,650,1612,.403,275,812,.339,375,800,.469,.489,194,257,.755,247,698,945,220,127,156,197,656,1769,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,15,1402,170,421,.403,72,212,.339,98,209,.469,.489,51,67,.755,65,182,247,57,33,41,51,171,462,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),,111,6,1523,234,532,.440,62,189,.328,172,343,.501,.498,87,126,.690,87,172,259,81,32,34,82,201,617,0,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,64,11,1323,164,385,.426,85,212,.401,79,173,.457,.536,41,49,.837,60,179,239,47,39,51,46,164,454,0,
+MIA (1 Yr),MIA (1 Yr),MIA (1 Yr),MIA (1 Yr),,44,22,924,102,240,.425,60,152,.395,42,88,.477,.550,28,33,.848,27,112,139,36,21,17,23,116,292,0,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,36,13,751,73,192,.380,42,129,.326,31,63,.492,.490,14,20,.700,25,142,167,30,19,30,21,93,202,0,
+NJN (1 Yr),NJN (1 Yr),NJN (1 Yr),NJN (1 Yr),,25,6,514,42,147,.286,21,87,.241,21,60,.350,.357,8,11,.727,20,48,68,16,10,11,13,44,113,0,
+DET (1 Yr),DET (1 Yr),DET (1 Yr),DET (1 Yr),,19,0,163,19,60,.317,4,26,.154,15,34,.441,.350,7,7,1.000,9,18,27,8,4,4,7,19,49,0,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,15,0,170,16,56,.286,1,17,.059,15,39,.385,.295,9,11,.818,19,27,46,2,2,9,5,19,42,0,

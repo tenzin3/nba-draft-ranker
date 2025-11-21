@@ -1,0 +1,64 @@
+{
+  "name": "Isaiah Roby",
+  "slug": "robyis01",
+  "url": "https://www.basketball-reference.com/players/r/robyis01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "robyis01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "robyis01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "robyis01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "robyis01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "robyis01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "robyis01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "robyis01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "robyis01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "robyis01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "robyis01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "robyis01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "robyis01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "robyis01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "robyis01/all_salaries.csv"
+    }
+  ]
+}

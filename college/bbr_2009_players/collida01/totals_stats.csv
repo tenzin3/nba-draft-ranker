@@ -1,0 +1,23 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2009-10,22,NOH,NBA,PG,76,37,2109,376,789,.477,46,115,.400,330,674,.490,.506,148,174,.851,41,151,192,432,78,4,202,92,946,1,ROY-4
+2010-11,23,IND,NBA,PG,79,79,2360,398,870,.457,41,124,.331,357,746,.479,.481,202,232,.871,40,185,225,403,87,14,194,109,1039,0,
+2011-12,24,IND,NBA,PG,60,56,1878,230,523,.440,34,94,.362,196,429,.457,.472,127,153,.830,30,157,187,287,49,14,114,101,621,0,
+2012-13,25,DAL,NBA,PG,81,47,2372,341,724,.471,48,136,.353,293,588,.498,.504,242,275,.880,31,188,219,415,100,8,173,139,972,0,
+2013-14,26,LAC,NBA,PG,80,35,2069,324,694,.467,71,189,.376,253,505,.501,.518,192,224,.857,47,141,188,297,93,15,132,150,911,0,
+2014-15,27,SAC,NBA,PG,45,45,1565,260,550,.473,60,161,.373,200,389,.514,.527,145,184,.788,19,124,143,252,67,14,112,95,725,0,
+2015-16,28,SAC,NBA,PG,74,15,2219,377,776,.486,87,217,.401,290,559,.519,.542,194,226,.858,28,141,169,318,76,4,130,142,1035,0,6MOY-15
+2016-17,29,SAC,NBA,PG,68,64,2063,340,714,.476,73,175,.417,267,539,.495,.527,147,171,.860,23,129,152,312,67,9,114,119,900,0,
+2017-18,30,IND,NBA,PG,69,64,2018,316,638,.495,96,205,.468,220,433,.508,.571,127,144,.882,37,141,178,368,92,15,86,122,855,0,
+2018-19,31,IND,NBA,PG,76,76,2143,308,659,.467,79,194,.407,229,465,.492,.527,158,190,.832,36,196,232,459,110,9,125,138,853,0,
+2019-20,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired
+2020-21,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired,Did not play - retired
+2021-22,34,LAL,NBA,PG,3,0,37,2,7,.286,0,3,.000,2,4,.500,.286,0,0,,0,4,4,2,1,0,1,5,4,0,
+11 Yrs,11 Yrs,11 Yrs,11 Yrs,,711,518,20833,3272,6944,.471,635,1613,.394,2637,5331,.495,.517,1682,1973,.853,332,1557,1889,3545,820,106,1383,1212,8861,1,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,60,2403,377,801,.471,73,186,.394,304,615,.495,.517,194,228,.853,38,180,218,409,95,12,160,140,1022,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IND (4 Yrs),IND (4 Yrs),IND (4 Yrs),IND (4 Yrs),,284,275,8399,1252,2690,.465,250,617,.405,1002,2073,.483,.512,614,719,.854,143,679,822,1517,338,52,519,470,3368,0,
+SAC (3 Yrs),SAC (3 Yrs),SAC (3 Yrs),SAC (3 Yrs),,187,124,5847,977,2040,.479,220,553,.398,757,1487,.509,.533,486,581,.836,70,394,464,882,210,27,356,356,2660,0,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,81,47,2372,341,724,.471,48,136,.353,293,588,.498,.504,242,275,.880,31,188,219,415,100,8,173,139,972,0,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,80,35,2069,324,694,.467,71,189,.376,253,505,.501,.518,192,224,.857,47,141,188,297,93,15,132,150,911,0,
+NOH (1 Yr),NOH (1 Yr),NOH (1 Yr),NOH (1 Yr),,76,37,2109,376,789,.477,46,115,.400,330,674,.490,.506,148,174,.851,41,151,192,432,78,4,202,92,946,1,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,3,0,37,2,7,.286,0,3,.000,2,4,.500,.286,0,0,,0,4,4,2,1,0,1,5,4,0,

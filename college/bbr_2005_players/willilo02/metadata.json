@@ -1,0 +1,304 @@
+{
+  "name": "Lou Williams",
+  "slug": "willilo02",
+  "url": "https://www.basketball-reference.com/players/w/willilo02.html",
+  "num_tables": 74,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "willilo02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "willilo02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "willilo02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "willilo02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "willilo02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "willilo02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "willilo02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "willilo02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "willilo02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "willilo02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "willilo02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "willilo02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "willilo02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "willilo02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "willilo02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "willilo02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "willilo02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "willilo02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "willilo02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "willilo02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "willilo02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "willilo02/sims-career.csv"
+    },
+    {
+      "table_id": "table_23",
+      "csv": "willilo02/table_23.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "willilo02/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "willilo02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "willilo02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "willilo02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "willilo02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "willilo02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "willilo02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "willilo02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "willilo02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "willilo02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "willilo02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "willilo02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "willilo02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "willilo02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "willilo02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "willilo02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "willilo02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "willilo02/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "willilo02/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "willilo02/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "willilo02/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "willilo02/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "willilo02/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "willilo02/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "willilo02/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "willilo02/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "willilo02/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "willilo02/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "willilo02/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "willilo02/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "willilo02/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "willilo02/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "willilo02/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "willilo02/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "willilo02/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "willilo02/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "willilo02/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "willilo02/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "willilo02/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "willilo02/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "willilo02/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "willilo02/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "willilo02/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "willilo02/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "willilo02/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "willilo02/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "willilo02/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "willilo02/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "willilo02/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "willilo02/table_73.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "willilo02/all_salaries.csv"
+    }
+  ]
+}

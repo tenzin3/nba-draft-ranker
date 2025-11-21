@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Unnamed: 22_level_0', 'Awards')"
+2017-18,19,OKC,NBA,SG,3,0,6,1.0,,1.0,1.5,1.5,0.0,1.0,217,,276,288,270,0,297,
+2018-19,20,OKC,NBA,SG,5,5,128,0.36,0.286,0.389,0.5,0.5,0.0,0.72,78,55.0,110,95,89,0,201,
+2019-20,21,OKC,NBA,SF,4,1,42,0.182,0.0,0.2,0.273,0.273,0.0,0.909,40,0.0,56,52,48,0,237,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,12,6,176,0.324,0.25,0.345,0.459,0.459,0.0,0.784,70,48.0,97,88,82,0,214,

@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2013-14,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2014-15,23,DEN,NBA,C,24,1,268,.404,.452,.188,.421,.643,.459,.315,.180,90,93,54,85,86,86,115,67,-13.3,-15.2,
+2015-16,24,DEN,NBA,C,59,15,1041,.513,.557,.245,.530,.899,.567,.182,.139,113,113,69,106,119,105,66,49,21.1,20.8,
+2016-17,25,2TM,NBA,C,70,1,980,.440,.483,.337,.490,.630,.509,.217,.292,96,96,94,95,82,92,80,92,-16.2,-31.6,
+2016-17,25,OKC,NBA,PF,50,0,739,.455,.506,.346,.510,.638,.531,.238,.320,100,101,97,99,83,96,88,101,-1.7,-11.7,
+2016-17,25,CHI,NBA,C,20,1,241,.402,.431,.300,.435,.600,.451,.163,.217,88,86,84,85,78,82,60,69,-14.5,-19.9,
+2017-18,26,SAS,NBA,C,55,1,534,.516,.530,.000,.516,.638,.536,.247,.026,112,104,0,99,83,96,98,8,-2.0,-8.3,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,208,18,2823,.479,.520,.285,.504,.719,.531,.218,.173,105,104,80,99,94,97,81,57,-10.4,-34.3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (2 Yrs),DEN (2 Yrs),DEN (2 Yrs),DEN (2 Yrs),,83,16,1309,.493,.538,.232,.510,.825,.545,.207,.147,109,110,66,102,109,101,75,52,7.8,5.6,
+SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),SAS (1 Yr),,55,1,534,.516,.530,.000,.516,.638,.536,.247,.026,112,104,0,99,83,96,98,8,-2.0,-8.3,
+OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),,50,0,739,.455,.506,.346,.510,.638,.531,.238,.320,100,101,97,99,83,96,88,101,-1.7,-11.7,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,20,1,241,.402,.431,.300,.435,.600,.451,.163,.217,88,86,84,85,78,82,60,69,-14.5,-19.9,

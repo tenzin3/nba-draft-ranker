@@ -1,0 +1,320 @@
+{
+  "name": "David Lee",
+  "slug": "leeda02",
+  "url": "https://www.basketball-reference.com/players/l/leeda02.html",
+  "num_tables": 78,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "leeda02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "leeda02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "leeda02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "leeda02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "leeda02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "leeda02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "leeda02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "leeda02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "leeda02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "leeda02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "leeda02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "leeda02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "leeda02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "leeda02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "leeda02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "leeda02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "leeda02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "leeda02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "leeda02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "leeda02/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "leeda02/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "leeda02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "leeda02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "leeda02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "leeda02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "leeda02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "leeda02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "leeda02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "leeda02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "leeda02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "leeda02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "leeda02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "leeda02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "leeda02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "leeda02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "leeda02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "leeda02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "leeda02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "leeda02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "leeda02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "leeda02/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "leeda02/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "leeda02/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "leeda02/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "leeda02/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "leeda02/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "leeda02/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "leeda02/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "leeda02/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "leeda02/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "leeda02/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "leeda02/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "leeda02/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "leeda02/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "leeda02/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "leeda02/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "leeda02/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "leeda02/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "leeda02/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "leeda02/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "leeda02/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "leeda02/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "leeda02/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "leeda02/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "leeda02/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "leeda02/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "leeda02/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "leeda02/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "leeda02/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "leeda02/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "leeda02/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "leeda02/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "leeda02/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "leeda02/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "leeda02/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "leeda02/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "leeda02/table_77.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "leeda02/all_salaries.csv"
+    }
+  ]
+}

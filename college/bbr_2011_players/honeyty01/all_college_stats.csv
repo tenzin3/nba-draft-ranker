@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2009-10,19.0,UCLA,26,719,69,139,10,29,39,65,53,169,70,39,31,63,60,187,0.496,0.345,0.6,27.7,7.2,6.5,2.7
+2010-11,20.0,UCLA,33,1154,144,355,55,152,78,106,50,238,93,29,67,100,52,421,0.406,0.362,0.736,35.0,12.8,7.2,2.8
+Career,,,59,1873,213,494,65,181,117,171,103,407,163,68,98,163,112,608,0.431,0.359,0.684,31.7,10.3,6.9,2.8

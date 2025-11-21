@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2016-17,20.0,MIAMIFL,32,557,77,145,0,2,33,51,45,99,6,13,25,30,61,187,0.531,0.0,0.647,17.4,5.8,3.1,0.2
+2017-18,21.0,MIAMIFL,32,825,147,255,0,3,71,103,65,213,14,16,31,44,60,365,0.576,0.0,0.689,25.8,11.4,6.7,0.4
+Career,,,64,1382,224,400,0,5,104,154,110,312,20,29,56,74,121,552,0.56,0.0,0.675,21.6,8.6,4.9,0.3

@@ -1,0 +1,52 @@
+{
+  "name": "Furkan Aldemir",
+  "slug": "aldemfu01",
+  "url": "https://www.basketball-reference.com/players/a/aldemfu01.html",
+  "num_tables": 11,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "aldemfu01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "aldemfu01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "aldemfu01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "aldemfu01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "aldemfu01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "aldemfu01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "aldemfu01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "aldemfu01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "aldemfu01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "aldemfu01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "aldemfu01/all_salaries.csv"
+    }
+  ]
+}

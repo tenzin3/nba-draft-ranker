@@ -1,0 +1,56 @@
+{
+  "name": "Glen Rice Jr.",
+  "slug": "ricegl02",
+  "url": "https://www.basketball-reference.com/players/r/ricegl02.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "ricegl02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "ricegl02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "ricegl02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "ricegl02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "ricegl02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "ricegl02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "ricegl02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "ricegl02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "ricegl02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "ricegl02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "ricegl02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "ricegl02/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2012-13,18.0,SYRACUSE,40,572,54,117,6,15,41,73,46,118,18,17,18,26,54,155,0.462,0.4,0.562,14.3,3.9,3.0,0.5
+2013-14,19.0,SYRACUSE,32,1005,133,268,0,5,120,178,78,217,44,26,18,37,75,386,0.496,0.0,0.674,31.4,12.1,6.8,1.4
+Career,,,72,1577,187,385,6,20,161,251,124,335,62,43,36,63,129,541,0.486,0.3,0.641,21.9,7.5,4.7,0.9

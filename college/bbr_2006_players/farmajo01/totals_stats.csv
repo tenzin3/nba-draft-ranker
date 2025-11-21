@@ -1,0 +1,20 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2006-07,20,LAL,NBA,PG,72,2,1090,124,294,.422,45,137,.328,79,157,.503,.498,27,38,.711,22,97,119,137,44,7,73,77,320,0,
+2007-08,21,LAL,NBA,PG,82,0,1690,291,631,.461,114,307,.371,177,324,.546,.552,53,78,.679,39,144,183,225,77,5,108,105,749,0,6MOY-11
+2008-09,22,LAL,NBA,PG,65,0,1192,161,412,.391,49,146,.336,112,266,.421,.450,45,77,.584,22,95,117,155,57,10,87,105,416,0,
+2009-10,23,LAL,NBA,PG,82,0,1474,224,515,.435,86,229,.376,138,286,.483,.518,57,85,.671,14,117,131,127,52,11,72,109,591,0,
+2010-11,24,NJN,NBA,PG,73,18,1796,255,651,.392,109,304,.359,146,347,.421,.475,82,100,.820,24,149,173,368,62,6,139,128,701,0,
+2011-12,25,NJN,NBA,PG,39,5,831,147,315,.467,55,125,.440,92,190,.484,.554,57,63,.905,7,54,61,129,24,2,68,49,406,0,
+2012-13,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2013-14,27,LAL,NBA,PG,41,5,912,151,364,.415,70,160,.438,81,204,.397,.511,44,59,.746,20,84,104,199,38,8,95,65,416,0,
+2014-15,28,LAC,NBA,PG,36,0,529,61,158,.386,35,97,.361,26,61,.426,.497,10,11,.909,8,34,42,67,20,5,32,52,167,0,
+2015-16,29,MEM,NBA,PG,12,10,291,42,100,.420,16,45,.356,26,55,.473,.500,10,10,1.000,4,21,25,37,15,2,18,22,110,0,
+2016-17,30,SAC,NBA,PG,2,0,35,4,12,.333,4,9,.444,0,3,.000,.500,0,0,,1,2,3,9,2,0,3,1,12,0,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,504,40,9840,1460,3452,.423,583,1559,.374,877,1893,.463,.507,385,521,.739,161,797,958,1453,391,56,695,713,3888,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,7,1601,238,562,.423,95,254,.374,143,308,.463,.507,63,85,.739,26,130,156,236,64,9,113,116,633,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAL (5 Yrs),LAL (5 Yrs),LAL (5 Yrs),LAL (5 Yrs),,342,7,6358,951,2216,.429,364,979,.372,587,1237,.475,.511,226,337,.671,117,537,654,843,268,41,435,461,2492,0,
+NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),,112,23,2627,402,966,.416,164,429,.382,238,537,.443,.501,139,163,.853,31,203,234,497,86,8,207,177,1107,0,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,36,0,529,61,158,.386,35,97,.361,26,61,.426,.497,10,11,.909,8,34,42,67,20,5,32,52,167,0,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,12,10,291,42,100,.420,16,45,.356,26,55,.473,.500,10,10,1.000,4,21,25,37,15,2,18,22,110,0,
+SAC (1 Yr),SAC (1 Yr),SAC (1 Yr),SAC (1 Yr),,2,0,35,4,12,.333,4,9,.444,0,3,.000,.500,0,0,,1,2,3,9,2,0,3,1,12,0,

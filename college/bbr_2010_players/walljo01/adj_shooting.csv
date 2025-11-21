@@ -1,0 +1,19 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2010-11,20,WAS,NBA,PG,69,64,2606,.409,.425,.296,.427,.766,.494,.404,.118,89,87,82,86,100,91,135,53,-138.8,-108.7,ROY-2
+2011-12,21,WAS,NBA,PG,66,66,2386,.423,.440,.071,.424,.789,.502,.450,.047,94,92,20,87,105,95,163,21,-112.3,-52.9,
+2012-13,22,WAS,NBA,PG,49,42,1602,.441,.452,.267,.449,.804,.521,.416,.061,97,94,74,90,107,97,154,25,-69.7,-23.8,
+2013-14,23,WAS,NBA,PG,82,82,2980,.433,.458,.351,.473,.805,.524,.295,.230,95,94,97,94,106,97,104,89,-73.9,-50.8,AS
+2014-15,24,WAS,NBA,PG,79,79,2837,.445,.478,.300,.473,.785,.523,.310,.186,99,99,86,95,105,98,114,69,-53.4,-28.8,"AS,DEF2"
+2015-16,25,WAS,NBA,PG,77,77,2784,.424,.448,.351,.467,.791,.510,.255,.243,94,91,99,93,104,94,92,85,-96.7,-93.1,AS
+2016-17,26,WAS,NBA,PG,78,78,2836,.451,.480,.327,.482,.801,.541,.367,.190,99,95,92,94,104,98,136,60,-91.3,-36.4,"MVP-7,AS,NBA3"
+2017-18,27,WAS,NBA,PG,41,41,1410,.420,.436,.371,.466,.726,.515,.361,.250,91,85,103,89,95,93,143,74,-73.3,-62.8,AS
+2018-19,28,WAS,NBA,PG,32,32,1104,.444,.507,.302,.490,.697,.527,.317,.306,96,97,85,93,91,94,123,85,-37.7,-41.0,
+2019-20,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2020-21,30,HOU,NBA,PG,40,40,1288,.404,.449,.317,.458,.749,.503,.291,.343,87,85,87,85,96,88,118,88,-116.1,-113.4,
+2021-22,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out,Did not play - sat out
+2022-23,32,LAC,NBA,PG,34,3,755,.408,.459,.303,.457,.681,.498,.334,.322,86,84,84,84,87,86,125,83,-59.6,-64.7,
+11 Yrs,11 Yrs,11 Yrs,11 Yrs,,647,604,22588,.430,.457,.322,.462,.776,.517,.341,.199,94,92,90,91,102,95,125,67,-922.8,-676.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+WAS (9 Yrs),WAS (9 Yrs),WAS (9 Yrs),WAS (9 Yrs),,573,561,20545,.433,.457,.324,.462,.781,.519,.345,.183,95,93,91,92,103,96,126,64,-747.1,-498.3,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,40,40,1288,.404,.449,.317,.458,.749,.503,.291,.343,87,85,87,85,96,88,118,88,-116.1,-113.4,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,34,3,755,.408,.459,.303,.457,.681,.498,.334,.322,86,84,84,84,87,86,125,83,-59.6,-64.7,

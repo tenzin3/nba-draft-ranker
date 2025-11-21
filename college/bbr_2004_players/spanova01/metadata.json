@@ -1,0 +1,92 @@
+{
+  "name": "Vassilis Spanoulis",
+  "slug": "spanova01",
+  "url": "https://www.basketball-reference.com/players/s/spanova01.html",
+  "num_tables": 21,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "spanova01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "spanova01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "spanova01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "spanova01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "spanova01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "spanova01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "spanova01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "spanova01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "spanova01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "spanova01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "spanova01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "spanova01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "spanova01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "spanova01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "spanova01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "spanova01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "spanova01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "spanova01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "spanova01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "spanova01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "spanova01/all_salaries.csv"
+    }
+  ]
+}
