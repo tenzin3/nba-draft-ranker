@@ -1,11 +1,3 @@
-"""
-Utility to aggregate college stats for a specific season across draft classes.
-
-Usage examples:
-    python proccess_pipline/pipline.py --season 1999-00
-    python proccess_pipline/pipline.py --season 2000-01 --draft-years 2001
-"""
-
 from __future__ import annotations
 
 import argparse
@@ -200,3 +192,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+    #Example: python extract/pipeline.py --all
+
