@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2013-14,22,OKC,NBA,SG,40,16,399,0,69,31,1,0,6.4,-0.5,4,6,27,6,3,5,31,0,5,
+2014-15,23,OKC,NBA,SG,67,65,1286,1,61,36,3,0,6.2,6.2,22,9,61,8,16,2,165,2,18,
+2015-16,24,OKC,NBA,SG,70,70,1553,0,66,32,2,0,9.6,3.9,16,12,77,0,25,6,111,4,18,
+2016-17,25,OKC,NBA,SF,79,79,2376,0,9,88,3,0,3.6,7.8,23,17,99,5,41,13,193,7,36,"DPOY-5,DEF2"
+2017-18,26,OKC,NBA,SG,39,39,1037,0,83,17,0,0,10.6,9.8,10,7,37,9,11,8,107,2,10,
+2018-19,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2019-20,28,OKC,NBA,SF,7,0,87,0,0,67,33,0,1.4,-0.3,0,1,7,0,0,2,10,0,2,
+2020-21,29,BRK,NBA,SG,5,0,63,0,0,38,62,0,-12.7,-18.0,0,1,0,1,1,0,9,0,2,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,307,269,6801,0,46,51,3,0,6.5,6.1,75,53,308,29,97,36,626,15,91,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,72,1817,0,46,51,3,0,6.5,6.1,20,14,82,8,26,10,167,4,24,
+,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (6 Yrs),OKC (6 Yrs),OKC (6 Yrs),OKC (6 Yrs),,302,269,6738,0,47,51,2,0,6.7,6.3,75,52,308,28,96,36,617,15,89,
+BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),,5,0,63,0,0,38,62,0,-12.7,-18.0,0,1,0,1,1,0,9,0,2,

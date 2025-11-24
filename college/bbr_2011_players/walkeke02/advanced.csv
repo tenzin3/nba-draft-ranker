@@ -1,0 +1,21 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP,Awards
+2011-12,21,CHA,NBA,PG,66,25,1792,14.9,.464,.295,.278,1.9,13.5,7.5,30.2,1.8,0.8,12.1,25.2,-0.2,0.5,0.3,.009,0.7,-1.4,-0.8,0.6,ROY-11
+2012-13,22,CHA,NBA,PG,82,82,2859,18.8,.517,.267,.298,2.3,9.2,5.7,31.2,2.9,0.9,12.4,25.6,3.7,1.1,4.8,.080,2.2,-0.8,1.4,2.4,
+2013-14,23,CHA,NBA,PG,73,73,2614,16.8,.499,.286,.295,1.7,11.6,6.6,29.7,1.7,1.0,11.6,25.8,1.8,3.3,5.1,.093,1.4,0.3,1.7,2.4,
+2014-15,24,CHO,NBA,PG,62,58,2119,17.6,.486,.285,.288,1.8,9.9,5.7,27.1,2.2,1.2,8.3,25.9,1.8,2.6,4.5,.101,1.7,0.6,2.3,2.3,
+2015-16,25,CHO,NBA,PG,81,81,2885,20.8,.554,.368,.329,2.1,11.5,6.8,25.7,2.2,1.1,10.1,26.5,6.3,3.6,9.9,.164,3.5,0.5,4.0,4.3,
+2016-17,26,CHO,NBA,PG,79,79,2739,21.3,.569,.415,.248,1.8,10.6,6.2,29.1,1.6,0.7,9.5,29.2,5.9,2.2,8.1,.142,4.9,-0.8,4.1,4.2,AS
+2017-18,27,CHO,NBA,PG,80,80,2736,20.6,.572,.441,.308,1.2,8.7,4.9,27.4,1.6,0.7,10.4,27.4,6.5,2.0,8.6,.150,4.7,-0.7,4.0,4.2,AS
+2018-19,28,CHO,NBA,PG,82,82,2863,21.7,.558,.434,.267,1.9,11.9,6.8,29.4,1.7,1.0,10.1,31.5,5.5,1.9,7.4,.123,5.2,-1.0,4.2,4.4,"AS,NBA3"
+2019-20,29,BOS,NBA,PG,56,56,1742,20.0,.575,.532,.272,2.2,11.0,6.7,24.2,1.3,1.5,10.5,27.2,3.9,2.0,5.9,.162,4.9,-0.3,4.6,2.9,AS
+2020-21,30,BOS,NBA,PG,43,43,1369,17.7,.559,.522,.220,1.3,12.6,6.9,23.8,1.7,0.8,10.6,26.1,2.1,1.1,3.3,.115,2.8,-0.7,2.1,1.4,
+2021-22,31,NYK,NBA,PG,37,37,948,13.9,.537,.538,.192,1.6,11.2,6.3,22.2,1.4,0.7,10.7,20.8,1.0,0.9,1.8,.093,0.7,-0.2,0.4,0.6,
+2022-23,32,DAL,NBA,PG,9,1,144,15.0,.543,.491,.368,2.4,10.6,6.5,20.1,0.7,1.2,5.7,22.1,0.2,0.1,0.3,.098,0.3,-0.6,-0.3,0.1,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+12 Yrs,12 Yrs,12 Yrs,12 Yrs,,750,697,24810,19.1,.539,.388,.281,1.8,10.9,6.3,27.8,1.9,1.0,10.5,26.9,38.5,21.4,59.8,.116,3.2,-0.4,2.8,29.8,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,76,2713,19.1,.539,.388,.281,1.8,10.9,6.3,27.8,1.9,1.0,10.5,26.9,4.2,2.3,6.5,.116,3.2,-0.4,2.8,3.3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHA (8 Yrs),CHA (8 Yrs),CHA (8 Yrs),CHA (8 Yrs),,605,560,20607,19.3,.535,.360,.288,1.8,10.8,6.2,28.7,2.0,0.9,10.5,27.3,31.3,17.3,48.5,.113,3.2,-0.4,2.8,24.8,
+BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),,99,99,3111,18.9,.568,.528,.250,1.8,11.7,6.8,24.0,1.5,1.2,10.6,26.7,6.0,3.1,9.2,.141,4.0,-0.5,3.5,4.4,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,37,37,948,13.9,.537,.538,.192,1.6,11.2,6.3,22.2,1.4,0.7,10.7,20.8,1.0,0.9,1.8,.093,0.7,-0.2,0.4,0.6,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,9,1,144,15.0,.543,.491,.368,2.4,10.6,6.5,20.1,0.7,1.2,5.7,22.1,0.2,0.1,0.3,.098,0.3,-0.6,-0.3,0.1,

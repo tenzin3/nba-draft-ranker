@@ -1,0 +1,80 @@
+{
+  "name": "Josh Jackson",
+  "slug": "jacksjo02",
+  "url": "https://www.basketball-reference.com/players/j/jacksjo02.html",
+  "num_tables": 18,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "jacksjo02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "jacksjo02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "jacksjo02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "jacksjo02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "jacksjo02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "jacksjo02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "jacksjo02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "jacksjo02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "jacksjo02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "jacksjo02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "jacksjo02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_12",
+      "csv": "jacksjo02/table_12.csv"
+    },
+    {
+      "table_id": "table_13",
+      "csv": "jacksjo02/table_13.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "jacksjo02/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "jacksjo02/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "jacksjo02/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "jacksjo02/table_17.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "jacksjo02/all_salaries.csv"
+    }
+  ]
+}

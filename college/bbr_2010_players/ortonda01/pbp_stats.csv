@@ -1,0 +1,11 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2010-11,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2011-12,21,ORL,NBA,PF,16,2,187,0,0,0,10,90,-12.5,-14.3,1,2,16,4,12,1,12,1,1,
+2012-13,22,OKC,NBA,C,13,0,104,0,0,0,25,75,-4.8,-15.0,2,1,6,0,9,0,10,1,2,
+2013-14,23,PHI,NBA,C,22,4,251,0,0,0,17,83,-6.2,4.8,4,6,13,7,12,1,35,5,7,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,51,6,542,0,0,0,16,84,-8.1,-5.6,7,9,35,11,33,2,57,7,10,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,10,871,0,0,0,16,84,-8.1,-5.6,11,14,56,18,53,3,92,11,16,
+,,,,,,,,,,,,,,,,,,,,,,,,
+PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),,22,4,251,0,0,0,17,83,-6.2,4.8,4,6,13,7,12,1,35,5,7,
+ORL (1 Yr),ORL (1 Yr),ORL (1 Yr),ORL (1 Yr),,16,2,187,0,0,0,10,90,-12.5,-14.3,1,2,16,4,12,1,12,1,1,
+OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),,13,0,104,0,0,0,25,75,-4.8,-15.0,2,1,6,0,9,0,10,1,2,

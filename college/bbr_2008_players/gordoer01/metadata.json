@@ -1,0 +1,224 @@
+{
+  "name": "Eric Gordon",
+  "slug": "gordoer01",
+  "url": "https://www.basketball-reference.com/players/g/gordoer01.html",
+  "num_tables": 54,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "gordoer01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "gordoer01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "gordoer01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "gordoer01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "gordoer01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "gordoer01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "gordoer01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "gordoer01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "gordoer01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "gordoer01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "gordoer01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "gordoer01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "gordoer01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "gordoer01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "gordoer01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "gordoer01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "gordoer01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "gordoer01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "gordoer01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "gordoer01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "gordoer01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "gordoer01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "gordoer01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "gordoer01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "gordoer01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "gordoer01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "gordoer01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "gordoer01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "gordoer01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "gordoer01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "gordoer01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "gordoer01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "gordoer01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "gordoer01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "gordoer01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "gordoer01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "gordoer01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "gordoer01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "gordoer01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "gordoer01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "gordoer01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "gordoer01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "gordoer01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "gordoer01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "gordoer01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "gordoer01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "gordoer01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "gordoer01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "gordoer01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "gordoer01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "gordoer01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "gordoer01/table_52.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "gordoer01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_phi",
+      "csv": "gordoer01/contracts_phi.csv"
+    }
+  ]
+}

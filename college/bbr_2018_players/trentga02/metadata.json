@@ -1,0 +1,188 @@
+{
+  "name": "Gary Trent Jr.",
+  "slug": "trentga02",
+  "url": "https://www.basketball-reference.com/players/t/trentga02.html",
+  "num_tables": 45,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "trentga02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "trentga02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "trentga02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "trentga02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "trentga02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "trentga02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "trentga02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "trentga02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "trentga02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "trentga02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "trentga02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "trentga02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "trentga02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "trentga02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "trentga02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "trentga02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "trentga02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "trentga02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "trentga02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "trentga02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "trentga02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "trentga02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "trentga02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "trentga02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "trentga02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "trentga02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "trentga02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "trentga02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "trentga02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "trentga02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "trentga02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "trentga02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "trentga02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "trentga02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "trentga02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "trentga02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "trentga02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "trentga02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "trentga02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "trentga02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "trentga02/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "trentga02/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "trentga02/table_43.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "trentga02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_mil",
+      "csv": "trentga02/contracts_mil.csv"
+    }
+  ]
+}

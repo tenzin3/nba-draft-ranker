@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2015-16,19.0,VILLANOVA,9,74,6,21,3,17,0,0,10,16,4,4,0,7,10,15,0.286,0.176,,8.2,1.7,1.8,0.4
+2016-17,20.0,VILLANOVA,36,919,109,234,42,115,58,83,37,137,61,33,10,51,58,318,0.466,0.365,0.699,25.5,8.8,3.8,1.7
+2017-18,21.0,VILLANOVA,40,1170,188,391,85,212,76,107,46,190,139,42,8,79,83,537,0.481,0.401,0.71,29.3,13.4,4.8,3.5
+Career,,,85,2163,303,646,130,344,134,190,93,343,204,79,18,137,151,870,0.469,0.378,0.705,25.4,10.2,4.0,2.4

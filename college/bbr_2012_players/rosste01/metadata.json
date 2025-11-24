@@ -1,0 +1,160 @@
+{
+  "name": "Terrence Ross",
+  "slug": "rosste01",
+  "url": "https://www.basketball-reference.com/players/r/rosste01.html",
+  "num_tables": 38,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "rosste01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "rosste01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "rosste01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "rosste01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "rosste01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "rosste01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "rosste01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "rosste01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "rosste01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "rosste01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "rosste01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "rosste01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "rosste01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "rosste01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "rosste01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "rosste01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "rosste01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "rosste01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "rosste01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "rosste01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "rosste01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "rosste01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "rosste01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "rosste01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "rosste01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "rosste01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "rosste01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "rosste01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "rosste01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "rosste01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "rosste01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "rosste01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "rosste01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "rosste01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "rosste01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "rosste01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "rosste01/table_37.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "rosste01/all_salaries.csv"
+    }
+  ]
+}

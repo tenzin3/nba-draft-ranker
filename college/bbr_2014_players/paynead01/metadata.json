@@ -1,0 +1,56 @@
+{
+  "name": "Adreian Payne",
+  "slug": "paynead01",
+  "url": "https://www.basketball-reference.com/players/p/paynead01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "paynead01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "paynead01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "paynead01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "paynead01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "paynead01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "paynead01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "paynead01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "paynead01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "paynead01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "paynead01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "paynead01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "paynead01/all_salaries.csv"
+    }
+  ]
+}

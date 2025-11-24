@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2012-13,23,IND,NBA,SG,51,0,619,.400,.419,.383,.500,.719,.523,.178,.522,88,87,107,101,95,98,66,215,1.3,-4.5,
+2013-14,24,2TM,NBA,SG,45,0,392,.319,.409,.191,.358,.731,.402,.230,.416,70,84,53,72,97,74,81,160,-32.2,-34.6,
+2013-14,24,IND,NBA,SG,38,0,342,.344,.455,.195,.385,.773,.431,.229,.427,76,93,54,77,102,80,81,165,-22.2,-23.3,
+2013-14,24,SAC,NBA,SG,7,0,50,.176,.182,.167,.206,.500,.240,.235,.353,39,37,46,41,66,44,83,136,-10.0,-11.3,
+2014-15,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2015-16,26,2TM,NBA,SG,7,1,101,.265,.292,.200,.294,.750,.346,.235,.294,59,59,57,59,99,64,85,103,-14.2,-14.7,
+2015-16,26,PHO,NBA,SG,2,0,47,.294,.333,.200,.324,.833,.407,.353,.294,65,68,57,64,110,75,128,103,-6.1,-5.3,
+2015-16,26,NOP,NBA,SG,5,1,54,.235,.250,.200,.265,.500,.280,.118,.294,52,51,57,53,66,52,43,103,-8.1,-9.4,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,103,1,1112,.358,.398,.311,.430,.727,.462,.202,.462,79,82,87,86,96,86,73,184,-45.1,-53.8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),,89,0,961,.380,.433,.326,.460,.741,.490,.196,.489,84,89,91,92,98,91,71,197,-20.9,-27.8,
+SAC (1 Yr),SAC (1 Yr),SAC (1 Yr),SAC (1 Yr),,7,0,50,.176,.182,.167,.206,.500,.240,.235,.353,39,37,46,41,66,44,83,136,-10.0,-11.3,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,5,1,54,.235,.250,.200,.265,.500,.280,.118,.294,52,51,57,53,66,52,43,103,-8.1,-9.4,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,2,0,47,.294,.333,.200,.324,.833,.407,.353,.294,65,68,57,64,110,75,128,103,-6.1,-5.3,

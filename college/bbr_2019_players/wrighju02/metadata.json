@@ -1,0 +1,56 @@
+{
+  "name": "Justin Wright-Foreman",
+  "slug": "wrighju02",
+  "url": "https://www.basketball-reference.com/players/w/wrighju02.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "wrighju02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "wrighju02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "wrighju02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "wrighju02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "wrighju02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "wrighju02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "wrighju02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "wrighju02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "wrighju02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "wrighju02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "wrighju02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "wrighju02/all_salaries.csv"
+    }
+  ]
+}

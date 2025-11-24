@@ -1,0 +1,108 @@
+{
+  "name": "James Anderson",
+  "slug": "anderja01",
+  "url": "https://www.basketball-reference.com/players/a/anderja01.html",
+  "num_tables": 25,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "anderja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "anderja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "anderja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "anderja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "anderja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "anderja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "anderja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "anderja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "anderja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "anderja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "anderja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "anderja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "anderja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "anderja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "anderja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "anderja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "anderja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "anderja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "anderja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "anderja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "anderja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "anderja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "anderja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "anderja01/table_24.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "anderja01/all_salaries.csv"
+    }
+  ]
+}

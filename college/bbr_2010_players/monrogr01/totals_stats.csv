@@ -1,0 +1,36 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2010-11,20,DET,NBA,C,80,48,2222,303,550,.551,0,1,.000,303,549,.552,.551,145,233,.622,248,353,601,105,93,45,81,196,751,0,ROY-6
+2011-12,21,DET,NBA,C,66,66,2082,407,781,.521,0,1,.000,407,780,.522,.521,201,272,.739,239,398,637,152,83,46,161,180,1015,0,DPOY-18
+2012-13,22,DET,NBA,C,81,81,2687,514,1058,.486,0,4,.000,514,1054,.488,.486,270,392,.689,236,541,777,281,105,55,234,190,1298,1,
+2013-14,23,DET,NBA,PF,82,82,2690,504,1015,.497,0,1,.000,504,1014,.497,.497,241,367,.657,256,504,760,171,91,47,166,205,1249,0,
+2014-15,24,DET,NBA,PF,69,57,2137,423,853,.496,0,0,,423,853,.496,.496,252,336,.750,229,475,704,142,78,34,149,148,1098,0,
+2015-16,25,MIL,NBA,C,79,67,2314,491,941,.522,0,1,.000,491,940,.522,.522,228,308,.740,218,478,696,178,72,67,129,163,1210,0,
+2016-17,26,MIL,NBA,C,81,0,1823,387,726,.533,0,4,.000,387,722,.536,.533,177,239,.741,167,365,532,187,92,38,140,168,951,0,6MOY-6
+2017-18,27,3TM,NBA,C,51,14,1040,218,386,.565,0,0,,218,386,.565,.565,88,119,.739,109,241,350,114,44,23,94,95,524,1,
+2017-18,27,MIL,NBA,C,5,0,79,16,33,.485,0,0,,16,33,.485,.485,2,4,.500,6,19,25,5,0,0,6,7,34,0,
+2017-18,27,PHO,NBA,C,20,14,465,97,155,.626,0,0,,97,155,.626,.626,31,46,.674,50,110,160,50,16,6,40,40,225,0,
+2017-18,27,BOS,NBA,C,26,0,496,105,198,.530,0,0,,105,198,.530,.530,55,69,.797,53,112,165,59,28,17,48,48,265,1,
+2018-19,28,3TM,NBA,C,43,2,480,92,189,.487,1,5,.200,91,184,.495,.489,45,72,.625,67,105,172,24,14,8,32,66,230,0,
+2018-19,28,TOR,NBA,C,38,2,423,74,161,.460,0,4,.000,74,157,.471,.460,35,61,.574,60,96,156,16,13,8,31,61,183,0,
+2018-19,28,BOS,NBA,C,2,0,5,3,5,.600,0,0,,3,5,.600,.600,0,0,,3,0,3,1,0,0,0,0,6,0,
+2018-19,28,PHI,NBA,C,3,0,52,15,23,.652,1,1,1.000,14,22,.636,.674,10,11,.909,4,9,13,7,1,0,1,5,41,0,
+2019-20,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2020-21,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2021-22,31,4TM,NBA,C,14,0,195,32,57,.561,0,0,,32,57,.561,.561,12,23,.522,30,34,64,22,8,10,12,24,76,0,
+2021-22,31,MIN,NBA,C,4,0,81,13,22,.591,0,0,,13,22,.591,.591,3,7,.429,6,18,24,16,4,6,7,9,29,0,
+2021-22,31,WAS,NBA,C,2,0,18,4,8,.500,0,0,,4,8,.500,.500,0,0,,7,3,10,1,1,1,2,2,8,0,
+2021-22,31,MIL,NBA,C,5,0,70,11,22,.500,0,0,,11,22,.500,.500,5,9,.556,11,10,21,2,3,2,3,7,27,0,
+2021-22,31,UTA,NBA,C,3,0,26,4,5,.800,0,0,,4,5,.800,.800,4,7,.571,6,3,9,3,0,1,0,6,12,0,
+,,,,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,646,417,17670,3371,6556,.514,1,17,.059,3370,6539,.515,.514,1659,2361,.703,1799,3494,5293,1376,680,373,1198,1435,8402,2,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,53,2243,428,832,.514,0,2,.059,428,830,.515,.514,211,300,.703,228,444,672,175,86,47,152,182,1067,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (5 Yrs),DET (5 Yrs),DET (5 Yrs),DET (5 Yrs),,378,334,11818,2151,4257,.505,0,7,.000,2151,4250,.506,.505,1109,1600,.693,1208,2271,3479,851,450,227,791,919,5411,1,
+MIL (4 Yrs),MIL (4 Yrs),MIL (4 Yrs),MIL (4 Yrs),,170,67,4286,905,1722,.526,0,5,.000,905,1717,.527,.526,412,560,.736,402,872,1274,372,167,107,278,345,2222,0,
+BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),,28,0,501,108,203,.532,0,0,,108,203,.532,.532,55,69,.797,56,112,168,60,28,17,48,48,271,1,
+TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),,38,2,423,74,161,.460,0,4,.000,74,157,.471,.460,35,61,.574,60,96,156,16,13,8,31,61,183,0,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,20,14,465,97,155,.626,0,0,,97,155,.626,.626,31,46,.674,50,110,160,50,16,6,40,40,225,0,
+MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),,4,0,81,13,22,.591,0,0,,13,22,.591,.591,3,7,.429,6,18,24,16,4,6,7,9,29,0,
+PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),,3,0,52,15,23,.652,1,1,1.000,14,22,.636,.674,10,11,.909,4,9,13,7,1,0,1,5,41,0,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,3,0,26,4,5,.800,0,0,,4,5,.800,.800,4,7,.571,6,3,9,3,0,1,0,6,12,0,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,2,0,18,4,8,.500,0,0,,4,8,.500,.500,0,0,,7,3,10,1,1,1,2,2,8,0,

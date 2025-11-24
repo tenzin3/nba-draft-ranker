@@ -1,0 +1,116 @@
+{
+  "name": "Jordan Hamilton",
+  "slug": "hamiljo02",
+  "url": "https://www.basketball-reference.com/players/h/hamiljo02.html",
+  "num_tables": 27,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "hamiljo02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "hamiljo02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "hamiljo02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "hamiljo02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "hamiljo02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "hamiljo02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "hamiljo02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "hamiljo02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "hamiljo02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "hamiljo02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "hamiljo02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "hamiljo02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "hamiljo02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "hamiljo02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "hamiljo02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "hamiljo02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "hamiljo02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "hamiljo02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "hamiljo02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "hamiljo02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "hamiljo02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "hamiljo02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "hamiljo02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "hamiljo02/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "hamiljo02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "hamiljo02/table_26.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "hamiljo02/all_salaries.csv"
+    }
+  ]
+}

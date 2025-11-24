@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2011-12,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2012-13,24,DET,NBA,SF,82,74,2293,.428,.464,.350,.483,.806,.517,.193,.312,95,96,98,97,107,97,71,128,-17.4,-24.8,
+2013-14,25,DET,NBA,SF,82,36,2337,.447,.492,.382,.525,.826,.574,.306,.409,98,101,106,105,109,106,108,157,28.7,45.2,
+2014-15,26,2TM,NBA,SF,80,58,1743,.386,.371,.398,.493,.769,.512,.117,.540,86,76,114,99,103,96,43,201,-2.3,-20.9,
+2014-15,26,DET,NBA,SF,54,40,1287,.400,.393,.406,.509,.806,.526,.103,.534,89,81,116,103,107,99,38,199,8.9,-5.8,
+2014-15,26,OKC,NBA,SF,26,18,456,.333,.286,.370,.438,.688,.461,.167,.563,74,59,106,88,92,86,61,210,-11.2,-15.1,
+2015-16,27,OKC,NBA,SF,68,2,977,.389,.452,.309,.457,.659,.481,.199,.439,86,92,87,91,87,89,72,154,-20.1,-29.2,
+2016-17,28,OKC,NBA,SF,32,2,385,.410,.587,.189,.452,.765,.486,.205,.446,90,117,53,88,99,88,76,141,-10.3,-12.0,
+2017-18,29,OKC,NBA,SF,12,0,59,.333,.313,.400,.381,.538,.430,.619,.238,72,61,111,73,70,77,246,71,-5.9,-6.7,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,356,172,7794,.418,.458,.362,.493,.786,.527,.215,.410,92,94,102,99,104,98,78,156,-27.3,-48.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (4 Yrs),OKC (4 Yrs),OKC (4 Yrs),OKC (4 Yrs),,138,22,1877,.378,.439,.306,.448,.667,.474,.214,.458,83,89,87,89,88,87,79,160,-47.5,-63.0,
+DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),,218,150,5917,.429,.462,.379,.504,.817,.541,.216,.397,95,95,106,101,108,101,78,155,20.2,14.6,

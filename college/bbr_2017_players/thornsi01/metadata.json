@@ -1,0 +1,112 @@
+{
+  "name": "Sindarius Thornwell",
+  "slug": "thornsi01",
+  "url": "https://www.basketball-reference.com/players/t/thornsi01.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "thornsi01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "thornsi01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "thornsi01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "thornsi01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "thornsi01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "thornsi01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "thornsi01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "thornsi01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "thornsi01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "thornsi01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "thornsi01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "thornsi01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "thornsi01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "thornsi01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "thornsi01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "thornsi01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "thornsi01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "thornsi01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "thornsi01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "thornsi01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "thornsi01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "thornsi01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "thornsi01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "thornsi01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "thornsi01/table_25.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "thornsi01/all_salaries.csv"
+    }
+  ]
+}

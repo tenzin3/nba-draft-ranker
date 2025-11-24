@@ -1,0 +1,13 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2013-14,21,DAL,NBA,PG,48,0,489,100,0,0,0,0,7.6,5.9,20,12,13,2,10,4,165,4,12,
+2014-15,22,NYK,NBA,PG,76,22,1865,100,0,0,0,0,-11.5,-2.4,56,19,67,3,26,17,518,5,30,
+2015-16,23,BRK,NBA,PG,78,17,1751,100,0,0,0,0,-9.5,-3.5,93,37,61,3,48,16,773,13,31,
+2016-17,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2017-18,25,BOS,NBA,PG,54,2,775,100,0,0,0,0,1.6,-2.6,15,14,20,0,14,11,233,1,16,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,256,41,4880,100,0,0,0,0,-6.8,-2.0,184,82,161,8,98,48,1689,23,89,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,13,1563,100,0,0,0,0,-6.8,-2.0,59,26,52,3,31,15,541,7,29,
+,,,,,,,,,,,,,,,,,,,,,,,,
+BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),,78,17,1751,100,0,0,0,0,-9.5,-3.5,93,37,61,3,48,16,773,13,31,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,76,22,1865,100,0,0,0,0,-11.5,-2.4,56,19,67,3,26,17,518,5,30,
+BOS (1 Yr),BOS (1 Yr),BOS (1 Yr),BOS (1 Yr),,54,2,775,100,0,0,0,0,1.6,-2.6,15,14,20,0,14,11,233,1,16,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,48,0,489,100,0,0,0,0,7.6,5.9,20,12,13,2,10,4,165,4,12,

@@ -1,0 +1,12 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2017-18,23,LAC,NBA,PG,30,19,851,64,36,0,0,0,0.1,-0.3,21,17,36,4,30,1,159,4,36,
+2018-19,24,LAC,NBA,PG,62,0,628,56,41,3,0,0,4.7,4.5,20,8,42,3,29,5,98,5,32,
+2019-20,25,ATL,NBA,SG,14,0,160,89,12,0,0,0,-10.4,-2.6,2,3,11,2,6,3,31,1,5,
+2020-21,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2021-22,27,NOP,NBA,SG,6,0,75,9,91,0,0,0,-6.3,-5.3,1,0,5,0,2,0,3,1,1,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,112,19,1714,61,38,1,0,0,0.5,1.0,44,28,94,9,67,9,291,11,74,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,14,1255,61,38,1,0,0,0.5,1.0,32,21,69,7,49,7,213,8,54,
+,,,,,,,,,,,,,,,,,,,,,,,,
+LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),LAC (2 Yrs),,92,19,1479,61,38,2,0,0,2.0,1.7,41,25,78,7,59,6,257,9,68,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,14,0,160,89,12,0,0,0,-10.4,-2.6,2,3,11,2,6,3,31,1,5,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,6,0,75,9,91,0,0,0,-6.3,-5.3,1,0,5,0,2,0,3,1,1,

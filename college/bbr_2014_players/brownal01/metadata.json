@@ -1,0 +1,12 @@
+{
+  "name": "Alec Brown",
+  "slug": "brownal01",
+  "url": "https://www.basketball-reference.com/players/b/brownal01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "brownal01/all_college_stats.csv"
+    }
+  ]
+}

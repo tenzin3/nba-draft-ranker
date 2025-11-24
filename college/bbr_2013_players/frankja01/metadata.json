@@ -1,0 +1,96 @@
+{
+  "name": "Jamaal Franklin",
+  "slug": "frankja01",
+  "url": "https://www.basketball-reference.com/players/f/frankja01.html",
+  "num_tables": 22,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "frankja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "frankja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "frankja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "frankja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "frankja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "frankja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "frankja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "frankja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "frankja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "frankja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "frankja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "frankja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "frankja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "frankja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "frankja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "frankja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "frankja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "frankja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "frankja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "frankja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "frankja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "frankja01/all_salaries.csv"
+    }
+  ]
+}

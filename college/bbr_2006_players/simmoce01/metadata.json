@@ -1,0 +1,64 @@
+{
+  "name": "Cedric Simmons",
+  "slug": "simmoce01",
+  "url": "https://www.basketball-reference.com/players/s/simmoce01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "simmoce01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "simmoce01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "simmoce01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "simmoce01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "simmoce01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "simmoce01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "simmoce01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "simmoce01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "simmoce01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "simmoce01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "simmoce01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "simmoce01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "simmoce01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "simmoce01/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Unnamed: 24_level_0', 'Awards')"
+2020-21,26,ATL,NBA,PG,5.0,0.0,33.0,0.2,0.25,0.0,0.2,1.0,0.444,0.8,0.2,43.0,47.0,0.0,37.0,129.0,78.0,324.0,51.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+2024-25,30,LAC,NBA,PG,7.0,6.0,153.0,0.386,0.438,0.357,0.5,,0.5,0.0,0.636,83.0,80.0,99.0,92.0,,87.0,0.0,151.0,
+2 Yrs,2 Yrs,2 Yrs,2 Yrs,,12.0,6.0,186.0,0.367,0.4,0.345,0.469,1.0,0.493,0.082,0.592,79.0,74.0,96.0,86.0,129.0,86.0,33.0,141.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,7.0,6.0,153.0,0.386,0.438,0.357,0.5,,0.5,0.0,0.636,83.0,80.0,99.0,92.0,,87.0,0.0,151.0,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,5.0,0.0,33.0,0.2,0.25,0.0,0.2,1.0,0.444,0.8,0.2,43.0,47.0,0.0,37.0,129.0,78.0,324.0,51.0,

@@ -1,0 +1,23 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2008-09,20,MIA,NBA,PF,81,19,2009,0,0,0,52,48,-0.6,-1.3,21,46,92,27,119,5,208,27,75,"ROY-7,6MOY-17"
+2009-10,21,MIA,NBA,PF,78,78,2328,0,0,0,84,16,0.1,-6.7,31,51,120,28,117,4,231,25,70,
+2010-11,22,MIN,NBA,SF,73,73,2361,0,0,57,41,2,-5.8,3.0,74,61,115,30,148,8,356,43,81,
+2011-12,23,MIN,NBA,SF,47,7,1087,0,0,73,26,1,-3.3,-1.9,28,26,42,15,47,1,99,9,31,
+2012-13,24,PHO,NBA,SF,75,20,1554,0,1,70,30,0,-11.3,-7.1,61,42,58,12,71,1,243,21,48,
+2013-14,25,MIA,NBA,SF,55,2,831,0,3,66,31,0,-2.1,-9.4,20,15,57,10,40,1,97,11,18,
+2014-15,26,MIA,NBA,PF,24,1,505,0,0,0,59,41,0.8,4.1,20,7,40,6,14,2,74,4,12,
+2015-16,27,HOU,NBA,PF,20,0,363,0,0,0,91,9,-9.6,-10.6,12,5,23,2,23,1,36,5,13,
+2016-17,28,MIL,NBA,PF,56,6,935,0,0,24,74,2,-2.0,-2.7,23,25,59,7,55,2,122,15,19,
+2017-18,29,NYK,NBA,PF,74,30,1653,0,0,5,93,3,-4.8,-1.5,61,49,85,15,86,4,285,31,40,
+2018-19,30,LAL,NBA,PF,26,2,277,0,0,1,87,12,-6.6,-5.1,14,9,22,2,23,0,56,9,9,
+2019-20,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19,Did not play - COVID-19
+11 Yrs,11 Yrs,11 Yrs,11 Yrs,,609,238,13903,0,0,29,58,12,-3.7,-2.9,365,336,713,154,743,29,1807,200,416,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,32,1872,0,0,29,58,12,-3.7,-2.9,49,45,96,21,100,4,243,27,56,
+,,,,,,,,,,,,,,,,,,,,,,,,
+MIA (4 Yrs),MIA (4 Yrs),MIA (4 Yrs),MIA (4 Yrs),,238,100,5673,0,0,10,63,27,-0.4,-4.2,92,119,309,71,290,12,610,67,175,
+MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),,120,80,3448,0,0,62,36,2,-5.0,1.5,102,87,157,45,195,9,455,52,112,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,75,20,1554,0,1,70,30,0,-11.3,-7.1,61,42,58,12,71,1,243,21,48,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,74,30,1653,0,0,5,93,3,-4.8,-1.5,61,49,85,15,86,4,285,31,40,
+MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),,56,6,935,0,0,24,74,2,-2.0,-2.7,23,25,59,7,55,2,122,15,19,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,26,2,277,0,0,1,87,12,-6.6,-5.1,14,9,22,2,23,0,56,9,9,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,20,0,363,0,0,0,91,9,-9.6,-10.6,12,5,23,2,23,1,36,5,13,

@@ -1,0 +1,116 @@
+{
+  "name": "Brandon Knight",
+  "slug": "knighbr03",
+  "url": "https://www.basketball-reference.com/players/k/knighbr03.html",
+  "num_tables": 27,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "knighbr03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "knighbr03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "knighbr03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "knighbr03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "knighbr03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "knighbr03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "knighbr03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "knighbr03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "knighbr03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "knighbr03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "knighbr03/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "knighbr03/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "knighbr03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "knighbr03/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "knighbr03/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "knighbr03/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "knighbr03/table_17.csv"
+    },
+    {
+      "table_id": "table_18",
+      "csv": "knighbr03/table_18.csv"
+    },
+    {
+      "table_id": "table_19",
+      "csv": "knighbr03/table_19.csv"
+    },
+    {
+      "table_id": "table_20",
+      "csv": "knighbr03/table_20.csv"
+    },
+    {
+      "table_id": "table_21",
+      "csv": "knighbr03/table_21.csv"
+    },
+    {
+      "table_id": "table_22",
+      "csv": "knighbr03/table_22.csv"
+    },
+    {
+      "table_id": "table_23",
+      "csv": "knighbr03/table_23.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "knighbr03/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "knighbr03/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "knighbr03/table_26.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "knighbr03/all_salaries.csv"
+    }
+  ]
+}

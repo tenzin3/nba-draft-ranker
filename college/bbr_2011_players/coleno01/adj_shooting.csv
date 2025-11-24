@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2011-12,23,MIA,NBA,PG,65,2,1260,.393,.417,.276,.417,.776,.452,.189,.169,88,87,79,86,103,86,68,75,-63.6,-72.8,
+2012-13,24,MIA,NBA,PG,80,4,1590,.421,.440,.357,.462,.650,.483,.188,.231,93,91,100,93,86,90,70,95,-29.0,-47.1,
+2013-14,25,MIA,NBA,PG,82,6,2014,.414,.451,.345,.474,.779,.497,.136,.348,91,92,96,95,103,92,48,134,-27.1,-46.2,
+2014-15,26,2TM,NBA,PG,75,25,1831,.412,.458,.313,.461,.716,.483,.145,.315,92,94,89,93,95,90,53,118,-38.4,-61.2,
+2014-15,26,MIA,NBA,PG,47,23,1148,.386,.446,.265,.430,.696,.452,.150,.333,86,92,76,87,93,85,55,124,-40.5,-53.5,
+2014-15,26,NOP,NBA,PG,28,2,683,.444,.472,.378,.500,.743,.520,.139,.294,99,97,108,101,99,97,51,109,2.1,-7.7,
+2015-16,27,NOP,NBA,PG,45,23,1198,.405,.427,.324,.439,.800,.465,.134,.211,90,87,91,87,106,86,49,74,-61.4,-77.9,
+2016-17,28,OKC,NBA,PG,13,0,125,.308,.333,.231,.337,.800,.381,.192,.250,67,66,65,66,104,69,71,79,-18.4,-19.3,
+2017-18,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,360,60,8018,.407,.436,.324,.449,.743,.475,.158,.259,90,90,91,90,99,89,57,100,-237.9,-324.5,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+MIA (4 Yrs),MIA (4 Yrs),MIA (4 Yrs),MIA (4 Yrs),,274,35,6012,.405,.437,.318,.448,.728,.473,.166,.268,90,91,89,90,97,89,60,106,-160.2,-219.6,
+NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),,73,25,1881,.418,.441,.347,.460,.780,.484,.136,.239,93,90,98,92,103,90,49,86,-59.3,-85.6,
+OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),OKC (1 Yr),,13,0,125,.308,.333,.231,.337,.800,.381,.192,.250,67,66,65,66,104,69,71,79,-18.4,-19.3,

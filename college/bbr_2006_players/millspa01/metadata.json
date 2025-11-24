@@ -1,0 +1,336 @@
+{
+  "name": "Paul Millsap",
+  "slug": "millspa01",
+  "url": "https://www.basketball-reference.com/players/m/millspa01.html",
+  "num_tables": 82,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "millspa01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "millspa01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "millspa01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "millspa01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "millspa01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "millspa01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "millspa01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "millspa01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "millspa01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "millspa01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "millspa01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "millspa01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "millspa01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "millspa01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "millspa01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "millspa01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "millspa01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "millspa01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "millspa01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "millspa01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "millspa01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "millspa01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "millspa01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "millspa01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "millspa01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "millspa01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "millspa01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "millspa01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "millspa01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "millspa01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "millspa01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "millspa01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "millspa01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "millspa01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "millspa01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "millspa01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "millspa01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "millspa01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "millspa01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "millspa01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "millspa01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "millspa01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "millspa01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "millspa01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "millspa01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "millspa01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "millspa01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "millspa01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "millspa01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "millspa01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "millspa01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "millspa01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "millspa01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "millspa01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "millspa01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "millspa01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "millspa01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "millspa01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "millspa01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "millspa01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "millspa01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "millspa01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "millspa01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "millspa01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "millspa01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "millspa01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "millspa01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "millspa01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "millspa01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "millspa01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "millspa01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "millspa01/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "millspa01/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "millspa01/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "millspa01/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "millspa01/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "millspa01/table_77.csv"
+    },
+    {
+      "table_id": "table_78",
+      "csv": "millspa01/table_78.csv"
+    },
+    {
+      "table_id": "table_79",
+      "csv": "millspa01/table_79.csv"
+    },
+    {
+      "table_id": "table_80",
+      "csv": "millspa01/table_80.csv"
+    },
+    {
+      "table_id": "table_81",
+      "csv": "millspa01/table_81.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "millspa01/all_salaries.csv"
+    }
+  ]
+}

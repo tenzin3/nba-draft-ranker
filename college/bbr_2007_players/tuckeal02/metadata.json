@@ -1,0 +1,68 @@
+{
+  "name": "Alando Tucker",
+  "slug": "tuckeal02",
+  "url": "https://www.basketball-reference.com/players/t/tuckeal02.html",
+  "num_tables": 15,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "tuckeal02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "tuckeal02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "tuckeal02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "tuckeal02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "tuckeal02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "tuckeal02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "tuckeal02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "tuckeal02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "tuckeal02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "tuckeal02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "tuckeal02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "tuckeal02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "tuckeal02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "tuckeal02/table_14.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "tuckeal02/all_salaries.csv"
+    }
+  ]
+}

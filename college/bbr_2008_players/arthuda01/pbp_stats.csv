@@ -1,0 +1,16 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2008-09,20,MEM,NBA,PF,76,64,1464,0,0,0,81,19,-7.6,-2.8,15,9,111,12,27,13,101,8,41,
+2009-10,21,MEM,NBA,PF,32,1,457,0,0,0,84,16,-12.4,-12.1,7,1,35,9,12,2,35,0,18,
+2010-11,22,MEM,NBA,PF,80,9,1609,0,0,0,95,5,2.1,-0.5,30,27,124,19,63,9,116,15,31,
+2011-12,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2012-13,24,MEM,NBA,PF,59,3,970,0,0,8,92,1,-5.6,-13.7,15,9,54,14,25,4,72,6,20,
+2013-14,25,DEN,NBA,SF,68,1,1161,0,0,27,71,2,2.8,7.1,29,10,99,15,25,10,139,3,15,
+2014-15,26,DEN,NBA,PF,58,4,988,0,0,4,78,18,-0.8,4.1,23,10,85,12,21,8,133,1,10,
+2015-16,27,DEN,NBA,PF,70,16,1516,0,0,1,79,21,-1.8,2.1,36,11,109,12,26,5,217,5,21,
+2016-17,28,DEN,NBA,PF,41,7,639,0,0,0,58,42,-0.8,-1.0,20,7,50,6,10,1,99,2,5,
+2017-18,29,DEN,NBA,PF,19,1,141,0,0,0,20,80,-11.3,-13.0,5,3,14,3,2,0,22,1,2,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,503,106,8945,0,0,5,80,15,-2.3,-1.2,180,87,681,102,211,52,934,41,163,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,17,1458,0,0,5,80,15,-2.3,-1.2,29,14,111,17,34,8,152,7,27,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (5 Yrs),DEN (5 Yrs),DEN (5 Yrs),DEN (5 Yrs),,256,29,4445,0,0,8,72,20,-0.5,2.9,113,41,357,48,84,24,610,12,53,
+MEM (4 Yrs),MEM (4 Yrs),MEM (4 Yrs),MEM (4 Yrs),,247,77,4500,0,0,2,88,10,-4.2,-5.3,67,46,324,54,127,28,324,29,110,

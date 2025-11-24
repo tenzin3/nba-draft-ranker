@@ -1,0 +1,128 @@
+{
+  "name": "Alexis AjinÃ§a",
+  "slug": "ajincal01",
+  "url": "https://www.basketball-reference.com/players/a/ajincal01.html",
+  "num_tables": 30,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "ajincal01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "ajincal01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "ajincal01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "ajincal01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "ajincal01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "ajincal01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "ajincal01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "ajincal01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "ajincal01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "ajincal01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "ajincal01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "ajincal01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "ajincal01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "ajincal01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "ajincal01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "ajincal01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "ajincal01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "ajincal01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "ajincal01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "ajincal01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "ajincal01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "ajincal01/sims-career.csv"
+    },
+    {
+      "table_id": "table_23",
+      "csv": "ajincal01/table_23.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "ajincal01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "ajincal01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "ajincal01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "ajincal01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "ajincal01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "ajincal01/table_29.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "ajincal01/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2014-15,20,ORL,NBA,PG,82,63,2489,.425,.435,.262,.433,.551,.456,.302,.059,95,90,75,87,73,85,111,22,-89.2,-126.0,ROY-4
+2015-16,21,ORL,NBA,PG,73,69,2145,.436,.451,.326,.456,.589,.478,.260,.126,96,92,92,91,78,88,94,44,-67.6,-102.7,
+2016-17,22,ORL,NBA,PG,82,58,2412,.471,.509,.274,.493,.692,.520,.231,.160,103,101,77,96,90,94,86,51,-37.0,-64.1,
+2017-18,23,2TM,NBA,PG,63,63,1808,.493,.520,.326,.516,.649,.538,.252,.138,107,102,90,99,85,97,100,41,-7.3,-27.1,
+2017-18,23,ORL,NBA,PG,44,44,1257,.520,.545,.373,.547,.632,.564,.249,.146,113,107,103,105,82,101,99,43,23.6,7.8,
+2017-18,23,PHO,NBA,PG,19,19,551,.435,.467,.200,.447,.685,.481,.258,.120,95,92,55,86,89,87,103,35,-30.9,-34.9,
+2018-19,24,NOP,NBA,PG,42,42,1250,.434,.476,.314,.475,.743,.502,.180,.255,94,92,89,91,97,90,69,71,-40.9,-51.6,
+2019-20,25,NYK,NBA,PG,45,36,1246,.439,.482,.203,.455,.570,.470,.195,.157,95,92,57,86,74,83,75,41,-65.4,-90.7,
+2020-21,26,NYK,NBA,PG,63,63,1484,.432,.460,.286,.455,.682,.478,.172,.158,93,87,78,85,88,84,70,40,-103.2,-126.1,
+2021-22,27,PHO,NBA,PG,50,1,549,.383,.401,.222,.394,.375,.397,.183,.103,83,75,63,74,48,70,74,26,-48.1,-64.0,
+2022-23,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2024-25,30,2TM,NBA,PG,24,9,511,.328,.336,.167,.332,.571,.340,.057,.049,70,62,46,61,73,59,24,12,-51.5,-59.1,
+2024-25,30,NOP,NBA,PG,18,7,388,.366,.379,.167,.371,.571,.380,.069,.059,78,70,46,68,73,66,29,14,-34.7,-40.9,
+2024-25,30,CHO,NBA,PG,6,2,123,.143,.143,,.143,,.143,.000,.000,31,26,,26,,25,0,0,-16.8,-18.2,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,524,404,13894,.444,.470,.286,.464,.623,.486,.227,.140,97,93,80,90,81,88,86,42,-510.2,-711.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+ORL (4 Yrs),ORL (4 Yrs),ORL (4 Yrs),ORL (4 Yrs),,281,234,8303,.458,.480,.305,.477,.615,.500,.260,.124,101,97,86,94,81,92,96,41,-170.2,-285.0,
+NYK (2 Yrs),NYK (2 Yrs),NYK (2 Yrs),NYK (2 Yrs),,108,99,2730,.435,.469,.251,.455,.632,.474,.182,.157,94,89,69,85,81,83,72,40,-168.6,-216.8,
+PHO (2 Yrs),PHO (2 Yrs),PHO (2 Yrs),PHO (2 Yrs),,69,20,1100,.411,.437,.209,.423,.570,.443,.224,.112,89,84,58,81,74,79,89,31,-79.0,-98.9,
+NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),,60,49,1638,.421,.453,.306,.454,.728,.478,.158,.216,91,86,86,86,95,85,61,60,-75.6,-92.5,
+CHO (1 Yr),CHO (1 Yr),CHO (1 Yr),CHO (1 Yr),,6,2,123,.143,.143,,.143,,.143,.000,.000,31,26,,26,,25,0,0,-16.8,-18.2,

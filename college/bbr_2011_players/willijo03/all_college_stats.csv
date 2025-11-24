@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2009-10,19.0,MARYLAND,33,817,126,246,0,0,64,121,94,284,7,24,32,31,90,316,0.512,,0.529,24.8,9.6,8.6,0.2
+2010-11,20.0,MARYLAND,33,1073,213,396,0,0,131,228,121,388,21,23,45,53,80,557,0.538,,0.575,32.5,16.9,11.8,0.6
+Career,,,66,1890,339,642,0,0,195,349,215,672,28,47,77,84,170,873,0.528,,0.559,28.6,13.2,10.2,0.4

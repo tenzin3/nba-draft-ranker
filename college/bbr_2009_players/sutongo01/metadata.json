@@ -1,0 +1,12 @@
+{
+  "name": "Goran Suton",
+  "slug": "sutongo01",
+  "url": "https://www.basketball-reference.com/players/s/sutongo01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "sutongo01/all_college_stats.csv"
+    }
+  ]
+}

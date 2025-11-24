@@ -1,0 +1,96 @@
+{
+  "name": "Dennis Smith Jr.",
+  "slug": "smithde03",
+  "url": "https://www.basketball-reference.com/players/s/smithde03.html",
+  "num_tables": 22,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "smithde03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "smithde03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "smithde03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "smithde03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "smithde03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "smithde03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "smithde03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "smithde03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "smithde03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "smithde03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "smithde03/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "smithde03/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "smithde03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "smithde03/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "smithde03/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "smithde03/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "smithde03/table_17.csv"
+    },
+    {
+      "table_id": "table_18",
+      "csv": "smithde03/table_18.csv"
+    },
+    {
+      "table_id": "table_19",
+      "csv": "smithde03/table_19.csv"
+    },
+    {
+      "table_id": "table_20",
+      "csv": "smithde03/table_20.csv"
+    },
+    {
+      "table_id": "table_21",
+      "csv": "smithde03/table_21.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "smithde03/all_salaries.csv"
+    }
+  ]
+}

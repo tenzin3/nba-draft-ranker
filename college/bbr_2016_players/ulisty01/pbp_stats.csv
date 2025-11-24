@@ -1,0 +1,9 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2016-17,21,PHO,NBA,PG,61.0,15.0,1123.0,100.0,0.0,0.0,0.0,0.0,-6.8,-1.2,48.0,19.0,30.0,3.0,30.0,12.0,505.0,5.0,28.0,
+2017-18,22,PHO,NBA,PG,71.0,43.0,1658.0,100.0,0.0,0.0,0.0,0.0,-9.3,0.5,96.0,22.0,43.0,1.0,40.0,12.0,735.0,5.0,42.0,
+2018-19,23,CHI,NBA,PG,1.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,133.0,58.0,2782.0,100.0,0.0,0.0,0.0,0.0,-8.3,-0.2,144.0,41.0,73.0,4.0,70.0,24.0,1240.0,10.0,70.0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82.0,36.0,1715.0,100.0,0.0,0.0,0.0,0.0,-8.3,-0.2,89.0,25.0,45.0,2.0,43.0,15.0,765.0,6.0,43.0,
+,,,,,,,,,,,,,,,,,,,,,,,,
+PHO (2 Yrs),PHO (2 Yrs),PHO (2 Yrs),PHO (2 Yrs),,132.0,58.0,2781.0,100.0,0.0,0.0,0.0,0.0,-8.3,-0.2,144.0,41.0,73.0,4.0,70.0,24.0,1240.0,10.0,70.0,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,1.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,

@@ -1,0 +1,80 @@
+{
+  "name": "Quincy Acy",
+  "slug": "acyqu01",
+  "url": "https://www.basketball-reference.com/players/a/acyqu01.html",
+  "num_tables": 18,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "acyqu01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "acyqu01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "acyqu01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "acyqu01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "acyqu01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "acyqu01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "acyqu01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "acyqu01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "acyqu01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "acyqu01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "acyqu01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "acyqu01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "acyqu01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "acyqu01/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "acyqu01/table_15.csv"
+    },
+    {
+      "table_id": "table_16",
+      "csv": "acyqu01/table_16.csv"
+    },
+    {
+      "table_id": "table_17",
+      "csv": "acyqu01/table_17.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "acyqu01/all_salaries.csv"
+    }
+  ]
+}

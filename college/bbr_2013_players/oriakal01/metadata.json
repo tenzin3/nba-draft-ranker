@@ -1,0 +1,16 @@
+{
+  "name": "Alex Oriakhi",
+  "slug": "oriakal01",
+  "url": "https://www.basketball-reference.com/players/o/oriakal01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "oriakal01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_2",
+      "csv": "oriakal01/table_2.csv"
+    }
+  ]
+}

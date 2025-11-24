@@ -1,0 +1,23 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2012-13,22,POR,NBA,SG,73,5,894,.382,.447,.138,.396,.769,.437,.210,.210,84,92,39,80,102,82,78,86,-61.8,-66.0,
+2013-14,23,POR,NBA,SG,41,0,387,.417,.447,.303,.449,.813,.488,.205,.212,92,92,84,90,107,90,72,82,-16.3,-18.0,
+2014-15,24,2TM,NBA,SG,58,0,983,.425,.474,.271,.458,.787,.503,.266,.241,95,98,77,92,105,94,97,90,-27.1,-24.3,
+2014-15,24,POR,NBA,SG,30,0,300,.380,.415,.222,.400,.667,.422,.150,.180,85,85,63,81,89,79,55,67,-19.2,-23.9,
+2014-15,24,DEN,NBA,SG,28,0,683,.443,.500,.284,.480,.810,.533,.312,.265,99,103,81,97,108,100,114,99,-7.9,-0.4,
+2015-16,25,DEN,NBA,SG,82,1,2353,.432,.476,.345,.489,.806,.535,.273,.331,96,97,97,97,107,99,99,116,-25.9,-13.7,6MOY-4
+2016-17,26,DEN,NBA,SG,60,19,1705,.443,.483,.370,.508,.753,.547,.285,.353,97,96,104,99,98,99,105,112,-7.2,-8.1,
+2017-18,27,DEN,NBA,SG,81,40,2683,.452,.510,.370,.528,.805,.562,.220,.411,98,100,102,101,105,101,87,122,14.5,14.0,6MOY-4
+2018-19,28,DEN,NBA,SF,43,38,1189,.402,.447,.342,.475,.770,.501,.161,.426,87,86,96,91,101,90,62,119,-45.3,-57.3,
+2019-20,29,DEN,NBA,SF,58,58,1916,.450,.498,.375,.523,.767,.549,.180,.390,98,95,105,99,99,97,69,102,-8.6,-25.6,
+2020-21,30,DEN,NBA,SF,56,52,1736,.426,.459,.381,.507,.785,.538,.199,.423,91,87,104,94,101,94,81,108,-38.1,-45.2,
+2021-22,31,DEN,NBA,SG,71,71,2277,.438,.504,.365,.525,.803,.548,.142,.480,95,95,103,99,104,97,57,120,-11.8,-34.5,
+2022-23,32,2TM,NBA,SG,56,2,993,.379,.391,.367,.470,.787,.493,.129,.495,80,71,102,86,101,85,48,128,-55.0,-68.2,
+2022-23,32,WAS,NBA,SG,40,0,782,.386,.395,.377,.477,.778,.504,.158,.484,81,72,104,88,99,87,59,125,-38.8,-47.3,
+2022-23,32,TOR,NBA,SG,16,2,211,.354,.378,.333,.443,1.000,.451,.025,.532,75,69,92,81,128,78,10,137,-16.2,-20.9,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+11 Yrs,11 Yrs,11 Yrs,11 Yrs,,679,286,17116,.430,.477,.355,.498,.787,.532,.210,.383,94,94,99,96,103,96,80,112,-282.6,-346.9,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (8 Yrs),DEN (8 Yrs),DEN (8 Yrs),DEN (8 Yrs),,479,279,14542,.438,.487,.362,.509,.789,.543,.216,.394,96,95,101,98,103,98,83,114,-130.3,-170.8,
+POR (3 Yrs),POR (3 Yrs),POR (3 Yrs),POR (3 Yrs),,144,5,1581,.391,.441,.198,.412,.768,.448,.198,.205,87,91,55,83,102,84,72,82,-97.3,-107.9,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,40,0,782,.386,.395,.377,.477,.778,.504,.158,.484,81,72,104,88,99,87,59,125,-38.8,-47.3,
+TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),,16,2,211,.354,.378,.333,.443,1.000,.451,.025,.532,75,69,92,81,128,78,10,137,-16.2,-20.9,

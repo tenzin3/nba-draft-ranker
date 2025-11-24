@@ -1,0 +1,10 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2019-20,20,BRK,NBA,C,15,0,187,0,0,0,29,71,-17.5,-17.8,0,4,5,4,9,2,37,3,5,
+2020-21,21,BRK,NBA,C,32,1,594,0,0,0,1,99,13.6,10.4,6,7,39,4,37,3,68,10,11,
+2021-22,22,BRK,NBA,C,47,19,974,0,0,0,7,93,0.7,-0.9,7,12,59,12,48,5,104,15,20,
+2022-23,23,BRK,NBA,C,76,76,2271,0,0,0,0,100,5.2,9.1,21,21,105,31,119,14,350,35,29,DPOY-9
+2023-24,24,BRK,NBA,C,71,71,2116,0,0,0,0,100,-5.7,-5.7,23,25,75,31,89,13,349,24,41,
+2024-25,25,BRK,NBA,C,70,62,1882,0,0,0,1,99,-12.7,-9.8,27,19,56,27,67,6,380,16,30,
+2025-26,26,BRK,NBA,C,14,14,412,0,0,0,0,100,-12.8,-1.8,7,5,13,4,37,4,128,11,13,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,325,243,8436,0,0,0,2,98,-2.8,-1.0,91,93,352,113,406,47,1416,114,149,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,61,2128,0,0,0,2,98,-2.8,-1.0,23,23,89,29,102,12,357,29,38,

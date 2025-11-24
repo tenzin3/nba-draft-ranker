@@ -1,0 +1,60 @@
+{
+  "name": "Sergey Karasev",
+  "slug": "karasse01",
+  "url": "https://www.basketball-reference.com/players/k/karasse01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "karasse01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "karasse01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "karasse01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "karasse01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "karasse01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "karasse01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "karasse01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "karasse01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "karasse01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "karasse01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "karasse01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "karasse01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "karasse01/all_salaries.csv"
+    }
+  ]
+}

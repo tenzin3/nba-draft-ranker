@@ -1,0 +1,56 @@
+{
+  "name": "Sun Yue",
+  "slug": "yuesu01",
+  "url": "https://www.basketball-reference.com/players/y/yuesu01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "yuesu01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "yuesu01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "yuesu01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "yuesu01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "yuesu01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "yuesu01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "yuesu01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "yuesu01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "yuesu01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "yuesu01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "table_11",
+      "csv": "yuesu01/table_11.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "yuesu01/all_salaries.csv"
+    }
+  ]
+}

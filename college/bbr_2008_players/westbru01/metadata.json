@@ -1,0 +1,440 @@
+{
+  "name": "Russell Westbrook",
+  "slug": "westbru01",
+  "url": "https://www.basketball-reference.com/players/w/westbru01.html",
+  "num_tables": 108,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "westbru01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "westbru01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "westbru01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "westbru01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "westbru01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "westbru01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "westbru01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "westbru01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "westbru01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "westbru01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "westbru01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "westbru01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "westbru01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "westbru01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "westbru01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "westbru01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "westbru01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "westbru01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "westbru01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "westbru01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "westbru01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "westbru01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "westbru01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "westbru01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "westbru01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "westbru01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "westbru01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "westbru01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "westbru01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "westbru01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "westbru01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "westbru01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "westbru01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "westbru01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "westbru01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "westbru01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "westbru01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "westbru01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "westbru01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "westbru01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "westbru01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "westbru01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "westbru01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "westbru01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "westbru01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "westbru01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "westbru01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "westbru01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "westbru01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "westbru01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "westbru01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "westbru01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "westbru01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "westbru01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "westbru01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "westbru01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "westbru01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "westbru01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "westbru01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "westbru01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "westbru01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "westbru01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "westbru01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "westbru01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "westbru01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "westbru01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "westbru01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "westbru01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "westbru01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "westbru01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "westbru01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "westbru01/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "westbru01/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "westbru01/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "westbru01/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "westbru01/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "westbru01/table_77.csv"
+    },
+    {
+      "table_id": "table_78",
+      "csv": "westbru01/table_78.csv"
+    },
+    {
+      "table_id": "table_79",
+      "csv": "westbru01/table_79.csv"
+    },
+    {
+      "table_id": "table_80",
+      "csv": "westbru01/table_80.csv"
+    },
+    {
+      "table_id": "table_81",
+      "csv": "westbru01/table_81.csv"
+    },
+    {
+      "table_id": "table_82",
+      "csv": "westbru01/table_82.csv"
+    },
+    {
+      "table_id": "table_83",
+      "csv": "westbru01/table_83.csv"
+    },
+    {
+      "table_id": "table_84",
+      "csv": "westbru01/table_84.csv"
+    },
+    {
+      "table_id": "table_85",
+      "csv": "westbru01/table_85.csv"
+    },
+    {
+      "table_id": "table_86",
+      "csv": "westbru01/table_86.csv"
+    },
+    {
+      "table_id": "table_87",
+      "csv": "westbru01/table_87.csv"
+    },
+    {
+      "table_id": "table_88",
+      "csv": "westbru01/table_88.csv"
+    },
+    {
+      "table_id": "table_89",
+      "csv": "westbru01/table_89.csv"
+    },
+    {
+      "table_id": "table_90",
+      "csv": "westbru01/table_90.csv"
+    },
+    {
+      "table_id": "table_91",
+      "csv": "westbru01/table_91.csv"
+    },
+    {
+      "table_id": "table_92",
+      "csv": "westbru01/table_92.csv"
+    },
+    {
+      "table_id": "table_93",
+      "csv": "westbru01/table_93.csv"
+    },
+    {
+      "table_id": "table_94",
+      "csv": "westbru01/table_94.csv"
+    },
+    {
+      "table_id": "table_95",
+      "csv": "westbru01/table_95.csv"
+    },
+    {
+      "table_id": "table_96",
+      "csv": "westbru01/table_96.csv"
+    },
+    {
+      "table_id": "table_97",
+      "csv": "westbru01/table_97.csv"
+    },
+    {
+      "table_id": "table_98",
+      "csv": "westbru01/table_98.csv"
+    },
+    {
+      "table_id": "table_99",
+      "csv": "westbru01/table_99.csv"
+    },
+    {
+      "table_id": "table_100",
+      "csv": "westbru01/table_100.csv"
+    },
+    {
+      "table_id": "table_101",
+      "csv": "westbru01/table_101.csv"
+    },
+    {
+      "table_id": "table_102",
+      "csv": "westbru01/table_102.csv"
+    },
+    {
+      "table_id": "table_103",
+      "csv": "westbru01/table_103.csv"
+    },
+    {
+      "table_id": "table_104",
+      "csv": "westbru01/table_104.csv"
+    },
+    {
+      "table_id": "table_105",
+      "csv": "westbru01/table_105.csv"
+    },
+    {
+      "table_id": "table_106",
+      "csv": "westbru01/table_106.csv"
+    },
+    {
+      "table_id": "table_107",
+      "csv": "westbru01/table_107.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "westbru01/all_salaries.csv"
+    }
+  ]
+}

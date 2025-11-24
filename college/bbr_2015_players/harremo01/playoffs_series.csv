@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Round')","('Unnamed: 5_level_0', 'Opp')","('Unnamed: 6_level_0', 'W/L')","('Unnamed: 7_level_0', 'G')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')","('Per Game', 'STL')","('Per Game', 'BLK')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', 'FG%')","('Totals', '3P')","('Totals', '3PA')","('Totals', '3P%')","('Totals', '2P')","('Totals', '2PA')","('Totals', '2P%')","('Totals', 'eFG%')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'FT%')","('Totals', 'ORB')","('Totals', 'DRB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Unnamed: 36_level_0', 'Awards')"
+2015-16,22,HOU,NBA,WC1,GSW,L (1-4),2,6.0,1.5,1.0,0.0,0.0,0.0,1,3,.333,0,1,.000,1,2,.500,.333,1,2,.500,0,2,2,0,0,0,1,1,3,
+2016-17,23,HOU,NBA,WC1,OKC,W (4-1),1,4.0,1.0,2.0,0.0,0.0,0.0,0,0,,0,0,,0,0,,,1,2,.500,0,2,2,0,0,0,0,2,1,
+2016-17,23,HOU,NBA,WCS,SAS,L (2-4),4,4.3,1.0,1.0,0.5,0.0,0.0,1,3,.333,0,0,,1,3,.333,.333,2,4,.500,1,3,4,2,0,0,2,5,4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-19,25,LAC,NBA,WC1,GSW,L (2-4),6,26.3,18.3,5.5,2.2,0.5,0.7,46,63,.730,0,1,.000,46,62,.742,.730,18,26,.692,12,21,33,13,3,4,8,19,110,
+2019-20,26,LAC,NBA,WC1,DAL,W (4-2),6,18.3,9.0,3.3,0.3,0.0,0.8,19,31,.613,1,2,.500,18,29,.621,.629,15,27,.556,3,17,20,2,0,5,6,12,54,
+2019-20,26,LAC,NBA,WCS,DEN,L (3-4),7,19.1,11.7,2.6,0.4,0.7,0.3,28,51,.549,0,3,.000,28,48,.583,.549,26,41,.634,8,10,18,3,5,2,6,16,82,
+2020-21,27,LAL,NBA,WC1,PHO,L (2-4),4,9.8,5.8,2.5,0.0,0.5,0.0,8,14,.571,0,0,,8,14,.571,.571,7,9,.778,5,5,10,0,2,0,2,3,23,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-23,29,PHI,NBA,EC1,BRK,W (4-0),2,3.5,0.0,0.5,0.0,0.0,0.0,0,3,.000,0,0,,0,3,.000,.000,0,0,,0,1,1,0,0,0,0,0,0,
+2023-24,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+6 Yrs (8 Series),6 Yrs (8 Series),6 Yrs (8 Series),6 Yrs (8 Series),6 Yrs (8 Series),6 Yrs (8 Series),3-5,32,15.0,8.7,2.8,0.6,0.3,0.3,103,168,.613,1,7,.143,102,161,.634,.616,70,111,.631,29,61,90,20,10,11,25,58,277,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WC1 (5 Series),WC1 (5 Series),WC1 (5 Series),WC1 (5 Series),WC1 (5 Series),WC1 (5 Series),2-3,19,17.0,10.1,3.5,0.8,0.3,0.5,74,111,.667,1,4,.250,73,107,.682,.671,42,66,.636,20,47,67,15,5,9,17,37,191,
+EC1 (1 Series),EC1 (1 Series),EC1 (1 Series),EC1 (1 Series),EC1 (1 Series),EC1 (1 Series),1-0,2,3.5,0.0,0.5,0.0,0.0,0.0,0,3,.000,0,0,,0,3,.000,.000,0,0,,0,1,1,0,0,0,0,0,0,
+WCS (2 Series),WCS (2 Series),WCS (2 Series),WCS (2 Series),WCS (2 Series),WCS (2 Series),0-2,11,13.7,7.8,2.0,0.5,0.5,0.2,29,54,.537,0,3,.000,29,51,.569,.537,28,45,.622,9,13,22,5,5,2,8,21,86,

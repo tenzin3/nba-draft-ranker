@@ -1,0 +1,16 @@
+{
+  "name": "Isaiah Cousins",
+  "slug": "cousiis01",
+  "url": "https://www.basketball-reference.com/players/c/cousiis01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "cousiis01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "cousiis01/all_salaries.csv"
+    }
+  ]
+}

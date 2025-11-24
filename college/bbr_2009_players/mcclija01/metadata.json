@@ -1,0 +1,12 @@
+{
+  "name": "Jack McClinton",
+  "slug": "mcclija01",
+  "url": "https://www.basketball-reference.com/players/m/mcclija01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "mcclija01/all_college_stats.csv"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2004-05,22,CHA,NBA,PF,73,73,2600,0,0,0,93,7,-6.6,-0.7,36,47,118,19,155,,144,35,85,"ROY-1,DPOY-21"
+2005-06,23,CHA,NBA,PF,26,25,874,0,0,0,79,21,-4.4,0.0,14,15,44,11,56,5,71,9,28,
+2006-07,24,CHA,NBA,C,67,65,2329,0,0,0,27,73,-2.2,4.0,30,30,135,20,150,16,187,28,66,DPOY-11
+2007-08,25,CHA,NBA,C,82,82,2718,0,0,0,8,92,-4.7,0.7,43,33,138,35,188,11,161,44,102,
+2008-09,26,CHA,NBA,C,82,81,2691,0,0,0,3,97,0.6,6.0,39,30,120,39,185,14,123,47,91,
+2009-10,27,NOH,NBA,C,82,82,2370,0,0,0,1,99,-3.5,-1.5,29,23,114,26,144,10,127,31,60,
+2010-11,28,NOH,NBA,C,72,72,2287,0,0,0,12,88,3.5,6.4,17,23,109,43,126,9,90,26,68,
+2011-12,29,NOH,NBA,C,27,27,781,0,0,0,19,81,-8.9,-6.2,11,9,39,13,36,4,54,6,14,
+2012-13,30,WAS,NBA,C,79,77,2052,0,0,0,19,81,-1.9,2.2,34,35,68,20,94,13,222,15,44,
+2013-14,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2014-15,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2015-16,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2016-17,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2017-18,35,NOP,NBA,C,26,19,353,0,0,0,0,100,1.0,-0.9,3,4,15,3,13,0,22,4,11,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,616,603,19055,0,0,0,26,74,-2.5,1.9,256,249,900,229,1147,82,1201,245,569,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,80,2537,0,0,0,26,74,-2.5,1.9,34,33,120,30,153,,160,33,76,
+,,,,,,,,,,,,,,,,,,,,,,,,
+CHA (5 Yrs),CHA (5 Yrs),CHA (5 Yrs),CHA (5 Yrs),,330,326,11212,0,0,0,36,64,-3.3,2.3,162,155,555,124,734,46,686,163,372,
+NOH (4 Yrs),NOH (4 Yrs),NOH (4 Yrs),NOH (4 Yrs),,207,200,5791,0,0,0,8,92,-1.2,1.0,60,59,277,85,319,23,293,67,153,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,79,77,2052,0,0,0,19,81,-1.9,2.2,34,35,68,20,94,13,222,15,44,

@@ -1,0 +1,56 @@
+{
+  "name": "Darius Johnson-Odom",
+  "slug": "johnsda03",
+  "url": "https://www.basketball-reference.com/players/j/johnsda03.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnsda03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnsda03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnsda03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnsda03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnsda03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnsda03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnsda03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnsda03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnsda03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnsda03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnsda03/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnsda03/all_salaries.csv"
+    }
+  ]
+}

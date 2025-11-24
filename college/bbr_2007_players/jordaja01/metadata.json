@@ -1,0 +1,12 @@
+{
+  "name": "Jared Jordan",
+  "slug": "jordaja01",
+  "url": "https://www.basketball-reference.com/players/j/jordaja01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "jordaja01/all_college_stats.csv"
+    }
+  ]
+}

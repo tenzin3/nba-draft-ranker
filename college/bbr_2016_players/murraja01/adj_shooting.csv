@@ -1,0 +1,12 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2016-17,19,DEN,NBA,SG,82,10,1764,.404,.466,.334,.483,.883,.518,.164,.471,88,93,94,94,114,94,61,149,-45.0,-53.8,ROY-5
+2017-18,20,DEN,NBA,PG,81,80,2565,.451,.502,.378,.529,.905,.576,.238,.411,98,98,105,101,118,104,95,122,16.0,46.9,
+2018-19,21,DEN,NBA,PG,75,74,2447,.437,.476,.367,.502,.848,.538,.190,.353,95,92,103,96,111,96,74,98,-51.8,-55.7,
+2019-20,22,DEN,NBA,PG,59,59,1904,.456,.519,.346,.519,.881,.559,.207,.362,99,99,97,98,114,99,80,94,-17.5,-10.7,
+2020-21,23,DEN,NBA,PG,48,48,1704,.477,.523,.408,.559,.869,.592,.193,.399,102,99,111,104,112,104,78,102,32.9,35.3,
+2021-22,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2022-23,25,DEN,NBA,PG,65,65,2133,.454,.494,.398,.537,.833,.571,.207,.415,96,90,110,98,107,98,78,107,-17.2,-22.7,
+2023-24,26,DEN,NBA,PG,59,59,1861,.481,.510,.425,.554,.853,.586,.187,.346,101,94,116,101,109,101,76,88,15.2,12.3,
+2024-25,27,DEN,NBA,PG,67,67,2418,.474,.518,.393,.543,.886,.584,.219,.354,101,95,109,100,114,101,90,84,0.4,19.4,
+2025-26,28,DEN,NBA,PG,13,13,448,.461,.533,.352,.531,.927,.581,.241,.399,98,97,98,98,117,100,84,95,-5.3,-0.5,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,549,475,17244,.455,.502,.381,.529,.872,.567,.204,.386,98,95,106,99,112,100,80,104,-72.3,-29.5,

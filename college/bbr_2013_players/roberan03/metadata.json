@@ -1,0 +1,144 @@
+{
+  "name": "Andre Roberson",
+  "slug": "roberan03",
+  "url": "https://www.basketball-reference.com/players/r/roberan03.html",
+  "num_tables": 34,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "roberan03/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "roberan03/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "roberan03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "roberan03/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "roberan03/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "roberan03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "roberan03/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "roberan03/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "roberan03/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "roberan03/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "roberan03/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "roberan03/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "roberan03/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "roberan03/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "roberan03/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "roberan03/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "roberan03/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "roberan03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "roberan03/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "roberan03/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "roberan03/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "roberan03/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "roberan03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "roberan03/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "roberan03/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "roberan03/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "roberan03/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "roberan03/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "roberan03/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "roberan03/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "roberan03/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "roberan03/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "roberan03/table_33.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "roberan03/all_salaries.csv"
+    }
+  ]
+}

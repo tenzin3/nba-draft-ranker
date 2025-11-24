@@ -1,0 +1,12 @@
+{
+  "name": "Ater Majok",
+  "slug": "majokat01",
+  "url": "https://www.basketball-reference.com/players/m/majokat01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "majokat01/all_college_stats.csv"
+    }
+  ]
+}

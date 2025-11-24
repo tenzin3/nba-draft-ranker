@@ -1,0 +1,17 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2005-06,18,LAL,NBA,C,46,0,338,.402,.402,,.402,.296,.394,.329,.000,89,84,,82,40,74,99,0,-14.4,-26.6,
+2006-07,19,LAL,NBA,C,82,53,1793,.558,.561,.000,.558,.668,.593,.483,.007,122,116,0,112,89,110,148,3,54.2,55.3,
+2007-08,20,LAL,NBA,C,35,25,1008,.636,.636,,.636,.695,.659,.397,.000,139,131,,128,92,122,130,0,82.5,83.0,
+2008-09,21,LAL,NBA,C,50,50,1446,.560,.560,,.560,.707,.598,.428,.000,122,115,,112,92,110,140,0,60.2,64.4,
+2009-10,22,LAL,NBA,C,65,65,1977,.570,.571,.000,.570,.739,.608,.379,.001,123,116,0,114,97,112,126,1,95.0,105.2,
+2010-11,23,LAL,NBA,C,54,47,1500,.574,.574,,.574,.660,.606,.506,.000,125,118,,115,86,112,169,0,62.4,65.2,DPOY-22
+2011-12,24,LAL,NBA,C,60,60,2112,.558,.560,.200,.558,.692,.594,.425,.006,125,117,57,115,92,113,154,3,113.2,127.1,"AS,NBA2"
+2012-13,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2013-14,26,2TM,NBA,C,26,19,516,.418,.418,,.418,.755,.456,.218,.000,92,86,,83,100,84,77,0,-37.4,-41.7,
+2013-14,26,CLE,NBA,C,24,19,480,.419,.419,,.419,.762,.456,.207,.000,92,86,,84,101,84,73,0,-33.4,-37.6,
+2013-14,26,IND,NBA,C,2,0,36,.409,.409,,.409,.714,.459,.318,.000,90,84,,82,94,85,112,0,-4.0,-4.1,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,418,319,10690,.556,.557,.111,.556,.690,.592,.415,.003,122,115,32,112,91,110,139,1,415.7,431.9,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),,392,300,10174,.566,.567,.111,.566,.687,.600,.429,.003,124,117,32,114,91,111,143,1,453.1,473.6,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,24,19,480,.419,.419,,.419,.762,.456,.207,.000,92,86,,84,101,84,73,0,-33.4,-37.6,
+IND (1 Yr),IND (1 Yr),IND (1 Yr),IND (1 Yr),,2,0,36,.409,.409,,.409,.714,.459,.318,.000,90,84,,82,94,85,112,0,-4.0,-4.1,

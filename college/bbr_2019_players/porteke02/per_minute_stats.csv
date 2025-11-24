@@ -1,0 +1,16 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Awards
+2019-20,19,CLE,NBA,SF,50,3,1162,5.8,13.0,.442,1.6,4.9,.335,4.1,8.1,.506,.505,2.3,3.1,.723,0.7,4.3,5.0,3.4,1.4,0.4,2.9,4.2,15.4,
+2020-21,20,HOU,NBA,SG,26,23,835,6.7,15.8,.425,2.2,6.9,.311,4.6,8.9,.515,.493,3.0,4.1,.734,0.9,3.4,4.3,7.1,0.8,0.3,3.9,2.6,18.6,
+2021-22,21,HOU,NBA,PG,61,61,1907,6.3,15.3,.415,2.9,7.8,.375,3.4,7.5,.456,.511,2.3,3.6,.642,0.8,4.2,5.0,7.1,1.3,0.4,3.6,2.9,17.9,
+2022-23,22,HOU,NBA,PG,59,59,2024,7.0,15.7,.442,2.5,6.8,.366,4.4,8.9,.501,.522,3.7,4.7,.784,1.4,4.2,5.6,6.0,1.5,0.3,3.3,2.8,20.1,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2024-25,24,2TM,NBA,SG,75,4,1482,7.1,15.8,.449,1.3,4.3,.311,5.8,11.5,.501,.492,3.2,4.1,.769,1.0,5.7,6.8,6.2,2.0,0.3,3.3,2.9,18.7,
+2024-25,24,LAC,NBA,SG,45,2,884,7.0,16.6,.423,1.1,4.3,.245,5.9,12.3,.485,.455,2.0,3.1,.645,1.2,5.3,6.5,5.9,1.8,0.4,3.4,2.9,17.1,
+2024-25,24,MIL,NBA,SG,30,2,598,7.3,14.7,.494,1.7,4.3,.408,5.5,10.5,.529,.553,4.9,5.6,.871,0.8,6.3,7.1,6.7,2.3,0.1,3.1,2.9,21.2,
+2025-26,25,MIL,NBA,PG,1,1,9,12.0,20.0,.600,8.0,12.0,.667,4.0,8.0,.500,.800,8.0,8.0,1.000,0.0,0.0,0.0,8.0,4.0,0.0,0.0,0.0,40.0,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,272,151,7419,6.6,15.2,.435,2.2,6.3,.352,4.4,8.9,.493,.507,2.9,4.0,.735,1.0,4.4,5.4,6.0,1.4,0.4,3.4,3.0,18.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),HOU (3 Yrs),,146,143,4766,6.7,15.6,.428,2.6,7.2,.361,4.0,8.3,.487,.512,3.0,4.2,.726,1.0,4.1,5.1,6.6,1.3,0.4,3.6,2.8,19.0,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,31,3,607,7.4,14.8,.496,1.8,4.4,.419,5.5,10.4,.528,.558,4.9,5.6,.874,0.8,6.2,7.0,6.8,2.3,0.1,3.1,2.9,21.5,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,50,3,1162,5.8,13.0,.442,1.6,4.9,.335,4.1,8.1,.506,.505,2.3,3.1,.723,0.7,4.3,5.0,3.4,1.4,0.4,2.9,4.2,15.4,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,45,2,884,7.0,16.6,.423,1.1,4.3,.245,5.9,12.3,.485,.455,2.0,3.1,.645,1.2,5.3,6.5,5.9,1.8,0.4,3.4,2.9,17.1,

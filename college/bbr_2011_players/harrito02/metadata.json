@@ -1,0 +1,220 @@
+{
+  "name": "Tobias Harris",
+  "slug": "harrito02",
+  "url": "https://www.basketball-reference.com/players/h/harrito02.html",
+  "num_tables": 53,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "harrito02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "harrito02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "harrito02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "harrito02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "harrito02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "harrito02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "harrito02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "harrito02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "harrito02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "harrito02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "harrito02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "harrito02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "harrito02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "harrito02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "harrito02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "harrito02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "harrito02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "harrito02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "harrito02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "harrito02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "harrito02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "harrito02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "harrito02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "harrito02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "harrito02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "harrito02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "harrito02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "harrito02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "harrito02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "harrito02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "harrito02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "harrito02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "harrito02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "harrito02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "harrito02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "harrito02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "harrito02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "harrito02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "harrito02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "harrito02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "harrito02/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "harrito02/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "harrito02/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "harrito02/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "harrito02/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "harrito02/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "harrito02/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "harrito02/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "harrito02/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "harrito02/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "harrito02/table_51.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "harrito02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_det",
+      "csv": "harrito02/contracts_det.csv"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2008-09,20,MEM,NBA,PF,76,64,1464,.438,.440,.000,.438,.667,.456,.138,.005,95,91,0,88,86,84,45,2,-53.8,-81.4,
+2009-10,21,MEM,NBA,PF,32,1,457,.432,.434,.000,.432,.567,.449,.205,.007,94,88,0,86,75,83,68,3,-20.2,-29.9,
+2010-11,22,MEM,NBA,PF,80,9,1609,.497,.502,.000,.497,.813,.534,.215,.010,108,103,0,100,107,99,72,4,-2.0,-10.5,
+2011-12,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2012-13,24,MEM,NBA,PF,59,3,970,.451,.460,.278,.458,.717,.477,.128,.050,100,95,77,92,95,89,47,21,-27.4,-43.5,
+2013-14,25,DEN,NBA,SF,68,1,1161,.395,.399,.375,.424,.855,.459,.151,.156,87,82,104,85,113,85,53,60,-62.9,-72.0,
+2014-15,26,DEN,NBA,PF,58,4,988,.404,.471,.236,.438,.780,.466,.154,.286,90,97,68,88,104,87,56,107,-44.8,-56.0,
+2015-16,27,DEN,NBA,PF,70,16,1516,.452,.473,.385,.498,.755,.514,.108,.239,100,96,109,99,100,95,39,84,-4.4,-27.6,
+2016-17,28,DEN,NBA,PF,41,7,639,.442,.429,.453,.565,.864,.583,.102,.544,97,85,127,110,112,106,38,172,22.1,13.8,
+2017-18,29,DEN,NBA,PF,19,1,141,.468,.583,.348,.553,.667,.559,.064,.489,102,114,96,106,87,100,25,145,3.0,0.3,
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,503,106,8945,.444,.460,.352,.470,.765,.495,.151,.147,97,94,99,94,101,91,52,52,-190.4,-306.8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (5 Yrs),DEN (5 Yrs),DEN (5 Yrs),DEN (5 Yrs),,256,29,4445,.424,.448,.362,.474,.804,.498,.129,.279,93,91,102,94,106,92,47,97,-87.0,-141.5,
+MEM (4 Yrs),MEM (4 Yrs),MEM (4 Yrs),MEM (4 Yrs),,247,77,4500,.464,.469,.185,.465,.737,.492,.173,.017,101,96,52,93,97,91,58,7,-103.4,-165.3,

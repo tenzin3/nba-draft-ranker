@@ -1,0 +1,19 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2012-13,20,POR,NBA,C,69,9,1206,151,277,.545,3,7,.429,148,270,.548,.551,72,89,.809,80,175,255,33,11,38,49,168,377,0,
+2013-14,21,POR,NBA,C,40,0,355,41,91,.451,0,6,.000,41,85,.482,.451,16,21,.762,26,85,111,18,7,5,15,76,98,0,
+2014-15,22,POR,NBA,C,55,7,847,125,245,.510,47,112,.420,78,133,.586,.606,30,32,.938,46,204,250,32,10,14,39,113,327,0,
+2015-16,23,POR,NBA,PF,61,10,1333,195,435,.448,86,228,.377,109,207,.527,.547,35,46,.761,51,263,314,92,8,18,77,183,511,0,
+2016-17,24,POR,NBA,PF,74,12,1222,146,378,.386,74,213,.347,72,165,.436,.484,35,40,.875,27,210,237,71,13,28,35,172,401,0,
+2017-18,25,POR,NBA,C,33,2,254,46,78,.590,11,26,.423,35,52,.673,.660,9,11,.818,12,58,70,17,7,0,10,36,112,0,
+2018-19,26,POR,NBA,C,61,2,878,132,242,.545,50,111,.450,82,131,.626,.649,43,51,.843,49,184,233,75,13,9,43,105,357,0,
+2019-20,27,MIA,NBA,C,51,49,1034,119,234,.509,53,128,.414,66,106,.623,.622,18,28,.643,30,230,260,55,14,15,39,107,309,0,
+2020-21,28,MIA,NBA,C,3,2,29,3,7,.429,3,7,.429,0,0,,.643,1,2,.500,0,7,7,2,0,0,2,5,10,0,
+2021-22,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2022-23,30,MIL,NBA,C,9,2,114,14,29,.483,7,18,.389,7,11,.636,.603,8,9,.889,12,22,34,1,2,0,6,16,43,0,
+2023-24,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,456,95,7272,972,2016,.482,334,856,.390,638,1160,.550,.565,267,329,.812,333,1438,1771,396,85,127,315,981,2545,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,17,1308,175,363,.482,60,154,.390,115,209,.550,.565,48,59,.812,60,259,318,71,15,23,57,176,458,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+POR (7 Yrs),POR (7 Yrs),POR (7 Yrs),POR (7 Yrs),,393,42,6095,836,1746,.479,271,703,.385,565,1043,.542,.556,240,290,.828,291,1179,1470,338,69,112,268,853,2183,0,
+MIA (2 Yrs),MIA (2 Yrs),MIA (2 Yrs),MIA (2 Yrs),,54,51,1063,122,241,.506,56,135,.415,66,106,.623,.622,19,30,.633,30,237,267,57,14,15,41,112,319,0,
+MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),,9,2,114,14,29,.483,7,18,.389,7,11,.636,.603,8,9,.889,12,22,34,1,2,0,6,16,43,0,

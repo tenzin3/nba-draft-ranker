@@ -1,0 +1,92 @@
+{
+  "name": "Patrick Ewing",
+  "slug": "ewingpa02",
+  "url": "https://www.basketball-reference.com/players/e/ewingpa02.html",
+  "num_tables": 21,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "ewingpa02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "ewingpa02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "ewingpa02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "ewingpa02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "ewingpa02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "ewingpa02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "ewingpa02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "ewingpa02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "ewingpa02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "ewingpa02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "ewingpa02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "ewingpa02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "ewingpa02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "ewingpa02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "ewingpa02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "ewingpa02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "ewingpa02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "ewingpa02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "ewingpa02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "ewingpa02/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "ewingpa02/all_college_stats.csv"
+    }
+  ]
+}

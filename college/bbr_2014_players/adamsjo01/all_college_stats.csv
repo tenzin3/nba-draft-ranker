@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2012-13,18.0,UCLA,33,999,165,369,46,150,129,153,21,127,58,73,12,40,69,505,0.447,0.307,0.843,30.3,15.3,3.8,1.8
+2013-14,19.0,UCLA,36,1082,208,429,52,146,158,189,67,192,84,95,5,54,78,626,0.485,0.356,0.836,30.1,17.4,5.3,2.3
+Career,,,69,2081,373,798,98,296,287,342,88,319,142,168,17,94,147,1131,0.467,0.331,0.839,30.2,16.4,4.6,2.1
