@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2008-09,19.0,WVIRGINIA,35,1056,132,281,5,40,98,140,93,273,93,29,25,67,63,367,0.47,0.125,0.7,30.2,10.5,7.8,2.7
+2009-10,20.0,WVIRGINIA,34,1161,144,315,3,30,117,152,99,275,83,36,23,75,54,408,0.457,0.1,0.77,34.1,12.0,8.1,2.4
+Career,,,69,2217,276,596,8,70,215,292,192,548,176,65,48,142,117,775,0.463,0.114,0.736,32.1,11.2,7.9,2.6

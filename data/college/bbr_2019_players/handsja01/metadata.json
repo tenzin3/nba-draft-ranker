@@ -1,0 +1,16 @@
+{
+  "name": "Jaylen Hands",
+  "slug": "handsja01",
+  "url": "https://www.basketball-reference.com/players/h/handsja01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "handsja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_2",
+      "csv": "handsja01/table_2.csv"
+    }
+  ]
+}

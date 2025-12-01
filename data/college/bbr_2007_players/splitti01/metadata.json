@@ -1,0 +1,152 @@
+{
+  "name": "Tiago Splitter",
+  "slug": "splitti01",
+  "url": "https://www.basketball-reference.com/players/s/splitti01.html",
+  "num_tables": 36,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "splitti01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "splitti01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "splitti01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "splitti01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "splitti01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "splitti01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "splitti01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "splitti01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "splitti01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "splitti01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "splitti01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "splitti01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "splitti01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "splitti01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "splitti01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "splitti01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "splitti01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "splitti01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "splitti01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "splitti01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "splitti01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "splitti01/sims-career.csv"
+    },
+    {
+      "table_id": "table_23",
+      "csv": "splitti01/table_23.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "splitti01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "splitti01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "splitti01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "splitti01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "splitti01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "splitti01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "splitti01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "splitti01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "splitti01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "splitti01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "splitti01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "splitti01/table_35.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "splitti01/all_salaries.csv"
+    }
+  ]
+}

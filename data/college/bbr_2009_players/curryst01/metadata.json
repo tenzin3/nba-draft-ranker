@@ -1,0 +1,436 @@
+{
+  "name": "Stephen Curry",
+  "slug": "curryst01",
+  "url": "https://www.basketball-reference.com/players/c/curryst01.html",
+  "num_tables": 107,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "curryst01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "curryst01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "curryst01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "curryst01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "curryst01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "curryst01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "curryst01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "curryst01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "curryst01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "curryst01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "curryst01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "curryst01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "curryst01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "curryst01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "curryst01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "curryst01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "curryst01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "curryst01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "curryst01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "curryst01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "curryst01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "curryst01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "curryst01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "curryst01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "curryst01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "curryst01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "curryst01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "curryst01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "curryst01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "curryst01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "curryst01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "curryst01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "curryst01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "curryst01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "curryst01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "curryst01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "curryst01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "curryst01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "curryst01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "curryst01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "curryst01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "curryst01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "curryst01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "curryst01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "curryst01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "curryst01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "curryst01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "curryst01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "curryst01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "curryst01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "curryst01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "curryst01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "curryst01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "curryst01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "curryst01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "curryst01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "curryst01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "curryst01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "curryst01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "curryst01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "curryst01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "curryst01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "curryst01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "curryst01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "curryst01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "curryst01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "curryst01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "curryst01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "curryst01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "curryst01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "curryst01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "curryst01/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "curryst01/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "curryst01/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "curryst01/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "curryst01/table_76.csv"
+    },
+    {
+      "table_id": "table_77",
+      "csv": "curryst01/table_77.csv"
+    },
+    {
+      "table_id": "table_78",
+      "csv": "curryst01/table_78.csv"
+    },
+    {
+      "table_id": "table_79",
+      "csv": "curryst01/table_79.csv"
+    },
+    {
+      "table_id": "table_80",
+      "csv": "curryst01/table_80.csv"
+    },
+    {
+      "table_id": "table_81",
+      "csv": "curryst01/table_81.csv"
+    },
+    {
+      "table_id": "table_82",
+      "csv": "curryst01/table_82.csv"
+    },
+    {
+      "table_id": "table_83",
+      "csv": "curryst01/table_83.csv"
+    },
+    {
+      "table_id": "table_84",
+      "csv": "curryst01/table_84.csv"
+    },
+    {
+      "table_id": "table_85",
+      "csv": "curryst01/table_85.csv"
+    },
+    {
+      "table_id": "table_86",
+      "csv": "curryst01/table_86.csv"
+    },
+    {
+      "table_id": "table_87",
+      "csv": "curryst01/table_87.csv"
+    },
+    {
+      "table_id": "table_88",
+      "csv": "curryst01/table_88.csv"
+    },
+    {
+      "table_id": "table_89",
+      "csv": "curryst01/table_89.csv"
+    },
+    {
+      "table_id": "table_90",
+      "csv": "curryst01/table_90.csv"
+    },
+    {
+      "table_id": "table_91",
+      "csv": "curryst01/table_91.csv"
+    },
+    {
+      "table_id": "table_92",
+      "csv": "curryst01/table_92.csv"
+    },
+    {
+      "table_id": "table_93",
+      "csv": "curryst01/table_93.csv"
+    },
+    {
+      "table_id": "table_94",
+      "csv": "curryst01/table_94.csv"
+    },
+    {
+      "table_id": "table_95",
+      "csv": "curryst01/table_95.csv"
+    },
+    {
+      "table_id": "table_96",
+      "csv": "curryst01/table_96.csv"
+    },
+    {
+      "table_id": "table_97",
+      "csv": "curryst01/table_97.csv"
+    },
+    {
+      "table_id": "table_98",
+      "csv": "curryst01/table_98.csv"
+    },
+    {
+      "table_id": "table_99",
+      "csv": "curryst01/table_99.csv"
+    },
+    {
+      "table_id": "table_100",
+      "csv": "curryst01/table_100.csv"
+    },
+    {
+      "table_id": "table_101",
+      "csv": "curryst01/table_101.csv"
+    },
+    {
+      "table_id": "table_102",
+      "csv": "curryst01/table_102.csv"
+    },
+    {
+      "table_id": "table_103",
+      "csv": "curryst01/table_103.csv"
+    },
+    {
+      "table_id": "table_104",
+      "csv": "curryst01/table_104.csv"
+    },
+    {
+      "table_id": "table_105",
+      "csv": "curryst01/table_105.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "curryst01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_gsw",
+      "csv": "curryst01/contracts_gsw.csv"
+    }
+  ]
+}

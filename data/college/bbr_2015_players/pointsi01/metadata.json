@@ -1,0 +1,16 @@
+{
+  "name": "Sir'Dominic Pointer",
+  "slug": "pointsi01",
+  "url": "https://www.basketball-reference.com/players/p/pointsi01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "pointsi01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "pointsi01/all_salaries.csv"
+    }
+  ]
+}

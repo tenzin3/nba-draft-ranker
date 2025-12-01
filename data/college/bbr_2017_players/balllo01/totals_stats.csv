@@ -1,0 +1,17 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2017-18,20,LAL,NBA,PG,52,50,1780,203,564,.360,90,295,.305,113,269,.420,.440,32,71,.451,69,291,360,376,88,43,136,117,528,2,
+2018-19,21,LAL,NBA,PG,47,45,1423,185,456,.406,75,228,.329,110,228,.482,.488,20,48,.417,54,197,251,255,69,19,103,114,465,1,
+2019-20,22,NOP,NBA,PG,63,54,2025,277,687,.403,148,395,.375,129,292,.442,.511,43,76,.566,71,312,383,438,88,38,193,128,745,3,
+2020-21,23,NOP,NBA,PG,55,55,1747,290,700,.414,172,455,.378,118,245,.482,.537,50,64,.781,33,230,263,316,82,31,123,103,802,1,
+2021-22,24,CHI,NBA,PG,35,35,1212,162,383,.423,110,260,.423,52,123,.423,.567,21,28,.750,35,155,190,178,64,31,82,85,455,1,
+2022-23,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2023-24,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2024-25,27,CHI,NBA,PG,35,14,777,89,243,.366,67,195,.344,22,48,.458,.504,22,27,.815,25,93,118,115,47,17,41,55,267,0,
+2025-26,28,CLE,NBA,PG,13,2,301,27,81,.333,21,67,.313,6,14,.429,.463,8,12,.667,14,37,51,66,14,3,27,25,83,0,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,300,255,9265,1233,3114,.396,683,1895,.360,550,1219,.451,.506,196,326,.601,301,1315,1616,1744,452,182,705,627,3345,8,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,70,2532,337,851,.396,187,518,.360,150,333,.451,.506,54,89,.601,82,359,442,477,124,50,193,171,914,2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),NOP (2 Yrs),,118,109,3772,567,1387,.409,320,850,.376,247,537,.460,.524,93,140,.664,104,542,646,754,170,69,316,231,1547,4,
+LAL (2 Yrs),LAL (2 Yrs),LAL (2 Yrs),LAL (2 Yrs),,99,95,3203,388,1020,.380,165,523,.315,223,497,.449,.461,52,119,.437,123,488,611,631,157,62,239,231,993,3,
+CHI (2 Yrs),CHI (2 Yrs),CHI (2 Yrs),CHI (2 Yrs),,70,49,1989,251,626,.401,177,455,.389,74,171,.433,.542,43,55,.782,60,248,308,293,111,48,123,140,722,1,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,13,2,301,27,81,.333,21,67,.313,6,14,.429,.463,8,12,.667,14,37,51,66,14,3,27,25,83,0,

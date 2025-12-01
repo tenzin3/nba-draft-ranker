@@ -1,0 +1,120 @@
+{
+  "name": "Mike Scott",
+  "slug": "scottmi01",
+  "url": "https://www.basketball-reference.com/players/s/scottmi01.html",
+  "num_tables": 28,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "scottmi01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "scottmi01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "scottmi01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "scottmi01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "scottmi01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "scottmi01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "scottmi01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "scottmi01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "scottmi01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "scottmi01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "scottmi01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "scottmi01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "scottmi01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "scottmi01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "scottmi01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "scottmi01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "scottmi01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "scottmi01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "scottmi01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "scottmi01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "scottmi01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "scottmi01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "scottmi01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "scottmi01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "scottmi01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "scottmi01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "scottmi01/table_27.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "scottmi01/all_salaries.csv"
+    }
+  ]
+}

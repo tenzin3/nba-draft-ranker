@@ -1,0 +1,16 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2016-17,20,SAS,NBA,PG,38,8,322,50,116,.431,9,23,.391,41,93,.441,.470,21,30,.700,6,36,42,48,8,6,38,29,130,0,
+2017-18,21,SAS,NBA,PG,81,48,1743,270,609,.443,9,34,.265,261,575,.454,.451,105,148,.709,110,349,459,231,97,31,134,151,654,0,DEF2
+2018-19,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2019-20,23,SAS,NBA,PG,66,58,1687,294,637,.462,41,111,.369,253,526,.481,.494,91,114,.798,69,314,383,271,111,17,125,143,720,0,
+2020-21,24,SAS,NBA,PG,67,67,2139,441,974,.453,63,199,.317,378,775,.488,.485,106,134,.791,58,415,473,363,101,7,117,135,1051,4,
+2021-22,25,SAS,NBA,PG,68,68,2366,573,1241,.462,96,294,.327,477,947,.504,.500,196,247,.794,80,483,563,627,138,23,180,138,1438,13,AS
+2022-23,26,ATL,NBA,SG,74,74,2693,612,1319,.464,133,387,.344,479,932,.514,.514,158,190,.832,53,336,389,448,112,19,160,106,1515,1,
+2023-24,27,ATL,NBA,SG,78,78,2783,672,1463,.459,201,554,.363,471,909,.518,.528,208,262,.794,62,354,416,502,111,24,201,138,1753,1,
+2024-25,28,NOP,NBA,PG,31,31,1012,194,494,.393,52,174,.299,142,320,.444,.445,102,124,.823,17,183,200,228,63,12,106,61,542,1,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,503,432,14745,3106,6853,.453,604,1776,.340,2502,5077,.493,.497,987,1249,.790,455,2470,2925,2718,741,139,1061,901,7803,20,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,70,2404,506,1117,.453,98,290,.340,408,828,.493,.497,161,204,.790,74,403,477,443,121,23,173,147,1272,3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SAS (5 Yrs),SAS (5 Yrs),SAS (5 Yrs),SAS (5 Yrs),,320,249,8257,1628,3577,.455,218,661,.330,1410,2916,.484,.486,519,673,.771,323,1597,1920,1540,455,84,594,596,3993,17,
+ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),,152,152,5476,1284,2782,.462,334,941,.355,950,1841,.516,.522,366,452,.810,115,690,805,950,223,43,361,244,3268,2,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,31,31,1012,194,494,.393,52,174,.299,142,320,.444,.445,102,124,.823,17,183,200,228,63,12,106,61,542,1,

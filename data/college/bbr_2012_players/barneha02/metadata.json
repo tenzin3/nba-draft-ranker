@@ -1,0 +1,252 @@
+{
+  "name": "Harrison Barnes",
+  "slug": "barneha02",
+  "url": "https://www.basketball-reference.com/players/b/barneha02.html",
+  "num_tables": 61,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "barneha02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "barneha02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "barneha02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "barneha02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "barneha02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "barneha02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "barneha02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "barneha02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "barneha02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "barneha02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "barneha02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "barneha02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "barneha02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "barneha02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "barneha02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "barneha02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "barneha02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "barneha02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "barneha02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "barneha02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "barneha02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "barneha02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "barneha02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "barneha02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "barneha02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "barneha02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "barneha02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "barneha02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "barneha02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "barneha02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "barneha02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "barneha02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "barneha02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "barneha02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "barneha02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "barneha02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "barneha02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "barneha02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "barneha02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "barneha02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "barneha02/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "barneha02/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "barneha02/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "barneha02/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "barneha02/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "barneha02/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "barneha02/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "barneha02/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "barneha02/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "barneha02/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "barneha02/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "barneha02/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "barneha02/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "barneha02/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "barneha02/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "barneha02/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "barneha02/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "barneha02/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "barneha02/table_59.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "barneha02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_sas",
+      "csv": "barneha02/contracts_sas.csv"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Blake Stepp",
+  "slug": "steppbl01",
+  "url": "https://www.basketball-reference.com/players/s/steppbl01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "steppbl01/all_college_stats.csv"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "name": "Marcus Thornton",
+  "slug": "thornma01",
+  "url": "https://www.basketball-reference.com/players/t/thornma01.html",
+  "num_tables": 44,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "thornma01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "thornma01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "thornma01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "thornma01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "thornma01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "thornma01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "thornma01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "thornma01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "thornma01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "thornma01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "thornma01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "thornma01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "thornma01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "thornma01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "thornma01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "thornma01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "thornma01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "thornma01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "thornma01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "thornma01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "thornma01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "thornma01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "thornma01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "thornma01/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "thornma01/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "thornma01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "thornma01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "thornma01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "thornma01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "thornma01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "thornma01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "thornma01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "thornma01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "thornma01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "thornma01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "thornma01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "thornma01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "thornma01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "thornma01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "thornma01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "thornma01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "thornma01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "thornma01/table_43.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "thornma01/all_salaries.csv"
+    }
+  ]
+}

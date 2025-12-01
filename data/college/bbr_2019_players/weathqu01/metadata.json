@@ -1,0 +1,68 @@
+{
+  "name": "Quinndary Weatherspoon",
+  "slug": "weathqu01",
+  "url": "https://www.basketball-reference.com/players/w/weathqu01.html",
+  "num_tables": 15,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "weathqu01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "weathqu01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "weathqu01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "weathqu01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "weathqu01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "weathqu01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "weathqu01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "weathqu01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "weathqu01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "weathqu01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "weathqu01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "weathqu01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "weathqu01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "weathqu01/table_14.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "weathqu01/all_salaries.csv"
+    }
+  ]
+}

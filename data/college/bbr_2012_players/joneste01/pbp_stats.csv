@@ -1,0 +1,16 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2012-13,21,HOU,NBA,PF,19,0,276,0,0,3,83,14,-0.9,-4.9,6,2,11,3,6,0,36,1,10,
+2013-14,22,HOU,NBA,PF,76,71,2078,0,0,0,90,9,3.4,-3.1,26,28,67,6,103,5,208,31,64,
+2014-15,23,HOU,NBA,PF,33,24,889,0,0,0,56,44,4.2,0.7,12,13,37,9,47,4,90,8,29,
+2015-16,24,HOU,NBA,PF,50,11,1044,0,0,0,77,23,-11.2,-15.2,15,16,38,10,59,1,104,16,39,
+2016-17,25,2TM,NBA,PF,54,12,1270,0,0,0,75,24,-1.9,0.2,18,24,36,5,90,3,138,26,39,
+2016-17,25,NOP,NBA,PF,51,12,1264,0,0,0,76,24,-1.7,0.4,18,24,36,5,90,3,138,26,39,
+2016-17,25,MIL,NBA,PF,3,0,6,0,0,100,0,0,-39.6,-39.7,0,0,0,0,0,0,0,0,0,
+2017-18,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2018-19,27,HOU,NBA,PF,2,0,5,0,0,0,0,100,-92.3,-97.5,1,0,1,0,1,0,0,1,0,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,234,118,5562,0,0,0,78,21,-0.7,-4.2,78,83,190,33,306,13,576,83,181,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,41,1949,0,0,0,78,21,-0.7,-4.2,27,29,67,12,107,5,202,29,63,
+,,,,,,,,,,,,,,,,,,,,,,,,
+HOU (5 Yrs),HOU (5 Yrs),HOU (5 Yrs),HOU (5 Yrs),,180,106,4292,0,0,0,79,20,-0.4,-5.5,60,59,154,28,216,10,438,57,142,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,51,12,1264,0,0,0,76,24,-1.7,0.4,18,24,36,5,90,3,138,26,39,
+MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),,3,0,6,0,0,100,0,0,-39.6,-39.7,0,0,0,0,0,0,0,0,0,

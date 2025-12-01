@@ -1,0 +1,56 @@
+{
+  "name": "Taylor Griffin",
+  "slug": "griffta01",
+  "url": "https://www.basketball-reference.com/players/g/griffta01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "griffta01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "griffta01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "griffta01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "griffta01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "griffta01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "griffta01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "griffta01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "griffta01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "griffta01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "griffta01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "griffta01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "griffta01/all_salaries.csv"
+    }
+  ]
+}

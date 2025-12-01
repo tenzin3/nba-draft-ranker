@@ -1,0 +1,6 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2012-13,21,OKC,NBA,SF,38,1,280,0,0,18,76,7,1.1,-9.2,6,4,11,3,6,0,24,1,6,
+2013-14,22,OKC,NBA,PF,62,7,764,0,0,2,58,41,5.5,-1.6,6,9,30,3,21,2,59,2,8,
+2014-15,23,OKC,NBA,SF,43,13,631,0,2,65,32,2,-10.2,-14.6,7,8,25,5,17,3,45,4,10,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,143,21,1675,0,1,28,51,20,-1.2,-7.8,19,21,66,11,44,5,128,7,24,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,12,960,0,1,28,51,20,-1.2,-7.8,11,12,38,6,25,3,73,4,14,

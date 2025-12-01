@@ -1,0 +1,13 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2013-14,22,OKC,NBA,SG,40,16,399,.485,.564,.154,.500,.700,.518,.147,.191,107,116,43,100,93,96,52,74,-0.1,-3.3,
+2014-15,23,OKC,NBA,SG,67,65,1286,.458,.612,.247,.510,.479,.513,.239,.423,102,126,71,103,64,96,87,158,5.7,-9.3,
+2015-16,24,OKC,NBA,SG,70,70,1553,.496,.608,.311,.555,.611,.566,.197,.376,110,124,88,110,81,105,71,132,28.6,14.7,
+2016-17,25,OKC,NBA,SF,79,79,2376,.464,.609,.245,.513,.423,.510,.240,.397,102,121,68,100,55,92,89,126,-0.7,-43.4,"DPOY-5,DEF2"
+2017-18,26,OKC,NBA,SG,39,39,1037,.537,.627,.222,.562,.316,.543,.235,.222,117,123,61,108,41,98,93,66,13.1,-4.8,
+2018-19,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2019-20,28,OKC,NBA,SF,7,0,87,.276,.333,.214,.328,.500,.335,.069,.483,60,64,60,62,65,59,27,126,-11.7,-13.7,
+2020-21,29,BRK,NBA,SG,5,0,63,.143,.167,.125,.179,.500,.202,.143,.571,31,31,34,33,64,35,58,146,-10.1,-11.0,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,307,269,6801,.473,.600,.253,.519,.468,.520,.219,.366,104,121,71,102,61,95,81,122,24.8,-70.8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (6 Yrs),OKC (6 Yrs),OKC (6 Yrs),OKC (6 Yrs),,302,269,6738,.477,.604,.255,.523,.468,.524,.220,.363,105,121,72,103,61,96,81,121,34.9,-59.8,
+BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),,5,0,63,.143,.167,.125,.179,.500,.202,.143,.571,31,31,34,33,64,35,58,146,-10.1,-11.0,

@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2005-06,21,DEN,NBA,PF,61,2,519,0,0,8,59,33,-2.1,-2.7,3,8,34,4,40,2,34,11,13,
+2006-07,22,DEN,NBA,PF,79,14,1488,0,0,29,66,5,1.7,-0.3,22,17,81,26,61,5,105,7,31,
+2007-08,23,DEN,NBA,SF,79,13,1889,0,1,62,36,1,4.7,2.3,31,23,88,20,100,5,223,12,35,6MOY-11
+2008-09,24,DEN,NBA,SF,82,7,1824,0,0,58,41,1,-0.9,-8.5,16,37,72,12,101,3,143,22,39,
+2009-10,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2010-11,26,TOR,NBA,SF,39,23,1032,0,0,75,25,0,-4.2,3.7,15,22,44,11,32,3,93,7,17,
+2011-12,27,TOR,NBA,SF,49,3,1057,0,2,67,30,0,-0.5,4.8,17,25,49,15,39,4,109,8,19,
+2012-13,28,TOR,NBA,SF,20,3,376,0,0,62,38,0,-7.4,-6.4,4,4,22,5,12,0,39,4,7,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,409,65,8185,0,1,54,42,3,0.1,-0.8,108,136,390,93,385,22,746,71,161,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,13,1641,0,1,54,42,3,0.1,-0.8,22,27,78,19,77,4,150,14,32,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DEN (4 Yrs),DEN (4 Yrs),DEN (4 Yrs),DEN (4 Yrs),,301,36,5720,0,0,47,47,5,1.5,-2.3,72,85,275,62,302,15,505,52,118,
+TOR (3 Yrs),TOR (3 Yrs),TOR (3 Yrs),TOR (3 Yrs),,108,29,2465,0,1,70,29,0,-3.1,2.6,36,51,115,31,83,7,241,19,43,

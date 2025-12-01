@@ -1,0 +1,320 @@
+{
+  "name": "Zach LaVine",
+  "slug": "lavinza01",
+  "url": "https://www.basketball-reference.com/players/l/lavinza01.html",
+  "num_tables": 78,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "lavinza01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "lavinza01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "lavinza01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "lavinza01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "lavinza01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "lavinza01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "lavinza01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "lavinza01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "lavinza01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "lavinza01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "lavinza01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "lavinza01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "lavinza01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "lavinza01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "lavinza01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "lavinza01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "lavinza01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "lavinza01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "lavinza01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "lavinza01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "lavinza01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "lavinza01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "lavinza01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "lavinza01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "lavinza01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "lavinza01/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "lavinza01/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "lavinza01/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "lavinza01/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "lavinza01/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "lavinza01/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "lavinza01/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "lavinza01/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "lavinza01/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "lavinza01/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "lavinza01/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "lavinza01/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "lavinza01/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "lavinza01/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "lavinza01/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "lavinza01/table_41.csv"
+    },
+    {
+      "table_id": "table_42",
+      "csv": "lavinza01/table_42.csv"
+    },
+    {
+      "table_id": "table_43",
+      "csv": "lavinza01/table_43.csv"
+    },
+    {
+      "table_id": "table_44",
+      "csv": "lavinza01/table_44.csv"
+    },
+    {
+      "table_id": "table_45",
+      "csv": "lavinza01/table_45.csv"
+    },
+    {
+      "table_id": "table_46",
+      "csv": "lavinza01/table_46.csv"
+    },
+    {
+      "table_id": "table_47",
+      "csv": "lavinza01/table_47.csv"
+    },
+    {
+      "table_id": "table_48",
+      "csv": "lavinza01/table_48.csv"
+    },
+    {
+      "table_id": "table_49",
+      "csv": "lavinza01/table_49.csv"
+    },
+    {
+      "table_id": "table_50",
+      "csv": "lavinza01/table_50.csv"
+    },
+    {
+      "table_id": "table_51",
+      "csv": "lavinza01/table_51.csv"
+    },
+    {
+      "table_id": "table_52",
+      "csv": "lavinza01/table_52.csv"
+    },
+    {
+      "table_id": "table_53",
+      "csv": "lavinza01/table_53.csv"
+    },
+    {
+      "table_id": "table_54",
+      "csv": "lavinza01/table_54.csv"
+    },
+    {
+      "table_id": "table_55",
+      "csv": "lavinza01/table_55.csv"
+    },
+    {
+      "table_id": "table_56",
+      "csv": "lavinza01/table_56.csv"
+    },
+    {
+      "table_id": "table_57",
+      "csv": "lavinza01/table_57.csv"
+    },
+    {
+      "table_id": "table_58",
+      "csv": "lavinza01/table_58.csv"
+    },
+    {
+      "table_id": "table_59",
+      "csv": "lavinza01/table_59.csv"
+    },
+    {
+      "table_id": "table_60",
+      "csv": "lavinza01/table_60.csv"
+    },
+    {
+      "table_id": "table_61",
+      "csv": "lavinza01/table_61.csv"
+    },
+    {
+      "table_id": "table_62",
+      "csv": "lavinza01/table_62.csv"
+    },
+    {
+      "table_id": "table_63",
+      "csv": "lavinza01/table_63.csv"
+    },
+    {
+      "table_id": "table_64",
+      "csv": "lavinza01/table_64.csv"
+    },
+    {
+      "table_id": "table_65",
+      "csv": "lavinza01/table_65.csv"
+    },
+    {
+      "table_id": "table_66",
+      "csv": "lavinza01/table_66.csv"
+    },
+    {
+      "table_id": "table_67",
+      "csv": "lavinza01/table_67.csv"
+    },
+    {
+      "table_id": "table_68",
+      "csv": "lavinza01/table_68.csv"
+    },
+    {
+      "table_id": "table_69",
+      "csv": "lavinza01/table_69.csv"
+    },
+    {
+      "table_id": "table_70",
+      "csv": "lavinza01/table_70.csv"
+    },
+    {
+      "table_id": "table_71",
+      "csv": "lavinza01/table_71.csv"
+    },
+    {
+      "table_id": "table_72",
+      "csv": "lavinza01/table_72.csv"
+    },
+    {
+      "table_id": "table_73",
+      "csv": "lavinza01/table_73.csv"
+    },
+    {
+      "table_id": "table_74",
+      "csv": "lavinza01/table_74.csv"
+    },
+    {
+      "table_id": "table_75",
+      "csv": "lavinza01/table_75.csv"
+    },
+    {
+      "table_id": "table_76",
+      "csv": "lavinza01/table_76.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "lavinza01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_sac",
+      "csv": "lavinza01/contracts_sac.csv"
+    }
+  ]
+}

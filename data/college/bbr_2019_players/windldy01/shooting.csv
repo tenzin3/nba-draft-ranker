@@ -1,0 +1,16 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Unnamed: 8_level_0', 'FG%')","('Unnamed: 9_level_0', 'Dist.')","('% of FGA by Distance', '2P')","('% of FGA by Distance', '0-3')","('% of FGA by Distance', '3-10')","('% of FGA by Distance', '10-16')","('% of FGA by Distance', '16-3P')","('% of FGA by Distance', '3P')","('FG% by Distance', '2P')","('FG% by Distance', '0-3')","('FG% by Distance', '3-10')","('FG% by Distance', '10-16')","('FG% by Distance', '3P')","(""% of FG Ast'd"", '2P')","(""% of FG Ast'd"", '3P')","('Dunks', '%FGA')","('Dunks', '#')","('Corner 3s', '%3PA')","('Corner 3s', '3P%')","('1/2 Court', 'Att.')","('1/2 Court', 'Md.')","('Unnamed: 29_level_0', 'Awards')"
+2019-20,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2020-21,24,CLE,NBA,SF,31,0,513,.438,16.2,.408,.269,.100,.038,.000,.592,.585,.629,.538,.400,.338,.548,.962,.023,3,.442,.324,0,0,
+2021-22,25,CLE,NBA,SF,50,0,459,.378,18.7,.286,.194,.082,.010,.000,.714,.571,.632,.500,.000,.300,.813,.952,.041,3,.429,.333,0,0,
+2022-23,26,CLE,NBA,SF,3,0,10,.667,17.4,.333,.333,.000,.000,.000,.667,1.000,1.000,,,.500,1.000,1.000,.000,0,.500,1.000,0,0,
+2023-24,27,3TM,NBA,SF,17,0,108,.500,23.8,.100,.067,.000,.033,.000,.900,.667,1.000,,.000,.481,1.000,.846,.000,0,.370,.400,0,0,
+2023-24,27,NYK,NBA,SF,3,0,7,.500,25.2,.000,.000,.000,.000,.000,1.000,,,,,.500,,1.000,.000,0,.500,.000,0,0,
+2023-24,27,LAL,NBA,SF,8,0,28,.444,24.3,.111,.000,.000,.111,.000,.889,.000,,,.000,.500,,1.000,.000,0,.250,.500,0,0,
+2023-24,27,ATL,NBA,SF,6,0,73,.526,22.0,.105,.105,.000,.000,.000,.895,1.000,1.000,,,.471,1.000,.750,.000,0,.412,.429,0,0,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,101,0,1090,.425,20.6,.326,.218,.080,.027,.000,.674,.588,.649,.524,.286,.347,.660,.934,.027,6,.426,.347,0,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,0,885,.425,20.6,.326,.218,.080,.027,.000,.674,.588,.649,.524,.286,.347,.660,.934,.027,5,.426,.347,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLE (3 Yrs),CLE (3 Yrs),CLE (3 Yrs),CLE (3 Yrs),,84,0,982,.416,17.4,.355,.238,.091,.026,.000,.645,.585,.636,.524,.333,.322,.646,.958,.030,6,.436,.338,0,0,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,8,0,28,.444,24.3,.111,.000,.000,.111,.000,.889,.000,,,.000,.500,,1.000,.000,0,.250,.500,0,0,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,6,0,73,.526,22.0,.105,.105,.000,.000,.000,.895,1.000,1.000,,,.471,1.000,.750,.000,0,.412,.429,0,0,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,3,0,7,.500,25.2,.000,.000,.000,.000,.000,1.000,,,,,.500,,1.000,.000,0,.500,.000,0,0,

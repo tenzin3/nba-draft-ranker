@@ -1,0 +1,23 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2007-08,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2008-09,24,MEM,NBA,C,82,75,2521,0,0,0,0,100,-6.8,-2.9,44,55,146,27,170,36,335,46,48,ROY-8
+2009-10,25,MEM,NBA,C,69,69,2469,0,0,0,7,93,2.1,9.5,46,32,148,33,162,44,378,42,40,
+2010-11,26,MEM,NBA,C,81,81,2586,0,0,0,1,100,2.2,-0.9,55,44,137,30,132,18,435,45,56,
+2011-12,27,MEM,NBA,C,65,65,2370,0,0,0,1,99,5.3,11.6,49,38,108,24,138,10,460,27,41,"DPOY-12,AS"
+2012-13,28,MEM,NBA,C,80,80,2796,0,0,0,0,100,8.0,10.9,66,42,116,32,133,12,704,26,30,"MVP-12,DPOY-1,NBA2,DEF2"
+2013-14,29,MEM,NBA,C,59,59,1970,0,0,0,7,93,0.7,-2.8,41,36,75,23,102,9,480,29,27,DPOY-15
+2014-15,30,MEM,NBA,C,81,81,2687,0,0,0,8,92,3.6,0.7,65,58,100,30,194,11,687,50,51,"MVP-8,DPOY-10,AS,NBA1"
+2015-16,31,MEM,NBA,C,52,52,1791,0,0,0,0,100,-0.1,4.1,41,47,67,22,94,7,449,21,25,
+2016-17,32,MEM,NBA,C,74,74,2531,0,0,0,0,100,1.8,2.9,67,57,87,25,137,4,805,35,23,AS
+2017-18,33,MEM,NBA,C,73,73,2408,0,0,0,0,100,-6.6,-0.2,78,51,84,26,125,3,739,29,45,
+2018-19,34,2TM,NBA,C,79,72,2436,0,0,0,0,100,2.9,4.4,71,42,116,27,94,38,840,26,36,
+2018-19,34,MEM,NBA,C,53,53,1788,0,0,0,0,100,-1.3,2.3,50,37,78,20,71,23,587,21,27,
+2018-19,34,TOR,NBA,C,26,19,648,0,0,0,0,100,14.5,10.3,21,5,38,7,23,15,253,5,9,
+2019-20,35,TOR,NBA,C,44,43,1161,0,0,0,0,100,10.6,5.9,28,9,61,12,14,9,357,5,7,
+2020-21,36,LAL,NBA,C,52,42,993,0,0,0,0,100,3.8,1.7,38,4,61,10,20,7,252,8,5,
+13 Yrs,13 Yrs,13 Yrs,13 Yrs,,891,866,28719,0,0,0,2,98,1.8,3.5,689,515,1306,321,1515,208,6921,389,434,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,80,2643,0,0,0,2,98,1.8,3.5,63,47,120,30,139,19,637,36,40,
+,,,,,,,,,,,,,,,,,,,,,,,,
+MEM (11 Yrs),MEM (11 Yrs),MEM (11 Yrs),MEM (11 Yrs),,769,762,25917,0,0,0,2,98,1.0,3.3,602,497,1146,292,1458,177,6059,371,413,
+TOR (2 Yrs),TOR (2 Yrs),TOR (2 Yrs),TOR (2 Yrs),,70,62,1809,0,0,0,0,100,12.0,7.5,49,14,99,19,37,24,610,10,16,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,52,42,993,0,0,0,0,100,3.8,1.7,38,4,61,10,20,7,252,8,5,

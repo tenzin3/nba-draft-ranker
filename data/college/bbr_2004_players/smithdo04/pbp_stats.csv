@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2004-05,21,ATL,NBA,SG,38,0,433,9,65,26,0,0,-6.9,4.2,16,4,25,4,20,,83,1,13,
+2005-06,22,ATL,NBA,SG,23,0,127,6,79,14,0,0,5.9,11.6,2,1,12,0,3,1.0,19,2,1,
+2 Yrs,2 Yrs,2 Yrs,2 Yrs,,61,0,560,9,68,23,0,0,-4.0,5.9,18,5,37,4,23,1.0,102,3,14,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,0,753,9,68,23,0,0,-4.0,5.9,24,7,50,5,31,,137,4,19,

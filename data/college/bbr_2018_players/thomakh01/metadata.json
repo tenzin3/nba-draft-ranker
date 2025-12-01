@@ -1,0 +1,104 @@
+{
+  "name": "Khyri Thomas",
+  "slug": "thomakh01",
+  "url": "https://www.basketball-reference.com/players/t/thomakh01.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "thomakh01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "thomakh01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "thomakh01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "thomakh01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "thomakh01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "thomakh01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "thomakh01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "thomakh01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "thomakh01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "thomakh01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "thomakh01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "thomakh01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "thomakh01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "thomakh01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "thomakh01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "thomakh01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "thomakh01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "thomakh01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "thomakh01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "thomakh01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "thomakh01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "thomakh01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "thomakh01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "thomakh01/all_salaries.csv"
+    }
+  ]
+}

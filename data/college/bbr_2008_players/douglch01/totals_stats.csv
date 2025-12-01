@@ -1,0 +1,16 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2008-09,22,NJN,NBA,SG,44,3,585,81,176,.460,3,12,.250,78,164,.476,.469,51,62,.823,14,36,50,52,12,7,31,34,216,0,
+2009-10,23,NJN,NBA,SF,67,38,1730,255,573,.445,14,54,.259,241,519,.464,.457,133,157,.847,45,153,198,93,55,19,97,101,657,0,
+2010-11,24,MIL,NBA,SF,44,12,884,117,273,.429,15,46,.326,102,227,.449,.456,74,89,.831,7,81,88,50,29,13,35,73,323,0,
+2011-12,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2012-13,26,DAL,NBA,SG,6,0,63,5,14,.357,0,4,.000,5,10,.500,.357,7,10,.700,0,5,5,4,2,0,1,4,17,0,
+2013-14,27,CHA,NBA,SF,49,8,1016,111,252,.440,51,132,.386,60,120,.500,.542,66,82,.805,16,103,119,51,29,16,36,61,339,0,
+2014-15,28,LAC,NBA,SG,12,0,103,5,21,.238,1,7,.143,4,14,.286,.262,8,8,1.000,1,11,12,4,1,0,0,14,19,0,
+6 Yrs,6 Yrs,6 Yrs,6 Yrs,,222,61,4381,574,1309,.439,84,255,.329,490,1054,.465,.471,339,408,.831,83,389,472,254,128,55,200,287,1571,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,23,1618,212,484,.439,31,94,.329,181,389,.465,.471,125,151,.831,31,144,174,94,47,20,74,106,580,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),NJN (2 Yrs),,111,41,2315,336,749,.449,17,66,.258,319,683,.467,.460,184,219,.840,59,189,248,145,67,26,128,135,873,0,
+CHA (1 Yr),CHA (1 Yr),CHA (1 Yr),CHA (1 Yr),,49,8,1016,111,252,.440,51,132,.386,60,120,.500,.542,66,82,.805,16,103,119,51,29,16,36,61,339,0,
+MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),,44,12,884,117,273,.429,15,46,.326,102,227,.449,.456,74,89,.831,7,81,88,50,29,13,35,73,323,0,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,12,0,103,5,21,.238,1,7,.143,4,14,.286,.262,8,8,1.000,1,11,12,4,1,0,0,14,19,0,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,6,0,63,5,14,.357,0,4,.000,5,10,.500,.357,7,10,.700,0,5,5,4,2,0,1,4,17,0,

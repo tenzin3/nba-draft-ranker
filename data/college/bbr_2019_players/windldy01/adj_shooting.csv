@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2019-20,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2020-21,24,CLE,NBA,SF,31,0,513,.438,.585,.338,.538,.778,.567,.208,.592,94,110,92,100,100,99,84,151,0.1,-1.2,
+2021-22,25,CLE,NBA,SF,50,0,459,.378,.571,.300,.485,.833,.519,.184,.714,82,107,85,91,108,92,74,179,-9.2,-9.9,
+2022-23,26,CLE,NBA,SF,3,0,10,.667,1.000,.500,.833,,.833,.000,.667,140,183,139,153,,143,0,172,1.7,1.5,
+2023-24,27,3TM,NBA,SF,17,0,108,.500,.667,.481,.717,,.717,.000,.900,105,122,132,131,,124,0,228,10.2,8.3,
+2023-24,27,NYK,NBA,SF,3,0,7,.500,,.500,.750,,.750,.000,1.000,105,,137,137,,129,0,253,0.8,0.7,
+2023-24,27,LAL,NBA,SF,8,0,28,.444,.000,.500,.667,,.667,.000,.889,94,0,137,122,,115,0,225,2.2,1.6,
+2023-24,27,ATL,NBA,SF,6,0,73,.526,1.000,.471,.737,,.737,.000,.895,111,183,129,135,,127,0,227,7.2,6.0,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,101,0,1090,.425,.588,.347,.542,.800,.568,.172,.674,90,111,96,101,103,99,70,171,2.8,-1.3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLE (3 Yrs),CLE (3 Yrs),CLE (3 Yrs),CLE (3 Yrs),,84,0,982,.416,.585,.322,.519,.800,.550,.195,.645,89,110,89,97,103,97,79,163,-7.4,-9.6,
+LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),LAL (1 Yr),,8,0,28,.444,.000,.500,.667,,.667,.000,.889,94,0,137,122,,115,0,225,2.2,1.6,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,6,0,73,.526,1.000,.471,.737,,.737,.000,.895,111,183,129,135,,127,0,227,7.2,6.0,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,3,0,7,.500,,.500,.750,,.750,.000,1.000,105,,137,137,,129,0,253,0.8,0.7,

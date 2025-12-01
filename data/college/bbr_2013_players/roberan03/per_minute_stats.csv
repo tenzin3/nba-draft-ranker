@@ -1,0 +1,13 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Awards
+2013-14,22,OKC,NBA,SG,40,16,399,3.0,6.1,.485,0.2,1.2,.154,2.8,5.0,.564,.500,0.6,0.9,.700,3.2,5.2,8.5,1.4,1.7,0.9,1.7,6.7,6.8,
+2014-15,23,OKC,NBA,SG,67,65,1286,2.6,5.6,.458,0.6,2.4,.247,2.0,3.2,.612,.510,0.6,1.3,.479,1.7,5.5,7.1,2.0,1.5,0.8,1.3,3.9,6.4,
+2015-16,24,OKC,NBA,SG,70,70,1553,3.2,6.4,.496,0.7,2.4,.311,2.4,4.0,.608,.555,0.8,1.3,.611,1.8,4.0,5.8,1.1,1.2,1.0,0.8,3.1,7.8,
+2016-17,25,OKC,NBA,SF,79,79,2376,3.3,7.0,.464,0.7,2.8,.245,2.6,4.2,.609,.513,0.7,1.7,.423,1.5,4.6,6.1,1.2,1.4,1.2,0.8,3.1,7.9,"DPOY-5,DEF2"
+2017-18,26,OKC,NBA,SG,39,39,1037,3.0,5.6,.537,0.3,1.2,.222,2.7,4.4,.627,.562,0.4,1.3,.316,2.6,3.8,6.4,1.6,1.6,1.2,1.0,3.1,6.7,
+2018-19,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2019-20,28,OKC,NBA,SF,7,0,87,3.3,12.0,.276,1.2,5.8,.214,2.1,6.2,.333,.328,0.4,0.8,.500,2.9,8.3,11.2,1.7,0.4,1.2,0.8,5.4,8.3,
+2020-21,29,BRK,NBA,SG,5,0,63,1.1,8.0,.143,0.6,4.6,.125,0.6,3.4,.167,.179,0.6,1.1,.500,4.0,4.6,8.6,2.3,1.7,0.6,1.1,2.3,3.4,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,307,269,6801,3.0,6.4,.473,0.6,2.3,.253,2.4,4.1,.600,.519,0.7,1.4,.468,1.9,4.6,6.5,1.4,1.4,1.1,1.0,3.5,7.3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (6 Yrs),OKC (6 Yrs),OKC (6 Yrs),OKC (6 Yrs),,302,269,6738,3.1,6.4,.477,0.6,2.3,.255,2.5,4.1,.604,.523,0.7,1.4,.468,1.9,4.6,6.5,1.4,1.4,1.1,1.0,3.5,7.4,
+BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),BRK (1 Yr),,5,0,63,1.1,8.0,.143,0.6,4.6,.125,0.6,3.4,.167,.179,0.6,1.1,.500,4.0,4.6,8.6,2.3,1.7,0.6,1.1,2.3,3.4,

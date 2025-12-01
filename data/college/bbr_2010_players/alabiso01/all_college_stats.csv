@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2007-08,19.0,FLORIDAST,10,93,15,31,0,0,5,9,8,20,0,1,11,11,18,35,0.484,,0.556,9.3,3.5,2.0,0.0
+2008-09,20.0,FLORIDAST,35,779,122,226,0,1,51,75,75,197,12,18,73,56,65,295,0.54,0.0,0.68,22.3,8.4,5.6,0.3
+2009-10,21.0,FLORIDAST,32,820,133,249,0,0,108,136,79,198,16,20,75,61,75,374,0.534,,0.794,25.6,11.7,6.2,0.5
+Career,,,77,1692,270,506,0,1,164,220,162,415,28,39,159,128,158,704,0.534,0.0,0.745,22.0,9.1,5.4,0.4

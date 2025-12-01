@@ -1,0 +1,72 @@
+{
+  "name": "Damion James",
+  "slug": "jamesda01",
+  "url": "https://www.basketball-reference.com/players/j/jamesda01.html",
+  "num_tables": 16,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "jamesda01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "jamesda01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "jamesda01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "jamesda01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "jamesda01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "jamesda01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "jamesda01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "jamesda01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "jamesda01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "jamesda01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "jamesda01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "jamesda01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "jamesda01/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_14",
+      "csv": "jamesda01/table_14.csv"
+    },
+    {
+      "table_id": "table_15",
+      "csv": "jamesda01/table_15.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "jamesda01/all_salaries.csv"
+    }
+  ]
+}

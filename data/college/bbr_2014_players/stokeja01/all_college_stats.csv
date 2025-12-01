@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2011-12,18.0,TENNESSEE,17,436,63,119,0,3,37,65,44,126,12,16,23,35,39,163,0.529,0.0,0.569,25.6,9.6,7.4,0.7
+2012-13,19.0,TENNESSEE,33,952,149,282,0,0,110,194,138,318,42,23,37,68,78,408,0.528,,0.567,28.8,12.4,9.6,1.3
+2013-14,20.0,TENNESSEE,37,1199,199,375,0,0,160,230,155,392,75,26,34,77,73,558,0.531,,0.696,32.4,15.1,10.6,2.0
+Career,,,87,2587,411,776,0,3,307,489,337,836,129,65,94,180,190,1129,0.53,0.0,0.628,29.7,13.0,9.6,1.5

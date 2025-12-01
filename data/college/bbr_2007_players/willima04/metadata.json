@@ -1,0 +1,56 @@
+{
+  "name": "Marcus Williams",
+  "slug": "willima04",
+  "url": "https://www.basketball-reference.com/players/w/willima04.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "willima04/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "willima04/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "willima04/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "willima04/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "willima04/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "willima04/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "willima04/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "willima04/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "willima04/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "willima04/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "willima04/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "willima04/all_salaries.csv"
+    }
+  ]
+}

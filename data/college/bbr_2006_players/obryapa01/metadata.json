@@ -1,0 +1,64 @@
+{
+  "name": "Patrick O'Bryant",
+  "slug": "obryapa01",
+  "url": "https://www.basketball-reference.com/players/o/obryapa01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "obryapa01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "obryapa01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "obryapa01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "obryapa01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "obryapa01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "obryapa01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "obryapa01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "obryapa01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "obryapa01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "obryapa01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "obryapa01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "obryapa01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "obryapa01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "obryapa01/all_salaries.csv"
+    }
+  ]
+}

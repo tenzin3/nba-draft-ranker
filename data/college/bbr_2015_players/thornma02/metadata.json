@@ -1,0 +1,16 @@
+{
+  "name": "Marcus Thornton",
+  "slug": "thornma02",
+  "url": "https://www.basketball-reference.com/players/t/thornma02.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "thornma02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "thornma02/all_salaries.csv"
+    }
+  ]
+}

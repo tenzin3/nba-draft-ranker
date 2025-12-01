@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2017-18,19.0,VATECH,33,839,124,276,58,148,46,63,23,127,49,28,18,52,49,352,0.449,0.392,0.73,25.4,10.7,3.8,1.5
+2018-19,20.0,VATECH,34,1167,190,401,58,155,112,144,16,139,135,64,18,97,78,550,0.474,0.374,0.778,34.3,16.2,4.1,4.0
+Career,,,67,2006,314,677,116,303,158,207,39,266,184,92,36,149,127,902,0.464,0.383,0.763,29.9,13.5,4.0,2.7

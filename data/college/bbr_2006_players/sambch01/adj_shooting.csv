@@ -1,0 +1,13 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2006-07,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2007-08,23,DET,NBA,C,4,0,31,.750,.750,,.750,.500,.717,.500,.000,164,155,,151,66,133,163,0,2.0,1.7,
+2008-09,24,3TM,NBA,C,18,0,83,.188,.207,.000,.188,.429,.214,.219,.094,41,43,0,38,56,39,72,42,-20.0,-23.2,
+2008-09,24,DEN,NBA,C,6,0,24,.154,.167,.000,.154,,.154,.000,.077,34,34,0,31,,28,0,34,-9.0,-10.2,
+2008-09,24,LAC,NBA,C,10,0,51,.250,.286,.000,.250,.600,.302,.313,.125,54,59,0,50,78,56,102,56,-8.0,-8.8,
+2008-09,24,NYK,NBA,C,2,0,8,.000,.000,,.000,.000,.000,.667,.000,0,0,,0,0,0,218,0,-3.0,-4.2,
+2 Yrs,2 Yrs,2 Yrs,2 Yrs,,22,0,114,.250,.273,.000,.250,.444,.275,.250,.083,55,56,0,50,58,51,82,37,-18.0,-21.5,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,10,0,51,.250,.286,.000,.250,.600,.302,.313,.125,54,59,0,50,78,56,102,56,-8.0,-8.8,
+DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),,6,0,24,.154,.167,.000,.154,,.154,.000,.077,34,34,0,31,,28,0,34,-9.0,-10.2,
+DET (1 Yr),DET (1 Yr),DET (1 Yr),DET (1 Yr),,4,0,31,.750,.750,,.750,.500,.717,.500,.000,164,155,,151,66,133,163,0,2.0,1.7,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,2,0,8,.000,.000,,.000,.000,.000,.667,.000,0,0,,0,0,0,218,0,-3.0,-4.2,

@@ -1,0 +1,140 @@
+{
+  "name": "Jordan Crawford",
+  "slug": "crawfjo02",
+  "url": "https://www.basketball-reference.com/players/c/crawfjo02.html",
+  "num_tables": 33,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "crawfjo02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "crawfjo02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "crawfjo02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "crawfjo02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "crawfjo02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "crawfjo02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "crawfjo02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "crawfjo02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "crawfjo02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "crawfjo02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "crawfjo02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "crawfjo02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "crawfjo02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "crawfjo02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "crawfjo02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "crawfjo02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "crawfjo02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "crawfjo02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "crawfjo02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "crawfjo02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "crawfjo02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "crawfjo02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "crawfjo02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "crawfjo02/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "crawfjo02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "crawfjo02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "crawfjo02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "crawfjo02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "crawfjo02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "crawfjo02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "crawfjo02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "crawfjo02/table_32.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "crawfjo02/all_salaries.csv"
+    }
+  ]
+}

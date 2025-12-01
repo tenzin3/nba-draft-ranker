@@ -1,0 +1,16 @@
+{
+  "name": "J.P. Tokoto",
+  "slug": "tokotjp01",
+  "url": "https://www.basketball-reference.com/players/t/tokotjp01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "tokotjp01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "tokotjp01/all_salaries.csv"
+    }
+  ]
+}

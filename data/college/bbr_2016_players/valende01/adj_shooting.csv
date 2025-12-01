@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2016-17,23,CHI,NBA,SG,57,0,976,.354,.363,.351,.481,.778,.492,.063,.722,77,72,98,94,101,89,23,228,-18.9,-35.9,
+2017-18,24,CHI,NBA,SG,77,37,2095,.417,.450,.386,.517,.745,.527,.071,.513,91,88,107,99,97,95,28,152,-6.5,-43.9,
+2018-19,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2019-20,26,CHI,NBA,SF,36,5,488,.409,.510,.336,.506,.750,.511,.034,.578,89,97,94,96,97,91,13,151,-10.7,-25.7,
+2020-21,27,CHI,NBA,SG,62,3,1036,.373,.431,.331,.469,.941,.479,.041,.582,80,81,90,87,121,84,17,148,-57.5,-78.3,
+2021-22,28,2TM,NBA,SG,24,0,222,.379,.316,.404,.523,,.523,.000,.712,82,59,114,98,,92,0,178,-1.2,-5.7,
+2021-22,28,CLE,NBA,SG,22,0,204,.371,.278,.409,.516,,.516,.000,.710,80,52,116,97,,91,0,178,-1.9,-6.2,
+2021-22,28,UTA,NBA,SG,2,0,18,.500,1.000,.333,.625,,.625,.000,.750,108,188,94,118,,110,0,188,0.7,0.5,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,256,45,4817,.394,.441,.360,.498,.787,.507,.054,.581,85,85,100,95,102,90,21,165,-94.8,-189.5,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHI (4 Yrs),CHI (4 Yrs),CHI (4 Yrs),CHI (4 Yrs),,232,45,4595,.394,.444,.357,.497,.787,.507,.057,.576,86,86,99,95,102,90,22,164,-93.6,-183.8,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,22,0,204,.371,.278,.409,.516,,.516,.000,.710,80,52,116,97,,91,0,178,-1.9,-6.2,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,2,0,18,.500,1.000,.333,.625,,.625,.000,.750,108,188,94,118,,110,0,188,0.7,0.5,

@@ -1,0 +1,24 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2013-14,22,PHI,NBA,PG,70,70,2414,.405,.440,.264,.431,.703,.480,.348,.197,89,90,74,86,93,89,123,76,-147.3,-147.8,ROY-1
+2014-15,23,2TM,NBA,PG,66,63,2149,.396,.428,.235,.416,.694,.461,.317,.166,88,88,67,84,93,86,116,62,-147.5,-152.6,
+2014-15,23,PHI,NBA,PG,41,38,1391,.380,.412,.256,.406,.643,.444,.298,.205,85,85,73,82,86,83,109,76,-110.0,-125.3,
+2014-15,23,MIL,NBA,PG,25,25,758,.429,.457,.143,.435,.780,.496,.354,.091,95,94,41,88,104,93,129,34,-37.5,-27.3,
+2015-16,24,MIL,NBA,PG,54,37,1649,.452,.472,.273,.466,.654,.497,.292,.099,100,96,77,93,86,92,106,35,-40.8,-54.9,
+2016-17,25,CHI,NBA,PG,45,19,846,.366,.401,.234,.391,.753,.437,.252,.209,80,80,66,76,98,79,93,66,-75.4,-78.5,
+2017-18,26,CHO,NBA,PG,52,2,835,.332,.365,.237,.362,.820,.446,.389,.258,72,71,66,70,107,80,154,76,-72.7,-59.3,
+2018-19,27,2TM,NBA,PG,28,1,372,.374,.424,.263,.415,.604,.458,.431,.309,81,82,74,79,79,82,167,86,-27.0,-29.8,
+2018-19,27,HOU,NBA,PG,16,1,145,.410,.429,.368,.467,.462,.476,.426,.311,89,82,104,89,60,85,165,87,-7.0,-12.1,
+2018-19,27,ORL,NBA,PG,12,0,227,.339,.419,.158,.363,.741,.440,.435,.306,74,81,44,69,97,79,168,85,-20.0,-17.7,
+2019-20,28,ORL,NBA,SG,45,0,833,.427,.481,.293,.469,.832,.535,.365,.288,93,92,82,89,108,95,140,75,-31.0,-17.9,
+2020-21,29,ORL,NBA,SG,31,25,800,.389,.431,.246,.417,.613,.449,.296,.226,83,81,67,77,79,79,120,58,-65.5,-75.0,
+2021-22,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2022-23,31,ORL,NBA,PG,4,0,44,.429,.455,.333,.464,.571,.498,.500,.214,90,83,92,85,73,86,188,55,-2.3,-2.9,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+9 Yrs,9 Yrs,9 Yrs,9 Yrs,,395,217,9942,.402,.436,.256,.426,.705,.473,.327,.192,88,88,72,84,93,87,121,65,-609.5,-618.7,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+ORL (4 Yrs),ORL (4 Yrs),ORL (4 Yrs),ORL (4 Yrs),,92,25,1904,.401,.451,.259,.435,.727,.486,.345,.261,86,86,72,82,94,86,135,68,-118.8,-113.5,
+PHI (2 Yrs),PHI (2 Yrs),PHI (2 Yrs),PHI (2 Yrs),,111,108,3805,.396,.429,.261,.422,.683,.467,.330,.200,88,88,73,85,91,87,118,76,-257.3,-273.1,
+MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),MIL (2 Yrs),,79,62,2407,.444,.467,.229,.455,.705,.497,.314,.096,99,95,65,91,93,92,114,34,-78.3,-82.2,
+CHO (1 Yr),CHO (1 Yr),CHO (1 Yr),CHO (1 Yr),,52,2,835,.332,.365,.237,.362,.820,.446,.389,.258,72,71,66,70,107,80,154,76,-72.7,-59.3,
+CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),CHI (1 Yr),,45,19,846,.366,.401,.234,.391,.753,.437,.252,.209,80,80,66,76,98,79,93,66,-75.4,-78.5,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,16,1,145,.410,.429,.368,.467,.462,.476,.426,.311,89,82,104,89,60,85,165,87,-7.0,-12.1,

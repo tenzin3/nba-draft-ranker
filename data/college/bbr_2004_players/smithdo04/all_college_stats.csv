@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2002-03,19.0,SEILLINOIS,36,,219,376,47,101,97,136,,199,107,,,,,582,0.582,0.465,0.713,,16.2,5.5,3.0
+2003-04,20.0,SEILLINOIS,33,,278,515,64,165,231,284,,236,113,,,,,851,0.54,0.388,0.813,,25.8,7.2,3.4
+Career,,,69,,497,891,111,266,328,420,,435,220,,,,,1433,0.558,0.417,0.781,,20.8,6.3,3.2

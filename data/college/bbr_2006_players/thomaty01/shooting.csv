@@ -1,0 +1,18 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Unnamed: 8_level_0', 'FG%')","('Unnamed: 9_level_0', 'Dist.')","('% of FGA by Distance', '2P')","('% of FGA by Distance', '0-3')","('% of FGA by Distance', '3-10')","('% of FGA by Distance', '10-16')","('% of FGA by Distance', '16-3P')","('% of FGA by Distance', '3P')","('FG% by Distance', '2P')","('FG% by Distance', '0-3')","('FG% by Distance', '3-10')","('FG% by Distance', '10-16')","('FG% by Distance', '16-3P')","('FG% by Distance', '3P')","(""% of FG Ast'd"", '2P')","(""% of FG Ast'd"", '3P')","('Dunks', '%FGA')","('Dunks', '#')","('Corner 3s', '%3PA')","('Corner 3s', '3P%')","('1/2 Court', 'Att.')","('1/2 Court', 'Md.')","('Unnamed: 30_level_0', 'Awards')"
+2006-07,20,CHI,NBA,PF,72,4,966,.475,4.5,.993,.652,.124,.124,.092,.007,.479,.603,.314,.257,.115,.000,.664,,.287,76,.500,.000,0,0,ROY-9
+2007-08,21,CHI,NBA,PF,74,27,1330,.423,8.2,.986,.457,.130,.120,.280,.014,.426,.488,.404,.264,.407,.167,.654,1.000,.145,59,.500,.333,0,0,
+2008-09,22,CHI,NBA,PF,79,61,2175,.451,8.9,.987,.435,.097,.141,.315,.013,.453,.589,.197,.406,.363,.333,.679,.667,.176,106,.333,.000,1,0,
+2009-10,23,2TM,NBA,C,54,3,1220,.462,8.2,.993,.433,.140,.136,.283,.007,.465,.560,.271,.404,.445,.000,.665,,.136,51,.333,.000,0,0,
+2009-10,23,CHI,NBA,PF,29,3,678,.483,8.3,.995,.444,.146,.093,.312,.005,.485,.582,.300,.368,.469,.000,.727,,.137,26,.000,,0,0,
+2009-10,23,CHA,NBA,C,25,0,542,.442,8.2,.991,.423,.135,.177,.256,.009,.446,.538,.241,.421,.418,.000,.600,,.135,25,.500,.000,0,0,
+2010-11,24,CHA,NBA,C,41,2,861,.471,9.5,.991,.332,.193,.193,.272,.009,.476,.673,.281,.422,.411,.000,.705,,.130,33,.333,.000,1,0,
+2011-12,25,CHA,NBA,PF,54,30,1013,.367,12.4,.991,.223,.104,.211,.453,.009,.367,.479,.265,.391,.324,.333,.731,1.000,.055,12,.667,.500,0,0,
+2012-13,26,CHA,NBA,PF,26,2,360,.353,14.2,.941,.154,.096,.169,.522,.059,.352,.381,.077,.435,.366,.375,.756,1.000,.044,2,.500,.250,0,0,
+2013-14,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived,Did not play - waived
+2014-15,28,MEM,NBA,PF,2,0,7,1.000,12.0,1.000,.000,.000,1.000,.000,.000,1.000,,,1.000,,,1.000,,.000,0,,,0,0,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,402,129,7932,.438,9.6,.987,.408,.125,.152,.302,.013,.440,.565,.277,.377,.372,.235,.683,.875,.148,339,.441,.200,2,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,26,1618,.438,9.6,.987,.408,.125,.152,.302,.013,.440,.565,.277,.377,.372,.235,.683,.875,.148,69,.441,.200,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHI (4 Yrs),CHI (4 Yrs),CHI (4 Yrs),CHI (4 Yrs),,254,95,5149,.452,7.4,.989,.480,.117,.126,.266,.011,.454,.565,.298,.340,.376,.222,.676,.750,.182,267,.389,.143,1,0,
+CHA (4 Yrs),CHA (4 Yrs),CHA (4 Yrs),CHA (4 Yrs),,146,34,2776,.415,11.1,.984,.292,.139,.192,.361,.016,.418,.563,.250,.412,.368,.250,.694,1.000,.095,72,.500,.250,1,0,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,2,0,7,1.000,12.0,1.000,.000,.000,1.000,.000,.000,1.000,,,1.000,,,1.000,,.000,0,,,0,0,

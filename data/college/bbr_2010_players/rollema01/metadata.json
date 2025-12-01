@@ -1,0 +1,12 @@
+{
+  "name": "Magnum Rolle",
+  "slug": "rollema01",
+  "url": "https://www.basketball-reference.com/players/r/rollema01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "rollema01/all_college_stats.csv"
+    }
+  ]
+}

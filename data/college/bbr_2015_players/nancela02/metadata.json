@@ -1,0 +1,180 @@
+{
+  "name": "Larry Nance Jr.",
+  "slug": "nancela02",
+  "url": "https://www.basketball-reference.com/players/n/nancela02.html",
+  "num_tables": 43,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "nancela02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "nancela02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "nancela02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "nancela02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "nancela02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "nancela02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "nancela02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "nancela02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "nancela02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "nancela02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "nancela02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "nancela02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "nancela02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "nancela02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "nancela02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "nancela02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "nancela02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "nancela02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "nancela02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "nancela02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "nancela02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "nancela02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "nancela02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "nancela02/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "nancela02/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "nancela02/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "nancela02/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "nancela02/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "nancela02/table_29.csv"
+    },
+    {
+      "table_id": "table_30",
+      "csv": "nancela02/table_30.csv"
+    },
+    {
+      "table_id": "table_31",
+      "csv": "nancela02/table_31.csv"
+    },
+    {
+      "table_id": "table_32",
+      "csv": "nancela02/table_32.csv"
+    },
+    {
+      "table_id": "table_33",
+      "csv": "nancela02/table_33.csv"
+    },
+    {
+      "table_id": "table_34",
+      "csv": "nancela02/table_34.csv"
+    },
+    {
+      "table_id": "table_35",
+      "csv": "nancela02/table_35.csv"
+    },
+    {
+      "table_id": "table_36",
+      "csv": "nancela02/table_36.csv"
+    },
+    {
+      "table_id": "table_37",
+      "csv": "nancela02/table_37.csv"
+    },
+    {
+      "table_id": "table_38",
+      "csv": "nancela02/table_38.csv"
+    },
+    {
+      "table_id": "table_39",
+      "csv": "nancela02/table_39.csv"
+    },
+    {
+      "table_id": "table_40",
+      "csv": "nancela02/table_40.csv"
+    },
+    {
+      "table_id": "table_41",
+      "csv": "nancela02/table_41.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "nancela02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_cle",
+      "csv": "nancela02/contracts_cle.csv"
+    }
+  ]
+}

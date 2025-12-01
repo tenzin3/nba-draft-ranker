@@ -1,0 +1,32 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2007-08,19,SEA,NBA,SG,80,80,2768,0,94,6,0,0,-11.6,-8.7,81,96,63,28,187,6,407,37,85,ROY-1
+2008-09,20,OKC,NBA,SF,74,74,2885,0,12,80,8,0,-9.1,-8.5,78,83,65,39,210,5,454,43,73,
+2009-10,21,OKC,NBA,SF,82,82,3239,0,3,89,8,0,7.1,16.5,89,114,84,41,325,7,513,56,67,"MVP-2,AS,NBA1"
+2010-11,22,OKC,NBA,SF,78,78,3038,0,3,85,12,0,4.0,-0.6,69,97,88,31,239,8,476,42,49,"MVP-5,AS,NBA1"
+2011-12,23,OKC,NBA,SF,66,66,2546,0,0,78,22,0,7.1,1.9,91,111,62,30,196,2,542,48,42,"MVP-2,AS,NBA1"
+2012-13,24,OKC,NBA,SF,81,81,3119,0,0,77,23,0,11.3,7.2,119,115,75,25,293,14,900,56,44,"MVP-2,AS,NBA1"
+2013-14,25,OKC,NBA,SF,81,81,3122,0,4,70,26,0,8.0,6.0,123,115,94,22,311,8,1004,68,42,"MVP-1,AS,NBA1"
+2014-15,26,OKC,NBA,SF,27,27,913,0,1,75,25,0,8.8,8.8,42,23,23,7,66,7,250,16,8,AS
+2015-16,27,OKC,NBA,SF,72,72,2578,0,0,74,26,0,11.5,12.6,133,82,74,16,180,6,825,33,38,"MVP-5,AS,NBA2"
+2016-17,28,GSW,NBA,PF,62,62,2070,0,0,2,75,23,15.8,8.7,78,39,73,10,179,6,733,46,28,"MVP-9,AS,NBA2"
+2017-18,29,GSW,NBA,SF,68,68,2325,0,0,55,45,1,7.0,1.9,113,49,77,17,168,3,863,44,38,"MVP-7,DPOY-9,AS,NBA1"
+2018-19,30,GSW,NBA,SF,78,78,2702,0,0,21,69,10,11.8,16.1,126,58,79,21,211,14,1108,46,38,"MVP-8,AS,NBA2"
+2019-20,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2020-21,32,BRK,NBA,PF,35,32,1157,0,0,0,55,45,11.7,10.3,70,33,39,7,91,4,457,23,25,AS
+2021-22,33,BRK,NBA,PF,55,55,2047,0,0,7,89,4,7.0,11.9,99,62,60,16,137,5,815,28,38,"MVP-10,AS,NBA2"
+2022-23,34,2TM,NBA,PF,47,47,1672,0,0,0,70,30,7.8,9.1,91,43,51,13,139,7,554,48,25,AS
+2022-23,34,BRK,NBA,PF,39,39,1403,0,0,0,65,35,6.7,8.5,78,39,48,11,120,6,490,44,21,
+2022-23,34,PHO,NBA,PF,8,8,269,0,0,2,94,4,13.6,12.6,13,4,3,2,19,1,64,4,4,
+2023-24,35,PHO,NBA,PF,75,75,2791,0,0,6,85,9,5.2,6.7,118,94,68,14,180,11,895,46,49,"MVP-9,AS,NBA2"
+2024-25,36,PHO,NBA,PF,62,62,2265,0,0,8,68,25,-1.0,4.2,100,58,55,17,154,8,625,38,32,AS
+2025-26,37,HOU,NBA,SF,13,13,470,0,35,61,3,0,11.7,0.8,18,16,17,4,37,0,101,10,5,
+,,,,,,,,Position Estimate,Position Estimate,Position Estimate,Position Estimate,Position Estimate,+/- Per 100 Poss,+/- Per 100 Poss,Turnovers,Turnovers,Fouls Committed,Fouls Committed,Fouls Drawn,Fouls Drawn,Misc.,Misc.,Misc.,
+,,,,Pos,G,GS,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot,Off.,Shoot,Off.,PGA,And1,Blkd,Awards
+18 Yrs,18 Yrs,18 Yrs,18 Yrs,,1136,1133,41707,0,8,47,38,6,5.6,5.6,1638,1288,1147,358,3303,121,11522,728,726,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,82,3011,0,8,47,38,6,5.6,5.6,118,93,83,26,238,9,832,53,52,
+,,,,,,,,,,,,,,,,,,,,,,,,
+OKC (9 Yrs),OKC (9 Yrs),OKC (9 Yrs),OKC (9 Yrs),,641,641,24208,0,13,71,16,0,3.8,3.7,825,836,628,239,2007,63,5371,399,448,
+GSW (3 Yrs),GSW (3 Yrs),GSW (3 Yrs),GSW (3 Yrs),,208,208,7097,0,0,26,63,11,11.4,9.3,317,146,229,48,558,23,2704,136,104,
+PHO (3 Yrs),PHO (3 Yrs),PHO (3 Yrs),PHO (3 Yrs),,145,145,5325,0,0,7,78,16,3.0,5.9,231,156,126,33,353,20,1584,88,85,
+BRK (3 Yrs),BRK (3 Yrs),BRK (3 Yrs),BRK (3 Yrs),,129,126,4607,0,0,3,73,24,8.1,10.4,247,134,147,34,348,15,1762,95,84,
+HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),HOU (1 Yr),,13,13,470,0,35,61,3,0,11.7,0.8,18,16,17,4,37,0,101,10,5,

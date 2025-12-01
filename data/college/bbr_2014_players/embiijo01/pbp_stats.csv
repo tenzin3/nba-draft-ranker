@@ -1,0 +1,15 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2014-15,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2015-16,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2016-17,22,PHI,NBA,C,31,31,786,0,0,0,0,100,3.0,11.1,27,44,48,30,102,9,164,16,36,ROY-3
+2017-18,23,PHI,NBA,C,63,63,1912,0,0,0,0,100,11.4,12.7,74,85,99,41,202,7,471,41,72,"MVP-12,DPOY-2,AS,NBA2,DEF2"
+2018-19,24,PHI,NBA,C,64,64,2154,0,0,0,0,100,7.7,10.5,79,78,107,40,257,5,562,50,76,"MVP-7,DPOY-4,AS,NBA2,DEF2"
+2019-20,25,PHI,NBA,C,51,51,1506,0,0,0,0,100,5.2,5.0,50,56,80,31,177,9,361,44,42,AS
+2020-21,26,PHI,NBA,C,51,51,1585,0,0,0,0,100,12.4,12.3,62,54,65,23,225,5,350,42,45,"MVP-2,DPOY-7,AS,NBA2,DEF2"
+2021-22,27,PHI,NBA,C,68,68,2297,0,0,0,0,100,7.5,11.5,82,83,92,29,371,2,699,85,82,"MVP-2,AS,NBA2"
+2022-23,28,PHI,NBA,C,66,66,2284,0,0,0,0,100,9.1,10.2,75,89,109,32,354,3,702,75,90,"MVP-1,DPOY-9,CPOY-5,AS,NBA1"
+2023-24,29,PHI,NBA,C,39,39,1309,0,0,0,0,100,9.6,10.0,58,57,66,27,198,2,549,35,52,AS
+2024-25,30,PHI,NBA,C,19,19,574,0,0,0,0,100,-5.4,1.2,25,22,21,11,77,1,207,13,14,
+2025-26,31,PHI,NBA,C,6,6,140,0,0,0,0,100,0.5,-1.4,8,4,5,4,18,0,54,4,5,
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,458,458,14547,0,0,0,0,100,8.0,10.0,540,572,692,268,1981,43,4119,405,514,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,82,2604,0,0,0,0,100,8.0,10.0,97,102,124,48,355,8,737,73,92,

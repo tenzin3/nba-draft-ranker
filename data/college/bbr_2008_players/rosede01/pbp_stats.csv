@@ -1,0 +1,32 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2008-09,20,CHI,NBA,PG,81,80,3000,99,1,0,0,0,-2.2,-8.1,106,68,65,12,117,14,1160,35,89,ROY-1
+2009-10,21,CHI,NBA,PG,78,78,2871,90,10,0,0,0,-0.3,4.4,102,77,37,20,150,8,1043,31,93,AS
+2010-11,22,CHI,NBA,PG,81,81,3026,95,5,0,0,0,8.8,2.8,151,90,76,14,243,14,1409,50,127,"MVP-1,AS,NBA1"
+2011-12,23,CHI,NBA,PG,39,39,1375,93,7,0,0,0,10.7,2.0,64,46,28,8,103,3,676,22,36,"MVP-11,AS"
+2012-13,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2013-14,25,CHI,NBA,PG,10,10,311,100,0,0,0,0,-4.9,-7.6,14,18,7,1,14,3,95,3,18,
+2014-15,26,CHI,NBA,PG,51,51,1530,88,13,0,0,0,4.1,1.3,89,52,35,5,85,9,567,19,49,
+2015-16,27,CHI,NBA,PG,66,66,2097,95,6,0,0,0,-3.9,-4.8,102,55,43,6,90,9,713,23,75,
+2016-17,28,NYK,NBA,PG,64,64,2082,83,17,0,0,0,-4.2,-0.6,79,47,35,11,128,9,680,26,85,
+2017-18,29,2TM,NBA,PG,25,7,420,82,18,0,0,0,-5.3,-7.3,13,16,9,2,24,2,87,2,16,
+2017-18,29,CLE,NBA,PG,16,7,308,97,3,0,0,0,-6.9,-8.6,11,14,8,1,21,2,62,1,11,
+2017-18,29,MIN,NBA,PG,9,0,112,42,58,0,0,0,-1.0,-3.6,2,2,1,1,3,0,25,1,5,
+2018-19,30,MIN,NBA,PG,51,13,1392,31,69,0,0,0,0.6,3.4,42,31,30,3,80,15,505,21,52,6MOY-6
+2019-20,31,DET,NBA,PG,50,15,1298,98,2,0,0,0,-3.6,0.9,71,45,27,4,73,8,700,22,56,6MOY-7
+2020-21,32,2TM,NBA,PG,50,3,1279,100,0,0,0,0,5.2,6.6,45,25,30,3,62,10,520,10,31,"MVP-9,6MOY-3"
+2020-21,32,DET,NBA,PG,15,0,342,100,0,0,0,0,-10.6,-6.8,8,14,7,3,24,2,156,3,10,
+2020-21,32,NYK,NBA,PG,35,3,937,100,0,0,0,0,11.0,11.5,37,11,23,0,38,8,364,7,21,
+2021-22,33,NYK,NBA,PG,26,4,636,35,65,0,0,0,6.3,7.2,25,13,6,0,15,4,245,3,17,
+2022-23,34,NYK,NBA,PG,27,0,338,91,9,0,0,0,-2.9,-6.6,12,5,10,2,6,2,106,1,13,
+2023-24,35,MEM,NBA,PG,24,7,399,99,1,0,0,0,-3.9,3.8,24,4,11,1,15,8,187,3,15,
+,,,,,,,,Position Estimate,Position Estimate,Position Estimate,Position Estimate,Position Estimate,+/- Per 100 Poss,+/- Per 100 Poss,Turnovers,Turnovers,Fouls Committed,Fouls Committed,Fouls Drawn,Fouls Drawn,Misc.,Misc.,Misc.,
+,,,,Pos,G,GS,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot,Off.,Shoot,Off.,PGA,And1,Blkd,Awards
+15 Yrs,15 Yrs,15 Yrs,15 Yrs,,723,518,22054,88,12,0,0,0,1.1,0.1,939,592,449,92,1205,118,8693,271,772,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,59,2501,88,12,0,0,0,1.1,0.1,106,67,51,10,137,13,986,31,88,
+,,,,,,,,,,,,,,,,,,,,,,,,
+CHI (7 Yrs),CHI (7 Yrs),CHI (7 Yrs),CHI (7 Yrs),,406,405,14210,94,6,0,0,0,2.2,-0.8,628,406,291,66,802,60,5663,183,487,
+NYK (4 Yrs),NYK (4 Yrs),NYK (4 Yrs),NYK (4 Yrs),,152,71,3993,80,20,0,0,0,1.2,3.0,153,76,74,13,187,23,1395,37,136,
+DET (2 Yrs),DET (2 Yrs),DET (2 Yrs),DET (2 Yrs),,65,15,1640,98,2,0,0,0,-5.1,-0.7,79,59,34,7,97,10,856,25,66,
+MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),,60,13,1504,32,68,0,0,0,0.5,2.9,44,33,31,4,83,15,530,22,57,
+MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),MEM (1 Yr),,24,7,399,99,1,0,0,0,-3.9,3.8,24,4,11,1,15,8,187,3,15,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,16,7,308,97,3,0,0,0,-6.9,-8.6,11,14,8,1,21,2,62,1,11,

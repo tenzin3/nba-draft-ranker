@@ -1,0 +1,19 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2005-06,19,POR,NBA,SF,61,18,1070,0,33,55,11,0,-15.1,-5.6,17,13,21,7,24,8,77,4,15,
+2006-07,20,POR,NBA,SF,82,27,1759,0,3,93,4,0,-6.1,-2.0,25,23,52,7,46,11,118,7,16,
+2007-08,21,POR,NBA,SF,75,70,2132,0,8,91,1,0,-2.7,-2.9,27,27,64,9,64,13,199,7,19,
+2008-09,22,POR,NBA,SF,1,0,5,0,0,100,0,0,-50.0,-56.4,0,0,0,0,0,0,0,0,0,
+2009-10,23,POR,NBA,SF,82,49,2005,0,0,92,8,0,3.0,-1.9,22,16,70,6,65,10,143,7,32,
+2010-11,24,MIN,NBA,SF,46,1,1094,0,11,83,6,0,-11.6,-6.3,26,14,40,10,57,10,117,13,20,
+2011-12,25,MIN,NBA,SF,47,26,1140,0,31,69,0,0,-3.0,-1.5,17,14,42,9,30,9,93,5,17,
+2012-13,26,WAS,NBA,SF,76,62,2200,0,17,81,2,0,-1.2,3.8,33,21,74,11,94,12,322,18,34,
+2013-14,27,WAS,NBA,SF,78,13,2157,0,44,56,1,0,0.0,-2.8,27,13,75,7,57,11,218,17,11,
+2014-15,28,WAS,NBA,SF,32,0,352,0,6,90,4,0,-19.8,-22.7,12,8,10,0,25,1,34,0,2,
+2015-16,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2016-17,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,580,266,13914,0,17,79,4,0,-3.8,-2.4,206,149,448,66,462,85,1321,78,166,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,38,1967,0,17,79,4,0,-3.8,-2.4,29,21,63,9,65,12,187,11,23,
+,,,,,,,,,,,,,,,,,,,,,,,,
+POR (5 Yrs),POR (5 Yrs),POR (5 Yrs),POR (5 Yrs),,301,164,6971,0,8,86,5,0,-3.9,-2.8,91,79,207,29,199,42,537,25,82,
+WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),WAS (3 Yrs),,186,75,4709,0,28,70,2,0,-2.1,-1.2,72,42,159,18,176,24,574,35,47,
+MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),MIN (2 Yrs),,93,27,2234,0,21,76,3,0,-7.2,-3.9,43,28,82,19,87,19,210,18,37,

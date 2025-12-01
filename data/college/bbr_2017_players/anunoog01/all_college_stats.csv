@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2015-16,18.0,INDIANA,34,466,66,116,13,29,20,42,42,90,18,27,26,28,52,165,0.569,0.448,0.476,13.7,4.9,2.6,0.5
+2016-17,19.0,INDIANA,16,402,68,122,14,45,27,48,28,87,23,21,21,26,33,177,0.557,0.311,0.563,25.1,11.1,5.4,1.4
+Career,,,50,868,134,238,27,74,47,90,70,177,41,48,47,54,85,342,0.563,0.365,0.522,17.4,6.8,3.5,0.8

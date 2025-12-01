@@ -1,0 +1,12 @@
+{
+  "name": "Stanley Robinson",
+  "slug": "robinst01",
+  "url": "https://www.basketball-reference.com/players/r/robinst01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "robinst01/all_college_stats.csv"
+    }
+  ]
+}

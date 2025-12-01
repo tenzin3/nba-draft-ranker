@@ -1,0 +1,36 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2011-12,22,SAC,NBA,PG,65,37,1656,100,0,0,0,0,-2.3,7.7,56,36,43,3,55,17,587,11,34,ROY-7
+2012-13,23,SAC,NBA,PG,79,62,2122,99,1,0,0,0,-3.7,3.7,73,45,51,9,102,11,719,26,63,
+2013-14,24,SAC,NBA,PG,72,54,2497,100,0,0,0,0,0.2,9.4,105,78,73,13,116,18,1012,30,57,
+2014-15,25,2TM,NBA,PG,67,1,1726,100,0,0,0,0,4.1,6.3,57,58,54,11,118,10,696,18,54,6MOY-2
+2014-15,25,PHO,NBA,PG,46,1,1181,100,0,0,0,0,2.9,5.6,33,39,35,7,71,6,427,8,31,
+2014-15,25,BOS,NBA,PG,21,0,545,100,0,0,0,0,6.8,7.9,24,19,19,4,47,4,269,10,23,
+2015-16,26,BOS,NBA,PG,82,79,2644,100,0,0,0,0,4.0,2.2,107,81,47,16,212,22,1187,44,109,AS
+2016-17,27,BOS,NBA,PG,76,76,2569,100,0,0,0,0,4.5,4.3,102,78,71,10,245,23,1087,42,114,"MVP-5,AS,NBA2"
+2017-18,28,2TM,NBA,PG,32,15,862,100,0,0,0,0,-7.4,-7.9,48,33,26,3,45,7,360,4,43,
+2017-18,28,CLE,NBA,PG,15,14,406,100,0,0,0,0,-16.2,-19.2,19,14,13,3,27,4,160,3,24,
+2017-18,28,LAL,NBA,PG,17,1,456,100,0,0,0,0,0.4,2.2,29,19,13,0,18,3,200,1,19,
+2018-19,29,DEN,NBA,SG,12,0,181,18,82,0,0,0,-4.3,-8.4,11,4,6,0,12,1,53,3,8,
+2019-20,30,WAS,NBA,PG,40,37,925,100,0,0,0,0,-10.6,-8.3,46,18,35,6,20,8,339,2,32,
+2020-21,31,NOP,NBA,PG,3,0,48,100,0,0,0,0,5.8,6.4,4,1,1,0,1,2,10,0,1,
+2021-22,32,3TM,NBA,PG,22,1,333,100,0,0,0,0,-3.2,-2.7,9,3,13,1,10,1,80,1,8,
+2021-22,32,LAL,NBA,PG,4,1,101,100,0,0,0,0,-13.3,-10.5,3,1,6,0,5,1,15,0,1,
+2021-22,32,DAL,NBA,PG,1,0,13,100,0,0,0,0,-9.9,-13.5,0,0,0,0,0,0,8,0,0,
+2021-22,32,CHO,NBA,PG,17,0,219,100,0,0,0,0,1.9,1.5,6,2,7,1,5,0,57,1,7,
+2022-23,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned,Did not play - unsigned
+2023-24,34,PHO,NBA,PG,6,0,19,100,0,0,0,0,-24.4,-27.8,0,0,0,0,0,0,7,0,2,
+,,,,,,,,Position Estimate,Position Estimate,Position Estimate,Position Estimate,Position Estimate,+/- Per 100 Poss,+/- Per 100 Poss,Turnovers,Turnovers,Fouls Committed,Fouls Committed,Fouls Drawn,Fouls Drawn,Misc.,Misc.,Misc.,
+,,,,Pos,G,GS,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot,Off.,Shoot,Off.,PGA,And1,Blkd,Awards
+12 Yrs,12 Yrs,12 Yrs,12 Yrs,,556,362,15582,99,1,0,0,0,0.0,3.5,618,435,420,72,936,120,6137,181,525,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,53,2298,99,1,0,0,0,0.0,3.5,91,64,62,11,138,18,905,27,77,
+,,,,,,,,,,,,,,,,,,,,,,,,
+SAC (3 Yrs),SAC (3 Yrs),SAC (3 Yrs),SAC (3 Yrs),,216,153,6275,100,0,0,0,0,-1.8,7.0,234,159,167,25,273,46,2318,67,154,
+BOS (3 Yrs),BOS (3 Yrs),BOS (3 Yrs),BOS (3 Yrs),,179,155,5758,100,0,0,0,0,4.5,3.7,233,178,137,30,504,49,2543,96,246,
+PHO (2 Yrs),PHO (2 Yrs),PHO (2 Yrs),PHO (2 Yrs),,52,1,1200,100,0,0,0,0,2.4,5.1,33,39,35,7,71,6,434,8,33,
+LAL (2 Yrs),LAL (2 Yrs),LAL (2 Yrs),LAL (2 Yrs),,21,2,557,100,0,0,0,0,-2.1,-0.1,32,20,19,0,23,4,215,1,20,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,40,37,925,100,0,0,0,0,-10.6,-8.3,46,18,35,6,20,8,339,2,32,
+CHO (1 Yr),CHO (1 Yr),CHO (1 Yr),CHO (1 Yr),,17,0,219,100,0,0,0,0,1.9,1.5,6,2,7,1,5,0,57,1,7,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,15,14,406,100,0,0,0,0,-16.2,-19.2,19,14,13,3,27,4,160,3,24,
+DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),DEN (1 Yr),,12,0,181,18,82,0,0,0,-4.3,-8.4,11,4,6,0,12,1,53,3,8,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,3,0,48,100,0,0,0,0,5.8,6.4,4,1,1,0,1,2,10,0,1,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,1,0,13,100,0,0,0,0,-9.9,-13.5,0,0,0,0,0,0,8,0,0,

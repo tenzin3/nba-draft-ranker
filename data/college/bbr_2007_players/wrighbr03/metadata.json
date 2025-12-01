@@ -1,0 +1,128 @@
+{
+  "name": "Brandan Wright",
+  "slug": "wrighbr03",
+  "url": "https://www.basketball-reference.com/players/w/wrighbr03.html",
+  "num_tables": 30,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "wrighbr03/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "wrighbr03/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "wrighbr03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "wrighbr03/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "wrighbr03/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "wrighbr03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "wrighbr03/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "wrighbr03/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "wrighbr03/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "wrighbr03/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "wrighbr03/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "wrighbr03/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "wrighbr03/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "wrighbr03/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "wrighbr03/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "wrighbr03/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "wrighbr03/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "wrighbr03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "wrighbr03/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "wrighbr03/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "wrighbr03/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "wrighbr03/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "wrighbr03/all_college_stats.csv"
+    },
+    {
+      "table_id": "table_24",
+      "csv": "wrighbr03/table_24.csv"
+    },
+    {
+      "table_id": "table_25",
+      "csv": "wrighbr03/table_25.csv"
+    },
+    {
+      "table_id": "table_26",
+      "csv": "wrighbr03/table_26.csv"
+    },
+    {
+      "table_id": "table_27",
+      "csv": "wrighbr03/table_27.csv"
+    },
+    {
+      "table_id": "table_28",
+      "csv": "wrighbr03/table_28.csv"
+    },
+    {
+      "table_id": "table_29",
+      "csv": "wrighbr03/table_29.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "wrighbr03/all_salaries.csv"
+    }
+  ]
+}

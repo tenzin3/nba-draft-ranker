@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2006-07,19.0,TEXASAM,22,112,15,23,0,0,7,18,17,40,4,3,9,9,20,37,0.652,,0.389,5.1,1.7,1.8,0.2
+2007-08,20.0,TEXASAM,34,317,35,66,0,0,21,41,34,103,6,3,16,29,42,91,0.53,,0.512,9.3,2.7,3.0,0.2
+2008-09,21.0,TEXASAM,34,810,129,194,0,0,76,121,97,249,10,10,53,62,95,334,0.665,,0.628,23.8,9.8,7.3,0.3
+Career,,,90,1239,179,283,0,0,104,180,148,392,20,16,78,100,157,462,0.633,,0.578,13.8,5.1,4.4,0.2

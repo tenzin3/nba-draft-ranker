@@ -1,0 +1,6 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Unnamed: 24_level_0', 'Awards')"
+2010-11,24,IND,NBA,C,5,5,132,0.444,0.444,,0.444,0.706,0.495,0.378,0.0,97,91,,89,92,92,126,0,
+2011-12,25,IND,NBA,C,11,11,340,0.5,0.495,1.0,0.505,0.667,0.538,0.346,0.01,112,104,287.0,104,89,102,125,4,
+2012-13,26,IND,NBA,C,19,19,694,0.511,0.511,,0.511,0.806,0.576,0.438,0.0,113,106,,103,107,108,162,0,
+2013-14,27,IND,NBA,C,19,19,542,0.449,0.452,0.0,0.449,0.772,0.511,0.388,0.007,99,93,0.0,90,102,95,136,3,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,54,54,1708,0.486,0.486,0.5,0.487,0.765,0.544,0.401,0.004,107,101,143.0,98,101,102,145,2,

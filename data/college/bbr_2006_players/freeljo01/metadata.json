@@ -1,0 +1,100 @@
+{
+  "name": "Joel Freeland",
+  "slug": "freeljo01",
+  "url": "https://www.basketball-reference.com/players/f/freeljo01.html",
+  "num_tables": 23,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "freeljo01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "freeljo01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "freeljo01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "freeljo01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "freeljo01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "freeljo01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "freeljo01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "freeljo01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "freeljo01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "freeljo01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "freeljo01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "freeljo01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "freeljo01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "freeljo01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "freeljo01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "freeljo01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "freeljo01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "freeljo01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "freeljo01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "freeljo01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "freeljo01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "freeljo01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "freeljo01/all_salaries.csv"
+    }
+  ]
+}

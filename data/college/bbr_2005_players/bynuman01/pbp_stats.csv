@@ -1,0 +1,18 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2005-06,18,LAL,NBA,C,46,0,338,0,0,0,0,100,-4.6,-7.8,3,4,34,3,16,1,21,5,16,
+2006-07,19,LAL,NBA,C,82,53,1793,0,0,0,0,100,-3.1,-5.3,27,24,177,22,99,2,210,28,43,
+2007-08,20,LAL,NBA,C,35,25,1008,0,0,0,0,100,10.9,4.4,10,15,60,10,64,1,134,22,29,
+2008-09,21,LAL,NBA,C,50,50,1446,0,0,0,0,100,8.3,0.1,17,24,92,18,119,3,160,35,37,
+2009-10,22,LAL,NBA,C,65,65,1977,0,0,0,0,100,6.9,3.5,21,28,109,23,130,4,157,35,51,
+2010-11,23,LAL,NBA,C,54,47,1500,0,0,0,0,100,7.2,0.5,18,15,80,16,90,2,170,17,31,DPOY-22
+2011-12,24,LAL,NBA,C,60,60,2112,0,0,0,0,100,1.8,0.7,42,45,63,11,165,2,187,40,60,"AS,NBA2"
+2012-13,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2013-14,26,2TM,NBA,C,26,19,516,0,0,0,0,100,-13.3,-11.7,10,4,18,8,27,0,64,7,12,
+2013-14,26,CLE,NBA,C,24,19,480,0,0,0,0,100,-13.4,-11.3,9,3,17,7,23,0,60,6,11,
+2013-14,26,IND,NBA,C,2,0,36,0,0,0,0,100,-12.7,-17.6,1,1,1,1,4,0,4,1,1,
+8 Yrs,8 Yrs,8 Yrs,8 Yrs,,418,319,10690,0,0,0,0,100,3.5,-0.4,148,159,633,111,710,15,1103,189,279,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,63,2097,0,0,0,0,100,3.5,-0.4,29,31,124,22,139,3,216,37,55,
+,,,,,,,,,,,,,,,,,,,,,,,,
+LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),LAL (7 Yrs),,392,300,10174,0,0,0,0,100,4.3,0.2,138,155,615,103,683,15,1039,182,267,
+CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),CLE (1 Yr),,24,19,480,0,0,0,0,100,-13.4,-11.3,9,3,17,7,23,0,60,6,11,
+IND (1 Yr),IND (1 Yr),IND (1 Yr),IND (1 Yr),,2,0,36,0,0,0,0,100,-12.7,-17.6,1,1,1,1,4,0,4,1,1,

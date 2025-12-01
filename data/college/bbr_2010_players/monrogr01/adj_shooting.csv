@@ -1,0 +1,36 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2010-11,20,DET,NBA,C,80,48,2222,.551,.552,.000,.551,.622,.575,.424,.002,120,113,0,111,82,106,141,1,57.8,44.4,ROY-6
+2011-12,21,DET,NBA,C,66,66,2082,.521,.522,.000,.521,.739,.563,.348,.001,116,109,0,107,98,107,126,1,52.8,65.5,DPOY-18
+2012-13,22,DET,NBA,C,81,81,2687,.486,.488,.000,.486,.689,.527,.371,.004,107,101,0,98,91,99,137,2,-22.4,-17.7,
+2013-14,23,DET,NBA,PF,82,82,2690,.497,.497,.000,.497,.657,.531,.362,.001,109,102,0,99,87,98,127,0,-9.2,-23.7,
+2014-15,24,DET,NBA,PF,69,57,2137,.496,.496,,.496,.750,.549,.394,.000,110,102,,100,100,103,144,0,0.0,28.8,
+2015-16,25,MIL,NBA,C,79,67,2314,.522,.522,.000,.522,.740,.562,.327,.001,115,106,0,104,98,104,118,0,36.3,44.7,
+2016-17,26,MIL,NBA,C,81,0,1823,.533,.536,.000,.533,.741,.572,.329,.006,117,107,0,104,96,104,122,2,28.1,32.8,6MOY-6
+2017-18,27,3TM,NBA,C,51,14,1040,.565,.565,,.565,.739,.598,.308,.000,123,111,,108,96,107,122,0,33.6,36.4,
+2017-18,27,MIL,NBA,C,5,0,79,.485,.485,,.485,.500,.489,.121,.000,105,95,,93,65,88,48,0,-2.4,-4.7,
+2017-18,27,PHO,NBA,C,20,14,465,.626,.626,,.626,.674,.642,.297,.000,136,123,,120,88,115,118,0,32.4,30.1,
+2017-18,27,BOS,NBA,C,26,0,496,.530,.530,,.530,.797,.580,.348,.000,115,104,,102,104,104,138,0,3.6,11.0,
+2018-19,28,3TM,NBA,C,43,2,480,.487,.495,.200,.489,.625,.521,.381,.026,106,95,56,93,82,93,147,7,-13.1,-17.0,
+2018-19,28,TOR,NBA,C,38,2,423,.460,.471,.000,.460,.574,.487,.379,.025,100,91,0,88,75,87,146,7,-20.8,-27.2,
+2018-19,28,BOS,NBA,C,2,0,5,.600,.600,,.600,,.600,.000,.000,130,115,,114,,107,0,0,0.8,0.4,
+2018-19,28,PHI,NBA,C,3,0,52,.652,.636,1.000,.674,.909,.736,.478,.043,142,122,282,129,119,132,185,12,6.9,9.8,
+2019-20,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2020-21,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2021-22,31,4TM,NBA,C,14,0,195,.561,.561,,.561,.522,.566,.404,.000,122,105,,106,67,100,163,0,3.4,0.0,
+2021-22,31,MIN,NBA,C,4,0,81,.591,.591,,.591,.429,.578,.318,.000,128,111,,111,55,102,128,0,2.6,0.6,
+2021-22,31,WAS,NBA,C,2,0,18,.500,.500,,.500,,.500,.000,.000,108,94,,94,,88,0,0,-0.5,-1.1,
+2021-22,31,MIL,NBA,C,5,0,70,.500,.500,,.500,.556,.520,.409,.000,108,94,,94,72,92,165,0,-1.4,-2.4,
+2021-22,31,UTA,NBA,C,3,0,26,.800,.800,,.800,.571,.743,1.400,.000,173,150,,150,74,131,564,0,2.7,2.9,
+,,,,,,,,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,Shooting %,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,League-Adjusted,Added,Added,
+,,,,Pos,G,GS,MP,FG%,2P%,3P%,eFG%,FT%,TS%,FTr,3PAr,FG+,2P+,3P+,eFG+,FT+,TS+,FTr+,3PAr+,FG Add,TS Add,Awards
+10 Yrs,10 Yrs,10 Yrs,10 Yrs,,646,417,17670,.514,.515,.059,.514,.703,.553,.360,.003,112,105,17,103,93,102,131,1,167.3,194.2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (5 Yrs),DET (5 Yrs),DET (5 Yrs),DET (5 Yrs),,378,334,11818,.505,.506,.000,.505,.693,.545,.376,.002,112,105,0,102,92,102,135,1,79.0,97.3,
+MIL (4 Yrs),MIL (4 Yrs),MIL (4 Yrs),MIL (4 Yrs),,170,67,4286,.526,.527,.000,.526,.736,.564,.325,.003,115,106,0,103,96,103,119,1,60.6,70.4,
+BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),BOS (2 Yrs),,28,0,501,.532,.532,,.532,.797,.581,.340,.000,116,104,,102,104,104,135,0,4.4,11.4,
+TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),TOR (1 Yr),,38,2,423,.460,.471,.000,.460,.574,.487,.379,.025,100,91,0,88,75,87,146,7,-20.8,-27.2,
+PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),PHO (1 Yr),,20,14,465,.626,.626,,.626,.674,.642,.297,.000,136,123,,120,88,115,118,0,32.4,30.1,
+MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),MIN (1 Yr),,4,0,81,.591,.591,,.591,.429,.578,.318,.000,128,111,,111,55,102,128,0,2.6,0.6,
+PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),PHI (1 Yr),,3,0,52,.652,.636,1.000,.674,.909,.736,.478,.043,142,122,282,129,119,132,185,12,6.9,9.8,
+UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),UTA (1 Yr),,3,0,26,.800,.800,,.800,.571,.743,1.400,.000,173,150,,150,74,131,564,0,2.7,2.9,
+WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),WAS (1 Yr),,2,0,18,.500,.500,,.500,,.500,.000,.000,108,94,,94,,88,0,0,-0.5,-1.1,

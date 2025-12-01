@@ -1,0 +1,100 @@
+{
+  "name": "Lucas Nogueira",
+  "slug": "noguelu01",
+  "url": "https://www.basketball-reference.com/players/n/noguelu01.html",
+  "num_tables": 23,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "noguelu01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "noguelu01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "noguelu01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "noguelu01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "noguelu01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "noguelu01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "noguelu01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "noguelu01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "noguelu01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "noguelu01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "noguelu01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "noguelu01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "noguelu01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "noguelu01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "noguelu01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "noguelu01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "noguelu01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "noguelu01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "noguelu01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "noguelu01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "noguelu01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "noguelu01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "noguelu01/all_salaries.csv"
+    }
+  ]
+}

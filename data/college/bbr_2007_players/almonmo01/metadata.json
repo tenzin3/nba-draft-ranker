@@ -1,0 +1,64 @@
+{
+  "name": "Morris Almond",
+  "slug": "almonmo01",
+  "url": "https://www.basketball-reference.com/players/a/almonmo01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "almonmo01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "almonmo01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "almonmo01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "almonmo01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "almonmo01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "almonmo01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "almonmo01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "almonmo01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "almonmo01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "almonmo01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "almonmo01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "almonmo01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "almonmo01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "almonmo01/all_salaries.csv"
+    }
+  ]
+}

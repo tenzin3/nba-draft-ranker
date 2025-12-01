@@ -1,0 +1,14 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,ORtg,DRtg,Awards
+2010-11,23,UTA,NBA,SF,49,3,463,8.7,13.1,.661,0.0,0.1,.000,8.7,13.0,.667,.661,3.0,4.2,.703,4.1,6.9,11.0,2.7,1.9,1.9,2.2,5.7,20.3,128,109,
+2011-12,24,UTA,NBA,SF,29,0,217,6.5,10.2,.643,0.0,0.2,.000,6.5,9.9,.659,.643,1.9,3.9,.500,4.6,7.5,12.1,3.1,1.5,5.8,1.2,5.6,15.0,131,101,
+2012-13,25,UTA,NBA,PF,37,0,215,6.6,10.8,.614,0.0,0.2,.000,6.6,10.6,.628,.614,5.2,8.1,.636,6.4,7.9,14.2,2.7,2.0,3.2,2.0,7.4,18.4,130,104,
+2013-14,26,UTA,NBA,SF,66,4,1209,7.6,14.4,.527,0.0,0.1,.000,7.6,14.3,.530,.527,2.2,3.3,.680,5.2,8.3,13.5,1.9,1.8,2.0,1.7,6.0,17.4,114,109,
+2014-15,27,UTA,NBA,SF,38,0,266,6.4,11.6,.552,0.4,1.0,.400,6.0,10.6,.566,.569,4.8,5.8,.828,5.2,9.0,14.2,2.6,2.2,2.4,1.0,5.8,18.0,139,101,
+2015-16,28,DAL,NBA,SF,30,2,251,5.3,9.7,.542,0.8,3.2,.250,4.5,6.5,.688,.583,3.0,4.3,.714,2.2,8.7,11.0,0.4,1.2,1.8,1.4,3.9,14.4,117,105,
+2016-17,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2017-18,30,ATL,NBA,SF,1,0,5,9.8,9.8,1.000,0.0,0.0,,9.8,9.8,1.000,1.000,0.0,0.0,,9.8,0.0,9.8,0.0,0.0,0.0,9.8,9.8,19.5,96,119,
+7 Yrs,7 Yrs,7 Yrs,7 Yrs,,250,9,2626,7.3,12.8,.569,0.1,0.5,.231,7.2,12.3,.583,.573,2.9,4.2,.687,4.8,8.0,12.8,2.1,1.8,2.4,1.7,5.8,17.6,122,107,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UTA (5 Yrs),UTA (5 Yrs),UTA (5 Yrs),UTA (5 Yrs),,219,7,2370,7.5,13.1,.570,0.0,0.2,.200,7.4,12.9,.577,.572,2.9,4.2,.684,5.0,8.0,13.0,2.3,1.9,2.5,1.7,6.0,17.9,122,107,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,30,2,251,5.3,9.7,.542,0.8,3.2,.250,4.5,6.5,.688,.583,3.0,4.3,.714,2.2,8.7,11.0,0.4,1.2,1.8,1.4,3.9,14.4,117,105,
+ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),ATL (1 Yr),,1,0,5,9.8,9.8,1.000,0.0,0.0,,9.8,9.8,1.000,1.000,0.0,0.0,,9.8,0.0,9.8,0.0,0.0,0.0,9.8,9.8,19.5,96,119,
