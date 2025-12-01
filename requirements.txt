@@ -3,3 +3,6 @@ requests
 nba_api
 urllib3<2
 tqdm
+numpy
+scikit-learn
+scipy
