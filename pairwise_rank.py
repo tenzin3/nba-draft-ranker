@@ -1,539 +1,912 @@
-"""Train a pairwise ranking model and rank recent draft classes.
+# coding: utf-8
+"""
+pairwise_rank.py (Improved)
 
-This script learns a Bradley-Terry style pairwise model on draft combine
-measurements from 2000-2022, then uses it to score and rank players in the
-2023-2025 classes. Pairwise samples are only formed within the same season and
-position group so the model captures relative ordering inside each draft year
-without comparing unlike positions.
+- LTR (LightGBM LambdaRank) with:
+  * robust optional per-season z-score normalization (no warnings)
+  * custom early-stopping metric: mean Spearman across query groups (aligns with your evaluation)
+  * time-based validation (last K seasons in training) to select best_iteration
+  * refit on ALL training seasons using best_iteration (no data wasted)
+  * small ensemble (3 configs) averaged predictions
+  * supports --mode ltr / pairwise / hybrid (blends pairwise+ltr with alpha tuned on held-out seasons)
+
+- Pairwise (baseline) with:
+  * stronger ensemble incl. HGB, ExtraTrees, Logistic, SGD, optional LGBMClassifier
+
+Usage:
+  python pairwise_rank.py --data outputs/nba_draft_final.csv --train_last_season 2015 --mode ltr --ltr_season_zscore
+  python pairwise_rank.py --data outputs/nba_draft_final.csv --train_last_season 2015 --mode pairwise --max_pairs_per_season 30000
+  python pairwise_rank.py --data outputs/nba_draft_final.csv --train_last_season 2015 --mode hybrid --ltr_season_zscore --alpha_val_last_k 2
 """
 
 from __future__ import annotations
 
+import argparse
 from itertools import combinations
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple
+from typing import Callable, Iterable, List, Optional, Tuple, Dict
 
 import numpy as np
 import pandas as pd
 from scipy.stats import spearmanr
-from sklearn.ensemble import GradientBoostingClassifier
+
 from sklearn.impute import SimpleImputer
-from sklearn.linear_model import LogisticRegression, SGDClassifier
-from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
-from sklearn.svm import LinearSVC
+from sklearn.metrics import log_loss
+from sklearn.model_selection import GroupKFold
+from sklearn.linear_model import LogisticRegression, SGDClassifier
+from sklearn.ensemble import ExtraTreesClassifier, HistGradientBoostingClassifier
 
-DATA_PATH = Path("preprocess/draft_with_position.csv")
-OUTPUT_PATH = Path("outputs/pairwise_rankings.csv")
-TRAIN_LAST_SEASON = 2022
-MIN_FEATURE_COVERAGE = 0.5  # drop features that are mostly empty
+import lightgbm as lgb
 
-
-def load_and_clean(path: Path) -> pd.DataFrame:
-    """Load draft data and normalize columns/values."""
-    df = pd.read_csv(path)
-    df = df.rename(columns=lambda c: c.strip().lower())
-
-    def parse_ft_in(value: object) -> float:
-        """Parse a string like 6' 10'' into inches."""
-        if isinstance(value, str) and "'" in value:
-            try:
-                feet, rest = value.split("'")
-                inches = rest.replace('"', "").replace("''", "").replace(" ", "")
-                feet_val = float(feet.strip()) if feet.strip() else 0.0
-                inch_val = float(inches) if inches else 0.0
-                return feet_val * 12 + inch_val
-            except Exception:
-                return np.nan
-        return np.nan
-
-    text_cols = {
-        "first_name",
-        "last_name",
-        "player_name",
-        "position",
-        "wingspan_ft_in",
-        "standing_reach_ft_in",
-        "team_city",
-        "team_name",
-        "team_abbreviation",
-        "organization",
-        "organization_type",
-        "position_clean",
-        "position_group",
-    }
-
-    # Integer-encode only stable categorical columns (avoid names/teams to reduce leakage).
-    categorical_to_encode = {"position_group", "position_clean", "position", "organization_type"}
-    for col in categorical_to_encode:
-        if col in df.columns:
-            df[f"{col}_code"] = (
-                df[col]
-                .fillna("UNK")
-                .astype(str)
-                .str.strip()
-                .astype("category")
-                .cat.codes
-                .astype(int)
-            )
-
-    # Convert everything that is not a text column into numeric values.
-    for col in df.columns:
-        if col in text_cols:
-            continue
-        df[col] = pd.to_numeric(df[col], errors="coerce")
-
-    df["season"] = df["season"].astype(int)
-    df["overall_pick"] = df["overall_pick"].astype(int)
-    if "position_group" in df.columns:
-        df["position_group"] = df["position_group"].astype(str).str.strip()
-
-    # Convert inch-based measurements to centimeters (floats).
-    df["height"] = df["height"].astype(float) * 2.54
-    df["height_cm"] = df["height"]
-
-    wing_ft_in = df.get("wingspan_ft_in")
-    if wing_ft_in is not None:
-        wing_in = wing_ft_in.apply(parse_ft_in)
-    else:
-        wing_in = pd.Series(np.nan, index=df.index)
-    df["wingspan"] = df["wingspan"].astype(float) * 2.54
-    df["wingspan_cm"] = df["wingspan"]
-    df.loc[df["wingspan_cm"].isna(), "wingspan_cm"] = wing_in * 2.54
-    df.loc[df["wingspan"].isna(), "wingspan"] = df["wingspan_cm"]
-
-    reach_ft_in = df.get("standing_reach_ft_in")
-    if reach_ft_in is not None:
-        reach_in = reach_ft_in.apply(parse_ft_in)
-    else:
-        reach_in = pd.Series(np.nan, index=df.index)
-    df["standing_reach"] = df["standing_reach"].astype(float) * 2.54
-    df["standing_reach_cm"] = df["standing_reach"]
-    df.loc[df["standing_reach_cm"].isna(), "standing_reach_cm"] = reach_in * 2.54
-    df.loc[df["standing_reach"].isna(), "standing_reach"] = df["standing_reach_cm"]
-
-    return df
+try:
+    from lightgbm import LGBMClassifier
+except Exception:
+    LGBMClassifier = None  # type: ignore
 
 
-def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str], pd.Series]:
-    """Select numeric feature columns with reasonable coverage."""
-    drop_cols = {
-        "overall_pick",
-        "round_number",
-        "round_pick",
-        "season",
-        "player_id",
-        "team_id",
-    }
-    text_cols = {
-        "first_name",
-        "last_name",
-        "player_name",
-        "position",
-        "wingspan_ft_in",
-        "standing_reach_ft_in",
-        "team_city",
-        "team_name",
-        "team_abbreviation",
-        "organization",
-        "organization_type",
-        "position_clean",
-        "position_group",
-    }
+# -----------------------------
+# Defaults
+# -----------------------------
 
-    coverage = df.drop(columns=list(drop_cols | text_cols), errors="ignore").notna().mean()
-    eligible = coverage[coverage >= MIN_FEATURE_COVERAGE].index.tolist()
+DEFAULT_DATA_PATHS = [
+    Path("outputs/nba_draft_final.csv"),
+    Path("nba_draft_final.csv"),
+    Path("nba_college_selected_features.csv"),
+    Path("outputs/nba_college_selected_features.csv"),
+]
+DEFAULT_OUTPUT_PATH = Path("outputs/pairwise_rankings.csv")
 
-    # Manually remove redundant or overly correlated columns to reduce noise.
-    # Keep only one version of height / wingspan / standing reach.
-    manual_exclude = {
-        "height_cm",
-        "wingspan_cm",
-        "standing_reach_cm",
-        # These encoded categorical columns are highly correlated with pos_num
-        # and can confuse linear models if treated as ordered.
-        "position_group_code",
-        "position_clean_code",
-        "position_code",
-    }
-    feature_cols = [c for c in eligible if c not in manual_exclude]
+DEFAULT_HOLDOUT_SEASONS = 4
+MIN_FEATURE_COVERAGE = 0.50
 
-    dropped = [c for c in coverage.index if c not in feature_cols]
-    return feature_cols, dropped, coverage
+MAX_PAIRS_PER_SEASON = 30000
+SYMMETRIC_PAIRS = True
+WEIGHT_BY_PICK_GAP = True
+RANDOM_STATE = 42
 
 
-def build_pairwise_samples(
-    df: pd.DataFrame, features: np.ndarray, within_position_only: bool = False
-) -> Tuple[np.ndarray, np.ndarray]:
-    """Create pairwise differences and labels within each season.
+# -----------------------------
+# Helpers
+# -----------------------------
 
-    If ``within_position_only`` is True, restrict pairs to players sharing the
-    same ``position_group``. Otherwise, form all pairs inside a season so the
-    model learns a true global ordering for each draft class.
-    """
-    x_rows: List[np.ndarray] = []
-    y_rows: List[int] = []
+def _resolve_default_data_path() -> Path:
+    for p in DEFAULT_DATA_PATHS:
+        if p.exists():
+            return p
+    return DEFAULT_DATA_PATHS[0]
 
-    for season, idx in df.groupby("season").groups.items():
-        season_idx = list(idx)
-        if len(season_idx) < 2:
-            continue
 
-        season_features = features[season_idx]
-        picks = df.loc[season_idx, "overall_pick"].to_numpy()
-        pos_groups = df.loc[season_idx, "position_group"].to_numpy()
+def _coalesce_duplicate_columns(df: pd.DataFrame) -> pd.DataFrame:
+    if not df.columns.duplicated().any():
+        return df
+    dup_names = df.columns[df.columns.duplicated()].unique()
+    out = df.copy()
+    for name in dup_names:
+        idxs = np.where(out.columns == name)[0]
+        block = out.iloc[:, idxs]
+        out[name] = block.bfill(axis=1).iloc[:, 0]
+        out = out.drop(out.columns[idxs[1:]], axis=1)
+    return out
 
-        for i, j in combinations(range(len(season_idx)), 2):
-            if within_position_only:
-                if (
-                    pd.isna(pos_groups[i])
-                    or pd.isna(pos_groups[j])
-                    or pos_groups[i] != pos_groups[j]
-                ):
-                    continue
-            if picks[i] == picks[j]:
-                continue
-            x_rows.append(season_features[i] - season_features[j])
-            y_rows.append(1 if picks[i] < picks[j] else 0)
 
-    if not x_rows:
-        return np.empty((0, features.shape[1])), np.empty((0,), dtype=int)
-    return np.vstack(x_rows), np.array(y_rows)
+def _derive_position_group(pos: object) -> str:
+    if pos is None or (isinstance(pos, float) and np.isnan(pos)):
+        return "UNK"
+    s = str(pos).upper().replace(" ", "")
+    has_g = "G" in s
+    has_f = "F" in s
+    has_c = "C" in s
+    if has_g and has_f:
+        return "GF"
+    if has_f and has_c:
+        return "FC"
+    if has_g:
+        return "G"
+    if has_f:
+        return "F"
+    if has_c:
+        return "C"
+    return "UNK"
 
 
 def _sigmoid(x: np.ndarray) -> np.ndarray:
     return 1.0 / (1.0 + np.exp(-x))
 
 
-def fit_pairwise_models(x_train: np.ndarray, y_train: np.ndarray) -> List[Tuple[str, object]]:
-    """Fit several linear pairwise models for ensembling."""
-    models: List[Tuple[str, object]] = [
-        (
-            "log_reg",
-            LogisticRegression(
-                max_iter=1000,
-                fit_intercept=False,
-                class_weight="balanced",
-                n_jobs=-1,
-                solver="lbfgs",
-            ),
-        ),
-        (
-            "linear_svc",
-            LinearSVC(
-                fit_intercept=False,
-                class_weight="balanced",
-                max_iter=5000,
-            ),
-        ),
-        (
-            "sgd_log",
-            SGDClassifier(
-                loss="log_loss",
-                penalty="l2",
-                alpha=1e-4,
-                max_iter=2000,
-                tol=1e-4,
-                fit_intercept=False,
-                class_weight="balanced",
-                random_state=42,
-            ),
-        ),
-        (
-            "gboost",
-            GradientBoostingClassifier(
-                n_estimators=200,
-                learning_rate=0.05,
-                max_depth=2,
-                subsample=0.8,
-                random_state=42,
-            ),
-        ),
-    ]
-
-    for name, model in models:
-        model.fit(x_train, y_train)
-    return models
+def _predict_proba(model: object, X: np.ndarray) -> np.ndarray:
+    if hasattr(model, "predict_proba"):
+        return model.predict_proba(X)[:, 1]  # type: ignore[attr-defined]
+    if hasattr(model, "decision_function"):
+        return _sigmoid(model.decision_function(X))  # type: ignore[attr-defined]
+    return model.predict(X).astype(float)  # type: ignore[attr-defined]
 
 
-def ensemble_probabilities(models: List[Tuple[str, object]], x: np.ndarray) -> np.ndarray:
-    """Average probabilities/decision scores across models."""
-    probs: List[np.ndarray] = []
-    for _, model in models:
-        if hasattr(model, "predict_proba"):
-            probs.append(model.predict_proba(x)[:, 1])  # type: ignore[attr-defined]
-        elif hasattr(model, "decision_function"):
-            decision = model.decision_function(x)  # type: ignore[attr-defined]
-            probs.append(_sigmoid(decision))
+def _infer_name_col(df: pd.DataFrame) -> Optional[str]:
+    for c in ["player_name", "name", "player", "full_name", "first_name"]:
+        if c in df.columns:
+            return c
+    return None
+
+
+def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
+    return df.sort_values(["season", "overall_pick"]).reset_index(drop=True)
+
+
+# -----------------------------
+# Load / clean
+# -----------------------------
+
+def load_and_clean(path: Path) -> pd.DataFrame:
+    df = pd.read_csv(path)
+
+    df = df.rename(columns=lambda c: str(c).strip().lower())
+    df = _coalesce_duplicate_columns(df)
+
+    if "season" not in df.columns and "draft_year" in df.columns:
+        df["season"] = df["draft_year"]
+
+    if "overall_pick" not in df.columns:
+        raise ValueError("Missing required column: overall_pick")
+    if "season" not in df.columns:
+        raise ValueError("Missing required column: season (or draft_year)")
+
+    df["season"] = pd.to_numeric(df["season"], errors="coerce")
+    df["overall_pick"] = pd.to_numeric(df["overall_pick"], errors="coerce")
+    df = df.dropna(subset=["season", "overall_pick"]).copy()
+    df["season"] = df["season"].astype(int)
+    df["overall_pick"] = df["overall_pick"].astype(int)
+
+    # position -> position_group one-hot
+    if "position_group" not in df.columns:
+        if "position" in df.columns:
+            df["position_group"] = df["position"].apply(_derive_position_group)
         else:
-            probs.append(model.predict(x))  # type: ignore[attr-defined]
-    return np.mean(probs, axis=0)
+            df["position_group"] = "UNK"
+    else:
+        df["position_group"] = df["position_group"].astype(str).str.strip()
+
+    cat_cols = [c for c in ["position_group", "organization_type"] if c in df.columns]
+    if cat_cols:
+        df = pd.get_dummies(df, columns=cat_cols, prefix=cat_cols, dummy_na=True)
+
+    # try numeric coercion for non-text object cols
+    text_cols = {
+        "player_name", "first_name", "last_name", "name", "player", "full_name",
+        "team_name", "team_city", "team_abbreviation", "college", "position",
+    }
+    for col in df.columns:
+        if col in text_cols:
+            continue
+        if df[col].dtype == "object":
+            df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    return df.reset_index(drop=True)
 
 
-def compute_player_scores(
+def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
+    drop_cols = {
+        "overall_pick",
+        "round_number",
+        "round_pick",
+        "season",
+        "draft_year",
+        "person_id",
+        "player_profile_flag",
+    }
+    object_cols = set(df.select_dtypes(include=["object"]).columns.tolist())
+    candidate = df.drop(columns=list(drop_cols | object_cols), errors="ignore")
+    coverage = candidate.notna().mean()
+    eligible = coverage[coverage >= MIN_FEATURE_COVERAGE].index.tolist()
+    dropped = [c for c in coverage.index if c not in eligible]
+    return eligible, dropped
+
+
+# -----------------------------
+# Evaluation / output
+# -----------------------------
+
+def evaluate_spearman_by_season(df: pd.DataFrame, scores: np.ndarray) -> List[Tuple[int, float]]:
+    out: List[Tuple[int, float]] = []
+    for season, idx in df.groupby("season").groups.items():
+        season_idx = list(idx)
+        picks = df.loc[season_idx, "overall_pick"].to_numpy()
+        corr = spearmanr(-picks, scores[season_idx]).correlation
+        out.append((int(season), float(corr)))
+    return out
+
+
+def write_rankings_csv(out_path: Path, df: pd.DataFrame, scores: np.ndarray) -> None:
+    name_col = _infer_name_col(df)
+    chunks: List[pd.DataFrame] = []
+    for season, idx in df.groupby("season").groups.items():
+        season_idx = list(idx)
+        sub = df.loc[season_idx].copy()
+        sub["pred_score"] = scores[season_idx]
+        sub["pred_rank"] = sub["pred_score"].rank(ascending=False, method="first").astype(int)
+        keep_cols = ["season"] + ([name_col] if name_col else []) + ["overall_pick", "pred_score", "pred_rank"]
+        chunks.append(sub.sort_values("pred_rank")[keep_cols])
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    pd.concat(chunks, ignore_index=True).to_csv(out_path, index=False)
+    print(f"Wrote rankings to {out_path}")
+
+
+# ============================================================
+# LTR (LightGBM LambdaRank) – with Spearman early stopping
+# ============================================================
+
+def _safe_group_zscore(Xg: np.ndarray) -> np.ndarray:
+    """
+    Z-score per feature within a season group, ignoring NaNs, NO warnings.
+    If a feature is all-NaN in a group -> mean=0, std=1 (keeps NaNs).
+    """
+    X = Xg.astype(float, copy=True)
+    mask = ~np.isnan(X)
+    cnt = mask.sum(axis=0).astype(float)  # [d]
+    sum_ = np.where(mask, X, 0.0).sum(axis=0)
+    mean = np.divide(sum_, cnt, out=np.zeros_like(sum_), where=cnt > 0)
+
+    centered = X - mean
+    var_sum = np.where(mask, centered * centered, 0.0).sum(axis=0)
+    var = np.divide(var_sum, cnt, out=np.ones_like(var_sum), where=cnt > 0)
+    std = np.sqrt(var)
+    std[std < 1e-6] = 1.0
+    return (X - mean) / std
+
+
+def _make_ltr_arrays(
+    df: pd.DataFrame,
+    feature_cols: List[str],
+    *,
+    season_zscore: bool,
+) -> Tuple[pd.DataFrame, np.ndarray, List[int], pd.DataFrame, List[int]]:
+    """
+    Returns (X_df, y, group_sizes, df_sorted, season_order)
+    - df_sorted: season,pick sorted
+    - y: per-season reverse rank in [0..n-1]
+    """
+    df_sorted = _sort_df(df)
+    seasons = df_sorted["season"].to_numpy()
+    X = df_sorted[feature_cols].to_numpy(dtype=float)
+
+    y = np.zeros(len(df_sorted), dtype=np.int32)
+    group_sizes: List[int] = []
+    season_order: List[int] = []
+
+    start = 0
+    while start < len(df_sorted):
+        s = seasons[start]
+        end = start
+        while end < len(df_sorted) and seasons[end] == s:
+            end += 1
+        n = end - start
+        group_sizes.append(n)
+        season_order.append(int(s))
+
+        if season_zscore:
+            X[start:end] = _safe_group_zscore(X[start:end])
+
+        # best pick -> highest relevance
+        y[start:end] = np.arange(n - 1, -1, -1, dtype=np.int32)
+        start = end
+
+    X_df = pd.DataFrame(X, columns=feature_cols)
+    return X_df, y, group_sizes, df_sorted, season_order
+
+
+def _split_groups_last_k(season_order: List[int], group_sizes: List[int], k: int) -> Tuple[np.ndarray, np.ndarray, List[int], List[int]]:
+    """
+    Split row indices into train/val by taking last k seasons as val.
+    Returns (train_idx, val_idx, group_tr, group_val)
+    """
+    k = max(1, min(k, len(season_order) - 1)) if len(season_order) > 1 else 1
+    val_seasons = set(season_order[-k:])
+
+    train_rows: List[np.ndarray] = []
+    val_rows: List[np.ndarray] = []
+    group_tr: List[int] = []
+    group_val: List[int] = []
+
+    start = 0
+    for s, g in zip(season_order, group_sizes):
+        idxs = np.arange(start, start + g)
+        if s in val_seasons:
+            val_rows.append(idxs)
+            group_val.append(g)
+        else:
+            train_rows.append(idxs)
+            group_tr.append(g)
+        start += g
+
+    train_idx = np.concatenate(train_rows) if train_rows else np.array([], dtype=int)
+    val_idx = np.concatenate(val_rows) if val_rows else np.array([], dtype=int)
+    return train_idx, val_idx, group_tr, group_val
+
+
+def _feval_mean_spearman(preds: np.ndarray, dataset: lgb.Dataset) -> Tuple[str, float, bool]:
+    """
+    Custom metric aligned with user's evaluation:
+    mean Spearman correlation between preds and labels within each query group.
+    (labels are per-season reverse rank)
+    """
+    y = dataset.get_label()
+    group = dataset.get_group()
+    idx = 0
+    cors: List[float] = []
+    for g in group:
+        g = int(g)
+        p = preds[idx:idx + g]
+        t = y[idx:idx + g]
+        idx += g
+        if g < 2:
+            continue
+        c = spearmanr(p, t).correlation
+        if c is not None and not np.isnan(c):
+            cors.append(float(c))
+    return "mean_spearman", float(np.mean(cors)) if cors else 0.0, True
+
+
+def _train_ltr_booster_with_refit(
+    train_df: pd.DataFrame,
+    feature_cols: List[str],
+    *,
+    season_zscore: bool,
+    val_last_k: int,
+    cfg: Dict,
+) -> lgb.Booster:
+    """
+    1) Train on train-part, validate on last K seasons => find best_iteration via early stop on mean_spearman
+    2) Refit on ALL seasons in train_df using best_iteration (no data wasted)
+    """
+    X_all, y_all, group_all, _, season_order = _make_ltr_arrays(train_df, feature_cols, season_zscore=season_zscore)
+
+    tr_idx, va_idx, group_tr, group_val = _split_groups_last_k(season_order, group_all, val_last_k)
+    use_val = len(va_idx) > 0 and len(group_val) > 0 and len(tr_idx) > 0
+
+    params = {
+        "objective": "lambdarank",
+        "boosting_type": "gbdt",
+        "learning_rate": cfg.get("learning_rate", 0.03),
+        "num_leaves": cfg.get("num_leaves", 63),
+        "min_data_in_leaf": cfg.get("min_child_samples", 30),
+        "feature_fraction": cfg.get("colsample_bytree", 0.85),
+        "bagging_fraction": cfg.get("subsample", 0.85),
+        "bagging_freq": 1,
+        "lambda_l2": cfg.get("reg_lambda", 1.0),
+        "seed": cfg.get("seed", RANDOM_STATE),
+        "verbosity": -1,
+        "metric": "None",
+        "label_gain": list(range(int(np.max(y_all)) + 1)),
+    }
+
+    num_boost_round = int(cfg.get("num_boost_round", 8000))
+    early_stopping_rounds = int(cfg.get("early_stopping_rounds", 250))
+    log_every = int(cfg.get("log_every", 250))
+
+    if use_val:
+        dtrain = lgb.Dataset(X_all.iloc[tr_idx], label=y_all[tr_idx])
+        dtrain.set_group(group_tr)
+        dvalid = lgb.Dataset(X_all.iloc[va_idx], label=y_all[va_idx], reference=dtrain)
+        dvalid.set_group(group_val)
+
+        booster = lgb.train(
+            params=params,
+            train_set=dtrain,
+            num_boost_round=num_boost_round,
+            valid_sets=[dvalid],
+            feval=_feval_mean_spearman,
+            callbacks=[
+                lgb.early_stopping(early_stopping_rounds, first_metric_only=True, verbose=False),
+                lgb.log_evaluation(log_every),
+            ],
+        )
+        best_iter = booster.best_iteration or num_boost_round
+    else:
+        best_iter = int(min(num_boost_round, 2000))
+
+    dtrain_full = lgb.Dataset(X_all, label=y_all)
+    dtrain_full.set_group(group_all)
+
+    booster_full = lgb.train(
+        params=params,
+        train_set=dtrain_full,
+        num_boost_round=int(best_iter),
+    )
+    return booster_full
+
+
+def ltr_fit_predict(
+    train_df: pd.DataFrame,
+    pred_df: pd.DataFrame,
+    feature_cols: List[str],
+    *,
+    season_zscore: bool,
+    val_last_k: int,
+    ensemble_cfgs: List[Dict],
+) -> Tuple[np.ndarray, pd.DataFrame]:
+    """
+    Train an ensemble of boosters on train_df, predict scores on pred_df.
+    Returns scores aligned with pred_sorted (season,pick sorted).
+    """
+    pred_X, _, _, pred_sorted, _ = _make_ltr_arrays(pred_df, feature_cols, season_zscore=season_zscore)
+
+    scores_sum = np.zeros(len(pred_X), dtype=float)
+    for cfg in ensemble_cfgs:
+        booster = _train_ltr_booster_with_refit(
+            train_df, feature_cols, season_zscore=season_zscore, val_last_k=val_last_k, cfg=cfg
+        )
+        scores_sum += booster.predict(pred_X)
+
+    scores = scores_sum / max(1, len(ensemble_cfgs))
+    return scores, pred_sorted
+
+
+# ============================================================
+# Pairwise baseline
+# ============================================================
+
+def fit_preprocessors(train_df: pd.DataFrame, feature_cols: Iterable[str]) -> Tuple[SimpleImputer, StandardScaler]:
+    imputer = SimpleImputer(strategy="mean")
+    scaler = StandardScaler()
+    imputer.fit(train_df[list(feature_cols)])
+    scaler.fit(imputer.transform(train_df[list(feature_cols)]))
+    return imputer, scaler
+
+
+def transform_features(df: pd.DataFrame, feature_cols: Iterable[str], imputer: SimpleImputer, scaler: StandardScaler) -> np.ndarray:
+    return scaler.transform(imputer.transform(df[list(feature_cols)]))
+
+
+def build_pairwise_samples(
     df: pd.DataFrame,
     features: np.ndarray,
-    models: List[Tuple[str, object]],
-    within_position_only: bool = False,
-) -> np.ndarray:
-    """Estimate player skill as average win probability vs peers.
-
-    If ``within_position_only`` is True, only compare players inside the same
-    ``position_group``; otherwise, compare all players within a season.
-    """
-    scores = np.zeros(len(df))
-    games = np.zeros(len(df))
+    within_position_only: bool,
+    *,
+    max_pairs_per_season: Optional[int],
+    symmetric_pairs: bool,
+    weight_by_pick_gap: bool,
+    random_state: int,
+) -> Tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
+    rng = np.random.default_rng(random_state)
+    x_rows: List[np.ndarray] = []
+    y_rows: List[int] = []
+    g_rows: List[int] = []
+    w_rows: List[float] = []
 
     for season, idx in df.groupby("season").groups.items():
         season_idx = list(idx)
         if len(season_idx) < 2:
             continue
 
-        positions = df.loc[season_idx, "position_group"].to_numpy()
+        picks = df.loc[season_idx, "overall_pick"].to_numpy()
         season_feats = features[season_idx]
 
         if within_position_only:
-            # Only compare players within the same position_group.
-            for pos in np.unique(positions):
-                pos_mask = [k for k in range(len(season_idx)) if positions[k] == pos]
-                if len(pos_mask) < 2:
-                    continue
-                for i, j in combinations(pos_mask, 2):
-                    diff = season_feats[i] - season_feats[j]
-                    prob = ensemble_probabilities(models, diff.reshape(1, -1))[0]
-                    gi, gj = season_idx[i], season_idx[j]
-                    scores[gi] += prob
-                    scores[gj] += 1 - prob
-                    games[gi] += 1
-                    games[gj] += 1
-        else:
-            # Compare all players within the season (global ordering per season).
-            for i, j in combinations(range(len(season_idx)), 2):
-                diff = season_feats[i] - season_feats[j]
-                prob = ensemble_probabilities(models, diff.reshape(1, -1))[0]
-                gi, gj = season_idx[i], season_idx[j]
-                scores[gi] += prob
-                scores[gj] += 1 - prob
-                games[gi] += 1
-                games[gj] += 1
-
-    games = np.maximum(games, 1)  # avoid divide by zero
-    return scores / games
-
-
-def count_pairs(df: pd.DataFrame) -> Tuple[int, List[Tuple[int, int]]]:
-    """Count pairwise comparisons per season under the position constraint."""
-    total = 0
-    per_season: List[Tuple[int, int]] = []
-    for season, g in df.groupby("season"):
-        c = 0
-        for _, gg in g.groupby("position_group"):
-            n = len(gg)
-            c += n * (n - 1) // 2
-        per_season.append((int(season), c))
-        total += c
-    return total, per_season
-
-
-def fit_preprocessors(train_df: pd.DataFrame, feature_cols: Iterable[str]) -> Dict[str, object]:
-    """Fit mean imputer and scaler on training data."""
-    imputer = SimpleImputer(strategy="mean")
-    scaler = StandardScaler()
-
-    imputer.fit(train_df[feature_cols])
-    scaler.fit(imputer.transform(train_df[feature_cols]))
-    return {"imputer": imputer, "scaler": scaler}
-
-
-def transform_features(
-    df: pd.DataFrame, feature_cols: Iterable[str], imputer: SimpleImputer, scaler: StandardScaler
-) -> np.ndarray:
-    """Apply preprocessing to the given dataframe."""
-    imputed = imputer.transform(df[feature_cols])
-    scaled = scaler.transform(imputed)
-    return scaled
-
-
-def evaluate_spearman_by_season(
-    df: pd.DataFrame,
-    scores: np.ndarray,
-    group_by_position: bool = False,
-) -> List[Tuple[int, float]]:
-    """Compute Spearman correlation between predicted score and draft order.
-
-    If ``group_by_position`` is False, compute one Spearman per season using
-    all players. If True, compute a weighted average of Spearman correlations
-    over ``position_group`` within each season.
-    """
-    results: List[Tuple[int, float]] = []
-    for season, idx in df.groupby("season").groups.items():
-        season_idx = list(idx)
-        season_scores = scores[season_idx]
-        season_df = df.loc[season_idx]
-
-        if not group_by_position:
-            picks = season_df["overall_pick"].to_numpy()
-            corr, _ = spearmanr(-picks, season_scores)  # lower pick = higher rank
-            results.append((int(season), float(corr)))
-        else:
-            # Weighted average over position groups by group size.
-            total_n = 0
-            weighted_sum = 0.0
-            for _, g in season_df.groupby("position_group"):
-                if len(g) < 2:
-                    continue
-                g_idx = g.index.to_numpy()
-                g_scores = scores[g_idx]
-                g_picks = g["overall_pick"].to_numpy()
-                corr, _ = spearmanr(-g_picks, g_scores)
-                if np.isnan(corr):
-                    continue
-                n = len(g)
-                total_n += n
-                weighted_sum += corr * n
-            if total_n == 0:
-                corr_val = np.nan
+            pos_cols = [c for c in df.columns if c.startswith("position_group_")]
+            if pos_cols:
+                pos_mat = df.loc[season_idx, pos_cols].to_numpy()
+                pos_key = pos_mat.argmax(axis=1)
             else:
-                corr_val = weighted_sum / total_n
-            results.append((int(season), float(corr_val)))
-    return results
+                pos_key = np.zeros(len(season_idx), dtype=int)
+        else:
+            pos_key = None
+
+        pairs: List[Tuple[int, int]] = []
+        for i, j in combinations(range(len(season_idx)), 2):
+            if picks[i] == picks[j]:
+                continue
+            if within_position_only and pos_key is not None and pos_key[i] != pos_key[j]:
+                continue
+            pairs.append((i, j))
+
+        if max_pairs_per_season and max_pairs_per_season > 0 and len(pairs) > max_pairs_per_season:
+            sel = rng.choice(len(pairs), size=max_pairs_per_season, replace=False)
+            pairs = [pairs[k] for k in sel]
+
+        for i, j in pairs:
+            diff = season_feats[i] - season_feats[j]
+            label = 1 if picks[i] < picks[j] else 0
+            weight = float(abs(int(picks[i]) - int(picks[j]))) if weight_by_pick_gap else 1.0
+
+            x_rows.append(diff)
+            y_rows.append(label)
+            g_rows.append(int(season))
+            w_rows.append(weight)
+
+            if symmetric_pairs:
+                x_rows.append(-diff)
+                y_rows.append(1 - label)
+                g_rows.append(int(season))
+                w_rows.append(weight)
+
+    if not x_rows:
+        d = features.shape[1]
+        return np.empty((0, d)), np.empty((0,), int), np.empty((0,), int), np.empty((0,), float)
+
+    X = np.vstack(x_rows)
+    y = np.array(y_rows, dtype=int)
+    groups = np.array(g_rows, dtype=int)
+    weights = np.array(w_rows, dtype=float)
+    weights = weights / np.mean(weights) if weights.size else weights
+    return X, y, groups, weights
 
 
-def evaluate_pairwise_accuracy(
+def _build_pairwise_model_factories() -> List[Tuple[str, Callable[[], object]]]:
+    factories: List[Tuple[str, Callable[[], object]]] = [
+        ("log_reg", lambda: LogisticRegression(
+            max_iter=5000, fit_intercept=False, class_weight="balanced", n_jobs=-1, solver="lbfgs", C=1.0
+        )),
+        ("sgd_log", lambda: SGDClassifier(
+            loss="log_loss", penalty="l2", alpha=5e-5, max_iter=8000, tol=1e-4,
+            fit_intercept=False, class_weight="balanced", random_state=RANDOM_STATE
+        )),
+        ("hgb", lambda: HistGradientBoostingClassifier(
+            learning_rate=0.06, max_depth=6, max_leaf_nodes=31, min_samples_leaf=30,
+            l2_regularization=1e-2, early_stopping=True, random_state=RANDOM_STATE
+        )),
+        ("extra_trees", lambda: ExtraTreesClassifier(
+            n_estimators=900, max_depth=None, min_samples_leaf=8, max_features="sqrt",
+            n_jobs=-1, class_weight="balanced", random_state=RANDOM_STATE
+        )),
+    ]
+    if LGBMClassifier is not None:
+        factories.append(("lgbm", lambda: LGBMClassifier(
+            n_estimators=2500, learning_rate=0.03, num_leaves=63,
+            subsample=0.85, colsample_bytree=0.85, reg_lambda=1.0, min_child_samples=30,
+            random_state=RANDOM_STATE, n_jobs=-1, verbosity=-1
+        )))
+    return factories
+
+
+def fit_pairwise_models_and_weights(
+    X: np.ndarray,
+    y: np.ndarray,
+    groups: np.ndarray,
+    sample_weight: np.ndarray,
+    *,
+    n_splits: int = 5,
+) -> Tuple[List[Tuple[str, object]], np.ndarray]:
+    uniq = np.unique(groups)
+    n_splits = int(min(max(2, n_splits), len(uniq)))
+    factories = _build_pairwise_model_factories()
+    gkf = GroupKFold(n_splits=n_splits)
+
+    mean_losses: List[float] = []
+    for name, make in factories:
+        fold_losses = []
+        for tr, va in gkf.split(X, y, groups=groups):
+            m = make()
+            m.fit(X[tr], y[tr], sample_weight=sample_weight[tr])
+            p = _predict_proba(m, X[va])
+            ll = log_loss(y[va], np.clip(p, 1e-6, 1 - 1e-6), sample_weight=sample_weight[va])
+            fold_losses.append(float(ll))
+        mean_ll = float(np.mean(fold_losses)) if fold_losses else 0.69
+        mean_losses.append(mean_ll)
+        print(f"[CV] {name:>12s}  logloss={mean_ll:.4f}")
+
+    losses = np.array(mean_losses, dtype=float)
+    w = np.exp(-(losses - losses.min()))
+    w = np.maximum(w, 1e-3)
+    w = w / w.sum()
+
+    fitted: List[Tuple[str, object]] = []
+    for (name, make) in factories:
+        m = make()
+        m.fit(X, y, sample_weight=sample_weight)
+        fitted.append((name, m))
+
+    print("Ensemble weights:", {name: float(wi) for (name, _), wi in zip(fitted, w)})
+    return fitted, w
+
+
+def ensemble_probabilities(models: List[Tuple[str, object]], weights: np.ndarray, X: np.ndarray) -> np.ndarray:
+    P = np.vstack([_predict_proba(m, X) for _, m in models])
+    return (weights.reshape(-1, 1) * P).sum(axis=0)
+
+
+def compute_player_scores_pairwise(
     df: pd.DataFrame,
     features: np.ndarray,
     models: List[Tuple[str, object]],
-    within_position_only: bool = False,
-) -> float:
-    """Compute pairwise prediction accuracy within each season.
-
-    This directly measures how often the model's pairwise preferences agree
-    with draft order, aligning evaluation with the pairwise training objective.
-    """
-    y_true: List[int] = []
-    y_pred: List[int] = []
+    model_weights: np.ndarray,
+    *,
+    within_position_only: bool,
+) -> np.ndarray:
+    scores = np.zeros(len(df), dtype=float)
+    games = np.zeros(len(df), dtype=float)
 
     for season, idx in df.groupby("season").groups.items():
         season_idx = list(idx)
         if len(season_idx) < 2:
             continue
         season_feats = features[season_idx]
-        picks = df.loc[season_idx, "overall_pick"].to_numpy()
-        pos_groups = df.loc[season_idx, "position_group"].to_numpy()
 
+        if within_position_only:
+            pos_cols = [c for c in df.columns if c.startswith("position_group_")]
+            if pos_cols:
+                pos_mat = df.loc[season_idx, pos_cols].to_numpy()
+                pos_key = pos_mat.argmax(axis=1)
+            else:
+                pos_key = np.zeros(len(season_idx), dtype=int)
+        else:
+            pos_key = None
+
+        diffs: List[np.ndarray] = []
+        pair_i: List[int] = []
+        pair_j: List[int] = []
         for i, j in combinations(range(len(season_idx)), 2):
-            if within_position_only:
-                if (
-                    pd.isna(pos_groups[i])
-                    or pd.isna(pos_groups[j])
-                    or pos_groups[i] != pos_groups[j]
-                ):
-                    continue
-            if picks[i] == picks[j]:
+            if within_position_only and pos_key is not None and pos_key[i] != pos_key[j]:
                 continue
-            diff = season_feats[i] - season_feats[j]
-            prob = ensemble_probabilities(models, diff.reshape(1, -1))[0]
-            y_true.append(1 if picks[i] < picks[j] else 0)
-            y_pred.append(1 if prob >= 0.5 else 0)
+            diffs.append(season_feats[i] - season_feats[j])
+            pair_i.append(i)
+            pair_j.append(j)
 
-    if not y_true:
-        return float("nan")
-    return float(accuracy_score(y_true, y_pred))
+        if not diffs:
+            continue
+        X_pairs = np.vstack(diffs)
+        probs = ensemble_probabilities(models, model_weights, X_pairs)
 
+        for k, p in enumerate(probs):
+            gi = season_idx[pair_i[k]]
+            gj = season_idx[pair_j[k]]
+            scores[gi] += p
+            scores[gj] += 1.0 - p
+            games[gi] += 1.0
+            games[gj] += 1.0
+
+    games = np.maximum(games, 1.0)
+    return scores / games
+
+
+def pairwise_fit_predict(
+    train_df: pd.DataFrame,
+    pred_df: pd.DataFrame,
+    feature_cols: List[str],
+    *,
+    within_position_pairs: bool,
+    max_pairs_per_season: int,
+    n_splits: int,
+) -> Tuple[np.ndarray, pd.DataFrame]:
+    train_sorted = _sort_df(train_df)
+    pred_sorted = _sort_df(pred_df)
+
+    imputer, scaler = fit_preprocessors(train_sorted, feature_cols)
+    train_features = transform_features(train_sorted, feature_cols, imputer, scaler)
+    pred_features = transform_features(pred_sorted, feature_cols, imputer, scaler)
+
+    X_train, y_train, g_train, w_train = build_pairwise_samples(
+        train_sorted,
+        train_features,
+        within_position_pairs,
+        max_pairs_per_season=(None if max_pairs_per_season <= 0 else max_pairs_per_season),
+        symmetric_pairs=SYMMETRIC_PAIRS,
+        weight_by_pick_gap=WEIGHT_BY_PICK_GAP,
+        random_state=RANDOM_STATE,
+    )
+    if X_train.shape[0] == 0:
+        raise RuntimeError("No training pairs were constructed. Check filters or data.")
+
+    models, weights = fit_pairwise_models_and_weights(X_train, y_train, g_train, w_train, n_splits=n_splits)
+    scores = compute_player_scores_pairwise(
+        pred_sorted, pred_features, models, weights, within_position_only=within_position_pairs
+    )
+    return scores, pred_sorted
+
+
+# ============================================================
+# Hybrid (proper alpha tuning on held-out seasons)
+# ============================================================
+
+def _split_alpha_val(train_df: pd.DataFrame, alpha_val_last_k: int) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    seasons = np.sort(train_df["season"].unique())
+    if len(seasons) <= 2:
+        return train_df, train_df.iloc[0:0].copy()
+    k = max(1, min(alpha_val_last_k, len(seasons) - 1))
+    alpha_val_seasons = set(seasons[-k:])
+    alpha_val = train_df[train_df["season"].isin(alpha_val_seasons)].copy()
+    train_sub = train_df[~train_df["season"].isin(alpha_val_seasons)].copy()
+    return train_sub.reset_index(drop=True), alpha_val.reset_index(drop=True)
+
+
+def _avg_spearman(df_sorted: pd.DataFrame, scores: np.ndarray) -> float:
+    corrs = evaluate_spearman_by_season(df_sorted, scores)
+    vals = [c for _, c in corrs if not np.isnan(c)]
+    return float(np.mean(vals)) if vals else float("nan")
+
+
+def tune_alpha_on_val(
+    val_sorted: pd.DataFrame,
+    scores_a: np.ndarray,
+    scores_b: np.ndarray,
+    *,
+    step: float = 0.05,
+) -> float:
+    best_alpha = 0.0
+    best = -1e9
+    alphas = np.arange(0.0, 1.0 + 1e-9, step)
+    for a in alphas:
+        s = a * scores_a + (1.0 - a) * scores_b
+        m = _avg_spearman(val_sorted, s)
+        if not np.isnan(m) and m > best:
+            best = m
+            best_alpha = float(a)
+    print(f"[Hybrid] alpha tuning on held-out train seasons: best_alpha={best_alpha:.2f}, val_avg_spearman={best:.3f}")
+    return best_alpha
+
+
+# -----------------------------
+# Main
+# -----------------------------
 
 def main() -> None:
-    df = load_and_clean(DATA_PATH).reset_index(drop=True)
-    feature_cols, dropped_cols, coverage = pick_feature_columns(df)
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--data", type=str, default=str(_resolve_default_data_path()))
+    ap.add_argument("--out", type=str, default=str(DEFAULT_OUTPUT_PATH))
+    ap.add_argument("--mode", type=str, default="ltr", choices=["ltr", "pairwise", "hybrid"])
 
-    train_df = df[df["season"] <= TRAIN_LAST_SEASON].reset_index(drop=True)
-    test_df = df[df["season"] > TRAIN_LAST_SEASON].reset_index(drop=True)
+    ap.add_argument("--train_last_season", type=int, default=None, help="train on seasons <= this")
+    ap.add_argument("--holdout_seasons", type=int, default=DEFAULT_HOLDOUT_SEASONS)
 
-    # Print data diagnostics.
-    print(f"Feature coverage (kept >= {MIN_FEATURE_COVERAGE:.2f} non-null):")
-    print(
-        coverage.sort_values(ascending=True).to_string(float_format=lambda x: f"{x:.3f}")
+    # LTR knobs
+    ap.add_argument("--ltr_season_zscore", action="store_true",
+                    help="Enable per-season z-score normalization for LTR (recommended on your data).")
+    ap.add_argument("--ltr_val_last_k", type=int, default=2,
+                    help="Use last K seasons inside training for early-stopping selection.")
+    # Pairwise knobs
+    ap.add_argument("--within_position_pairs", action="store_true")
+    ap.add_argument("--max_pairs_per_season", type=int, default=MAX_PAIRS_PER_SEASON)
+    ap.add_argument("--n_splits", type=int, default=5)
+
+    # Hybrid knobs
+    ap.add_argument("--alpha_val_last_k", type=int, default=2,
+                    help="In HYBRID mode, hold out last K seasons inside training to tune blend alpha (no leakage).")
+    ap.add_argument("--alpha_step", type=float, default=0.05)
+
+    args = ap.parse_args()
+
+    data_path = Path(args.data)
+    out_path = Path(args.out)
+
+    df = load_and_clean(data_path)
+    feature_cols, dropped_cols = pick_feature_columns(df)
+
+    seasons = np.sort(df["season"].unique())
+    if args.train_last_season is None:
+        if len(seasons) <= args.holdout_seasons:
+            train_last = int(seasons.max())
+        else:
+            train_last = int(seasons[-(args.holdout_seasons + 1)])
+    else:
+        train_last = int(args.train_last_season)
+
+    train_df = df[df["season"] <= train_last].reset_index(drop=True)
+    test_df = df[df["season"] > train_last].reset_index(drop=True)
+
+    print(f"Loaded {len(df)} players from {data_path}")
+    print(f"Seasons: {int(seasons.min())}–{int(seasons.max())} (n={len(seasons)}); train_last_season={train_last}")
+    print(f"Train players: {len(train_df)} | Test players: {len(test_df)}")
+    print(f"Kept {len(feature_cols)} features (coverage >= {MIN_FEATURE_COVERAGE:.2f}). Dropped {len(dropped_cols)} sparse features.")
+
+    if len(feature_cols) == 0:
+        raise RuntimeError("No usable features after coverage filtering.")
+    if len(test_df) == 0:
+        print("No held-out seasons to score (test_df is empty). Exiting.")
+        return
+
+    season_zscore = bool(args.ltr_season_zscore)
+
+    # LTR ensemble configs
+    ensemble_cfgs = [
+        {"seed": RANDOM_STATE, "num_leaves": 63, "learning_rate": 0.03, "num_boost_round": 9000},
+        {"seed": RANDOM_STATE + 101, "num_leaves": 63, "learning_rate": 0.03, "num_boost_round": 9000},
+        {"seed": RANDOM_STATE + 202, "num_leaves": 127, "learning_rate": 0.025, "num_boost_round": 10000},
+    ]
+
+    if args.mode == "ltr":
+        scores, test_sorted = ltr_fit_predict(
+            train_df,
+            test_df,
+            feature_cols,
+            season_zscore=season_zscore,
+            val_last_k=args.ltr_val_last_k,
+            ensemble_cfgs=ensemble_cfgs,
+        )
+        write_rankings_csv(out_path, test_sorted, scores)
+        corrs = evaluate_spearman_by_season(test_sorted, scores)
+        print("Spearman correlations by season (pred_score vs. draft order):")
+        for s, c in sorted(corrs):
+            print(f"  {s}: {c:.3f}")
+        vals = [c for _, c in corrs if not np.isnan(c)]
+        if vals:
+            print(f"Avg Spearman over test seasons: {float(np.mean(vals)):.3f}")
+        return
+
+    if args.mode == "pairwise":
+        scores, test_sorted = pairwise_fit_predict(
+            train_df,
+            test_df,
+            feature_cols,
+            within_position_pairs=args.within_position_pairs,
+            max_pairs_per_season=args.max_pairs_per_season,
+            n_splits=args.n_splits,
+        )
+        write_rankings_csv(out_path, test_sorted, scores)
+        corrs = evaluate_spearman_by_season(test_sorted, scores)
+        print("Spearman correlations by season (pred_score vs. draft order):")
+        for s, c in sorted(corrs):
+            print(f"  {s}: {c:.3f}")
+        vals = [c for _, c in corrs if not np.isnan(c)]
+        if vals:
+            print(f"Avg Spearman over test seasons: {float(np.mean(vals)):.3f}")
+        return
+
+    # HYBRID: tune alpha on held-out seasons within training (no leakage)
+    train_sub, alpha_val = _split_alpha_val(train_df, args.alpha_val_last_k)
+    if len(alpha_val) == 0:
+        print("[Hybrid] Not enough seasons to create alpha validation split; falling back to pairwise.")
+        scores, test_sorted = pairwise_fit_predict(
+            train_df, test_df, feature_cols,
+            within_position_pairs=args.within_position_pairs,
+            max_pairs_per_season=args.max_pairs_per_season,
+            n_splits=args.n_splits,
+        )
+        write_rankings_csv(out_path, test_sorted, scores)
+        return
+
+    # predictions on alpha-val from models trained on train_sub
+    ltr_val_scores, val_sorted = ltr_fit_predict(
+        train_sub, alpha_val, feature_cols,
+        season_zscore=season_zscore,
+        val_last_k=max(1, min(args.ltr_val_last_k, max(1, len(np.sort(train_sub["season"].unique())) - 1))),
+        ensemble_cfgs=ensemble_cfgs,
     )
-    print(f"Kept {len(feature_cols)} features: {feature_cols}")
-    print(f"Dropped {len(dropped_cols)} sparse features: {dropped_cols}")
-    train_pairs_total, train_pairs = count_pairs(train_df)
-    test_pairs_total, test_pairs = count_pairs(test_df)
-    print(
-        f"Train players: {len(train_df)}, seasons: {train_df['season'].nunique()}, pairs: {train_pairs_total}"
-    )
-    print(
-        f"Test players: {len(test_df)}, seasons: {test_df['season'].nunique()}, pairs: {test_pairs_total}"
-    )
-    print(f"Train pair counts by season: {train_pairs}")
-    print(f"Test pair counts by season: {test_pairs}")
-
-    preprocessors = fit_preprocessors(train_df, feature_cols)
-    imputer: SimpleImputer = preprocessors["imputer"]  # type: ignore[assignment]
-    scaler: StandardScaler = preprocessors["scaler"]  # type: ignore[assignment]
-
-    train_features = transform_features(train_df, feature_cols, imputer, scaler)
-    test_features = transform_features(test_df, feature_cols, imputer, scaler)
-
-    # Train pairwise model on full-season pairs (global ordering within season).
-    x_train, y_train = build_pairwise_samples(train_df, train_features, within_position_only=False)
-    x_test, y_test = build_pairwise_samples(test_df, test_features, within_position_only=False)
-
-    models = fit_pairwise_models(x_train, y_train)
-
-    # Pairwise accuracy directly on held-out pairs.
-    ensemble_probs = ensemble_probabilities(models, x_test)
-    test_pred = (ensemble_probs >= 0.5).astype(int)
-    pairwise_acc = accuracy_score(y_test, test_pred)
-
-    # Player-level scores = average win probability vs peers in same season.
-    test_scores_global = compute_player_scores(
-        test_df, test_features, models, within_position_only=False
-    )
-    test_scores_by_pos = compute_player_scores(
-        test_df, test_features, models, within_position_only=True
+    pw_val_scores, _ = pairwise_fit_predict(
+        train_sub, alpha_val, feature_cols,
+        within_position_pairs=args.within_position_pairs,
+        max_pairs_per_season=args.max_pairs_per_season,
+        n_splits=args.n_splits,
     )
 
-    correlations_global = evaluate_spearman_by_season(
-        test_df, test_scores_global, group_by_position=False
+    alpha = tune_alpha_on_val(val_sorted, pw_val_scores, ltr_val_scores, step=args.alpha_step)
+
+    # fit final models on full train_df and predict test_df
+    ltr_test_scores, test_sorted = ltr_fit_predict(
+        train_df, test_df, feature_cols,
+        season_zscore=season_zscore,
+        val_last_k=args.ltr_val_last_k,
+        ensemble_cfgs=ensemble_cfgs,
     )
-    correlations_by_pos = evaluate_spearman_by_season(
-        test_df, test_scores_by_pos, group_by_position=True
+    pw_test_scores, test_sorted2 = pairwise_fit_predict(
+        train_df, test_df, feature_cols,
+        within_position_pairs=args.within_position_pairs,
+        max_pairs_per_season=args.max_pairs_per_season,
+        n_splits=args.n_splits,
     )
 
-    rankings: List[pd.DataFrame] = []
-    for season, idx in test_df.groupby("season").groups.items():
-        subset = test_df.loc[idx].copy()
-        subset["pred_score"] = test_scores_global[list(idx)]
-        subset["pred_rank"] = subset["pred_score"].rank(
-            ascending=False, method="first"
-        ).astype(int)
-        subset = subset.sort_values("pred_rank")[
-            ["season", "player_name", "overall_pick", "pred_score", "pred_rank"]
-        ]
-        rankings.append(subset)
+    # ensure same order
+    if not np.array_equal(test_sorted["season"].to_numpy(), test_sorted2["season"].to_numpy()) or \
+       not np.array_equal(test_sorted["overall_pick"].to_numpy(), test_sorted2["overall_pick"].to_numpy()):
+        key = ["season", "overall_pick"]
+        a = test_sorted[key].copy()
+        a["_idxA"] = np.arange(len(a))
+        b = test_sorted2[key].copy()
+        b["_idxB"] = np.arange(len(b))
+        m = a.merge(b, on=key, how="inner")
+        ltr_test_scores = ltr_test_scores[m["_idxA"].to_numpy()]
+        pw_test_scores = pw_test_scores[m["_idxB"].to_numpy()]
+        test_sorted = test_sorted.iloc[m["_idxA"].to_numpy()].reset_index(drop=True)
 
-    Path(OUTPUT_PATH.parent).mkdir(parents=True, exist_ok=True)
-    pd.concat(rankings).to_csv(OUTPUT_PATH, index=False)
+    hybrid_scores = alpha * pw_test_scores + (1.0 - alpha) * ltr_test_scores
 
-    print(f"Pairwise accuracy on 2023-2025 (full-season pairs): {pairwise_acc:.3f}")
+    write_rankings_csv(out_path, test_sorted, hybrid_scores)
 
-    # Also report pairwise accuracy computed directly over all season pairs.
-    full_pairwise_acc = evaluate_pairwise_accuracy(
-        test_df, test_features, models, within_position_only=False
-    )
-    pos_pairwise_acc = evaluate_pairwise_accuracy(
-        test_df, test_features, models, within_position_only=True
-    )
-    print(f"Pairwise accuracy (recomputed, full-season): {full_pairwise_acc:.3f}")
-    print(f"Pairwise accuracy (within position groups): {pos_pairwise_acc:.3f}")
-
-    print("Spearman correlations by season (global score vs. draft order):")
-    for season, corr in sorted(correlations_global):
-        print(f"  {season}: {corr:.3f}")
-
-    print("Spearman correlations by season (position-group weighted):")
-    for season, corr in sorted(correlations_by_pos):
-        print(f"  {season}: {corr:.3f}")
-    print(f"Wrote rankings to {OUTPUT_PATH}")
+    corrs = evaluate_spearman_by_season(test_sorted, hybrid_scores)
+    print("Spearman correlations by season (pred_score vs. draft order):")
+    for s, c in sorted(corrs):
+        print(f"  {s}: {c:.3f}")
+    vals = [c for _, c in corrs if not np.isnan(c)]
+    if vals:
+        print(f"Avg Spearman over test seasons: {float(np.mean(vals)):.3f}")
 
 
 if __name__ == "__main__":
