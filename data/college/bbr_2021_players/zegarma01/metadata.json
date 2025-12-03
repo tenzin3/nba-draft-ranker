@@ -1,0 +1,12 @@
+{
+  "name": "Marcus Zegarowski",
+  "slug": "zegarma01",
+  "url": "https://www.basketball-reference.com/players/z/zegarma01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "zegarma01/all_college_stats.csv"
+    }
+  ]
+}

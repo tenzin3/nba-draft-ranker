@@ -1,0 +1,112 @@
+{
+  "name": "Jabari Smith Jr.",
+  "slug": "smithja05",
+  "url": "https://www.basketball-reference.com/players/s/smithja05.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "smithja05/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "smithja05/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "smithja05/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "smithja05/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "smithja05/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "smithja05/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "smithja05/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "smithja05/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "smithja05/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "smithja05/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "smithja05/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "smithja05/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "smithja05/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "smithja05/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "smithja05/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "smithja05/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "smithja05/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "smithja05/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "smithja05/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "smithja05/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "smithja05/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "smithja05/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "smithja05/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "smithja05/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "smithja05/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_hou",
+      "csv": "smithja05/contracts_hou.csv"
+    }
+  ]
+}

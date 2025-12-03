@@ -1,0 +1,112 @@
+{
+  "name": "Desmond Bane",
+  "slug": "banede01",
+  "url": "https://www.basketball-reference.com/players/b/banede01.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "banede01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "banede01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "banede01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "banede01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "banede01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "banede01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "banede01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "banede01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "banede01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "banede01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "banede01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "banede01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "banede01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "banede01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "banede01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "banede01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "banede01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "banede01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "banede01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "banede01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "banede01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "banede01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "banede01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "banede01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "banede01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_orl",
+      "csv": "banede01/contracts_orl.csv"
+    }
+  ]
+}

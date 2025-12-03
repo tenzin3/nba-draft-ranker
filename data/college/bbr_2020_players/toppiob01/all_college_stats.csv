@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2018-19,20.0,DAYTON,33,873,201,302,11,21,62,87,50,186,61,21,28,63,70,475,0.666,0.524,0.713,26.5,14.4,5.6,1.8
+2019-20,21.0,DAYTON,31,981,245,387,32,82,99,141,37,234,67,30,38,68,51,621,0.633,0.39,0.702,31.6,20.0,7.5,2.2
+Career,,,64,1854,446,689,43,103,161,228,87,420,128,51,66,131,121,1096,0.647,0.417,0.706,29.0,17.1,6.6,2.0

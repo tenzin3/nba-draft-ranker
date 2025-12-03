@@ -1,0 +1,72 @@
+{
+  "name": "LaMelo Ball",
+  "slug": "ballla01",
+  "url": "https://www.basketball-reference.com/players/b/ballla01.html",
+  "num_tables": 16,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "ballla01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "ballla01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "ballla01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "ballla01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "ballla01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "ballla01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "ballla01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "ballla01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "ballla01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "ballla01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "ballla01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "ballla01/all_star.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "ballla01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "ballla01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "ballla01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_cho",
+      "csv": "ballla01/contracts_cho.csv"
+    }
+  ]
+}

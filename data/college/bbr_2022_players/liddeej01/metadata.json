@@ -1,0 +1,104 @@
+{
+  "name": "E.J. Liddell",
+  "slug": "liddeej01",
+  "url": "https://www.basketball-reference.com/players/l/liddeej01.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "liddeej01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "liddeej01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "liddeej01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "liddeej01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "liddeej01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "liddeej01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "liddeej01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "liddeej01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "liddeej01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "liddeej01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "liddeej01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "liddeej01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "liddeej01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "liddeej01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "liddeej01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "liddeej01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "liddeej01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "liddeej01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "liddeej01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "liddeej01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "liddeej01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "liddeej01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "liddeej01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_pho",
+      "csv": "liddeej01/contracts_pho.csv"
+    }
+  ]
+}

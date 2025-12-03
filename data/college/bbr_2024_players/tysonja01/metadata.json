@@ -1,0 +1,104 @@
+{
+  "name": "Jaylon Tyson",
+  "slug": "tysonja01",
+  "url": "https://www.basketball-reference.com/players/t/tysonja01.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "tysonja01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "tysonja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "tysonja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "tysonja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "tysonja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "tysonja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "tysonja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "tysonja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "tysonja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "tysonja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "tysonja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "tysonja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "tysonja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "tysonja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "tysonja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "tysonja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "tysonja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "tysonja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "tysonja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "tysonja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "tysonja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "tysonja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "tysonja01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_cle",
+      "csv": "tysonja01/contracts_cle.csv"
+    }
+  ]
+}

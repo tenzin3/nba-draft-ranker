@@ -1,0 +1,16 @@
+{
+  "name": "Nikola TopiÄ",
+  "slug": "topicni01",
+  "url": "https://www.basketball-reference.com/players/t/topicni01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_salaries",
+      "csv": "topicni01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_okc",
+      "csv": "topicni01/contracts_okc.csv"
+    }
+  ]
+}

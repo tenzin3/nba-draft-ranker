@@ -1,0 +1,52 @@
+{
+  "name": "Jahmai Mashack",
+  "slug": "mashaja01",
+  "url": "https://www.basketball-reference.com/players/m/mashaja01.html",
+  "num_tables": 11,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "mashaja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "mashaja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "mashaja01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "mashaja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "mashaja01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "mashaja01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "mashaja01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "mashaja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "mashaja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "mashaja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "mashaja01/all_college_stats.csv"
+    }
+  ]
+}

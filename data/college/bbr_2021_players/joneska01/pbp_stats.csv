@@ -1,0 +1,13 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2021-22,21,CHO,NBA,C,21,0,63,0,0,9,50,41,-7.8,-8.4,2,2,3,0,3,0,9,0,0,
+2022-23,22,CHO,NBA,C,46,0,550,0,0,0,58,42,-2.7,3.5,5,5,38,11,16,1,38,8,8,
+2023-24,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league,Did not play - other pro league
+2024-25,24,2TM,NBA,C,40,6,468,0,0,0,4,96,-1.7,-3.2,9,5,34,3,20,0,58,8,3,
+2024-25,24,LAC,NBA,C,28,0,208,0,0,0,10,90,-3.2,-8.2,5,3,15,1,7,0,24,2,1,
+2024-25,24,DAL,NBA,C,12,6,260,0,0,0,0,100,-0.5,0.8,4,2,19,2,13,0,34,6,2,
+3 Yrs,3 Yrs,3 Yrs,3 Yrs,,107,6,1081,0,0,1,35,65,-2.6,-0.1,16,12,75,14,39,1,105,16,11,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,5,828,0,0,1,35,65,-2.6,-0.1,12,9,57,11,30,1,80,12,8,
+,,,,,,,,,,,,,,,,,,,,,,,,
+CHO (2 Yrs),CHO (2 Yrs),CHO (2 Yrs),CHO (2 Yrs),,67,0,613,0,0,1,58,42,-3.3,2.3,7,7,41,11,19,1,47,8,8,
+LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),LAC (1 Yr),,28,0,208,0,0,0,10,90,-3.2,-8.2,5,3,15,1,7,0,24,2,1,
+DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),DAL (1 Yr),,12,6,260,0,0,0,0,100,-0.5,0.8,4,2,19,2,13,0,34,6,2,

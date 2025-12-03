@@ -1,0 +1,12 @@
+{
+  "name": "John Tonje",
+  "slug": "tonjejo01",
+  "url": "https://www.basketball-reference.com/players/t/tonjejo01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "tonjejo01/all_college_stats.csv"
+    }
+  ]
+}

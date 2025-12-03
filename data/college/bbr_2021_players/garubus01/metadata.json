@@ -1,0 +1,60 @@
+{
+  "name": "Usman Garuba",
+  "slug": "garubus01",
+  "url": "https://www.basketball-reference.com/players/g/garubus01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "garubus01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "garubus01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "garubus01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "garubus01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "garubus01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "garubus01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "garubus01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "garubus01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "garubus01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "garubus01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "garubus01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "garubus01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "garubus01/all_salaries.csv"
+    }
+  ]
+}

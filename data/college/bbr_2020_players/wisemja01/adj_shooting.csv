@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2020-21,19,GSW,NBA,C,39,27,836,.519,.542,.316,.535,.628,.552,.234,.103,111,102,86,100,81,97,95,26,-1.9,-16.1,
+2021-22,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2022-23,21,2TM,NBA,C,45,22,867,.558,.580,.200,.563,.701,.589,.286,.059,117,106,55,103,90,101,107,15,12.3,6.3,
+2022-23,21,GSW,NBA,C,21,0,262,.628,.630,.500,.633,.684,.655,.404,.021,132,115,139,116,88,113,152,5,16.5,16.3,
+2022-23,21,DET,NBA,C,24,22,605,.531,.559,.167,.537,.712,.563,.241,.073,112,102,46,98,91,97,90,19,-4.2,-10.0,
+2023-24,22,DET,NBA,C,63,6,1091,.613,.617,.000,.613,.706,.637,.334,.007,129,113,0,112,90,110,137,2,40.6,40.1,
+2024-25,23,IND,NBA,C,1,0,5,.500,.667,.000,.500,1.000,.615,.500,.250,107,122,0,92,128,107,206,59,-0.3,0.4,
+2025-26,24,IND,NBA,C,1,1,20,.667,.667,,.667,,.667,.000,.000,142,122,,123,,114,0,0,0.7,0.5,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,149,56,2819,.560,.579,.262,.568,.683,.591,.282,.060,119,107,72,105,87,102,112,15,51.4,31.2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (2 Yrs),DET (2 Yrs),DET (2 Yrs),DET (2 Yrs),,87,28,1696,.576,.592,.150,.579,.708,.605,.293,.036,121,108,42,106,90,104,116,9,36.4,30.1,
+GSW (2 Yrs),GSW (2 Yrs),GSW (2 Yrs),GSW (2 Yrs),,60,27,1098,.541,.562,.325,.555,.645,.574,.268,.087,115,105,89,103,83,100,106,22,14.6,0.2,
+IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),IND (2 Yrs),,2,1,25,.571,.667,.000,.571,1.000,.635,.286,.143,122,122,0,105,128,110,118,34,0.4,0.9,

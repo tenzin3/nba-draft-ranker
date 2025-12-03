@@ -1,0 +1,60 @@
+{
+  "name": "Walter Clayton",
+  "slug": "claytwa01",
+  "url": "https://www.basketball-reference.com/players/c/claytwa01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "claytwa01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "claytwa01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "claytwa01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "claytwa01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "claytwa01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "claytwa01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "claytwa01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "claytwa01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "claytwa01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "claytwa01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "claytwa01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "claytwa01/all_college_stats.csv"
+    },
+    {
+      "table_id": "contracts_uta",
+      "csv": "claytwa01/contracts_uta.csv"
+    }
+  ]
+}

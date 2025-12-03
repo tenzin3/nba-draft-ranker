@@ -1,0 +1,112 @@
+{
+  "name": "Paul Reed",
+  "slug": "reedpa01",
+  "url": "https://www.basketball-reference.com/players/r/reedpa01.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "reedpa01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "reedpa01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "reedpa01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "reedpa01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "reedpa01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "reedpa01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "reedpa01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "reedpa01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "reedpa01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "reedpa01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "reedpa01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "reedpa01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "reedpa01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "reedpa01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "reedpa01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "reedpa01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "reedpa01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "reedpa01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "reedpa01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "reedpa01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "reedpa01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "reedpa01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "reedpa01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "reedpa01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "reedpa01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_det",
+      "csv": "reedpa01/contracts_det.csv"
+    }
+  ]
+}

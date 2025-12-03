@@ -1,0 +1,72 @@
+{
+  "name": "Devin Vassell",
+  "slug": "vassede01",
+  "url": "https://www.basketball-reference.com/players/v/vassede01.html",
+  "num_tables": 16,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "vassede01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "vassede01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "vassede01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "vassede01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "vassede01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "vassede01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "vassede01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "vassede01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "vassede01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "vassede01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "vassede01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "vassede01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "vassede01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "vassede01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "vassede01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_sas",
+      "csv": "vassede01/contracts_sas.csv"
+    }
+  ]
+}

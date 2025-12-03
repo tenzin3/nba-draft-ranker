@@ -1,0 +1,64 @@
+{
+  "name": "Oso Ighodaro",
+  "slug": "ighodos01",
+  "url": "https://www.basketball-reference.com/players/i/ighodos01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "ighodos01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "ighodos01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "ighodos01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "ighodos01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "ighodos01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "ighodos01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "ighodos01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "ighodos01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "ighodos01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "ighodos01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "ighodos01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "ighodos01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "ighodos01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_pho",
+      "csv": "ighodos01/contracts_pho.csv"
+    }
+  ]
+}

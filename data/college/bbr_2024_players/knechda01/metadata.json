@@ -1,0 +1,108 @@
+{
+  "name": "Dalton Knecht",
+  "slug": "knechda01",
+  "url": "https://www.basketball-reference.com/players/k/knechda01.html",
+  "num_tables": 25,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "knechda01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "knechda01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "knechda01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "knechda01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "knechda01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "knechda01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "knechda01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "knechda01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "knechda01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "knechda01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "knechda01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "knechda01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "knechda01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "knechda01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "knechda01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "knechda01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "knechda01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "knechda01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "knechda01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "knechda01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "knechda01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "knechda01/all_star.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "knechda01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "knechda01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_lal",
+      "csv": "knechda01/contracts_lal.csv"
+    }
+  ]
+}

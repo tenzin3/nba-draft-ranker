@@ -1,0 +1,56 @@
+{
+  "name": "Jalen Slawson",
+  "slug": "slawsja01",
+  "url": "https://www.basketball-reference.com/players/s/slawsja01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "slawsja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "slawsja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "slawsja01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "slawsja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "slawsja01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "slawsja01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "slawsja01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "slawsja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "slawsja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "slawsja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "slawsja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "slawsja01/all_salaries.csv"
+    }
+  ]
+}

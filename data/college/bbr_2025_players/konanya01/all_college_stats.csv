@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2022-23,19.0,NILLINOIS,20,152,18,42,3,16,4,5,7,30,3,3,10,16,43,43,0.429,0.188,0.8,7.6,2.2,1.5,0.2
+2023-24,20.0,NILLINOIS,27,530,72,133,7,24,47,77,43,120,9,5,57,39,69,198,0.541,0.292,0.61,19.6,7.3,4.4,0.3
+2024-25,21.0,PENNST,29,728,143,234,1,11,87,131,60,184,22,19,67,48,73,374,0.611,0.091,0.664,25.1,12.9,6.3,0.8
+Career,,,76,1410,233,409,11,51,138,213,110,334,34,27,134,103,185,615,0.57,0.216,0.648,18.6,8.1,4.4,0.4

@@ -1,0 +1,64 @@
+{
+  "name": "Devin Carter",
+  "slug": "cartede02",
+  "url": "https://www.basketball-reference.com/players/c/cartede02.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "cartede02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "cartede02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "cartede02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "cartede02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "cartede02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "cartede02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "cartede02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "cartede02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "cartede02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "cartede02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "cartede02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "cartede02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "cartede02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_sac",
+      "csv": "cartede02/contracts_sac.csv"
+    }
+  ]
+}

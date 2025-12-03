@@ -1,0 +1,56 @@
+{
+  "name": "Kennedy Chandler",
+  "slug": "chandke01",
+  "url": "https://www.basketball-reference.com/players/c/chandke01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "chandke01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "chandke01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "chandke01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "chandke01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "chandke01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "chandke01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "chandke01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "chandke01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "chandke01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "chandke01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "chandke01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "chandke01/all_salaries.csv"
+    }
+  ]
+}

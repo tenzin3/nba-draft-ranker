@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2019-20,19.0,ARIZONA,28,233,28,58,0,1,7,20,27,67,5,9,25,3,37,63,0.483,0.0,0.35,8.3,2.3,2.4,0.2
+2020-21,20.0,ARIZONA,26,451,51,98,0,1,35,56,58,125,8,12,35,19,70,137,0.52,0.0,0.625,17.3,5.3,4.8,0.3
+2021-22,21.0,ARIZONA,37,941,183,288,0,3,100,136,95,270,51,28,102,59,103,466,0.635,0.0,0.735,25.4,12.6,7.3,1.4
+Career,,,91,1625,262,444,0,5,142,212,180,462,64,49,162,81,210,666,0.59,0.0,0.67,17.9,7.3,5.1,0.7

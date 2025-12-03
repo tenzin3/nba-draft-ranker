@@ -1,0 +1,68 @@
+{
+  "name": "Keyonte George",
+  "slug": "georgke01",
+  "url": "https://www.basketball-reference.com/players/g/georgke01.html",
+  "num_tables": 15,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "georgke01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "georgke01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "georgke01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "georgke01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "georgke01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "georgke01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "georgke01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "georgke01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "georgke01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "georgke01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "georgke01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_star",
+      "csv": "georgke01/all_star.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "georgke01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "georgke01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_uta",
+      "csv": "georgke01/contracts_uta.csv"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Jaylin Williams",
+  "slug": "willija07",
+  "url": "https://www.basketball-reference.com/players/w/willija07.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "willija07/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "willija07/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "willija07/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "willija07/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "willija07/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "willija07/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "willija07/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "willija07/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "willija07/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "willija07/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "willija07/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "willija07/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "willija07/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "willija07/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "willija07/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "willija07/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "willija07/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "willija07/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "willija07/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "willija07/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "willija07/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "willija07/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "willija07/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "willija07/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "willija07/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_okc",
+      "csv": "willija07/contracts_okc.csv"
+    }
+  ]
+}

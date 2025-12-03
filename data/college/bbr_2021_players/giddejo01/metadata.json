@@ -1,0 +1,108 @@
+{
+  "name": "Josh Giddey",
+  "slug": "giddejo01",
+  "url": "https://www.basketball-reference.com/players/g/giddejo01.html",
+  "num_tables": 25,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "giddejo01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "giddejo01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "giddejo01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "giddejo01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "giddejo01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "giddejo01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "giddejo01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "giddejo01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "giddejo01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "giddejo01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "giddejo01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "giddejo01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "giddejo01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "giddejo01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "giddejo01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "giddejo01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "giddejo01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "giddejo01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "giddejo01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "giddejo01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "giddejo01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "giddejo01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "giddejo01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "giddejo01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_chi",
+      "csv": "giddejo01/contracts_chi.csv"
+    }
+  ]
+}

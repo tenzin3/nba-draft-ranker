@@ -1,0 +1,104 @@
+{
+  "name": "Kessler Edwards",
+  "slug": "edwarke02",
+  "url": "https://www.basketball-reference.com/players/e/edwarke02.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "edwarke02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "edwarke02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "edwarke02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "edwarke02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "edwarke02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "edwarke02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "edwarke02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "edwarke02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "edwarke02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "edwarke02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "edwarke02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "edwarke02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "edwarke02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "edwarke02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "edwarke02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "edwarke02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "edwarke02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "edwarke02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "edwarke02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "edwarke02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "edwarke02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "edwarke02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "edwarke02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "edwarke02/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Liam McNeeley",
+  "slug": "mcneeli01",
+  "url": "https://www.basketball-reference.com/players/m/mcneeli01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "mcneeli01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "mcneeli01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "mcneeli01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "mcneeli01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "mcneeli01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "mcneeli01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "mcneeli01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "mcneeli01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "mcneeli01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "mcneeli01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "mcneeli01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "mcneeli01/all_college_stats.csv"
+    },
+    {
+      "table_id": "contracts_cho",
+      "csv": "mcneeli01/contracts_cho.csv"
+    }
+  ]
+}

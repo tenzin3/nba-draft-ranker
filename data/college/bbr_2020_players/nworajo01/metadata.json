@@ -1,0 +1,104 @@
+{
+  "name": "Jordan Nwora",
+  "slug": "nworajo01",
+  "url": "https://www.basketball-reference.com/players/n/nworajo01.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "nworajo01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "nworajo01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "nworajo01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "nworajo01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "nworajo01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "nworajo01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "nworajo01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "nworajo01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "nworajo01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "nworajo01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "nworajo01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "nworajo01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "nworajo01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "nworajo01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "nworajo01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "nworajo01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "nworajo01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "nworajo01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "nworajo01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "nworajo01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "nworajo01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "nworajo01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "nworajo01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "nworajo01/all_salaries.csv"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Thomas Sorber",
+  "slug": "sorbeth01",
+  "url": "https://www.basketball-reference.com/players/s/sorbeth01.html",
+  "num_tables": 2,
+  "tables": [
+    {
+      "table_id": "all_college_stats",
+      "csv": "sorbeth01/all_college_stats.csv"
+    },
+    {
+      "table_id": "contracts_okc",
+      "csv": "sorbeth01/contracts_okc.csv"
+    }
+  ]
+}

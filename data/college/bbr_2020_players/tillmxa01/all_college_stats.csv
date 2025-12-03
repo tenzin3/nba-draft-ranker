@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2017-18,19.0,MICHIGANST,35,305,39,60,0,0,21,32,35,92,10,9,23,16,35,99,0.65,,0.656,8.7,2.8,2.6,0.3
+2018-19,20.0,MICHIGANST,39,935,144,238,8,27,93,127,96,284,64,37,65,58,110,389,0.605,0.296,0.732,24.0,10.0,7.3,1.6
+2019-20,21.0,MICHIGANST,31,995,165,300,13,50,82,123,83,320,93,37,65,61,81,425,0.55,0.26,0.667,32.1,13.7,10.3,3.0
+Career,,,105,2235,348,598,21,77,196,282,214,696,167,83,153,135,226,913,0.582,0.273,0.695,21.3,8.7,6.6,1.6

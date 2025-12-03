@@ -1,0 +1,96 @@
+{
+  "name": "Cassius Winston",
+  "slug": "winstca01",
+  "url": "https://www.basketball-reference.com/players/w/winstca01.html",
+  "num_tables": 22,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "winstca01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "winstca01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "winstca01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "winstca01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "winstca01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "winstca01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "winstca01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "winstca01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "winstca01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "winstca01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "winstca01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "winstca01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "winstca01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "winstca01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "winstca01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "winstca01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "winstca01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "winstca01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "winstca01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "winstca01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "winstca01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "winstca01/all_salaries.csv"
+    }
+  ]
+}

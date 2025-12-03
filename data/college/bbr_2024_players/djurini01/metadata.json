@@ -1,0 +1,12 @@
+{
+  "name": "Nikola Djurisic",
+  "slug": "djurini01",
+  "url": "https://www.basketball-reference.com/players/d/djurini01.html",
+  "num_tables": 1,
+  "tables": [
+    {
+      "table_id": "contracts_atl",
+      "csv": "djurini01/contracts_atl.csv"
+    }
+  ]
+}
