@@ -14,9 +14,9 @@ pairwise_rank.py (Improved)
   * stronger ensemble incl. HGB, ExtraTrees, Logistic, SGD, optional LGBMClassifier
 
 Usage:
-  python pairwise_rank.py --data outputs/nba_draft_final.csv --train_last_season 2015 --mode ltr --ltr_season_zscore
-  python pairwise_rank.py --data outputs/nba_draft_final.csv --train_last_season 2015 --mode pairwise --max_pairs_per_season 30000
-  python pairwise_rank.py --data outputs/nba_draft_final.csv --train_last_season 2015 --mode hybrid --ltr_season_zscore --alpha_val_last_k 2
+  python -m ranker.pairwise.pairwise_rank --data outputs/nba_draft_final.csv --train_last_season 2015 --mode ltr --ltr_season_zscore
+  python -m ranker.pairwise.pairwise_rank --data outputs/nba_draft_final.csv --train_last_season 2015 --mode pairwise --max_pairs_per_season 30000
+  python -m ranker.pairwise.pairwise_rank --data outputs/nba_draft_final.csv --train_last_season 2015 --mode hybrid --ltr_season_zscore --alpha_val_last_k 2
 """
 
 from __future__ import annotations
@@ -36,6 +36,7 @@ from sklearn.metrics import log_loss
 from sklearn.model_selection import GroupKFold
 from sklearn.linear_model import LogisticRegression, SGDClassifier
 from sklearn.ensemble import ExtraTreesClassifier, HistGradientBoostingClassifier
+from sklearn.feature_selection import mutual_info_regression
 
 import lightgbm as lgb
 
@@ -49,13 +50,14 @@ except Exception:
 # Defaults
 # -----------------------------
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+# Only use the notebook's data source: outputs/nba_college_selected_features.csv at repo root.
 DEFAULT_DATA_PATHS = [
-    Path("outputs/nba_draft_final.csv"),
-    Path("nba_draft_final.csv"),
-    Path("nba_college_selected_features.csv"),
+    PROJECT_ROOT / "outputs" / "nba_college_selected_features.csv",
     Path("outputs/nba_college_selected_features.csv"),
 ]
-DEFAULT_OUTPUT_PATH = Path("outputs/pairwise_rankings.csv")
+DEFAULT_OUTPUT_PATH = PROJECT_ROOT / "outputs" / "pairwise_rankings.csv"
 
 DEFAULT_HOLDOUT_SEASONS = 4
 MIN_FEATURE_COVERAGE = 0.50
@@ -133,6 +135,84 @@ def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
     return df.sort_values(["season", "overall_pick"]).reset_index(drop=True)
 
 
+def _default_ltr_search_space() -> List[Dict]:
+    # Modest grid sized for this dataset; early stopping will trim rounds.
+    leaves = [31, 47, 63]
+    lrs = [0.04, 0.05]
+    mins = [20, 30]
+    rounds = [2000, 3000]
+    space: List[Dict] = []
+    for n in leaves:
+        for lr in lrs:
+            for m in mins:
+                for r in rounds:
+                    space.append(
+                        {
+                            "num_leaves": n,
+                            "learning_rate": lr,
+                            "min_child_samples": m,
+                            "num_boost_round": r,
+                            "colsample_bytree": 0.85,
+                            "subsample": 0.9,
+                        }
+                    )
+    return space
+
+
+def _add_rate_features(df: pd.DataFrame) -> pd.DataFrame:
+    """Create per-minute rates from totals for richer signal on this dataset."""
+    rate_cols = ["totals_fg", "totals_ft", "totals_trb", "totals_blk", "totals_stl", "totals_tov", "totals_pf"]
+    out = df.copy()
+    mp = out.get("mp")
+    if mp is None:
+        return out
+    mp = pd.to_numeric(mp, errors="coerce").replace(0, np.nan)
+    for col in rate_cols:
+        if col in out.columns:
+            out[f"{col}_per_min"] = out[col] / mp
+    return out
+
+
+def _score_features(train_df: pd.DataFrame, feature_cols: List[str]) -> List[Tuple[str, float, float, float]]:
+    """
+    Score features using Spearman correlation (absolute) and mutual information
+    against -overall_pick (higher is better pick).
+    Returns list of (col, spearman, mi, combined_score).
+    """
+    y = -train_df["overall_pick"].to_numpy()
+    scores: List[Tuple[str, float, float, float]] = []
+    for col in feature_cols:
+        s = pd.to_numeric(train_df[col], errors="coerce")
+        mask = s.notna()
+        if mask.sum() < 10:
+            continue
+        sp = float(spearmanr(y[mask], s[mask]).correlation)
+        try:
+            mi = float(mutual_info_regression(s[mask].to_frame(), y[mask], random_state=RANDOM_STATE)[0])
+        except Exception:
+            mi = 0.0
+        scores.append((col, sp, mi, 0.0))
+
+    if not scores:
+        return []
+
+    max_mi = max(abs(mi) for _, _, mi, _ in scores) or 1.0
+    out: List[Tuple[str, float, float, float]] = []
+    for col, sp, mi, _ in scores:
+        combined = abs(sp) + 0.5 * (mi / max_mi)
+        out.append((col, sp, mi, combined))
+    out.sort(key=lambda x: x[3], reverse=True)
+    return out
+
+
+def select_top_features(train_df: pd.DataFrame, feature_cols: List[str], top_k: int) -> Tuple[List[str], List[Tuple[str, float, float, float]]]:
+    scores = _score_features(train_df, feature_cols)
+    if not scores:
+        return feature_cols, []
+    selected = [c for c, _, _, _ in scores[:max(1, top_k)]]
+    return selected, scores
+
+
 # -----------------------------
 # Load / clean
 # -----------------------------
@@ -181,10 +261,34 @@ def load_and_clean(path: Path) -> pd.DataFrame:
         if df[col].dtype == "object":
             df[col] = pd.to_numeric(df[col], errors="coerce")
 
+    df = _add_rate_features(df)
+
     return df.reset_index(drop=True)
 
 
 def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
+    curated_order = [
+        "shooting_fg%",
+        "mp",
+        "age",
+        # per-minute derived
+        "totals_fg_per_min",
+        "totals_ft_per_min",
+        "totals_trb_per_min",
+        "totals_blk_per_min",
+        "totals_stl_per_min",
+        "totals_tov_per_min",
+        "totals_pf_per_min",
+        # raw totals (fallback)
+        "totals_fg",
+        "totals_ft",
+        "totals_trb",
+        "totals_blk",
+        "totals_stl",
+        "totals_tov",
+        "totals_pf",
+    ]
+
     drop_cols = {
         "overall_pick",
         "round_number",
@@ -193,12 +297,18 @@ def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
         "draft_year",
         "person_id",
         "player_profile_flag",
+        "player_name",
     }
     object_cols = set(df.select_dtypes(include=["object"]).columns.tolist())
     candidate = df.drop(columns=list(drop_cols | object_cols), errors="ignore")
     coverage = candidate.notna().mean()
-    eligible = coverage[coverage >= MIN_FEATURE_COVERAGE].index.tolist()
-    dropped = [c for c in coverage.index if c not in eligible]
+    eligible = [c for c in curated_order if c in candidate.columns and coverage.get(c, 0.0) >= MIN_FEATURE_COVERAGE]
+
+    for col in candidate.columns:
+        if col not in eligible and coverage.get(col, 0.0) >= MIN_FEATURE_COVERAGE:
+            eligible.append(col)
+
+    dropped = sorted(set(candidate.columns) - set(eligible))
     return eligible, dropped
 
 
@@ -714,6 +824,130 @@ def _avg_spearman(df_sorted: pd.DataFrame, scores: np.ndarray) -> float:
     return float(np.mean(vals)) if vals else float("nan")
 
 
+def grid_search_ltr(
+    train_df: pd.DataFrame,
+    feature_cols: List[str],
+    *,
+    season_zscore: bool,
+    val_last_k: int,
+    search_space: Optional[List[Dict]] = None,
+    log_every: int = 200,
+) -> Tuple[Dict, float, List[Tuple[Dict, float, int]]]:
+    """
+    Grid search LTR hyperparameters using last-k seasons as validation.
+    Returns (best_cfg, best_score, results).
+    """
+    space = search_space if search_space is not None else _default_ltr_search_space()
+    if not space:
+        raise ValueError("LTR search space is empty.")
+
+    X_df, y, group_sizes, df_sorted, season_order = _make_ltr_arrays(
+        train_df, feature_cols, season_zscore=season_zscore
+    )
+    tr_idx, va_idx, group_tr, group_val = _split_groups_last_k(season_order, group_sizes, val_last_k)
+    if len(tr_idx) == 0 or len(group_tr) == 0:
+        raise RuntimeError("Not enough seasons left for training after validation split. Decrease ltr_val_last_k.")
+    if len(va_idx) == 0 or len(group_val) == 0:
+        raise RuntimeError("Not enough seasons to perform validation-based grid search.")
+
+    results: List[Tuple[Dict, float, int]] = []
+    best_cfg: Optional[Dict] = None
+    best_score = -1e9
+
+    for i, cfg in enumerate(space, 1):
+        params = {
+            "objective": "lambdarank",
+            "boosting_type": "gbdt",
+            "learning_rate": cfg.get("learning_rate", 0.04),
+            "num_leaves": cfg.get("num_leaves", 31),
+            "min_data_in_leaf": cfg.get("min_child_samples", 20),
+            "feature_fraction": cfg.get("colsample_bytree", 0.85),
+            "bagging_fraction": cfg.get("subsample", 0.85),
+            "bagging_freq": 1,
+            "lambda_l2": cfg.get("reg_lambda", 1.0),
+            "seed": cfg.get("seed", RANDOM_STATE),
+            "verbosity": -1,
+            "metric": "None",
+            "label_gain": list(range(int(np.max(y)) + 1)),
+        }
+        num_boost_round = int(cfg.get("num_boost_round", 2000))
+        early_stopping_rounds = int(cfg.get("early_stopping_rounds", 200))
+
+        dtrain = lgb.Dataset(X_df.iloc[tr_idx], label=y[tr_idx])
+        dtrain.set_group(group_tr)
+        dvalid = lgb.Dataset(X_df.iloc[va_idx], label=y[va_idx], reference=dtrain)
+        dvalid.set_group(group_val)
+
+        booster = lgb.train(
+            params=params,
+            train_set=dtrain,
+            num_boost_round=num_boost_round,
+            valid_sets=[dvalid],
+            feval=_feval_mean_spearman,
+            callbacks=[
+                lgb.early_stopping(early_stopping_rounds, first_metric_only=True, verbose=False),
+                lgb.log_evaluation(log_every),
+            ],
+        )
+
+        best_iter = booster.best_iteration or num_boost_round
+        preds = booster.predict(X_df.iloc[va_idx], num_iteration=best_iter)
+        val_df = df_sorted.iloc[va_idx].reset_index(drop=True)
+        score = _avg_spearman(val_df, preds)
+        results.append((cfg, score, int(best_iter)))
+
+        if not np.isnan(score) and score > best_score:
+            best_score = score
+            best_cfg = cfg
+
+        print(f"[Grid LTR] {i}/{len(space)} cfg={cfg}  val_spearman={score:.4f}  best_iter={best_iter}")
+
+    if best_cfg is None:
+        raise RuntimeError("Grid search failed to find a valid configuration.")
+
+    print("[Grid LTR] Best cfg:", best_cfg, f"val_spearman={best_score:.4f}")
+    return best_cfg, best_score, results
+
+
+def random_search_ltr(
+    train_df: pd.DataFrame,
+    feature_cols: List[str],
+    *,
+    season_zscore: bool,
+    val_last_k: int,
+    n_trials: int = 15,
+    seed: int = RANDOM_STATE,
+    log_every: int = 200,
+) -> Tuple[Dict, float, List[Tuple[Dict, float, int]]]:
+    """
+    Random search over a wider hyperparam space for LTR.
+    Returns (best_cfg, best_score, results).
+    """
+    rng = np.random.default_rng(seed)
+    space: List[Dict] = []
+    for _ in range(max(1, n_trials)):
+        cfg = {
+            "num_leaves": int(rng.choice([15, 31, 47, 63, 95])),
+            "learning_rate": float(rng.uniform(0.025, 0.08)),
+            "min_child_samples": int(rng.choice([15, 20, 25, 30, 40])),
+            "colsample_bytree": float(rng.uniform(0.7, 0.95)),
+            "subsample": float(rng.uniform(0.7, 0.95)),
+            "reg_lambda": float(rng.uniform(0.0, 1.5)),
+            "num_boost_round": int(rng.integers(1500, 4500)),
+        }
+        space.append(cfg)
+
+    print(f"[Random LTR] Trials: {len(space)}")
+    return grid_search_ltr(
+        train_df,
+        feature_cols,
+        season_zscore=season_zscore,
+        val_last_k=val_last_k,
+        search_space=space,
+        log_every=log_every,
+    )
+
+
 def tune_alpha_on_val(
     val_sorted: pd.DataFrame,
     scores_a: np.ndarray,
@@ -752,6 +986,12 @@ def main() -> None:
                     help="Enable per-season z-score normalization for LTR (recommended on your data).")
     ap.add_argument("--ltr_val_last_k", type=int, default=2,
                     help="Use last K seasons inside training for early-stopping selection.")
+    ap.add_argument("--ltr_grid_search", action="store_true",
+                    help="Run small grid search on train split to pick LTR hyperparameters.")
+    ap.add_argument("--ltr_random_search_trials", type=int, default=0,
+                    help="If >0, run random search with this many trials to pick LTR hyperparameters.")
+    ap.add_argument("--feature_select_top_k", type=int, default=None,
+                    help="If set, select top K features using Spearman+mutual-info on train split.")
     # Pairwise knobs
     ap.add_argument("--within_position_pairs", action="store_true")
     ap.add_argument("--max_pairs_per_season", type=int, default=MAX_PAIRS_PER_SEASON)
@@ -770,6 +1010,8 @@ def main() -> None:
     df = load_and_clean(data_path)
     feature_cols, dropped_cols = pick_feature_columns(df)
 
+    selected_scores: List[Tuple[str, float, float, float]] = []
+
     seasons = np.sort(df["season"].unique())
     if args.train_last_season is None:
         if len(seasons) <= args.holdout_seasons:
@@ -781,6 +1023,13 @@ def main() -> None:
 
     train_df = df[df["season"] <= train_last].reset_index(drop=True)
     test_df = df[df["season"] > train_last].reset_index(drop=True)
+
+    if args.feature_select_top_k is not None:
+        feature_cols, selected_scores = select_top_features(train_df, feature_cols, args.feature_select_top_k)
+        if selected_scores:
+            print(f"[FeatureSelect] top {len(feature_cols)} features (combined Spearman/MI):")
+            for col, sp, mi, score in selected_scores[:args.feature_select_top_k]:
+                print(f"  {col:20s}  spearman={sp:+.3f}  mi={mi:.4f}  combined={score:.3f}")
 
     print(f"Loaded {len(df)} players from {data_path}")
     print(f"Seasons: {int(seasons.min())}–{int(seasons.max())} (n={len(seasons)}); train_last_season={train_last}")
@@ -797,10 +1046,31 @@ def main() -> None:
 
     # LTR ensemble configs
     ensemble_cfgs = [
-        {"seed": RANDOM_STATE, "num_leaves": 63, "learning_rate": 0.03, "num_boost_round": 9000},
-        {"seed": RANDOM_STATE + 101, "num_leaves": 63, "learning_rate": 0.03, "num_boost_round": 9000},
-        {"seed": RANDOM_STATE + 202, "num_leaves": 127, "learning_rate": 0.025, "num_boost_round": 10000},
+        {"seed": RANDOM_STATE, "num_leaves": 31, "learning_rate": 0.05, "num_boost_round": 3000, "min_child_samples": 20},
+        {"seed": RANDOM_STATE + 101, "num_leaves": 47, "learning_rate": 0.04, "num_boost_round": 3500, "min_child_samples": 25},
+        {"seed": RANDOM_STATE + 202, "num_leaves": 63, "learning_rate": 0.035, "num_boost_round": 4000, "min_child_samples": 30},
     ]
+    if args.ltr_random_search_trials and args.ltr_random_search_trials > 0:
+        best_cfg, best_score, _ = random_search_ltr(
+            train_df,
+            feature_cols,
+            season_zscore=season_zscore,
+            val_last_k=args.ltr_val_last_k,
+            n_trials=args.ltr_random_search_trials,
+        )
+        seeds = [RANDOM_STATE, RANDOM_STATE + 101, RANDOM_STATE + 202]
+        ensemble_cfgs = [{**best_cfg, "seed": s} for s in seeds]
+        print(f"[Random LTR] Using best cfg for ensemble: val_spearman={best_score:.4f}")
+    elif args.ltr_grid_search:
+        best_cfg, best_score, _ = grid_search_ltr(
+            train_df,
+            feature_cols,
+            season_zscore=season_zscore,
+            val_last_k=args.ltr_val_last_k,
+        )
+        seeds = [RANDOM_STATE, RANDOM_STATE + 101, RANDOM_STATE + 202]
+        ensemble_cfgs = [{**best_cfg, "seed": s} for s in seeds]
+        print(f"[Grid LTR] Using best cfg for ensemble: val_spearman={best_score:.4f}")
 
     if args.mode == "ltr":
         scores, test_sorted = ltr_fit_predict(
