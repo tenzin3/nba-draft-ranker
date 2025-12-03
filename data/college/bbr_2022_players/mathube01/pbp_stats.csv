@@ -1,0 +1,7 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2022-23,20,IND,NBA,SG,78,17,2222,1,65,34,0,0,-4.5,-2.5,56,49,67,30,218,10,288,52,83,"ROY-4,6MOY-8"
+2023-24,21,IND,NBA,SF,59,19,1538,0,4,70,26,0,-2.3,-8.7,43,26,64,14,113,9,290,27,74,
+2024-25,22,IND,NBA,SF,72,49,2149,0,13,85,2,0,2.8,0.9,50,56,86,19,158,8,327,28,67,
+2025-26,23,IND,NBA,SF,10,10,326,0,51,49,0,0,-6.5,3.2,11,10,15,6,35,0,61,8,7,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,219,95,6235,0,31,61,7,0,-1.6,-2.6,160,141,232,69,524,27,966,115,231,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,36,2335,0,31,61,7,0,-1.6,-2.6,60,53,87,26,196,10,362,43,86,

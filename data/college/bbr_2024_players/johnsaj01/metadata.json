@@ -1,0 +1,60 @@
+{
+  "name": "AJ Johnson",
+  "slug": "johnsaj01",
+  "url": "https://www.basketball-reference.com/players/j/johnsaj01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "johnsaj01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnsaj01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnsaj01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnsaj01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnsaj01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnsaj01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnsaj01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnsaj01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnsaj01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnsaj01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnsaj01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnsaj01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_was",
+      "csv": "johnsaj01/contracts_was.csv"
+    }
+  ]
+}

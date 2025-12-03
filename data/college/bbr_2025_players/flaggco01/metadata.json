@@ -1,0 +1,60 @@
+{
+  "name": "Cooper Flagg",
+  "slug": "flaggco01",
+  "url": "https://www.basketball-reference.com/players/f/flaggco01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "flaggco01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "flaggco01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "flaggco01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "flaggco01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "flaggco01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "flaggco01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "flaggco01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "flaggco01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "flaggco01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "flaggco01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "flaggco01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "flaggco01/all_college_stats.csv"
+    },
+    {
+      "table_id": "contracts_dal",
+      "csv": "flaggco01/contracts_dal.csv"
+    }
+  ]
+}

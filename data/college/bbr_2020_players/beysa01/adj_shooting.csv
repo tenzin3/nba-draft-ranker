@@ -1,0 +1,14 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2020-21,21,DET,NBA,SF,70,53,1909,.404,.450,.380,.530,.844,.567,.213,.666,87,85,104,99,108,99,86,170,-10.4,-7.2,ROY-4
+2021-22,22,DET,NBA,SF,82,82,2704,.396,.454,.346,.489,.827,.529,.224,.537,86,85,98,92,107,94,90,134,-97.0,-91.5,
+2022-23,23,2TM,NBA,SF,77,37,2129,.422,.483,.361,.513,.861,.564,.285,.500,89,88,100,94,110,97,107,129,-54.6,-31.6,
+2022-23,23,DET,NBA,SF,52,30,1500,.404,.460,.345,.488,.861,.552,.345,.483,85,84,96,89,110,95,129,125,-69.8,-40.4,
+2022-23,23,ATL,NBA,SF,25,7,629,.470,.552,.400,.578,.862,.599,.126,.543,99,101,111,106,110,103,47,140,15.2,8.8,
+2023-24,24,ATL,NBA,SF,63,51,2062,.416,.522,.316,.497,.837,.549,.291,.514,88,96,86,91,107,95,119,130,-68.9,-49.1,
+2024-25,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2025-26,26,NOP,NBA,SF,20,12,566,.440,.509,.373,.535,.660,.556,.245,.509,94,93,104,98,84,95,87,122,-4.1,-13.0,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,312,235,9370,.410,.479,.353,.507,.831,.550,.250,.547,87,89,98,94,107,96,99,138,-235.0,-192.4,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),,204,165,6113,.400,.455,.357,.500,.843,.546,.251,.560,86,85,99,93,108,95,99,142,-177.2,-139.1,
+ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),,88,58,2691,.429,.529,.337,.517,.841,.561,.250,.521,90,97,93,95,107,97,101,133,-53.7,-40.3,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,20,12,566,.440,.509,.373,.535,.660,.556,.245,.509,94,93,104,98,84,95,87,122,-4.1,-13.0,

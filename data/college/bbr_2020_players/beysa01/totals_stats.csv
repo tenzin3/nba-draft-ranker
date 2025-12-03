@@ -1,0 +1,15 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Trp-Dbl,Awards
+2020-21,21,DET,NBA,SF,70,53,1909,279,691,.404,175,460,.380,104,231,.450,.530,124,147,.844,43,275,318,95,52,14,60,110,857,0,ROY-4
+2021-22,22,DET,NBA,SF,82,82,2704,450,1136,.396,211,610,.346,239,526,.454,.489,210,254,.827,107,334,441,233,73,16,96,128,1321,0,
+2022-23,23,2TM,NBA,SF,77,37,2129,353,836,.422,151,418,.361,202,418,.483,.513,205,238,.861,98,264,362,118,70,13,71,123,1062,0,
+2022-23,23,DET,NBA,SF,52,30,1500,245,606,.404,101,293,.345,144,313,.460,.488,180,209,.861,59,183,242,84,50,12,54,86,771,0,
+2022-23,23,ATL,NBA,SF,25,7,629,108,230,.470,50,125,.400,58,105,.552,.578,25,29,.862,39,81,120,34,20,1,17,37,291,0,
+2023-24,24,ATL,NBA,SF,63,51,2062,290,697,.416,113,358,.316,177,339,.522,.497,170,203,.837,167,244,411,92,51,11,54,88,863,0,
+2024-25,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2025-26,26,NOP,NBA,SF,20,12,566,95,216,.440,41,110,.373,54,106,.509,.535,35,53,.660,36,83,119,45,20,2,13,23,266,0,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,312,235,9370,1467,3576,.410,691,1956,.353,776,1620,.479,.507,744,895,.831,451,1200,1651,583,266,56,294,472,4369,0,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,62,2463,386,940,.410,182,514,.353,204,426,.479,.507,196,235,.831,119,315,434,153,70,15,77,124,1148,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),,204,165,6113,974,2433,.400,487,1363,.357,487,1070,.455,.500,514,610,.843,209,792,1001,412,175,42,210,324,2949,0,
+ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),,88,58,2691,398,927,.429,163,483,.337,235,444,.529,.517,195,232,.841,206,325,531,126,71,12,71,125,1154,0,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,20,12,566,95,216,.440,41,110,.373,54,106,.509,.535,35,53,.660,36,83,119,45,20,2,13,23,266,0,

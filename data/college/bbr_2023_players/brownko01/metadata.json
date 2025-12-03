@@ -1,0 +1,104 @@
+{
+  "name": "Kobe Brown",
+  "slug": "brownko01",
+  "url": "https://www.basketball-reference.com/players/b/brownko01.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "brownko01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "brownko01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "brownko01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "brownko01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "brownko01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "brownko01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "brownko01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "brownko01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "brownko01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "brownko01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "brownko01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "brownko01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "brownko01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "brownko01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "brownko01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "brownko01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "brownko01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "brownko01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "brownko01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "brownko01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "brownko01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "brownko01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "brownko01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_lac",
+      "csv": "brownko01/contracts_lac.csv"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Maxime Raynaud",
+  "slug": "raynama01",
+  "url": "https://www.basketball-reference.com/players/r/raynama01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "raynama01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "raynama01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "raynama01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "raynama01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "raynama01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "raynama01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "raynama01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "raynama01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "raynama01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "raynama01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "raynama01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "raynama01/all_college_stats.csv"
+    },
+    {
+      "table_id": "contracts_sac",
+      "csv": "raynama01/contracts_sac.csv"
+    }
+  ]
+}

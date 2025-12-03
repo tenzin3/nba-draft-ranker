@@ -1,0 +1,104 @@
+{
+  "name": "Ben Sheppard",
+  "slug": "sheppbe01",
+  "url": "https://www.basketball-reference.com/players/s/sheppbe01.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "sheppbe01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "sheppbe01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "sheppbe01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "sheppbe01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "sheppbe01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "sheppbe01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "sheppbe01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "sheppbe01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "sheppbe01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "sheppbe01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "sheppbe01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "sheppbe01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "sheppbe01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "sheppbe01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "sheppbe01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "sheppbe01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "sheppbe01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "sheppbe01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "sheppbe01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "sheppbe01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "sheppbe01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "sheppbe01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "sheppbe01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_ind",
+      "csv": "sheppbe01/contracts_ind.csv"
+    }
+  ]
+}

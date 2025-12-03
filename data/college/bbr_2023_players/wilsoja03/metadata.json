@@ -1,0 +1,64 @@
+{
+  "name": "Jalen Wilson",
+  "slug": "wilsoja03",
+  "url": "https://www.basketball-reference.com/players/w/wilsoja03.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "wilsoja03/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "wilsoja03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "wilsoja03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "wilsoja03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "wilsoja03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "wilsoja03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "wilsoja03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "wilsoja03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "wilsoja03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "wilsoja03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "wilsoja03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "wilsoja03/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "wilsoja03/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_brk",
+      "csv": "wilsoja03/contracts_brk.csv"
+    }
+  ]
+}

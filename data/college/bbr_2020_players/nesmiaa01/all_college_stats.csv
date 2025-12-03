@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2018-19,19.0,VANDY,32,928,114,291,59,175,66,80,34,177,45,23,18,51,98,353,0.392,0.337,0.825,29.0,11.0,5.5,1.4
+2019-20,20.0,VANDY,14,500,105,205,60,115,52,63,11,68,13,20,12,24,39,322,0.512,0.522,0.825,35.7,23.0,4.9,0.9
+Career,,,46,1428,219,496,119,290,118,143,45,245,58,43,30,75,137,675,0.442,0.41,0.825,31.0,14.7,5.3,1.3

@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2018-19,19.0,MINNESOTA,35,834,152,276,1,2,72,117,88,246,19,16,46,53,95,377,0.551,0.5,0.615,23.8,10.8,7.0,0.5
+2019-20,20.0,MINNESOTA,31,1050,238,423,19,52,128,181,116,349,34,17,76,88,83,623,0.563,0.365,0.707,33.9,20.1,11.3,1.1
+Career,,,66,1884,390,699,20,54,200,298,204,595,53,33,122,141,178,1000,0.558,0.37,0.671,28.5,15.2,9.0,0.8

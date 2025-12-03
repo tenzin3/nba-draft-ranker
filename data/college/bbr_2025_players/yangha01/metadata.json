@@ -1,0 +1,56 @@
+{
+  "name": "Yang Hansen",
+  "slug": "yangha01",
+  "url": "https://www.basketball-reference.com/players/y/yangha01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "yangha01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "yangha01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "yangha01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "yangha01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "yangha01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "yangha01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "yangha01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "yangha01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "yangha01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "yangha01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "yangha01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "contracts_por",
+      "csv": "yangha01/contracts_por.csv"
+    }
+  ]
+}

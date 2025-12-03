@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2023-24,24,LAC,NBA,PF,3,0,10,0,0,0,74,26,8.8,17.2,0,0,1,0,0,0,0,0,0,
+2024-25,25,LAC,NBA,PF,3,0,15,0,0,0,100,0,54.4,56.1,0,0,0,0,1,0,11,1,1,
+2 Yrs,2 Yrs,2 Yrs,2 Yrs,,6,0,25,0,0,0,90,10,36.2,40.5,0,0,1,0,1,0,11,1,1,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,0,342,0,0,0,90,10,36.2,40.5,0,0,14,0,14,0,150,14,14,

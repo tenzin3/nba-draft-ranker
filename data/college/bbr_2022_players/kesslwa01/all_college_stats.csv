@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2020-21,19.0,UNC,29,254,52,90,1,4,22,41,45,94,9,15,25,16,35,127,0.578,0.25,0.537,8.8,4.4,3.2,0.3
+2021-22,20.0,AUBURN,34,871,163,268,10,50,53,89,89,274,30,37,155,37,88,389,0.608,0.2,0.596,25.6,11.4,8.1,0.9
+Career,,,63,1125,215,358,11,54,75,130,134,368,39,52,180,53,123,516,0.601,0.204,0.577,17.9,8.2,5.8,0.6

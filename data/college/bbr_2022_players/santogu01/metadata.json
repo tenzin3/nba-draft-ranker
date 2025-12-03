@@ -1,0 +1,100 @@
+{
+  "name": "Gui Santos",
+  "slug": "santogu01",
+  "url": "https://www.basketball-reference.com/players/s/santogu01.html",
+  "num_tables": 23,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "santogu01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "santogu01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "santogu01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "santogu01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "santogu01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "santogu01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "santogu01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "santogu01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "santogu01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "santogu01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "santogu01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "santogu01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "santogu01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "santogu01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "santogu01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "santogu01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "santogu01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "santogu01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "santogu01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "santogu01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "santogu01/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "santogu01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_gsw",
+      "csv": "santogu01/contracts_gsw.csv"
+    }
+  ]
+}
