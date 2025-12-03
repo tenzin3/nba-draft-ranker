@@ -11,8 +11,8 @@ import pandas as pd
 
 # Try the sibling project layout first (../nba-draft-ranker/college); fall back to ../college.
 _BASE_DIR = Path(__file__).resolve().parent.parent
-_PREFERRED_COLLEGE = _BASE_DIR / "nba-draft-ranker" / "college"
-COLLEGE_ROOT = _PREFERRED_COLLEGE if _PREFERRED_COLLEGE.exists() else _BASE_DIR / "college"
+_PREFERRED_COLLEGE = _BASE_DIR / "nba-draft-ranker" /"data" / "college"
+COLLEGE_ROOT = _PREFERRED_COLLEGE if _PREFERRED_COLLEGE.exists() else _BASE_DIR / "data" / "college"
 
 
 def _flatten_columns(column_names: Iterable[str]) -> List[str]:
