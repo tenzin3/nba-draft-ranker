@@ -1,0 +1,112 @@
+{
+  "name": "Jalen Duren",
+  "slug": "durenja01",
+  "url": "https://www.basketball-reference.com/players/d/durenja01.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "durenja01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "durenja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "durenja01/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "durenja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "durenja01/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "durenja01/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "durenja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "durenja01/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "durenja01/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "durenja01/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "durenja01/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "durenja01/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "durenja01/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "durenja01/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "durenja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "durenja01/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "durenja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "durenja01/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "durenja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "durenja01/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "durenja01/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "durenja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "durenja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "durenja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "durenja01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_det",
+      "csv": "durenja01/contracts_det.csv"
+    }
+  ]
+}

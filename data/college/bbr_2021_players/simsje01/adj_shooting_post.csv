@@ -1,0 +1,7 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Unnamed: 22_level_0', 'Awards')"
+2023-24,25,NYK,NBA,C,5.0,0.0,27.0,1.0,1.0,1.0,0.75,0.931,2.0,0.0,211.0,183.0,183.0,96.0,160.0,819.0,0.0,
+2024-25,26,MIL,NBA,C,5.0,0.0,58.0,1.0,1.0,1.0,0.667,0.956,0.5,0.0,214.0,183.0,184.0,85.0,166.0,206.0,0.0,
+2 Yrs,2 Yrs,2 Yrs,2 Yrs,,10.0,0.0,85.0,1.0,1.0,1.0,0.714,0.948,0.875,0.0,212.0,183.0,184.0,91.0,164.0,359.0,0.0,
+,,,,,,,,,,,,,,,,,,,,,,
+MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),MIL (1 Yr),,5.0,0.0,58.0,1.0,1.0,1.0,0.667,0.956,0.5,0.0,214.0,183.0,184.0,85.0,166.0,206.0,0.0,
+NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),NYK (1 Yr),,5.0,0.0,27.0,1.0,1.0,1.0,0.75,0.931,2.0,0.0,211.0,183.0,183.0,96.0,160.0,819.0,0.0,

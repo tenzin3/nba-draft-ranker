@@ -1,0 +1,60 @@
+{
+  "name": "Keon Johnson",
+  "slug": "johnske07",
+  "url": "https://www.basketball-reference.com/players/j/johnske07.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnske07/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnske07/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnske07/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnske07/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnske07/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnske07/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnske07/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnske07/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnske07/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnske07/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnske07/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnske07/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_brk",
+      "csv": "johnske07/contracts_brk.csv"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Anton Watson",
+  "slug": "watsoan02",
+  "url": "https://www.basketball-reference.com/players/w/watsoan02.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "watsoan02/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "watsoan02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "watsoan02/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "watsoan02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "watsoan02/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "watsoan02/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "watsoan02/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "watsoan02/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "watsoan02/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "watsoan02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "watsoan02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "watsoan02/all_salaries.csv"
+    }
+  ]
+}

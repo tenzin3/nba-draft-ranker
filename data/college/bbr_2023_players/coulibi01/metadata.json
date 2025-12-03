@@ -1,0 +1,60 @@
+{
+  "name": "Bilal Coulibaly",
+  "slug": "coulibi01",
+  "url": "https://www.basketball-reference.com/players/c/coulibi01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "coulibi01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "coulibi01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "coulibi01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "coulibi01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "coulibi01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "coulibi01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "coulibi01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "coulibi01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "coulibi01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "coulibi01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "coulibi01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "coulibi01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_was",
+      "csv": "coulibi01/contracts_was.csv"
+    }
+  ]
+}

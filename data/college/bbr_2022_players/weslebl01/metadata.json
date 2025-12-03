@@ -1,0 +1,68 @@
+{
+  "name": "Blake Wesley",
+  "slug": "weslebl01",
+  "url": "https://www.basketball-reference.com/players/w/weslebl01.html",
+  "num_tables": 15,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "weslebl01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "weslebl01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "weslebl01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "weslebl01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "weslebl01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "weslebl01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "weslebl01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "weslebl01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "weslebl01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "weslebl01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "weslebl01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "weslebl01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "weslebl01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_por",
+      "csv": "weslebl01/contracts_por.csv"
+    },
+    {
+      "table_id": "contracts_was",
+      "csv": "weslebl01/contracts_was.csv"
+    }
+  ]
+}

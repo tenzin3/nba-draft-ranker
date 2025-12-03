@@ -1,0 +1,60 @@
+{
+  "name": "R.J. Hampton",
+  "slug": "hamptrj01",
+  "url": "https://www.basketball-reference.com/players/h/hamptrj01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "hamptrj01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "hamptrj01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "hamptrj01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "hamptrj01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "hamptrj01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "hamptrj01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "hamptrj01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "hamptrj01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "hamptrj01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "hamptrj01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "hamptrj01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "hamptrj01/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "hamptrj01/all_salaries.csv"
+    }
+  ]
+}

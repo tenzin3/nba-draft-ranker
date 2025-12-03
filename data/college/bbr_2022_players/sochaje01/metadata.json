@@ -1,0 +1,72 @@
+{
+  "name": "Jeremy Sochan",
+  "slug": "sochaje01",
+  "url": "https://www.basketball-reference.com/players/s/sochaje01.html",
+  "num_tables": 16,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "sochaje01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "sochaje01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "sochaje01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "sochaje01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "sochaje01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "sochaje01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "sochaje01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "sochaje01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "sochaje01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "sochaje01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "sochaje01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "sochaje01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "sochaje01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "sochaje01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "sochaje01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_sas",
+      "csv": "sochaje01/contracts_sas.csv"
+    }
+  ]
+}

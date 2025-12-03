@@ -1,0 +1,14 @@
+Season,Age,Team,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Awards
+2020-21,21,DET,NBA,SF,70,53,1909,5.3,13.0,.404,3.3,8.7,.380,2.0,4.4,.450,.530,2.3,2.8,.844,0.8,5.2,6.0,1.8,1.0,0.3,1.1,2.1,16.2,ROY-4
+2021-22,22,DET,NBA,SF,82,82,2704,6.0,15.1,.396,2.8,8.1,.346,3.2,7.0,.454,.489,2.8,3.4,.827,1.4,4.4,5.9,3.1,1.0,0.2,1.3,1.7,17.6,
+2022-23,23,2TM,NBA,SF,77,37,2129,6.0,14.1,.422,2.6,7.1,.361,3.4,7.1,.483,.513,3.5,4.0,.861,1.7,4.5,6.1,2.0,1.2,0.2,1.2,2.1,18.0,
+2022-23,23,DET,NBA,SF,52,30,1500,5.9,14.5,.404,2.4,7.0,.345,3.5,7.5,.460,.488,4.3,5.0,.861,1.4,4.4,5.8,2.0,1.2,0.3,1.3,2.1,18.5,
+2022-23,23,ATL,NBA,SF,25,7,629,6.2,13.2,.470,2.9,7.2,.400,3.3,6.0,.552,.578,1.4,1.7,.862,2.2,4.6,6.9,1.9,1.1,0.1,1.0,2.1,16.7,
+2023-24,24,ATL,NBA,SF,63,51,2062,5.1,12.2,.416,2.0,6.3,.316,3.1,5.9,.522,.497,3.0,3.5,.837,2.9,4.3,7.2,1.6,0.9,0.2,0.9,1.5,15.1,
+2024-25,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury,Did not play - injury
+2025-26,26,NOP,NBA,SF,20,12,566,6.0,13.7,.440,2.6,7.0,.373,3.4,6.7,.509,.535,2.2,3.4,.660,2.3,5.3,7.6,2.9,1.3,0.1,0.8,1.5,16.9,
+5 Yrs,5 Yrs,5 Yrs,5 Yrs,,312,235,9370,5.6,13.7,.410,2.7,7.5,.353,3.0,6.2,.479,.507,2.9,3.4,.831,1.7,4.6,6.3,2.2,1.0,0.2,1.1,1.8,16.8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),DET (3 Yrs),,204,165,6113,5.7,14.3,.400,2.9,8.0,.357,2.9,6.3,.455,.500,3.0,3.6,.843,1.2,4.7,5.9,2.4,1.0,0.2,1.2,1.9,17.4,
+ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),ATL (2 Yrs),,88,58,2691,5.3,12.4,.429,2.2,6.5,.337,3.1,5.9,.529,.517,2.6,3.1,.841,2.8,4.3,7.1,1.7,0.9,0.2,0.9,1.7,15.4,
+NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),NOP (1 Yr),,20,12,566,6.0,13.7,.440,2.6,7.0,.373,3.4,6.7,.509,.535,2.2,3.4,.660,2.3,5.3,7.6,2.9,1.3,0.1,0.8,1.5,16.9,

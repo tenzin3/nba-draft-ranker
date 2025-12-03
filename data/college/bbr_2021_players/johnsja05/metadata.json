@@ -1,0 +1,112 @@
+{
+  "name": "Jalen Johnson",
+  "slug": "johnsja05",
+  "url": "https://www.basketball-reference.com/players/j/johnsja05.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "johnsja05/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnsja05/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "johnsja05/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnsja05/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnsja05/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "johnsja05/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnsja05/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "johnsja05/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnsja05/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "johnsja05/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnsja05/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "johnsja05/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnsja05/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "johnsja05/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnsja05/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "johnsja05/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnsja05/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "johnsja05/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnsja05/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "johnsja05/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "johnsja05/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "johnsja05/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "johnsja05/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnsja05/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "johnsja05/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_atl",
+      "csv": "johnsja05/contracts_atl.csv"
+    }
+  ]
+}

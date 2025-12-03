@@ -1,0 +1,68 @@
+{
+  "name": "Jabari Walker",
+  "slug": "walkeja01",
+  "url": "https://www.basketball-reference.com/players/w/walkeja01.html",
+  "num_tables": 15,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "walkeja01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "walkeja01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "walkeja01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "walkeja01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "walkeja01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "walkeja01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "walkeja01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "walkeja01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "walkeja01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "walkeja01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "walkeja01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "walkeja01/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "walkeja01/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "walkeja01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "walkeja01/all_salaries.csv"
+    }
+  ]
+}

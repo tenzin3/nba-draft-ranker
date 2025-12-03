@@ -1,0 +1,108 @@
+{
+  "name": "Jaden Hardy",
+  "slug": "hardyja02",
+  "url": "https://www.basketball-reference.com/players/h/hardyja02.html",
+  "num_tables": 25,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "hardyja02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "hardyja02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "hardyja02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "hardyja02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "hardyja02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "hardyja02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "hardyja02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "hardyja02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "hardyja02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "hardyja02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "hardyja02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "hardyja02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "hardyja02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "hardyja02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "hardyja02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "hardyja02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "hardyja02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "hardyja02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "hardyja02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "hardyja02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "hardyja02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "hardyja02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "hardyja02/sims-career.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "hardyja02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_dal",
+      "csv": "hardyja02/contracts_dal.csv"
+    }
+  ]
+}

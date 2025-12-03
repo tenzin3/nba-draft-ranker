@@ -1,0 +1,104 @@
+{
+  "name": "Jaylen Clark",
+  "slug": "clarkja02",
+  "url": "https://www.basketball-reference.com/players/c/clarkja02.html",
+  "num_tables": 24,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "clarkja02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "clarkja02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "clarkja02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "clarkja02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "clarkja02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "clarkja02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "clarkja02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "clarkja02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "clarkja02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "clarkja02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "clarkja02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "clarkja02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "clarkja02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "clarkja02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "clarkja02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "clarkja02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "clarkja02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "clarkja02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "clarkja02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "clarkja02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "clarkja02/playoffs_series.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "clarkja02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "clarkja02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_min",
+      "csv": "clarkja02/contracts_min.csv"
+    }
+  ]
+}

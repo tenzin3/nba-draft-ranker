@@ -1,0 +1,52 @@
+{
+  "name": "Ulrich Chomche",
+  "slug": "chomcul01",
+  "url": "https://www.basketball-reference.com/players/c/chomcul01.html",
+  "num_tables": 11,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "chomcul01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "chomcul01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "chomcul01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "chomcul01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "chomcul01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "chomcul01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "chomcul01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "chomcul01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "chomcul01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "chomcul01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "chomcul01/all_salaries.csv"
+    }
+  ]
+}

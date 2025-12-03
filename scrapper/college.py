@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup, Comment
 from io import StringIO
 
 BASE = "https://www.basketball-reference.com"
-DRAFT_URL = "https://www.basketball-reference.com/draft/NBA_2020.html"
-OUT_DIR = "bbr_2020_players"
+DRAFT_URL = "https://www.basketball-reference.com/draft/NBA_2025.html"
+OUT_DIR = "bbr_2025_players"
 
 HEADERS = {
     "User-Agent": (

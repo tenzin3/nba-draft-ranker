@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2020-21,19.0,DUKE,23,350,71,107,0,0,22,41,44,103,17,13,32,20,34,164,0.664,,0.537,15.2,7.1,4.5,0.7
+2021-22,20.0,DUKE,39,922,191,265,0,1,56,77,101,289,35,19,110,36,80,438,0.721,0.0,0.727,23.6,11.2,7.4,0.9
+Career,,,62,1272,262,372,0,1,78,118,145,392,52,32,142,56,114,602,0.704,0.0,0.661,20.5,9.7,6.3,0.8

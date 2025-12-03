@@ -1,0 +1,7 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Position Estimate', 'PG%')","('Position Estimate', 'SG%')","('Position Estimate', 'SF%')","('Position Estimate', 'PF%')","('Position Estimate', 'C%')","('+/- Per 100 Poss', 'OnCourt')","('+/- Per 100 Poss', 'On-Off')","('Turnovers', 'BadPass')","('Turnovers', 'LostBall')","('Fouls Committed', 'Shoot')","('Fouls Committed', 'Off.')","('Fouls Drawn', 'Shoot')","('Fouls Drawn', 'Off.')","('Misc.', 'PGA')","('Misc.', 'And1')","('Misc.', 'Blkd')","('Unnamed: 24_level_0', 'Awards')"
+2022-23,19,OKC,NBA,PF,39,1,569,0,0,8,71,20,3.9,3.2,10,8,26,2,12,0,107,3,8,
+2023-24,20,OKC,NBA,PF,33,0,365,0,0,14,68,18,1.2,-7.4,9,9,13,1,8,1,93,2,3,
+2024-25,21,OKC,NBA,C,37,1,405,0,0,1,28,71,6.0,-7.9,10,4,22,0,9,0,77,2,6,
+2025-26,22,OKC,NBA,C,14,0,154,0,0,2,68,30,1.0,-16.7,2,3,7,1,2,0,28,0,1,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,123,2,1493,0,0,7,58,35,3.5,-4.5,31,24,68,4,31,1,305,7,18,
+82 Game Avg,82 Game Avg,82 Game Avg,82 Game Avg,,82,1,995,0,0,7,58,35,3.5,-4.5,21,16,45,3,21,1,203,5,12,

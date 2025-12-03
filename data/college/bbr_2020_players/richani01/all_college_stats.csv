@@ -1,0 +1,5 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2017-18,20.0,KENTUCKY,37,543,69,112,0,0,51,71,55,163,9,3,33,26,76,189,0.616,,0.718,14.7,5.1,4.4,0.2
+2018-19,21.0,KENTUCKY,37,446,49,82,0,0,49,71,57,123,7,4,47,26,76,147,0.598,,0.69,12.1,4.0,3.3,0.2
+2019-20,22.0,KENTUCKY,31,919,163,254,0,0,109,145,81,241,7,3,66,49,98,435,0.642,,0.752,29.6,14.0,7.8,0.2
+Career,,,105,1908,281,448,0,0,209,287,193,527,23,10,146,101,250,771,0.627,,0.728,18.2,7.3,5.0,0.2

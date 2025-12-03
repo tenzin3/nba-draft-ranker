@@ -1,0 +1,108 @@
+{
+  "name": "Josh Green",
+  "slug": "greenjo02",
+  "url": "https://www.basketball-reference.com/players/g/greenjo02.html",
+  "num_tables": 25,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "greenjo02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "greenjo02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "greenjo02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "greenjo02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "greenjo02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "greenjo02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "greenjo02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "greenjo02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "greenjo02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "greenjo02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "greenjo02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "greenjo02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "greenjo02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "greenjo02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "greenjo02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "greenjo02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "greenjo02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "greenjo02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "greenjo02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "greenjo02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "greenjo02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "greenjo02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "greenjo02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "greenjo02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_cho",
+      "csv": "greenjo02/contracts_cho.csv"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Koby Brea",
+  "slug": "breako01",
+  "url": "https://www.basketball-reference.com/players/b/breako01.html",
+  "num_tables": 11,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "breako01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "breako01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "breako01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "breako01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "breako01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "breako01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "breako01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "breako01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "breako01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "breako01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "breako01/all_college_stats.csv"
+    }
+  ]
+}

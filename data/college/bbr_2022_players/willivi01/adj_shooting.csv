@@ -1,0 +1,6 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'Team')","('Unnamed: 3_level_0', 'Lg')","('Unnamed: 4_level_0', 'Pos')","('Unnamed: 5_level_0', 'G')","('Unnamed: 6_level_0', 'GS')","('Unnamed: 7_level_0', 'MP')","('Shooting %', 'FG%')","('Shooting %', '2P%')","('Shooting %', '3P%')","('Shooting %', 'eFG%')","('Shooting %', 'FT%')","('Shooting %', 'TS%')","('Shooting %', 'FTr')","('Shooting %', '3PAr')","('League-Adjusted', 'FG+')","('League-Adjusted', '2P+')","('League-Adjusted', '3P+')","('League-Adjusted', 'eFG+')","('League-Adjusted', 'FT+')","('League-Adjusted', 'TS+')","('League-Adjusted', 'FTr+')","('League-Adjusted', '3PAr+')","('Added', 'FG Add')","('Added', 'TS Add')","('Unnamed: 26_level_0', 'Awards')"
+2022-23,22,MEM,NBA,SG,15,1,105,0.3,0.667,0.143,0.35,1.0,0.367,0.05,0.7,63,122,40,64,128,63,19,181,-15.6,-17.5,
+2023-24,23,MEM,NBA,SG,52,33,1436,0.446,0.529,0.378,0.55,0.8,0.597,0.343,0.551,94,97,103,101,102,103,140,140,2.7,15.0,
+2024-25,24,MEM,NBA,SG,27,5,499,0.401,0.569,0.274,0.479,0.792,0.504,0.144,0.569,86,104,76,88,102,87,59,135,-21.4,-25.6,
+2025-26,25,MEM,NBA,SG,16,8,360,0.349,0.446,0.271,0.425,0.786,0.466,0.222,0.556,74,81,76,78,100,80,79,133,-30.1,-32.2,
+4 Yrs,4 Yrs,4 Yrs,4 Yrs,,110,47,2400,0.41,0.529,0.318,0.5,0.799,0.542,0.258,0.565,87,97,88,92,102,93,104,140,-64.4,-60.3,

@@ -1,0 +1,4 @@
+"('Unnamed: 0_level_0', 'Season')","('Unnamed: 1_level_0', 'Age')","('Unnamed: 2_level_0', 'College')","('Unnamed: 3_level_0', 'G')","('Unnamed: 4_level_0', 'MP')","('Totals', 'FG')","('Totals', 'FGA')","('Totals', '3P')","('Totals', '3PA')","('Totals', 'FT')","('Totals', 'FTA')","('Totals', 'ORB')","('Totals', 'TRB')","('Totals', 'AST')","('Totals', 'STL')","('Totals', 'BLK')","('Totals', 'TOV')","('Totals', 'PF')","('Totals', 'PTS')","('Shooting', 'FG%')","('Shooting', '3P%')","('Shooting', 'FT%')","('Per Game', 'MP')","('Per Game', 'PTS')","('Per Game', 'TRB')","('Per Game', 'AST')"
+2020-21,18.0,TNTECH,6,49,4,14,2,10,0,0,0,1,3,1,0,4,4,10,0.286,0.2,,8.2,1.7,0.2,0.5
+2024-25,22.0,LIBERTY,35,794,167,289,77,170,68,88,11,141,36,32,4,21,70,479,0.578,0.453,0.773,22.7,13.7,4.0,1.0
+Career,,,41,843,171,303,79,180,68,88,11,142,39,33,4,25,74,489,0.564,0.439,0.773,20.6,11.9,3.5,1.0

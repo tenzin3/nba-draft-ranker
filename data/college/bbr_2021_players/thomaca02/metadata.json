@@ -1,0 +1,112 @@
+{
+  "name": "Cam Thomas",
+  "slug": "thomaca02",
+  "url": "https://www.basketball-reference.com/players/t/thomaca02.html",
+  "num_tables": 26,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "thomaca02/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "thomaca02/per_game_stats.csv"
+    },
+    {
+      "table_id": "per_game_stats_post",
+      "csv": "thomaca02/per_game_stats_post.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "thomaca02/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "thomaca02/totals_stats.csv"
+    },
+    {
+      "table_id": "totals_stats_post",
+      "csv": "thomaca02/totals_stats_post.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "thomaca02/per_minute_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats_post",
+      "csv": "thomaca02/per_minute_stats_post.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "thomaca02/advanced.csv"
+    },
+    {
+      "table_id": "advanced_post",
+      "csv": "thomaca02/advanced_post.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "thomaca02/shooting.csv"
+    },
+    {
+      "table_id": "shooting_post",
+      "csv": "thomaca02/shooting_post.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "thomaca02/per_poss.csv"
+    },
+    {
+      "table_id": "per_poss_post",
+      "csv": "thomaca02/per_poss_post.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "thomaca02/adj_shooting.csv"
+    },
+    {
+      "table_id": "adj_shooting_post",
+      "csv": "thomaca02/adj_shooting_post.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "thomaca02/pbp_stats.csv"
+    },
+    {
+      "table_id": "pbp_stats_post",
+      "csv": "thomaca02/pbp_stats_post.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "thomaca02/highs-reg-season.csv"
+    },
+    {
+      "table_id": "highs-playoffs",
+      "csv": "thomaca02/highs-playoffs.csv"
+    },
+    {
+      "table_id": "playoffs_series",
+      "csv": "thomaca02/playoffs_series.csv"
+    },
+    {
+      "table_id": "sims-thru",
+      "csv": "thomaca02/sims-thru.csv"
+    },
+    {
+      "table_id": "sims-career",
+      "csv": "thomaca02/sims-career.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "thomaca02/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "thomaca02/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_brk",
+      "csv": "thomaca02/contracts_brk.csv"
+    }
+  ]
+}

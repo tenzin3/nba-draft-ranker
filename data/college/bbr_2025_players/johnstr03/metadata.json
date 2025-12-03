@@ -1,0 +1,60 @@
+{
+  "name": "Tre Johnson",
+  "slug": "johnstr03",
+  "url": "https://www.basketball-reference.com/players/j/johnstr03.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "johnstr03/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "johnstr03/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "johnstr03/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "johnstr03/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "johnstr03/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "johnstr03/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "johnstr03/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "johnstr03/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "johnstr03/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "johnstr03/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "johnstr03/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "johnstr03/all_college_stats.csv"
+    },
+    {
+      "table_id": "contracts_was",
+      "csv": "johnstr03/contracts_was.csv"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Alex Sarr",
+  "slug": "sarral01",
+  "url": "https://www.basketball-reference.com/players/s/sarral01.html",
+  "num_tables": 13,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "sarral01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "sarral01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "sarral01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "sarral01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "sarral01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "sarral01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "sarral01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "sarral01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "sarral01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "sarral01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "sarral01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "sarral01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_was",
+      "csv": "sarral01/contracts_was.csv"
+    }
+  ]
+}

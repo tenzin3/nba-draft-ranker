@@ -1,0 +1,64 @@
+{
+  "name": "Cam Spencer",
+  "slug": "spencca01",
+  "url": "https://www.basketball-reference.com/players/s/spencca01.html",
+  "num_tables": 14,
+  "tables": [
+    {
+      "table_id": "last5",
+      "csv": "spencca01/last5.csv"
+    },
+    {
+      "table_id": "per_game_stats",
+      "csv": "spencca01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "spencca01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "spencca01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "spencca01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "spencca01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "spencca01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "spencca01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "spencca01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "spencca01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "spencca01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "spencca01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "spencca01/all_salaries.csv"
+    },
+    {
+      "table_id": "contracts_mem",
+      "csv": "spencca01/contracts_mem.csv"
+    }
+  ]
+}

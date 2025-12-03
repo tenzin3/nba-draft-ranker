@@ -1,0 +1,56 @@
+{
+  "name": "Scottie Lewis",
+  "slug": "lewissc01",
+  "url": "https://www.basketball-reference.com/players/l/lewissc01.html",
+  "num_tables": 12,
+  "tables": [
+    {
+      "table_id": "per_game_stats",
+      "csv": "lewissc01/per_game_stats.csv"
+    },
+    {
+      "table_id": "stathead_insights",
+      "csv": "lewissc01/stathead_insights.csv"
+    },
+    {
+      "table_id": "totals_stats",
+      "csv": "lewissc01/totals_stats.csv"
+    },
+    {
+      "table_id": "per_minute_stats",
+      "csv": "lewissc01/per_minute_stats.csv"
+    },
+    {
+      "table_id": "advanced",
+      "csv": "lewissc01/advanced.csv"
+    },
+    {
+      "table_id": "shooting",
+      "csv": "lewissc01/shooting.csv"
+    },
+    {
+      "table_id": "per_poss",
+      "csv": "lewissc01/per_poss.csv"
+    },
+    {
+      "table_id": "adj_shooting",
+      "csv": "lewissc01/adj_shooting.csv"
+    },
+    {
+      "table_id": "pbp_stats",
+      "csv": "lewissc01/pbp_stats.csv"
+    },
+    {
+      "table_id": "highs-reg-season",
+      "csv": "lewissc01/highs-reg-season.csv"
+    },
+    {
+      "table_id": "all_college_stats",
+      "csv": "lewissc01/all_college_stats.csv"
+    },
+    {
+      "table_id": "all_salaries",
+      "csv": "lewissc01/all_salaries.csv"
+    }
+  ]
+}
