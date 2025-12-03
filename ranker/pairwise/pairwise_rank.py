@@ -40,6 +40,8 @@ from sklearn.feature_selection import mutual_info_regression
 
 import lightgbm as lgb
 
+import re
+
 try:
     from lightgbm import LGBMClassifier
 except Exception:
@@ -217,7 +219,7 @@ def select_top_features(train_df: pd.DataFrame, feature_cols: List[str], top_k: 
 # Load / clean
 # -----------------------------
 
-def load_and_clean(path: Path) -> pd.DataFrame:
+def load_and_clean(path: Path, *, dedupe_by_pick: bool = True) -> pd.DataFrame:
     df = pd.read_csv(path)
 
     df = df.rename(columns=lambda c: str(c).strip().lower())
@@ -236,6 +238,18 @@ def load_and_clean(path: Path) -> pd.DataFrame:
     df = df.dropna(subset=["season", "overall_pick"]).copy()
     df["season"] = df["season"].astype(int)
     df["overall_pick"] = df["overall_pick"].astype(int)
+    # ---- dedupe: (season, overall_pick) should be unique ----
+    if dedupe_by_pick:
+        before = len(df)
+        dup = int(df.duplicated(subset=["season", "overall_pick"]).sum())
+        if dup > 0:
+            # keep the row with the largest MP (more complete season stats)
+            if "mp" in df.columns:
+                df = df.sort_values("mp", ascending=False)
+            df = df.drop_duplicates(subset=["season", "overall_pick"], keep="first").copy()
+            after = len(df)
+            print(f"[Clean] Deduped (season, overall_pick): removed {before-after} rows (had {dup} duplicates).")
+        assert int(df.duplicated(subset=["season", "overall_pick"]).sum()) == 0
 
     # position -> position_group one-hot
     if "position_group" not in df.columns:
@@ -266,12 +280,19 @@ def load_and_clean(path: Path) -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
-def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
-    curated_order = [
+def pick_feature_columns(df: pd.DataFrame, *, feature_set: str = "per_min") -> Tuple[List[str], List[str]]:
+
+
+    feature_set = str(feature_set).strip().lower()
+    if feature_set not in {"per_min", "totals", "both"}:
+        raise ValueError(f"Unknown feature_set={feature_set!r}. Choose from: per_min, totals, both.")
+
+    curated_base = [
         "shooting_fg%",
         "mp",
         "age",
-        # per-minute derived
+    ]
+    curated_per_min = [
         "totals_fg_per_min",
         "totals_ft_per_min",
         "totals_trb_per_min",
@@ -279,7 +300,8 @@ def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
         "totals_stl_per_min",
         "totals_tov_per_min",
         "totals_pf_per_min",
-        # raw totals (fallback)
+    ]
+    curated_totals = [
         "totals_fg",
         "totals_ft",
         "totals_trb",
@@ -288,6 +310,17 @@ def pick_feature_columns(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
         "totals_tov",
         "totals_pf",
     ]
+
+    # Default (per_min): avoid collinearity between totals and per-minute versions.
+    curated_order: List[str] = list(curated_base)
+    if feature_set == "per_min":
+        curated_order += curated_per_min
+    elif feature_set == "totals":
+        curated_order += curated_totals
+    else:  # both
+        curated_order += curated_per_min + curated_totals
+
+
 
     drop_cols = {
         "overall_pick",
@@ -456,6 +489,40 @@ def _feval_mean_spearman(preds: np.ndarray, dataset: lgb.Dataset) -> Tuple[str, 
     return "mean_spearman", float(np.mean(cors)) if cors else 0.0, True
 
 
+def _guess_monotone_for_feature(name: str) -> int:
+    """
+    Heuristic monotonic constraints for NBA draft features.
+    +1 means larger feature => larger relevance (earlier pick).
+    -1 means larger feature => smaller relevance.
+     0 means unconstrained.
+    """
+    n = name.lower()
+    # categorical one-hots: don't constrain
+    if n.startswith("position_group_") or n.startswith("organization_type_"):
+        return 0
+    # negative signals
+    if "age" in n:
+        return -1
+    if "tov" in n or "turnover" in n:
+        return -1
+    if re.search(r"pf", n) or "totals_pf" in n or "foul" in n:
+        return -1
+    # positive signals (availability & skill)
+    if n in {"mp"} or "minutes" in n:
+        return +1
+    if "fg%" in n or "shooting_fg" in n:
+        return +1
+    if "fg" in n or "ft" in n or "trb" in n or "reb" in n or "blk" in n or "stl" in n:
+        return +1
+    # default: leave unconstrained
+    return 0
+
+
+def _build_monotone_constraints(feature_cols: List[str]) -> List[int]:
+    return [_guess_monotone_for_feature(c) for c in feature_cols]
+
+
+
 def _train_ltr_booster_with_refit(
     train_df: pd.DataFrame,
     feature_cols: List[str],
@@ -463,6 +530,7 @@ def _train_ltr_booster_with_refit(
     season_zscore: bool,
     val_last_k: int,
     cfg: Dict,
+    monotone_constraints: Optional[List[int]] = None,
 ) -> lgb.Booster:
     """
     1) Train on train-part, validate on last K seasons => find best_iteration via early stop on mean_spearman
@@ -488,6 +556,13 @@ def _train_ltr_booster_with_refit(
         "metric": "None",
         "label_gain": list(range(int(np.max(y_all)) + 1)),
     }
+
+    if monotone_constraints is not None:
+        if len(monotone_constraints) != len(feature_cols):
+            raise ValueError(
+                f"monotone_constraints length {len(monotone_constraints)} != num_features {len(feature_cols)}"
+            )
+        params["monotone_constraints"] = monotone_constraints
 
     num_boost_round = int(cfg.get("num_boost_round", 8000))
     early_stopping_rounds = int(cfg.get("early_stopping_rounds", 250))
@@ -533,6 +608,7 @@ def ltr_fit_predict(
     season_zscore: bool,
     val_last_k: int,
     ensemble_cfgs: List[Dict],
+    monotone: bool = False,
 ) -> Tuple[np.ndarray, pd.DataFrame]:
     """
     Train an ensemble of boosters on train_df, predict scores on pred_df.
@@ -540,10 +616,19 @@ def ltr_fit_predict(
     """
     pred_X, _, _, pred_sorted, _ = _make_ltr_arrays(pred_df, feature_cols, season_zscore=season_zscore)
 
+    monotone_constraints: Optional[List[int]] = None
+    if monotone:
+        monotone_constraints = _build_monotone_constraints(feature_cols)
+
+
     scores_sum = np.zeros(len(pred_X), dtype=float)
     for cfg in ensemble_cfgs:
         booster = _train_ltr_booster_with_refit(
-            train_df, feature_cols, season_zscore=season_zscore, val_last_k=val_last_k, cfg=cfg
+            train_df, feature_cols,
+            season_zscore=season_zscore,
+            val_last_k=val_last_k,
+            cfg=cfg,
+            monotone_constraints=monotone_constraints,
         )
         scores_sum += booster.predict(pred_X)
 
@@ -780,6 +865,10 @@ def pairwise_fit_predict(
     train_sorted = _sort_df(train_df)
     pred_sorted = _sort_df(pred_df)
 
+    monotone_constraints: Optional[List[int]] = None
+    monotone_constraints = _build_monotone_constraints(feature_cols)
+
+
     imputer, scaler = fit_preprocessors(train_sorted, feature_cols)
     train_features = transform_features(train_sorted, feature_cols, imputer, scaler)
     pred_features = transform_features(pred_sorted, feature_cols, imputer, scaler)
@@ -992,6 +1081,13 @@ def main() -> None:
                     help="If >0, run random search with this many trials to pick LTR hyperparameters.")
     ap.add_argument("--feature_select_top_k", type=int, default=None,
                     help="If set, select top K features using Spearman+mutual-info on train split.")
+    ap.add_argument("--feature_set", type=str, default="per_min",
+                    choices=["per_min", "totals", "both"],
+                    help="Feature set to use. per_min (default) avoids collinearity between totals and per-minute stats.")
+    ap.add_argument("--ltr_monotone", action="store_true",
+                    help="Enable monotone constraints for LTR (helps against overfitting on small feature sets).")
+    ap.add_argument("--no_dedupe_by_pick", action="store_true",
+                    help="Disable deduping duplicated (season, overall_pick) rows (not recommended).")
     # Pairwise knobs
     ap.add_argument("--within_position_pairs", action="store_true")
     ap.add_argument("--max_pairs_per_season", type=int, default=MAX_PAIRS_PER_SEASON)
@@ -1007,8 +1103,8 @@ def main() -> None:
     data_path = Path(args.data)
     out_path = Path(args.out)
 
-    df = load_and_clean(data_path)
-    feature_cols, dropped_cols = pick_feature_columns(df)
+    df = load_and_clean(data_path, dedupe_by_pick=not args.no_dedupe_by_pick)
+    feature_cols, dropped_cols = pick_feature_columns(df, feature_set=args.feature_set)
 
     selected_scores: List[Tuple[str, float, float, float]] = []
 
@@ -1080,6 +1176,7 @@ def main() -> None:
             season_zscore=season_zscore,
             val_last_k=args.ltr_val_last_k,
             ensemble_cfgs=ensemble_cfgs,
+            monotone=args.ltr_monotone,
         )
         write_rankings_csv(out_path, test_sorted, scores)
         corrs = evaluate_spearman_by_season(test_sorted, scores)
@@ -1129,6 +1226,7 @@ def main() -> None:
         season_zscore=season_zscore,
         val_last_k=max(1, min(args.ltr_val_last_k, max(1, len(np.sort(train_sub["season"].unique())) - 1))),
         ensemble_cfgs=ensemble_cfgs,
+            monotone=args.ltr_monotone,
     )
     pw_val_scores, _ = pairwise_fit_predict(
         train_sub, alpha_val, feature_cols,
@@ -1145,6 +1243,7 @@ def main() -> None:
         season_zscore=season_zscore,
         val_last_k=args.ltr_val_last_k,
         ensemble_cfgs=ensemble_cfgs,
+        monotone=args.ltr_monotone,
     )
     pw_test_scores, test_sorted2 = pairwise_fit_predict(
         train_df, test_df, feature_cols,
