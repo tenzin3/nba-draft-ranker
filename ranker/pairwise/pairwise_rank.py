@@ -56,8 +56,8 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 # Only use the notebook's data source: outputs/nba_college_selected_features.csv at repo root.
 DEFAULT_DATA_PATHS = [
-    PROJECT_ROOT / "outputs" / "nba_college_selected_features.csv",
-    Path("outputs/nba_college_selected_features.csv"),
+    PROJECT_ROOT / "outputs" / "college_stats.csv",
+    Path("outputs/college_stats.csv"),
 ]
 DEFAULT_OUTPUT_PATH = PROJECT_ROOT / "outputs" / "pairwise_rankings.csv"
 
