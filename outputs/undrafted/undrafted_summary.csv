@@ -528,7 +528,7 @@ PLAYER_ID,FIRST_NAME,LAST_NAME,found,url,error
 1628959,Rawle,Alkins,True,https://www.sports-reference.com/cbb/players/rawle-alkins-1.html,
 1629000,Brandon,McCoy,True,https://www.sports-reference.com/cbb/players/brandon-mccoy-1.html,
 1629033,Theo,Pinson,True,https://www.sports-reference.com/cbb/players/theo-pinson-1.html,
-1629009,Billy,Preston,False,https://www.sports-reference.com/cbb/players/billy-preston-1.html,no HTML tables
+1629009,Billy,Preston,False,https://www.sports-reference.com/cbb/players/billy-preston-1.html,no Totals table
 1629005,Malik,Newman,True,https://www.sports-reference.com/cbb/players/malik-newman-1.html,
 1629610,DaQuan,Jeffries,True,https://www.sports-reference.com/cbb/players/daquan-jeffries-1.html,
 1629650,Moses,Brown,True,https://www.sports-reference.com/cbb/players/moses-brown-1.html,
@@ -649,13 +649,13 @@ PLAYER_ID,FIRST_NAME,LAST_NAME,found,url,error
 1641746,Coleman,Hawkins,True,https://www.sports-reference.com/cbb/players/coleman-hawkins-1.html,
 1641790,PJ,Hall,True,https://www.sports-reference.com/cbb/players/pj-hall-1.html,
 1642360,Tyon,Grant-Foster,True,https://www.sports-reference.com/cbb/players/tyon-grant-foster-1.html,
-1642280,Trentyn,Flowers,False,https://www.sports-reference.com/cbb/players/trentyn-flowers-1.html,no HTML tables
+1642280,Trentyn,Flowers,False,https://www.sports-reference.com/cbb/players/trentyn-flowers-1.html,no Totals table
 1642916,Ben,Henshall,False,,404 Not Found
 1642909,Karter,Knox,True,https://www.sports-reference.com/cbb/players/karter-knox-1.html,
 1642865,Yaxel,Lendeborg,True,https://www.sports-reference.com/cbb/players/yaxel-lendeborg-1.html,
 1642961,RJ,Luis Jr.,False,,404 Not Found
 1642919,PJ,Haggerty,True,https://www.sports-reference.com/cbb/players/pj-haggerty-1.html,
-1642944,Mackenzie,Mgbako,False,https://www.sports-reference.com/cbb/players/mackenzie-mgbako-1.html,no HTML tables
+1642944,Mackenzie,Mgbako,False,https://www.sports-reference.com/cbb/players/mackenzie-mgbako-1.html,no Totals table
 1642891,Miles,Byrd,True,https://www.sports-reference.com/cbb/players/miles-byrd-1.html,
 1642884,Vladislav,Goldin,True,https://www.sports-reference.com/cbb/players/vladislav-goldin-1.html,
 1642960,Alex,Condon,True,https://www.sports-reference.com/cbb/players/alex-condon-1.html,
