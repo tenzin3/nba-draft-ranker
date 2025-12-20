@@ -7,16 +7,14 @@ End-to-end pipeline to scrape, preprocess, and rank NBA draft prospects using pa
 - scrapper/
   - college.py — Scrapes Basketball-Reference player pages for a given draft class and stores per-player tables as CSVs.
   - nba.py — Uses nba_api to download draft history and draft combine data.
-- extract/
-  - pipeline.py — Aggregates scraped college tables into analysis-ready CSVs (per-season or all seasons).
 - preprocess/
   - Notebooks for cleaning/feature engineering: college.ipynb, nba_combine.ipynb, undrafted.ipynb.
 - classifier/ and ranker/
   - Notebooks and code for modeling. Main script: ranker/pairwise/pairwise_rank.py.
 - data/
-  - Local data store. For college scraping, expects data/college/bbr_<YEAR>_players/... with per-player folders.
-- outputs/
-  - Default location for generated CSVs (e.g., pairwise_rankings.csv, college_stats.csv).
+  - Raw: NBA draft, combine, and college stats.
+  - Cleaned: College stats, NBA draft, and combine.
+  - Result: Rankings, and classifier results.
 - requirements.txt — Python dependencies.
 
 ## Setup
