@@ -6,10 +6,10 @@ DATA_DIR = Path("data")
 RAW_DATA_DIR = DATA_DIR / "raw"
 RAW_DATA_DIR.mkdir(exist_ok=True)
 
-DRAFT_DIR = RAW_DATA_DIR / "nba_draft"
+DRAFT_DIR = RAW_DATA_DIR / "draft_results"
 DRAFT_DIR.mkdir(exist_ok=True)
 
-DRAFT_COMBINE_DIR = RAW_DATA_DIR / "nba_draft_combine"
+DRAFT_COMBINE_DIR = RAW_DATA_DIR / "draft_combine"
 DRAFT_COMBINE_DIR.mkdir(exist_ok=True)
 
 
