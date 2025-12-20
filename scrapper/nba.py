@@ -6,14 +6,17 @@ DATA_DIR = Path("data")
 RAW_DATA_DIR = DATA_DIR / "raw"
 RAW_DATA_DIR.mkdir(exist_ok=True)
 
-DRAFT_DIR = RAW_DATA_DIR / "drafts"
+DRAFT_DIR = RAW_DATA_DIR / "nba_draft"
 DRAFT_DIR.mkdir(exist_ok=True)
 
-DRAFT_COMBINE_DIR = RAW_DATA_DIR / "draft_combine"
+DRAFT_COMBINE_DIR = RAW_DATA_DIR / "nba_draft_combine"
 DRAFT_COMBINE_DIR.mkdir(exist_ok=True)
 
 
 class NBASrapper:
+    """
+    Scrap NBA Draft and Draft Combine Data from NBA API
+    """
     def __init__(self, draft_dir:Path = DRAFT_DIR, draft_combine_dir:Path = DRAFT_COMBINE_DIR):
         self.draft_dir = draft_dir
         self.draft_combine_dir = draft_combine_dir
