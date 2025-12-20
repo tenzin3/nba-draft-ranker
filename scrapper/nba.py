@@ -2,21 +2,23 @@ from pathlib import Path
 from tqdm import tqdm
 from nba_api.stats.endpoints import drafthistory, draftcombinestats
 
+DATA_DIR = Path("data")
+RAW_DATA_DIR = DATA_DIR / "raw"
+RAW_DATA_DIR.mkdir(exist_ok=True)
 
-DRAFT_DIR = Path("drafts")
+DRAFT_DIR = RAW_DATA_DIR / "drafts"
 DRAFT_DIR.mkdir(exist_ok=True)
 
-DRAFT_COMBINE_DIR = Path("draft_combine")
+DRAFT_COMBINE_DIR = RAW_DATA_DIR / "draft_combine"
 DRAFT_COMBINE_DIR.mkdir(exist_ok=True)
 
 
-class Srapper:
+class NBASrapper:
     def __init__(self, draft_dir:Path = DRAFT_DIR, draft_combine_dir:Path = DRAFT_COMBINE_DIR):
         self.draft_dir = draft_dir
         self.draft_combine_dir = draft_combine_dir
 
     def scrap_draft(self, year:int):
-        # nba_api expects a string year via season_year_nullable
         draft = drafthistory.DraftHistory(season_year_nullable=str(year)) 
         return draft.get_data_frames()[0]
 
@@ -35,5 +37,5 @@ class Srapper:
             df.to_csv(self.draft_combine_dir / f"draft_combine_{year}.csv", index=False)
 
 if __name__ == "__main__":
-    scraper = Srapper()
-    scraper.scrap_all_draft_combine()
+    scraper = NBASrapper()
+    scraper.scrap_all_drafts()
