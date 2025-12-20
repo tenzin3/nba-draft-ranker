@@ -11,8 +11,8 @@ import pandas as pd
 
 # Try the sibling project layout first (../nba-draft-ranker/college); fall back to ../college.
 _BASE_DIR = Path(__file__).resolve().parent.parent
-_PREFERRED_COLLEGE = _BASE_DIR / "nba-draft-ranker" /"data" / "college"
-COLLEGE_ROOT = _PREFERRED_COLLEGE if _PREFERRED_COLLEGE.exists() else _BASE_DIR / "data" / "college"
+_PREFERRED_COLLEGE = _BASE_DIR / "nba-draft-ranker" /"data" / "raw" / "college_drafted"
+COLLEGE_ROOT = _PREFERRED_COLLEGE if _PREFERRED_COLLEGE.exists() else _BASE_DIR / "data" / "raw" / "college_drafted"
 
 
 def _flatten_columns(column_names: Iterable[str]) -> List[str]:
@@ -175,7 +175,7 @@ def main() -> None:
     if args.all_seasons:
         df = collect_all_rows(args.draft_years)
         missing = None
-        default_name = "college_stats_all_seasons.csv"
+        default_name = "all_seasons.csv"
     else:
         df, missing = collect_season_rows(args.season, args.draft_years)
         default_name = f"college_stats_{args.season.replace('/', '-')}.csv"
@@ -193,5 +193,5 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 
-    #Example: python extract/pipeline.py --all
+    #Example: python preprocess/pipeline.py --all
 
