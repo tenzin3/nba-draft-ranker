@@ -8,10 +8,16 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup, Comment
 from io import StringIO
-
+from pathlib import Path
 BASE = "https://www.basketball-reference.com"
 DRAFT_URL = "https://www.basketball-reference.com/draft/NBA_2025.html"
-OUT_DIR = "bbr_2025_players"
+
+DATA_DIR = Path("data")
+RAW_DATA_DIR = DATA_DIR / "raw"
+RAW_DATA_DIR.mkdir(exist_ok=True)
+
+OUT_DIR = RAW_DATA_DIR / "college_drafted"/ "2025"
+OUT_DIR.mkdir(exist_ok=True)
 
 HEADERS = {
     "User-Agent": (
@@ -272,5 +278,38 @@ def main():
     if results:
         print(f"\nExample player folder: {OUT_DIR}/{results[0]['slug']}/")
 
-if __name__ == "__main__":
+
+def scrape_draft_year(year: int):
+    """
+    Scrape a single draft class by year (e.g., 2000..2025) and save under
+    RAW_DATA_DIR/college/<year>/ using that year's Basketball-Reference draft page.
+    Reuses the existing main() flow by temporarily setting globals.
+    """
+    global DRAFT_URL, OUT_DIR
+    year = int(year)
+    DRAFT_URL = f"https://www.basketball-reference.com/draft/NBA_{year}.html"
+    OUT_DIR = RAW_DATA_DIR / "college" / f"{year}"
+    os.makedirs(OUT_DIR, exist_ok=True)
     main()
+
+
+def scrape_all_years(start_year: int = 2000, end_year: int = 2025):
+    """
+    Scrape all draft classes from start_year to end_year inclusive.
+    Each year is saved in a separate directory under RAW_DATA_DIR/college/<year>/.
+    """
+    start = int(start_year)
+    end = int(end_year)
+    if start > end:
+        start, end = end, start
+    for y in range(start, end + 1):
+        print(f"===== Scraping draft class {y} =====")
+        try:
+            scrape_draft_year(y)
+        except Exception as e:
+            print(f"Error scraping {y}: {e}")
+        # polite delay between years
+        time.sleep(5.0 + random.uniform(0.5, 1.5))
+
+if __name__ == "__main__":
+    scrape_all_years()
