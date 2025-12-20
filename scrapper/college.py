@@ -8,10 +8,16 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup, Comment
 from io import StringIO
-
+from pathlib import Path
 BASE = "https://www.basketball-reference.com"
 DRAFT_URL = "https://www.basketball-reference.com/draft/NBA_2025.html"
-OUT_DIR = "bbr_2025_players"
+
+DATA_DIR = Path("data")
+RAW_DATA_DIR = DATA_DIR / "raw"
+RAW_DATA_DIR.mkdir(exist_ok=True)
+
+OUT_DIR = RAW_DATA_DIR / "college"/"bbr_2025_players"
+OUT_DIR.mkdir(exist_ok=True)
 
 HEADERS = {
     "User-Agent": (
