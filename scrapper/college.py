@@ -16,7 +16,7 @@ DATA_DIR = Path("data")
 RAW_DATA_DIR = DATA_DIR / "raw"
 RAW_DATA_DIR.mkdir(exist_ok=True)
 
-OUT_DIR = RAW_DATA_DIR / "college"/"bbr_2025_players"
+OUT_DIR = RAW_DATA_DIR / "college"/ "2025"
 OUT_DIR.mkdir(exist_ok=True)
 
 HEADERS = {
