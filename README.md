@@ -51,138 +51,67 @@ Script: scrapper/college.py
 
 Running the script downloads per-player pages for the specified draft class, parses visible and commented tables, and writes per-player CSVs plus a _scrape_summary.json file.
 
-Example:
+# Season-Wise NBA Draft Ranking Using Collegiate Performance
 
-```bash
-python scrapper/college.py
-```
+This repository contains the code and data pipeline for **season-wise NBA Draft prediction** formulated as a **learning-to-rank (LTR)** problem. We build an end-to-end workflow that uses **final-season collegiate box-score statistics** to reconstruct NBA draft order within each draft class, and we additionally study a **drafted vs. undrafted** classification task.
 
-Output structure (example for 2025):
+The accompanying paper is titled:  
+**“Season-Wise NBA Draft Ranking Using Collegiate Performance” (December 2025)**  
+Authors: Tenzin Tsundue, Aryaman Sharma, Chuyang Ye (NYU Courant)
 
-```
-data/
-  college/
-    bbr_2025_players/
-      _scrape_summary.json
-      jamesle01/
-        jamesle01.html
-        <table_id>.csv
-        metadata.json
-      ...
-```
+---
 
-If you run scrapper/college.py from the repo root, move or symlink the resulting bbr_<YEAR>_players folder under data/college/ so that downstream steps can find it.
+## Project Overview
 
-## Scraping NBA Draft and Combine (nba_api)
+### Task A — Draft Order Prediction (Learning-to-Rank)
+We treat each **draft year as a ranking group** and learn a scoring function that orders prospects **within the same season**.  
+- **Train:** Draft years **2000–2024**  
+- **Test:** Held-out **2025** draft class (temporal split)
 
-Script: scrapper/nba.py
+We compare three ranking paradigms:
+- **Pointwise:** Ridge, Random Forest, ExtraTrees, HistGB, MLP (regression → sort)
+- **Pairwise:** RankSVM, Pairwise Logistic, RankNet (learn preferences from within-year pairs)
+- **Listwise:** ListNet, ListMLE, **LambdaMART** (optimize list-level ranking structure)
 
-- Draft history: Srapper.scrap_draft(year) returns a DataFrame; scrap_all_drafts() would write to drafts/draft_<year>.csv if used similarly to the combine flow.
-- Draft combine: Srapper.scrap_draft_combine(year); scrap_all_draft_combine() writes to draft_combine/draft_combine_<year>.csv.
+**Metrics (computed within a season):**
+- **Spearman’s rank correlation (ρ)**
+- **Pairwise accuracy** (fraction of correctly ordered player pairs)
 
-Example (combine):
+**Key Result (2025 test class):**
+- **LambdaMART** achieved the best overall ordering quality (highest pairwise accuracy) while maintaining strong rank correlation.
 
-```bash
-python scrapper/nba.py
-```
+### Task B — Draftability Prediction (Binary Classification)
+We also train a classifier to predict whether a prospect is **drafted (pick ≤ 60)** or **undrafted**, using the same college-only feature set.
+- Evaluated under both:
+  - **Natural (imbalanced) distribution**
+  - **Balanced (50/50 under-sampled) test set**
+- Observed **moderate ROC-AUC (~0.56–0.58)** and persistent difficulty identifying undrafted players, consistent with limited features and coverage gaps.
 
-Note: You may need to adapt years or call the class methods directly from a notebook/script based on your needs.
+---
 
-## Aggregating College Stats
+## Data Sources
 
-Script: extract/pipeline.py
+We integrate multiple public sources:
 
-This aggregates the per-player scraped tables into a single CSV. It detects data/college/bbr_<YEAR>_players folders and reads each player’s all_college_stats.csv (as produced by your scraping/processing flow) to build an analysis table.
+- **NBA Draft + Combine (nba.com via `nba_api`)**
+- **College stats (drafted players):** Basketball-Reference
+- **College stats (undrafted combine participants):** Sports-Reference
 
-- Single season example:
+> Note: **NBA Combine features are intentionally excluded from the main ranking feature set** due to high missingness and inconsistent protocols across years. The pipeline focuses on **final-season college box-score stats** for temporal consistency.
 
-```bash
-python extract/pipeline.py --season 1999-00
-```
+---
 
-Writes: data/college/college_stats_1999-00.csv and reports any players missing that season.
+## Feature Set (College-only)
 
-- All seasons for all scraped players:
+Final compact feature set used throughout:
+- `Totals_FG`, `Totals_FT`, `Totals_TRB`, `Totals_STL`, `Totals_BLK`,
+- `Totals_TOV`, `Totals_PF`, `Shooting_FG%`, `MP`, `Age`
 
-```bash
-python extract/pipeline.py --all
-```
+All features are **z-score standardized** using training-only statistics (per split) to avoid leakage.
 
-Writes: data/college/college_stats_all_seasons.csv.
+---
 
-Optional filters:
+## Repository Structure (Suggested)
 
-```bash
-python extract/pipeline.py --season 2019-20 --draft-years 2020 2021
-python extract/pipeline.py --all --draft-years 2000 2001 2002
-python extract/pipeline.py --all --output data/college/custom.csv
-```
+Your repo may look like this (adjust to match your actual folders):
 
-## Modeling: Pairwise and LambdaRank
-
-Script: ranker/pairwise/pairwise_rank.py
-
-Key features:
-
-- Pairwise baseline with an ensemble of Logistic, SGD, HistGradientBoosting, ExtraTrees, and optional LGBMClassifier.
-- LambdaRank (LightGBM) with per-season z-score, custom early stopping on mean Spearman per season, time-based validation on last-K seasons, and ensemble of configs.
-- Hybrid mode blends pairwise and LTR, with alpha tuned on held-out seasons.
-
-Expected input: a CSV with at least season and overall_pick columns plus numeric features. The script will infer known name columns (e.g., player_name) for nicer outputs when present.
-
-Common invocations (from the repo root):
-
-```bash
-# LTR with per-season z-scoring
-python -m ranker.pairwise.pairwise_rank \
-  --data outputs/nba_draft_final.csv \
-  --train_last_season 2015 \
-  --mode ltr \
-  --ltr_season_zscore
-
-# Pairwise baseline
-python -m ranker.pairwise.pairwise_rank \
-  --data outputs/nba_draft_final.csv \
-  --train_last_season 2015 \
-  --mode pairwise \
-  --max_pairs_per_season 30000
-
-# Hybrid with alpha tuned on last K seasons
-python -m ranker.pairwise.pairwise_rank \
-  --data outputs/nba_draft_final.csv \
-  --train_last_season 2015 \
-  --mode hybrid \
-  --ltr_season_zscore \
-  --alpha_val_last_k 2
-```
-
-Outputs include a season-wise ranking CSV (default outputs/pairwise_rankings.csv) with pred_score and pred_rank.
-
-### Feature engineering
-
-The script will:
-
-- Normalize columns and coalesce duplicates.
-- Create position_group dummies where available (from position or position_group).
-- Add per-minute rate features from totals (e.g., totals_trb_per_min) when mp is available.
-- Automatically drop text/object columns and low-coverage numeric columns.
-
-You can control the feature set via --feature_set (per_min, totals, or both).
-
-## Repro/Workflow Tips
-
-1) Scrape a draft class from Basketball-Reference with scrapper/college.py and place the output under data/college/bbr_<YEAR>_players.
-2) Optionally, use scrapper/nba.py to fetch draft history and combine data.
-3) Aggregate college stats with extract/pipeline.py (per season or all seasons).
-4) Prepare a modeling table (via notebooks or merges in your pipeline) that contains season, overall_pick, and your chosen features.
-5) Train/evaluate rankings with ranker/pairwise/pairwise_rank.py in ltr, pairwise, or hybrid mode.
-
-## Notes
-
-- Respect robots.txt and rate limits. scrapper/college.py includes polite randomized backoff and handles HTTP 429 Retry-After headers.
-- If LightGBM is not installed, LambdaRank and the optional LGBMClassifier components will be unavailable.
-- Large data/ directories are expected; outputs are written to outputs/ by default.
-
-## License
-
-For internal/research use. Review data source licenses and terms before redistribution.
