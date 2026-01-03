@@ -2,6 +2,14 @@
 
 End-to-end pipeline to scrape, preprocess, and rank NBA draft prospects using pairwise and learning-to-rank (LambdaRank) approaches. The project combines college stats scraped from Basketball-Reference with NBA draft and combine data from the nba_api to produce season-by-season prospect rankings and evaluation reports.
 
+
+## Project Report
+
+The full write-up is available here:
+[NBA_Draft_Ranker_Report.pdf](report/NBA_Draft_Ranker_Report.pdf)
+
+This PDF summarizes the methodology, experiments, and results.
+
 ## Repository Structure
 
 - scrapper/
